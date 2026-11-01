@@ -1,0 +1,223 @@
+{
+  "id": "g5-25",
+  "title": "25. Bị động 2 tân ngữ & Modal",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Bị động với hai tân ngữ",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · BỊ ĐỘNG VỚI HAI TÂN NGỮ</span></h2><p>Một số động từ như give và send có thể nhận cả người nhận lẫn vật được trao.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>They gave Lan a certificate. → Lan was given a certificate.<br>Có thể đưa vật lên đầu: A certificate was given to Lan.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The teacher gave me a book. → I was given a book.<br>The teacher gave me a book. → A book was given to me.</p><p><span class=\"highlight\">Lưu ý:</span> Khi đưa người nhận lên làm chủ ngữ, không cần to ngay trước người đó.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "To và for",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · TO VÀ FOR</span></h2><p>Khi vật được đưa lên làm chủ ngữ, giới từ trước người nhận phụ thuộc vào động từ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Give / send something to someone.<br>Buy / make something for someone.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>A letter was sent to Lan. → Một lá thư được gửi cho Lan.<br>A cake was made for Nam. → Một chiếc bánh được làm cho Nam.</p><p><span class=\"highlight\">Lưu ý:</span> Học cả cụm động từ và giới từ; to thường đánh dấu người nhận với send, còn for thường chỉ người hưởng lợi với buy.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Bị động với modal",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · BỊ ĐỘNG VỚI MODAL</span></h2><p>Động từ khuyết thiếu đứng trước be và phân từ quá khứ trong câu bị động.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>modal + be + V3/ed<br>Phủ định đặt not sau modal: cannot be sent, should not be ignored.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The report can be sent today. → Báo cáo có thể được gửi hôm nay.<br>The form should be checked. → Biểu mẫu nên được kiểm tra.</p><p><span class=\"highlight\">Lưu ý:</span> Sau can, should hoặc must dùng be nguyên mẫu, không dùng is hoặc was.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Lan {{was given::Quá khứ đơn bị động với người nhận số ít dùng was + V3 given.}} (give) a certificate at the ceremony yesterday."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "A certificate was given {{to::Với give hoặc send, dùng to trước người nhận khi vật là chủ ngữ bị động.}} (dạng bị động hoặc giới từ phù hợp với người nhận) the winner, who received it."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "A gift was bought {{for::Buy hoặc make something for someone dùng for trước người hưởng lợi.}} (dạng bị động hoặc giới từ phù hợp với người nhận) Lan as a present."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The report {{can be sent::Bị động với can có dạng can be + V3; sent là V3 của send.}} (can / send) today if it is ready."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The report {{should be checked::Bị động với should dùng should be + V3 checked.}} (should / check) before it is submitted."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The student ___ a prize at the ceremony yesterday. (( **was given** | was give | is given :: Quá khứ đơn bị động với người nhận số ít dùng was + V3 given. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "A letter was sent ___ the student, who received it. (( for | **to** | at :: Với give hoặc send, dùng to trước người nhận khi vật là chủ ngữ bị động. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "A cake was made ___ Nam as a birthday present. (( to | at | **for** :: Buy hoặc make something for someone dùng for trước người hưởng lợi. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The form ___ today if it is ready. (( **can be sent** | can sent | can is sent :: Bị động với can có dạng can be + V3; sent là V3 của send. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The homework ___ before it is submitted. (( should checked | **should be checked** | should is checked :: Bị động với should dùng should be + V3 checked. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ Lan | was | given | a | certificate | yesterday. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ A | letter | was | sent | to | the | student. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ A | gift | was | bought | for | Lan. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | report | can | be | sent | today. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | report | should | be | checked | first. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The winner {{was given::Was given là bị động quá khứ đơn với người nhận số ít.}} (give; bị động quá khứ với người nhận số ít) a certificate at the ceremony yesterday."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The students {{were given::Were given là bị động quá khứ đơn với chủ ngữ số nhiều.}} (give; bị động quá khứ với người nhận số nhiều) access to the archive last month."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "A certificate was given {{to::Given, sent hoặc presented to + người nhận là cấu trúc phù hợp.}} (giới từ trước người nhận sau give/send/present) the winner."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "A book was bought {{for::Bought, made hoặc purchased for + người hưởng lợi là cấu trúc phù hợp.}} (giới từ chỉ người hoặc tổ chức hưởng lợi) the student."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The report {{should be checked | ought to be checked::Should be checked và ought to be checked đều diễn tả lời khuyên ở bị động.}} (check; lời khuyên ở dạng bị động) before submission."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The researcher {{was given::Was given là bị động quá khứ đơn với người nhận số ít.}} (give; bị động quá khứ với người nhận số ít) a grant by the university last year."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The applicant ___ an award at the ceremony. (( was give | **was given** | were given :: Was given là bị động quá khứ đơn với người nhận số ít. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The volunteers {{were given::Were given là bị động quá khứ đơn với chủ ngữ số nhiều.}} (give; bị động quá khứ với người nhận số nhiều) instructions before the event yesterday."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The researchers ___ additional time last week. (( was given | **were given** | were give :: Were given là bị động quá khứ đơn với chủ ngữ số nhiều. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The final report was sent {{to::Given, sent hoặc presented to + người nhận là cấu trúc phù hợp.}} (giới từ trước người nhận sau give/send/present) the researchers."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The award was presented ___ the recipient. (( for to | **to** | at to :: Given, sent hoặc presented to + người nhận là cấu trúc phù hợp. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "A new display was made {{for::Bought, made hoặc purchased for + người hưởng lợi là cấu trúc phù hợp.}} (giới từ chỉ người hoặc tổ chức hưởng lợi) the museum."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Equipment was purchased ___ the laboratory. (( to for | **for** | at for :: Bought, made hoặc purchased for + người hưởng lợi là cấu trúc phù hợp. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The proposal {{should be checked | ought to be checked::Should be checked và ought to be checked đều diễn tả lời khuyên ở bị động.}} (check; lời khuyên ở dạng bị động) before the committee votes."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The results ___ before publication. (( should checked | **should be checked** | should be check :: Should be checked và ought to be checked đều diễn tả lời khuyên ở bị động. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The documents {{can be sent::Can be + V3 sent là bị động với động từ khuyết thiếu.}} (send; bị động với can) today if they are ready."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The form {{must be completed::Must be completed diễn tả nghĩa vụ dưới dạng bị động.}} (complete; nghĩa vụ ở dạng bị động) before the deadline; the rules require it."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The students {{were given::Were given là bị động quá khứ đơn với students số nhiều.}} (give; bị động quá khứ với người nhận số nhiều) an opportunity to ask questions yesterday."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university held an awards ceremony. The winner {{was given::Was given là bị động quá khứ đơn với winner số ít.}} (give; bị động quá khứ) a certificate. The same award was presented {{to::Presented to dùng trước người nhận.}} (giới từ trước người nhận) the winner by the director. All certificates {{should be checked | ought to be checked::Cả hai dạng đều diễn tả lời khuyên ở bị động.}} (check; lời khuyên bị động) before distribution."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A research group is preparing a report. The researchers {{were given::Were given là bị động quá khứ đơn với researchers số nhiều.}} (give; bị động quá khứ số nhiều) extra time last week. A summary was sent {{to::Sent to dùng trước người nhận.}} (giới từ trước người nhận) the panel. The final results {{should be checked | ought to be checked::Cả hai cấu trúc đều diễn tả lời khuyên ở bị động.}} (check; lời khuyên bị động) before publication."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A library is updating its collection. New books were purchased {{for::Purchased for dùng trước tổ chức hưởng lợi.}} (giới từ chỉ bên hưởng lợi) the library. A catalogue was sent {{to::Sent to dùng trước người nhận.}} (giới từ trước người nhận) the curator. The entries {{should be checked | ought to be checked::Should/ought to be checked diễn tả lời khuyên ở bị động.}} (check; lời khuyên bị động) before release."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researcher | was | given | a | grant | by | the | university | last | year. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | final | report | was | sent | to | the | members | of | the | panel. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ New | equipment | was | purchased | for | the | laboratory. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | results | should | be | checked | before | they | are | published. ~~"
+    }
+  ]
+}

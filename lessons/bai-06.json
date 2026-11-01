@@ -1,0 +1,223 @@
+{
+  "id": "g2-06",
+  "title": "06. Mạo từ A, An, The",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Phần 1: Mạo từ bất định A / An (Chưa xác định)",
+      "contentHTML": "<p><strong>A / An</strong> đứng trước <strong>danh từ đếm được số ít</strong> khi người nói nhắc đến đối tượng <strong>lần đầu tiên</strong> hoặc nói chung chung (một cái bất kỳ).</p><div class=\"rule-box\" style=\"background: rgba(52, 152, 219, 0.1); border-left: 4px solid #3498db; padding: 10px; margin: 10px 0;\"><strong style=\"color: #3498db;\">Quy tắc sống còn: Dựa vào ÂM ĐỌC (Phát âm), KHÔNG dựa vào chữ cái viết!</strong><br>• <strong>Dùng AN:</strong> Trước từ bắt đầu bằng <strong>nguyên âm đọc</strong> (u, e, o, a, i): <code>an apple, an elephant, an umbrella</code>.<br>• <strong>Dùng A:</strong> Trước từ bắt đầu bằng <strong>phụ âm đọc</strong>: <code>a book, a car</code>.<br><strong style=\"color: #e74c3c;\">Bẫy phát âm kinh điển:</strong><br>• Chữ <code>U</code> đọc là <code>/juː/</code> (phụ âm /j/) → Dùng <strong>A</strong>: <code><strong>a</strong> university, <strong>a</strong> uniform, <strong>a</strong> European country</code>.<br>• Chữ <code>H</code> câm (đọc âm nguyên âm đứng sau) → Dùng <strong>AN</strong>: <code><strong>an</strong> hour, <strong>an</strong> honest man, <strong>an</strong> heir</code>.</div>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Phần 2: Mạo từ xác định The (Đã biết rõ)",
+      "contentHTML": "<p><strong>The</strong> dùng cho cả danh từ số ít, số nhiều và không đếm được khi <strong>cả người nói lẫn người nghe đều biết rõ đối tượng đó là gì</strong>.</p><div class=\"rule-box\" style=\"background: rgba(46, 204, 113, 0.1); border-left: 4px solid #2ecc71; padding: 10px; margin: 10px 0;\"><strong style=\"color: #2ecc71;\">5 Trường hợp bắt buộc dùng THE:</strong><br>1. <strong>Nhắc lại lần thứ 2:</strong> <code>I saw <strong>a</strong> dog. <strong>The</strong> dog was chasing a cat.</code><br>2. <strong>Vật thể duy nhất:</strong> <code>the sun, the moon, the earth, the sky, the internet, the environment</code>.<br>3. <strong>So sánh nhất & Số thứ tự:</strong> <code>the best student, the first time, the only way</code>.<br>4. <strong>Nhạc cụ (sau play):</strong> <code>play the piano, play the guitar, play the violin</code>.<br>5. <strong>The + Tính từ (chỉ một nhóm người số nhiều):</strong> <code>the rich (người giàu), the poor, the elderly</code>.</div>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Phần 3: Không dùng mạo từ (Zero Article Ø)",
+      "contentHTML": "<p>Những trường hợp <strong>TUYỆT ĐỐI KHÔNG</strong> đặt <em>a, an, the</em> phía trước:</p><div class=\"rule-box\" style=\"background: rgba(231, 76, 60, 0.1); border-left: 4px solid #e74c3c; padding: 10px; margin: 10px 0;\"><strong style=\"color: #e74c3c;\">Khi nào để trống mạo từ (Ø)?</strong><br>• <strong>Danh từ số nhiều hoặc không đếm được nói chung chung:</strong> <code><strong>Ø</strong> Books are useful. / I love listening to <strong>Ø</strong> music.</code><br>• <strong>Các môn thể thao, môn học, bữa ăn, ngôn ngữ:</strong> <code>play <strong>Ø</strong> football, study <strong>Ø</strong> mathematics, have <strong>Ø</strong> breakfast, speak <strong>Ø</strong> English</code>.<br>• <strong>Tên quốc gia đơn lẻ, châu lục, thành phố, đường phố:</strong> <code>in Vietnam, in Asia, in Hanoi</code>.<br><em>(Ngoại lệ có 'The': Quốc gia dạng số nhiều hoặc liên bang như <strong>the</strong> USA, <strong>the</strong> UK, <strong>the</strong> Philippines, <strong>the</strong> Netherlands).</em></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The committee appointed {{an::Independent bắt đầu bằng âm nguyên âm /ɪ/; danh từ đếm được số ít auditor cần an.}} (mạo từ trước âm nguyên âm) independent auditor to examine the accounts."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The university opened {{a::New bắt đầu bằng phụ âm /n/; một trung tâm chưa xác định dùng a.}} (mạo từ không xác định) new research centre in the north of the city."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "After reviewing several proposals, the panel selected {{the::Cụm submitted by the local team xác định proposal cụ thể; dùng the.}} (mạo từ chỉ đối tượng đã xác định) proposal submitted by the local team."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The lecture lasted {{an::Hour có h câm và bắt đầu bằng âm nguyên âm; dùng an, không dựa vào chữ h.}} (mạo từ theo âm đầu) hour and covered three case studies."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Researchers interviewed {{a::European bắt đầu bằng âm /j/ như you, một âm phụ âm; dùng a.}} (mạo từ theo âm đầu) European specialist about coastal erosion."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Mr. Smith is known as ___ honest businessman in our community. (( a | **an** | the :: 'Honest' có chữ 'h' câm, đọc là /ˈɒnɪst/ bắt đầu bằng nguyên âm -> dùng 'an' ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Do you often play ___ badminton with your colleagues after work? (( a | the | **Ø (không dùng mạo từ)** :: Trước tên các môn thể thao (badminton, football, tennis...) ta KHÔNG dùng mạo từ ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "I bought a new shirt and a pair of shoes yesterday. ___ shirt was quite cheap. (( A | An | **The** :: Danh từ 'shirt' được nhắc lại lần thứ hai (đã xác định ở câu trước) -> dùng 'The' ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "We must take action immediately to protect ___ environment. (( a | an | **the** :: 'Environment' (môi trường tự nhiên quanh ta) là danh từ duy nhất/xác định -> luôn dùng 'the environment' ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "She went to ___ United Kingdom last year to pursue her master's degree. (( a | **the** | Ø (không dùng mạo từ) :: Các quốc gia có từ Kingdom, States, Republic hoặc dạng số nhiều phải dùng 'the' -> the United Kingdom ))"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The council commissioned {{an::Independent bắt đầu bằng âm nguyên âm; dùng an trước cụm danh từ số ít.}} (mạo từ không xác định theo âm đầu) independent review of the evidence."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The report identified {{a::Useful bắt đầu bằng âm /j/, một âm phụ âm, nên dùng a.}} (mạo từ không xác định theo âm đầu) useful approach to the problem."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Please read {{the::Mệnh đề that describes the methodology xác định chapter cụ thể.}} (mạo từ chỉ đối tượng đã xác định) chapter that describes the methodology."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The lecture began with {{an::Overview bắt đầu bằng âm nguyên âm; dùng an.}} (mạo từ trước âm nguyên âm) overview of the project."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The foundation appointed {{a::European bắt đầu bằng âm phụ âm /j/, nên dùng a.}} (mạo từ trước âm /j/) European adviser."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The research team interviewed ___ expert on urban planning. (( a | **an** | the an :: Expert bắt đầu bằng âm nguyên âm; danh từ số ít chưa xác định dùng an. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The panel approved ___ proposal submitted by the university. (( a an | **the** | an the :: Cụm submitted by the university xác định proposal; dùng the. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The museum purchased ___ historic map. (( an the | **a** | the a :: Historic thường có âm h được phát âm; dùng a trong cách phát âm thông dụng. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | committee | appointed | an | independent | expert | to | review | the | proposal. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | students | examined | the | report | published | by | the | local | council. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The museum acquired {{a::Unique bắt đầu bằng âm /j/, nên dùng a dù chữ cái đầu là nguyên âm.}} (mạo từ trước âm /j/) unique manuscript from a private collector."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{The::Cụm cited in the final paragraph xác định evidence cụ thể, nên dùng the.}} (mạo từ xác định cho bằng chứng cụ thể) evidence cited in the final paragraph comes from an independent study."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The team has scheduled {{an::Interview bắt đầu bằng âm nguyên âm; một cuộc phỏng vấn dùng an.}} (mạo từ trước âm nguyên âm) interview with each participant."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The survey was led by {{a::Historian thông thường phát âm h rõ; danh từ số ít chưa xác định dùng a.}} (mạo từ không xác định) historian who specialises in migration."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The findings were presented at ___ annual conference. (( a | **an** | the an :: Annual bắt đầu bằng âm nguyên âm /æ/; danh từ số ít chưa xác định cần an. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Please compare the draft with ___ version that was approved yesterday. (( a | **the** | an :: Mệnh đề that was approved yesterday xác định rõ version cần so sánh, nên dùng the. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The organisation hired ___ university graduate for the project. (( an | **a** | the an :: University bắt đầu bằng /juː/, một âm phụ âm; dùng a trước university graduate. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A research centre organised an exhibition. It invited {{an::Exhibition bắt đầu bằng âm nguyên âm; an dùng trước danh từ số ít chưa xác định.}} (mạo từ theo âm đầu) artist to design the entrance. {{The::Lần nhắc thứ hai nói về nghệ sĩ đã giới thiệu ở câu trước, nên dùng the.}} (mạo từ chỉ người vừa được nhắc đến) artist then created {{a::Large bắt đầu bằng phụ âm /l/; a dùng trước cụm danh từ đếm được số ít.}} (mạo từ không xác định) large display for visitors."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | museum | displayed | a | unique | collection | of | historical | manuscripts. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ An | independent | researcher | reviewed | the | evidence | before | the | conference. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The author provided {{an::Honest có h câm và bắt đầu bằng âm nguyên âm; dùng an.}} (mạo từ theo âm đầu) honest account of the difficulties."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The data were checked by {{an::Analyst bắt đầu bằng âm nguyên âm và được giới thiệu lần đầu; dùng an.}} (mạo từ không xác định theo âm đầu) analyst who had not participated in the study."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The committee rejected {{the::Mệnh đề that exceeded the budget xác định proposal cụ thể.}} (mạo từ xác định với mệnh đề bổ nghĩa) proposal that exceeded the budget."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The university invited {{a::One-time bắt đầu bằng âm /w/, là phụ âm, nên dùng a.}} (mạo từ trước âm /w/) one-time adviser to join the discussion."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The team created ___ archive for the collection. (( a | **an** | the a :: Archive bắt đầu bằng âm nguyên âm; dùng an trước danh từ số ít mới được giới thiệu. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The speaker referred to ___ report that the panel had published. (( a an | **the** | an the :: That the panel had published xác định report cụ thể, nên dùng the. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university organised an exhibition. It commissioned {{an::Independent bắt đầu bằng âm nguyên âm nên dùng an.}} (mạo từ theo âm đầu) independent designer. {{The::The nhắc lại designer đã được giới thiệu.}} (mạo từ cho người vừa được nhắc đến) designer created {{a::Unique bắt đầu bằng âm phụ âm /j/, nên dùng a.}} (mạo từ theo âm đầu) unique entrance display. Visitors praised the design."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A research institute held a public lecture. It invited {{a::University bắt đầu bằng âm /j/ nên dùng a.}} (mạo từ theo âm đầu) university lecturer to speak. The lecturer presented {{an::Overview bắt đầu bằng âm nguyên âm; dùng an.}} (mạo từ theo âm đầu) overview of the project. {{The::The nhắc lại project đã được giới thiệu trong câu trước.}} (mạo từ xác định) project focuses on local biodiversity."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | museum | invited | an | expert | to | examine | the | original | manuscript. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | committee | selected | the | proposal | that | met | every | requirement. ~~"
+    }
+  ]
+}

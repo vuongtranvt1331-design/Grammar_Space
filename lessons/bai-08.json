@@ -1,0 +1,223 @@
+{
+  "id": "g2-08",
+  "title": "08. Giới từ In, On, At",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Phần 1: Giới từ chỉ Thời gian (Time) — Quy tắc Tháp ngược",
+      "contentHTML": "<p>Để nhớ <strong>In, On, At</strong> khi chỉ thời gian, hãy hình dung từ <strong>khoảng rộng lớn</strong> thu hẹp dần về <strong>một điểm chính xác</strong>:</p><div class=\"rule-box\" style=\"background: rgba(52, 152, 219, 0.1); border-left: 4px solid #3498db; padding: 10px; margin: 10px 0;\"><strong style=\"color: #3498db;\">1. IN (Khoảng thời gian dài):</strong><br>• Thế kỷ, thập kỷ, năm, mùa, tháng, buổi trong ngày: <code>in 2026, in summer, in October, in the morning/afternoon/evening</code>.<br>• Khoảng thời gian trong tương lai: <code>in 10 minutes</code> <em>(sau 10 phút nữa)</em>.<br><br><strong style=\"color: #2ecc71;\">2. ON (Gắn với NGÀY cụ thể):</strong><br>• Thứ trong tuần, ngày tháng, ngày lễ có từ 'Day': <code>on Monday, on October 31st, on Christmas Day, on my birthday, on Sunday morning</code>.<br><br><strong style=\"color: #e74c3c;\">3. AT (Điểm thời gian chính xác & Dịp lễ):</strong><br>• Giờ giấc, thời khắc cụ thể: <code>at 7:30 AM, at noon, at midnight, at night, at the weekend, at Christmas</code> (dịp lễ không có chữ Day).</div>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Phần 2: Giới từ chỉ Nơi chốn (Place) — Không gian 3D, Bề mặt & Điểm",
+      "contentHTML": "<p>Tương tự thời gian, giới từ chỉ vị trí đi từ <strong>không gian bao quanh</strong> đến <strong>bề mặt tiếp xúc</strong> và <strong>tọa độ điểm</strong>:</p><div class=\"rule-box\" style=\"background: rgba(46, 204, 113, 0.1); border-left: 4px solid #2ecc71; padding: 10px; margin: 10px 0;\"><strong style=\"color: #2ecc71;\">Bản chất không gian:</strong><br>• <strong>IN (Bên trong không gian 3 chiều / Địa giới hành chính lớn):</strong> Quốc gia, thành phố, căn phòng, hộp kín, phương tiện không đi lại được bên trong (<code>in Vietnam, in Hanoi, in the kitchen, in a car, in a taxi</code>).<br>• <strong>ON (Tiếp xúc trên bề mặt / Đường thẳng / Tầng nhà / Phương tiện lớn):</strong> Mặt bàn, tường, tầng lầu, đường phố, phương tiện công cộng đi lại được (<code>on the table, on the wall, on the second floor, on a bus/train/plane, on the internet/TV</code>).<br>• <strong>AT (Tại một điểm xác định / Địa chỉ có số nhà / Sự kiện):</strong> <code>at the bus stop, at the door, at 25 Ba Trieu Street, at school/work/home, at the party</code>.</div>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Phần 3: Các Bẫy Giới từ Kinh điển trong Đề thi",
+      "contentHTML": "<p>Những trường hợp ngoại lệ cực kỳ dễ mất điểm nếu dịch từng chữ từ tiếng Việt:</p><div class=\"rule-box\" style=\"background: rgba(231, 76, 60, 0.1); border-left: 4px solid #e74c3c; padding: 10px; margin: 10px 0;\"><strong style=\"color: #e74c3c;\">3 Bẫy phải thuộc lòng:</strong><br>1. <strong>Buổi trong ngày nhưng có Thứ/Ngày đi kèm → Dùng ON:</strong><br>• Bình thường: <code><strong>in</strong> the morning</code>. Nhưng có ngày cụ thể: <code><strong>on</strong> Monday morning, <strong>on</strong> a cold winter night</code>.<br>2. <strong>Phương tiện giao thông:</strong><br>• <code><strong>in</strong> a car / <strong>in</strong> a taxi</code> (phải cúi người ngồi vào trong).<br>• <code><strong>on</strong> a bus / train / plane / ship / bike / motorbike</code> (bước lên sàn hoặc ngồi lên yên).<br>3. <strong>KHÔNG dùng In, On, At trước:</strong> <code>this, that, next, last, every, today, tomorrow, yesterday</code>.<br>❌ <em>Sai:</em> See you on next Monday.<br>✔ <em>Đúng:</em> See you <strong>next Monday</strong>.</div>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The research workshop begins {{at::At dùng trước giờ cụ thể như 9:30 a.m.}} (giới từ trước giờ cụ thể) 9:30 a.m. on Friday."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The first findings were published {{in::In dùng trước năm, tháng hoặc khoảng thời gian dài.}} (giới từ trước năm) 2022."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The review panel will meet {{on::On dùng với ngày cụ thể, kể cả Monday morning.}} (giới từ trước ngày kèm buổi) Monday morning."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The original documents are stored {{in::In chỉ vị trí bên trong một không gian hoặc tòa nhà.}} (giới từ chỉ bên trong) the archive building."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The announcement was posted {{on::On dùng khi thông báo nằm trên bề mặt bảng tin.}} (giới từ chỉ tiếp xúc bề mặt) the noticeboard."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The new shopping mall will officially open ___ November 15th. (( in | **on** | at :: Có ngày tháng cụ thể (November 15th) -> dùng 'on' (nếu chỉ có tháng November mới dùng 'in') ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Many wild animals hunt for food ___ night when the temperature drops. (( in | on | **at** :: Cụm cố định chỉ thời điểm ban đêm nói chung là 'at night' ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "I read an interesting article about artificial intelligence ___ the internet. (( in | **on** | at :: Với các nền tảng truyền thông kỹ thuật số (on the internet, on TV, on Facebook, on the radio) ta luôn dùng 'on' ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Are you going to visit your hometown ___ next weekend? (( in | on | **Ø (không dùng giới từ)** :: Trước các từ 'next, last, this, every' ta KHÔNG dùng giới từ in, on, at ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "There were so many passengers standing ___ the bus this morning. (( in | **on** | at :: Với phương tiện công cộng lớn có lối đi lại bên trong (bus, train, plane), ta dùng 'on' ))"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The presentation begins {{at::At dùng trước giờ cụ thể như 10 a.m.}} (giới từ trước giờ cụ thể) 10 a.m. tomorrow."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The study was completed {{in::In dùng trước tháng hoặc tháng kèm năm.}} (giới từ trước tháng và năm) March 2024."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The committee meets {{on::On dùng với ngày xác định như Tuesday afternoon.}} (giới từ trước thứ kèm buổi) Tuesday afternoon."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The documents are stored {{in::In chỉ vị trí bên trong tủ.}} (giới từ chỉ bên trong) the locked cabinet."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The schedule is displayed {{on::On chỉ vị trí trên bề mặt của bức tường.}} (giới từ chỉ bề mặt) the wall."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The opening ceremony will take place ___ noon. (( in | **at** | on :: At noon là cụm chỉ thời điểm cụ thể. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The university opened the centre ___ 2019. (( on | **in** | at :: In đi trước năm. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The training session is scheduled ___ 12 May. (( at | **on** | in :: On dùng trước ngày cụ thể. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | seminar | starts | at | nine | on | Friday | morning. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | original | documents | are | kept | in | the | archive | building. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Representatives will gather {{at::At chỉ một điểm cụ thể: the entrance.}} (giới từ chỉ điểm hẹn) the entrance before the tour begins."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The survey was conducted {{in::In đi với mùa, kể cả khi mùa được xác định bằng năm.}} (giới từ trước mùa) the winter of 2023."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The final debate is scheduled {{on::On dùng trước ngày cụ thể như 15 June.}} (giới từ trước ngày tháng) 15 June."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The researchers worked {{at::At night là cụm thông dụng; không dùng in night trong nghĩa này.}} (giới từ trong cụm thời gian cố định) night to finish the assessment."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The committee met ___ the afternoon of 12 May. (( in | **on** | at :: Khi afternoon được xác định bằng một ngày cụ thể, dùng on the afternoon of 12 May. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The specimens were kept ___ a locked cabinet. (( on | **in** | at :: In diễn tả các mẫu ở bên trong tủ khóa. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The keynote address will start ___ noon. (( on | **at** | in :: At noon là cụm chỉ một thời điểm cụ thể. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university is hosting a conference {{in::In dùng trước năm.}} (giới từ trước năm) 2027. The first session begins {{at::At dùng trước giờ cụ thể.}} (giới từ trước giờ) 8:30 a.m. {{on::On dùng với ngày kèm buổi như Thursday morning.}} (giới từ trước ngày kèm buổi) Thursday morning. The programme is displayed {{on::On diễn tả thông báo nằm trên bề mặt của bảng.}} (giới từ chỉ bề mặt) the noticeboard near the entrance."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | conference | begins | at | noon | on | the | first | Monday | in | July. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | original | documents | are | stored | in | the | archive | building. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The researchers gathered {{at::At chỉ một điểm cụ thể như the entrance.}} (giới từ chỉ điểm gặp cụ thể) the entrance to the site."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The final interviews were conducted {{on::On dùng khi afternoon được xác định bằng một ngày cụ thể.}} (giới từ trước buổi gắn với ngày cụ thể) the afternoon of 15 June."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The equipment must remain {{in::In chỉ vị trí bên trong laboratory.}} (giới từ chỉ bên trong) the laboratory during testing."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The team continued its observations {{at::At night là cụm chỉ thời gian thông dụng.}} (giới từ trong cụm cố định) night."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The survey began ___ the winter of 2023. (( on | **in** | at :: In dùng trước mùa, kể cả khi được xác định bằng năm. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The notice was displayed ___ the noticeboard. (( in | **on** | at :: On chỉ vị trí trên bề mặt bảng thông báo. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A conference will be held {{in::In dùng trước tháng và năm.}} (giới từ trước tháng) September 2027. The first session begins {{at::At dùng trước giờ cụ thể.}} (giới từ trước giờ) 9:00 a.m. {{on::On dùng với thứ kèm buổi.}} (giới từ trước ngày kèm buổi) Monday morning. The full timetable is available online."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A research team visited a historic building. The original plans were stored {{in::In chỉ vị trí bên trong một chiếc hộp.}} (giới từ chỉ bên trong) a wooden box. A label lay {{on::On chỉ vị trí trên bề mặt của nắp hộp.}} (giới từ chỉ bề mặt) the lid, and a second note was displayed {{on::On chỉ vị trí trên bề mặt tường.}} (giới từ chỉ bề mặt) the wall. The team photographed both notes."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | final | meeting | will | take | place | at | noon | on | Monday. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | research | team | stored | the | samples | in | a | locked | cabinet. ~~"
+    }
+  ]
+}

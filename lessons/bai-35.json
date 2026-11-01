@@ -1,0 +1,223 @@
+{
+  "id": "g8-35",
+  "title": "35. Câu điều kiện loại 0 & 1",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Điều kiện loại 0",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · ĐIỀU KIỆN LOẠI 0</span></h2><p>Dùng loại 0 cho sự thật chung hoặc kết quả thường xảy ra khi điều kiện được đáp ứng.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>If + hiện tại đơn, hiện tại đơn.<br>If water reaches 100°C at sea level, it boils.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>If you heat ice, it melts. → Nếu làm nóng đá, đá tan.<br>If plants do not get water, they die. → Nếu cây không được tưới, cây chết.</p><p><span class=\"highlight\">Lưu ý:</span> Loại 0 nói về quy luật hoặc thói quen chung; nó không dự đoán riêng một lần trong tương lai.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Điều kiện loại 1",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · ĐIỀU KIỆN LOẠI 1</span></h2><p>Dùng loại 1 cho một điều kiện có thể xảy ra ở hiện tại hoặc tương lai và kết quả dự kiến.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>If + hiện tại đơn, will + V nguyên mẫu.<br>Có thể đặt mệnh đề if sau mệnh đề chính.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>If it rains, we will stay home. → Nếu trời mưa, chúng tôi sẽ ở nhà.<br>I will call you if I need help. → Tôi sẽ gọi nếu cần giúp đỡ.</p><p><span class=\"highlight\">Lưu ý:</span> Trong mẫu cơ bản, không dùng will để tạo thì tương lai ngay sau if: If it rains, we will stay home.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Unless và dấu câu",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · UNLESS VÀ DẤU CÂU</span></h2><p>Unless thường mang nghĩa if ... not trong điều kiện.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Unless it rains, we will go. ≈ If it does not rain, we will go.<br>Đặt dấu phẩy sau mệnh đề if hoặc unless khi mệnh đề đó đứng đầu.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>We will leave unless it rains. → Chúng tôi sẽ đi trừ khi trời mưa.<br>If the bus is late, I will take a taxi. → Nếu xe buýt trễ, tôi sẽ đi taxi.</p><p><span class=\"highlight\">Lưu ý:</span> Không thêm not một cách máy móc sau unless; hãy kiểm tra nghĩa phủ định đã được thể hiện chưa.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If water reaches 100°C at sea level, it {{boils::Điều kiện loại 0 nói về sự thật chung; chủ ngữ it dùng hiện tại đơn boils.}} (boil)."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If it rains tomorrow, we {{will stay::Điều kiện loại 1 dùng if + hiện tại đơn và will + V nguyên mẫu trong mệnh đề chính.}} (stay; kết quả có thể xảy ra trong tương lai) home."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If it {{rains::Trong mệnh đề if của mẫu điều kiện loại 1, dùng hiện tại đơn; it đi với rains.}} (rain) tomorrow, we will stay home."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "We will leave {{unless::Unless it rains nghĩa là nếu trời không mưa; mưa là điều kiện khiến chuyến đi bị hủy.}} (dạng động từ hoặc từ nối phù hợp với điều kiện) it rains; if it rains, we will stay."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "I will call you if I {{need::Sau if trong mẫu cơ bản dùng hiện tại đơn; I và we đi với need nguyên mẫu.}} (dạng động từ hoặc từ nối phù hợp với điều kiện) help."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "At sea level, if water reaches 100°C, it ___. (( boil | **boils** | will boiling :: Điều kiện loại 0 nói về sự thật chung; chủ ngữ it dùng hiện tại đơn boils. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "If the storm arrives tomorrow, we ___ home. (( **will stay** | will staying | stays :: Điều kiện loại 1 dùng if + hiện tại đơn và will + V nguyên mẫu trong mệnh đề chính. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "If it ___ this afternoon, we will cancel the picnic. (( will rain | **rains** | raining :: Trong mệnh đề if của mẫu điều kiện loại 1, dùng hiện tại đơn; it đi với rains. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "We will go hiking ___ it rains; rain will cancel the trip. (( because | **unless** | although :: Unless it rains nghĩa là nếu trời không mưa; mưa là điều kiện khiến chuyến đi bị hủy. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "We will ask the teacher if we ___ help. (( needs | **need** | will needing :: Sau if trong mẫu cơ bản dùng hiện tại đơn; I và we đi với need nguyên mẫu. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ If | water | reaches | 100°C | at | sea | level, | it | boils. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ If | it | rains, | we | will | stay | home. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ If | it | rains, | we | will | cancel | the | picnic. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ We | will | leave | unless | it | rains. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ I | will | call | you | if | I | need | help. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "At standard pressure, if water reaches 100°C, it {{boils::Điều kiện loại 0 diễn tả sự thật chung; water số ít dùng boils.}} (động từ hiện tại đơn chỉ sự thật chung)."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If the storm arrives tomorrow, the team {{will cancel::Điều kiện loại 1 thường dùng will + nguyên mẫu trong mệnh đề chính.}} (kết quả có thể xảy ra trong tương lai) the visit."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If it {{rains::Trong mệnh đề if của điều kiện loại 1, it dùng hiện tại đơn rains.}} (hiện tại đơn trong mệnh đề if) tomorrow, the team will stay indoors."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The team will travel {{unless::Unless nghĩa là if not, giới thiệu điều kiện khiến việc dự kiến không xảy ra.}} (liên từ nghĩa là nếu không) the weather is unsafe; unsafe weather will cancel the trip."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If the panel approves the plan, the director {{will notify::Điều kiện loại 1 thường dùng will + động từ nguyên mẫu trong mệnh đề chính.}} (kết quả tương lai với will) the team."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "At sea level, water {{boils::Điều kiện loại 0 diễn tả sự thật chung; water số ít dùng boils.}} (động từ hiện tại đơn chỉ sự thật chung) if it reaches 100°C."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "At standard pressure, water ___ when it reaches 100°C. (( boiling | **boils** | will boiling :: Điều kiện loại 0 diễn tả sự thật chung; water số ít dùng boils. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If the weather remains unsafe, the organisers {{will cancel::Điều kiện loại 1 thường dùng will + nguyên mẫu trong mệnh đề chính.}} (kết quả có thể xảy ra trong tương lai) the trip."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "If the river rises tomorrow, the team ___ the field trip. (( will cancelling | **will cancel** | will cancels :: Điều kiện loại 1 thường dùng will + nguyên mẫu trong mệnh đề chính. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If it {{rains::Trong mệnh đề if của điều kiện loại 1, it dùng hiện tại đơn rains.}} (hiện tại đơn trong mệnh đề if) this afternoon, the organisers will cancel the event."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The field trip will be delayed if it ___ tomorrow. (( will raining | **rains** | rain to :: Trong mệnh đề if của điều kiện loại 1, it dùng hiện tại đơn rains. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The panel will meet {{unless::Unless nghĩa là if not, giới thiệu điều kiện khiến việc dự kiến không xảy ra.}} (liên từ nghĩa là nếu không) the director is unavailable; absence will cancel it."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The event will proceed ___ the road is closed; closure will cancel it. (( because of | **unless** | unless of :: Unless nghĩa là if not, giới thiệu điều kiện khiến việc dự kiến không xảy ra. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If the application is accepted, the office {{will notify::Điều kiện loại 1 thường dùng will + động từ nguyên mẫu trong mệnh đề chính.}} (kết quả tương lai với will) the students."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "If the evidence is sufficient, the committee ___ the applicant. (( will notifying | **will notify** | will notified :: Điều kiện loại 1 thường dùng will + động từ nguyên mẫu trong mệnh đề chính. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If the results are incomplete, the researchers {{will repeat::If + hiện tại đơn, mệnh đề chính thường dùng will + nguyên mẫu.}} (repeat; kết quả có thể xảy ra) the test."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The programme will continue {{unless::Unless funding is withdrawn nghĩa là nếu nguồn tài trợ không bị rút.}} (liên từ nghĩa là nếu không) funding is withdrawn; withdrawal will stop it."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If the temperature falls below zero, water {{freezes::Điều kiện loại 0 dùng hiện tại đơn để diễn tả sự thật chung.}} (freeze; sự thật chung)."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A team is planning a field visit. If the weather improves, the researchers {{will travel::Điều kiện loại 1 dùng will + nguyên mẫu trong mệnh đề chính.}} (travel; kết quả tương lai) tomorrow. If it {{rains::Trong mệnh đề if của loại 1, it dùng hiện tại đơn rains.}} (rain; điều kiện tương lai), the team will postpone the trip. The visit will proceed {{unless::Unless nghĩa là nếu không; thời tiết nguy hiểm sẽ hủy chuyến đi.}} (liên từ nghĩa là nếu không) conditions become unsafe."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university is reviewing applications. If the committee approves the proposal, the office {{will notify::Will + nguyên mẫu diễn tả kết quả tương lai.}} (notify; kết quả tương lai) the applicant. The panel will meet {{unless::Unless nghĩa là nếu không; sự vắng mặt khiến cuộc họp bị hủy.}} (liên từ nghĩa là nếu không) the director is unavailable. If the evidence is incomplete, the researchers {{will repeat::Will repeat diễn tả kết quả có thể xảy ra.}} (repeat; kết quả tương lai) the test."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A laboratory follows a safety procedure. If water reaches 100°C at standard pressure, it {{boils::Điều kiện loại 0 dùng hiện tại đơn cho sự thật chung.}} (boil; sự thật chung). If the temperature drops below zero, water {{freezes::Điều kiện loại 0 dùng hiện tại đơn cho sự thật chung.}} (freeze; sự thật chung). If the equipment fails tomorrow, the team {{will cancel::Điều kiện loại 1 dùng will + nguyên mẫu cho kết quả tương lai.}} (cancel; kết quả tương lai) the test."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ If | the | weather | improves, | the | researchers | will | visit | the | site. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | team | will | travel | unless | the | weather | is | unsafe. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ If | the | panel | approves | the | plan, | the | director | will | notify | the | team. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ If | water | reaches | one | hundred | degrees | Celsius | at | standard | pressure, | it | boils. ~~"
+    }
+  ]
+}

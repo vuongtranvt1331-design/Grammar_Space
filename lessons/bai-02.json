@@ -1,0 +1,223 @@
+{
+  "id": "g1-02",
+  "title": "02. Đại từ & Sở hữu",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Phần 1: Đại từ Nhân xưng (Chủ ngữ vs. Tân ngữ)",
+      "contentHTML": "<p><strong>Đại từ nhân xưng (Personal Pronouns)</strong> dùng để thay thế cho danh từ chỉ người hoặc vật nhằm tránh lặp từ trong câu.</p><div class=\"rule-box\" style=\"background: rgba(52, 152, 219, 0.1); border-left: 4px solid #3498db; padding: 10px; margin: 10px 0;\"><strong style=\"color: #3498db;\">Phân biệt vị trí cốt lõi:</strong><br>• <strong>Đại từ Chủ ngữ (Subject Pronouns):</strong> <code>I, You, We, They, He, She, It</code> → Đứng <strong>đầu câu</strong> hoặc <strong>trước động từ</strong> làm chủ thể hành động.<br>• <strong>Đại từ Tân ngữ (Object Pronouns):</strong> <code>me, you, us, them, him, her, it</code> → Đứng <strong>sau động từ</strong> hoặc <strong>sau giới từ</strong> (for, to, with, at...).</div><p><em>Ví dụ:</em> <strong>She</strong> called <strong>me</strong> yesterday, and <strong>I</strong> gave <strong>her</strong> the documents.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Phần 2: Tính từ Sở hữu vs. Đại từ Sở hữu",
+      "contentHTML": "<p>Cặp khái niệm cực kỳ dễ nhầm lẫn khi viết câu:</p><div class=\"rule-box\" style=\"background: rgba(46, 204, 113, 0.1); border-left: 4px solid #2ecc71; padding: 10px; margin: 10px 0;\"><strong style=\"color: #2ecc71;\">Công thức vàng cần nhớ:</strong><br>• <strong>Tính từ sở hữu (Possessive Adjectives):</strong> <code>my, your, our, their, his, her, its</code> → <strong>BẮT BUỘC phải có Danh từ theo sau</strong> (<code>my book, their house</code>).<br>• <strong>Đại từ sở hữu (Possessive Pronouns):</strong> <code>mine, yours, ours, theirs, his, hers</code> → <strong>Đứng độc lập một mình</strong>, thay thế cho cả cụm <em>[Tính từ sở hữu + Danh từ]</em>.</div><p><em>Ví dụ:</em> This is <strong>my laptop</strong>. That one over there is <strong>yours</strong> <em>(= your laptop)</em>.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Phần 3: Đại từ Phản thân & Các bẫy thường gặp",
+      "contentHTML": "<p><strong>Đại từ phản thân (Reflexive Pronouns)</strong> diễn tả hành động quay ngược lại chính chủ thể hoặc dùng để nhấn mạnh (chính ai đó tự làm):</p><div class=\"rule-box\" style=\"background: rgba(231, 76, 60, 0.1); border-left: 4px solid #e74c3c; padding: 10px; margin: 10px 0;\"><strong style=\"color: #e74c3c;\">Hệ thống từ & Bẫy chính tả:</strong><br>• Số ít (-self): <code>myself, yourself, himself, herself, itself</code>.<br>• Số nhiều (-selves): <code>ourselves, yourselves, themselves</code>.<br>• <strong>Bẫy kinh điển:</strong> Phân biệt <code>its</code> (tính từ sở hữu của vật) và <code>it's</code> (= it is / it has). Đại từ sở hữu và tính từ sở hữu KHÔNG BAO GIỜ có dấu phẩy trên!</div><p><em>Ví dụ:</em> He cut <strong>himself</strong> while cooking. / The cat is licking <strong>its</strong> paws.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The project coordinator contacted Professor Lin and asked {{her::Professor Lin được xác định là nữ trong ngữ cảnh; sau động từ asked cần đại từ tân ngữ her.}} (đại từ tân ngữ chỉ giáo sư nữ) to review the proposal. Professor Lin is a woman."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The committee submitted {{its::Committee là tổ chức số ít; trước danh từ recommendations cần tính từ sở hữu its, không có dấu nháy.}} (sở hữu của tổ chức số ít) recommendations before the deadline."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The internship is ours, but the research grant is {{theirs::Đứng độc lập sau is và thay thế their research grant nên dùng đại từ sở hữu theirs.}} (đại từ sở hữu thay cho suất tài trợ của họ)."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The volunteers organised the entire exhibition by {{themselves::By themselves chỉ nhóm volunteers tự làm; đại từ phản thân số nhiều kết thúc bằng -selves.}} (đại từ phản thân chỉ các tình nguyện viên)."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The funding body sent the research team an invitation and asked {{us::Sau asked cần đại từ tân ngữ; us thay cho the research team khi người nói thuộc nhóm đó.}} (đại từ tân ngữ chỉ nhóm có người nói) to respond. I am a member of that team."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The students completed the fieldwork; the final decision was ___. (( their | **theirs** | them :: Sau was cần đại từ sở hữu đứng độc lập thay cho their decision; their cần danh từ theo sau. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The museum updated ___ website after the collection was digitised. (( it's | **its** | it :: Trước danh từ website dùng tính từ sở hữu its; it's là viết tắt của it is hoặc it has. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Between the director and ___, the proposal requires further review. (( I | **me** | mine :: Sau giới từ between, dùng đại từ tân ngữ me thay vì đại từ chủ ngữ I. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The two researchers introduced ___ to the visiting panel. (( theirselves | themself | **themselves** :: The two researchers là chủ ngữ số nhiều và tự giới thiệu chính mình; đại từ phản thân là themselves. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Our findings differ from ___ published by the earlier team. (( their | **theirs** | them :: Theirs thay cho their findings và đứng độc lập; their phải đi trước danh từ. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The panel interviewed the volunteers and recorded {{their::Their đứng trước experiences và chỉ những trải nghiệm thuộc nhóm volunteers.}} (tính từ sở hữu của nhóm tình nguyện viên) experiences."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Dr Mai, a woman, presented the findings; the committee thanked {{her | them::Her chỉ người nữ; them cũng có thể là đại từ số ít trung tính, đều dùng sau thanked.}} (đại từ tân ngữ thay cho Dr Mai)."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "These manuscripts belong to the historians; the documents are {{theirs::Theirs đứng độc lập sau are và thay cho their documents.}} (đại từ sở hữu thay cho tài liệu của họ)."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers reviewed the calculations {{themselves::Themselves nhấn mạnh chính researchers, chủ ngữ số nhiều, đã kiểm tra.}} (đại từ phản thân nhấn mạnh nhóm nghiên cứu)."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The institute revised {{its::Its bổ nghĩa cho policy và chỉ sự sở hữu của institute, không có dấu nháy.}} (tính từ sở hữu của tổ chức số ít) policy after the consultation."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The organisers invited the speakers to submit ___ biographies. (( theirs | **their** | them :: Their là tính từ sở hữu đứng trước danh từ biographies. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The final decision belongs to the committee; it is ___. (( their | **theirs** | them :: Theirs đứng độc lập, thay cho their decision; their cần danh từ theo sau. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The visiting lecturer thanked the student assistants and spoke with ___. (( they | **them** | their :: Sau giới từ with cần đại từ tân ngữ them để thay cho assistants. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | reviewed | their | findings | before | presenting | them | to | the | panel. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | volunteers | organised | the | entire | exhibition | by | themselves. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The original proposal was written by Dr Hoa, a woman; the final version was edited by {{her::Sau giới từ by cần đại từ tân ngữ her để thay cho Dr Hoa.}} (đại từ tân ngữ thay cho Dr Hoa)."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Each laboratory must verify {{its::Each laboratory là đơn vị số ít; its bổ nghĩa cho danh từ equipment.}} (sở hữu của phòng thí nghiệm số ít) equipment before the inspection."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The research assistants checked the calculations {{themselves::Themselves nhấn mạnh chính các trợ lý, chủ ngữ số nhiều, đã kiểm tra phép tính.}} (đại từ phản thân nhấn mạnh nhóm trợ lý), rather than delegating the task."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "That desk belongs to you; the one near the window is {{mine::Mine là đại từ sở hữu đứng độc lập, thay cho my desk.}} (đại từ sở hữu chỉ chiếc bàn của người nói)."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The lecturer asked the students to compare their conclusions with ___. (( her | **hers** | she :: Hers là đại từ sở hữu đứng độc lập, thay cho her conclusions; her cần danh từ theo sau. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Neither the principal nor the teachers could complete the audit by ___. (( itself | **themselves** | their :: The teachers là nhóm người làm hành động; by themselves diễn tả họ tự hoàn thành, không có người giúp. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The policy affects residents, and the council has invited ___ to share their views. (( they | **them** | their :: Sau động từ invited cần đại từ tân ngữ them, thay cho residents. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "Dr Lan, a woman, leads an urban-planning team. The mayor asked {{her::Sau asked dùng đại từ tân ngữ her thay cho Dr Lan, người được xác định là nữ.}} (đại từ tân ngữ thay cho Dr Lan) to present the findings. The team revised {{its | their::Its coi team là một đơn vị; their cũng có thể coi team là tập thể thành viên, nhất là trong tiếng Anh Anh.}} (tính từ sở hữu chỉ nhóm) recommendations before the meeting. The final proposal was {{theirs::Theirs đứng độc lập sau was và thay cho their final proposal.}} (đại từ sở hữu thay cho đề xuất của nhóm), and the researchers submitted it {{themselves::Themselves nhấn mạnh chính các nhà nghiên cứu, một chủ ngữ số nhiều, đã nộp đề xuất.}} (đại từ phản thân nhấn mạnh các nhà nghiên cứu)."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | presented | their | findings | to | the | committee. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | final | decision | was | theirs, | not | ours. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The foundation promised the applicants that it would notify {{them::Notify cần tân ngữ; them thay cho applicants số nhiều.}} (đại từ tân ngữ thay cho các ứng viên) by Friday."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The original findings are ours; the revised conclusions are {{theirs::Theirs đứng độc lập và thay cho their revised conclusions.}} (đại từ sở hữu chỉ kết luận của nhóm kia)."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The algorithm checks {{its::Its own output là đầu ra của thuật toán; its không có dấu nháy.}} (tính từ sở hữu chỉ thuật toán số ít) own output before producing the final report."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The members of the panel prepared the summary {{themselves::Themselves nhấn mạnh các thành viên số nhiều tự làm, không có hỗ trợ bên ngoài.}} (đại từ phản thân nhấn mạnh các thành viên), without outside assistance."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The two organisations compared our proposal with ___. (( their | **theirs** | them :: Theirs là đại từ sở hữu đứng độc lập, thay cho their proposal. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The director introduced Dr Hoa and then invited ___ to speak. Dr Hoa is a woman. (( she | **her** | hers :: Sau invited cần đại từ tân ngữ her; she là chủ ngữ và hers là đại từ sở hữu. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A research team is preparing a public report. The director asked the researchers to explain {{their::Their đứng trước danh từ methods và chỉ phương pháp của researchers.}} (tính từ sở hữu chỉ nhóm nghiên cứu) methods. The editor thanked {{them::Them là đại từ tân ngữ thay cho researchers, dùng sau thanked.}} (đại từ tân ngữ chỉ nhóm nghiên cứu) for the clear summary. The final conclusions were {{theirs::Theirs đứng độc lập và thay cho their conclusions.}} (đại từ sở hữu thay cho kết luận của nhóm)."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A library received a donation from Dr Lan, a woman. The curator contacted {{her | them::Her chỉ người nữ; them cũng có thể dùng làm đại từ số ít trung tính sau contacted.}} (đại từ tân ngữ thay cho Dr Lan) to arrange delivery. The library added the books to {{its::Its là tính từ sở hữu chỉ library số ít và đứng trước collection.}} (tính từ sở hữu chỉ thư viện) collection. The archivists catalogued the documents {{themselves::Themselves nhấn mạnh chính các archivists số nhiều tự lập danh mục.}} (đại từ phản thân nhấn mạnh các nhân viên)."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | organisation | published | its | recommendations | after | consulting | the | local | residents. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | final | conclusions | were | theirs, | although | the | original | proposal | was | ours. ~~"
+    }
+  ]
+}

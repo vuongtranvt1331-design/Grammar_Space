@@ -1,0 +1,223 @@
+{
+  "id": "g3-18",
+  "title": "18. Tương lai hoàn thành",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Tương lai hoàn thành",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · TƯƠNG LAI HOÀN THÀNH</span></h2><p>Thì này nhìn về một mốc tương lai và nhấn mạnh việc đã hoàn thành trước hoặc vào mốc đó.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Khẳng định: S + will have + V3/ed.<br>Các cụm by Friday, by 2030, by the time... thường giới thiệu hạn mốc.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>By Friday, I will have finished the report. → Đến thứ Sáu tôi sẽ hoàn tất báo cáo.<br>By 2030, the city will have built a new bridge. → Đến năm 2030 thành phố sẽ xây xong cầu.</p><p><span class=\"highlight\">Lưu ý:</span> By nêu hạn mốc; nó không nhất thiết cho biết chính xác lúc việc hoàn tất.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Phủ định và câu hỏi",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · PHỦ ĐỊNH VÀ CÂU HỎI</span></h2><p>Đặt not sau will trong câu phủ định và đảo will lên đầu câu hỏi.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Phủ định: S + will not / won’t have + V3/ed.<br>Câu hỏi: Will + S + have + V3/ed?</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>We will not have completed the work by noon. → Đến trưa chúng tôi sẽ chưa hoàn thành.<br>Will they have arrived by six? → Họ sẽ đến trước sáu giờ chứ?</p><p><span class=\"highlight\">Lưu ý:</span> Sau have cần phân từ quá khứ: finished, written, arrived; không dùng động từ nguyên mẫu nếu dạng V3 khác.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Phân biệt với tương lai đơn",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · PHÂN BIỆT VỚI TƯƠNG LAI ĐƠN</span></h2><p>Tương lai đơn dự đoán việc xảy ra; tương lai hoàn thành đặt kết quả vào trước một mốc tương lai.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>She will finish tomorrow: dự đoán việc hoàn thành ngày mai.<br>She will have finished by tomorrow: kết quả được nhìn từ hạn mốc ngày mai.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>By the time you arrive, I will have cooked dinner. → Khi bạn đến, tôi sẽ nấu xong bữa tối.<br>By next month, they will have written three chapters. → Đến tháng sau họ sẽ viết xong ba chương.</p><p><span class=\"highlight\">Lưu ý:</span> Sau by the time trong mệnh đề thời gian tương lai, thường dùng hiện tại đơn: by the time you arrive.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "By Friday, the panel {{will have completed::Will have + completed diễn tả việc hoàn tất trước hoặc vào mốc Friday trong tương lai.}} (complete; hoàn tất trước hạn tương lai) its review of the proposals."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "By 2030, the city {{will have built::Will have + built, phân từ của build, chỉ thành quả trước mốc 2030.}} (build; hoàn tất trước mốc tương lai) three new transport corridors."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers {{will have analysed | will have analyzed::Will have + V3 diễn tả hoàn tất trước hội nghị; analysed và analyzed là hai cách viết hợp lệ.}} (analyse; hoàn tất trước hội nghị) the results by the time the conference begins."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "By next month, the museum {{will have published::By next month nêu hạn mốc tương lai; dùng will have published.}} (publish; hoàn tất trước hạn) the catalogue."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "By the end of the year, the collection {{will have grown::Will have grown diễn tả sự tăng trưởng tính đến cuối năm; grown là V3 của grow.}} (grow; thay đổi tính đến mốc tương lai) considerably."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "By Friday, the team ___ the report. (( will finish | **will have finished** | has finished :: By Friday là hạn mốc tương lai; will have + finished nhấn mạnh báo cáo sẽ hoàn tất trước hoặc vào mốc đó. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "By next month, they ___ three chapters. (( will have write | will wrote | **will have written** :: Tương lai hoàn thành dùng will have + V3; written là phân từ quá khứ của write. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "By noon, we ___ the work because it will take until evening. (( **will not have finished** | will not finished | do not have finished :: Will not have + V3 diễn tả việc chưa hoàn thành vào hạn mốc tương lai. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "___ the airport by six? (( You will have arrived at | **Will you have arrived at** | Have you will arrived at :: Câu hỏi tương lai hoàn thành đặt will trước you rồi dùng have arrived; arrived là V3. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "By the time you arrive, we ___ dinner. (( **will have cooked** | will have cook | are cook :: Will have cooked nhấn mạnh bữa tối sẽ nấu xong trước thời điểm người kia đến. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "By Friday, the panel {{will have completed::Will have + completed diễn tả việc hoàn tất trước hoặc vào mốc Friday.}} (complete; hoàn tất trước hạn tương lai) its review of the proposals."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "By 2030, the city {{will have built::Will have + built chỉ công việc hoàn tất tính đến năm 2030.}} (build; thành quả trước mốc tương lai) three new transport corridors."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The team {{will have analysed | will have analyzed::Will have + V3 chỉ việc hoàn tất trước hội nghị; hai cách viết đều hợp lệ.}} (analyse; hoàn tất trước hội nghị) the results by the time the conference begins."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "By next month, the museum {{will have published::By next month nêu mốc tương lai; dùng will have published.}} (publish; hoàn tất trước hạn) its new catalogue."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "By the end of the year, the collection {{will have grown::Will have grown chỉ sự tăng trưởng tính đến cuối năm; grown là V3.}} (grow; thay đổi tính đến mốc tương lai) considerably."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "By next week, the auditors ___ the final accounts. (( will checking | **will have checked** | have check tomorrow :: By next week nêu hạn tương lai; dùng will have + checked. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "By the time the event begins, the invitations ___. (( will have sending | **will have been sent** | are send :: Will have been sent là bị động tương lai hoàn thành. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "By 2030, the university ___ the new library. (( will has opened | **will have opened** | will have opening :: Will have + V3 opened diễn tả việc mở hoàn tất trước hoặc vào năm 2030. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ By | Friday | the | team | will | have | completed | its | analysis. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | will | have | prepared | their | materials | before | the | workshop | begins. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "By the time the programme ends, the students {{will have completed::Will have completed nhấn mạnh bốn dự án hoàn tất trước khi chương trình kết thúc.}} (complete; thành quả trước mốc tương lai) four major projects."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The final report {{will have been approved::Will have been approved là bị động tương lai hoàn thành: báo cáo được duyệt trước cuộc họp.}} (approve; bị động hoàn tất trước mốc) before the board meets next week."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "By 2035, the organisation {{will have operated | will have been operating::Tương lai hoàn thành đơn hoặc tiếp diễn đều có thể diễn tả khoảng thời gian hoạt động tính đến 2035.}} (operate; thời gian hoạt động tính đến mốc tương lai) in the region for twenty years."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "By the time the review is published, the team {{will have considered::Will have considered diễn tả việc xem xét hoàn tất trước khi review được công bố.}} (consider; hoàn tất trước mốc tương lai) all responses."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "By next week, the auditors ___ the final accounts. (( will checking | **will have checked** | have check tomorrow :: By next week nêu hạn tương lai; dùng will have + V3 checked. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "By the time the event begins, the invitations ___. (( will have sending | **will have been sent** | are send :: Will have been sent là bị động tương lai hoàn thành, hoàn tất trước khi sự kiện bắt đầu. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "By 2030, the university ___ a new library. (( will has opened | **will have opened** | will have opening :: Will have + V3 opened diễn tả việc mở hoàn tất trước hoặc vào năm 2030. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university is expanding its research facilities. By next June, the engineers {{will have completed::Will have completed chỉ công trình hoàn tất trước hạn tương lai.}} (complete; trước hạn tương lai) the new laboratory. By the time it opens, the equipment {{will have been installed::Will have been installed là bị động tương lai hoàn thành với equipment.}} (install; bị động hoàn tất) and staff {{will have received::Will have received chỉ việc nhận đào tạo hoàn tất trước thời điểm mở cửa.}} (receive; hoàn tất trước mốc) safety training. The centre will then welcome its first researchers."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | panel | will | have | completed | its | review | by | Friday. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | equipment | will | have | been | installed | before | the | laboratory | opens. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "By the time the programme ends, students {{will have completed::Will have completed chỉ bốn dự án hoàn tất trước khi chương trình kết thúc.}} (complete; thành quả trước mốc tương lai) four major projects."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The final report {{will have been approved::Will have been approved là bị động tương lai hoàn thành.}} (approve; bị động hoàn tất trước mốc) before the board meets next week."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "By 2035, the organisation {{will have operated | will have been operating::Cả tương lai hoàn thành đơn và tiếp diễn đều có thể nói thời gian hoạt động tính đến 2035.}} (operate; thời gian hoạt động tính đến mốc) in the region for twenty years."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "By the time the conference begins, the institute {{will have compiled::Will have compiled diễn tả việc tổng hợp hoàn tất trước mốc hội nghị trong tương lai.}} (compile; hoàn tất trước mốc tương lai) the survey data."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "By next June, the builders ___ the new laboratory. (( will have completing | **will have completed** | will has completed :: Will have + V3 completed chỉ việc hoàn tất trước hạn tương lai. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "By opening day, the equipment ___. (( will have installing | **will have been installed** | is install :: Will have been installed là bị động tương lai hoàn thành. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university is expanding its research facilities. By next June, engineers {{will have completed::Will have completed diễn tả việc hoàn tất trước hạn tương lai.}} (complete; trước hạn tương lai) the laboratory. By the time it opens, the equipment {{will have been installed::Will have been installed là bị động tương lai hoàn thành.}} (install; bị động hoàn tất) and staff {{will have received::Will have received diễn tả việc nhận đào tạo trước mốc mở cửa.}} (receive; trước mốc) safety training. The centre will then welcome researchers."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A city is upgrading its transport network. By 2030, it {{will have built::Will have built chỉ công trình hoàn tất trước hoặc vào mốc 2030.}} (build; trước mốc tương lai) several stations. By the time the first line opens, engineers {{will have tested::Will have tested diễn tả việc kiểm tra hoàn tất trước khi tuyến mở.}} (test; hoàn tất trước mốc) the system. The timetable {{will have been published::Will have been published là bị động tương lai hoàn thành.}} (publish; bị động hoàn tất) before passengers begin using it."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ By | next | week | the | auditors | will | have | checked | the | final | accounts. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | invitations | will | have | been | sent | before | the | event | begins. ~~"
+    }
+  ]
+}

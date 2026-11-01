@@ -1,0 +1,223 @@
+{
+  "id": "g5-24",
+  "title": "24. Bị động cơ bản",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Câu bị động cơ bản",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · CÂU BỊ ĐỘNG CƠ BẢN</span></h2><p>Dùng bị động khi muốn tập trung vào đối tượng nhận tác động hoặc khi người thực hiện không quan trọng.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Chủ động: S + V + O. Bị động: O + be + V3/ed.<br>Có thể thêm by + người thực hiện nếu thông tin đó cần thiết.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>They clean the room. → The room is cleaned.<br>They built the bridge in 1990. → The bridge was built in 1990.</p><p><span class=\"highlight\">Lưu ý:</span> Không phải động từ nào cũng có tân ngữ để chuyển sang bị động; động từ be phải hòa hợp với chủ ngữ mới.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Chọn thì cho BE",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · CHỌN THÌ CHO BE</span></h2><p>Giữ mốc thời gian khi đổi từ chủ động sang bị động.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Hiện tại đơn: am/is/are + V3. Quá khứ đơn: was/were + V3.<br>Tương lai đơn: will be + V3.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The office is cleaned every morning. → Văn phòng được dọn mỗi sáng.<br>The bridge was built in 1990. → Cầu được xây năm 1990.</p><p><span class=\"highlight\">Lưu ý:</span> Dùng is với chủ ngữ số ít hiện tại, are với số nhiều; dùng was hoặc were theo chủ ngữ trong quá khứ.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Tiếp diễn và phủ định",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · TIẾP DIỄN VÀ PHỦ ĐỊNH</span></h2><p>Thì tiếp diễn giữ being trong cấu trúc bị động.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Hiện tại tiếp diễn bị động: am/is/are being + V3.<br>Phủ định: đặt not sau trợ động từ đầu tiên.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The road is being repaired now. → Con đường đang được sửa.<br>Food is not allowed in the laboratory. → Không được mang thức ăn vào phòng thí nghiệm.</p><p><span class=\"highlight\">Lưu ý:</span> Phân từ quá khứ có thể bất quy tắc: build → built, write → written, send → sent.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The classroom {{is cleaned::Hiện tại đơn bị động với chủ ngữ số ít dùng is + V3: is cleaned.}} (clean) every morning."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The bridge {{was built::Mốc 1990 là quá khứ; chủ ngữ số ít dùng was + V3 built.}} (build) in 1990."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The report {{will be sent::Tương lai đơn bị động dùng will be + V3; sent là V3 của send.}} (send) tomorrow."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The road {{is being repaired::Hiện tại tiếp diễn bị động dùng is being + V3 khi việc sửa đang diễn ra.}} (repair) right now."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Food {{is not allowed | isn't allowed::Is not hoặc isn’t + V3 allowed đều tạo bị động phủ định hiện tại đơn.}} (not / allow) in this laboratory."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The office ___ every morning. (( **is cleaned** | is cleaning | cleaned :: Hiện tại đơn bị động với chủ ngữ số ít dùng is + V3: is cleaned. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The museum ___ in 1990. (( is built | **was built** | was build :: Mốc 1990 là quá khứ; chủ ngữ số ít dùng was + V3 built. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The invitation ___ tomorrow. (( will sent | **will be sent** | will is sent :: Tương lai đơn bị động dùng will be + V3; sent là V3 của send. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The car ___ right now. (( is repaired | **is being repaired** | is being repair :: Hiện tại tiếp diễn bị động dùng is being + V3 khi việc sửa đang diễn ra. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Smoking ___ in this building. (( **is not allowed** | does not allowed | is not allow :: Phủ định hiện tại đơn bị động dùng is not + V3 allowed. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | classroom | is | cleaned | every | morning. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | bridge | was | built | in | 1990. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | report | will | be | sent | tomorrow. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | road | is | being | repaired | now. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ Smoking | is | not | allowed | in | the | building. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The report {{is reviewed::Is + V3 reviewed tạo bị động hiện tại đơn với chủ ngữ số ít.}} (review; bị động hiện tại với chủ ngữ số ít) by the committee every year."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The applications {{are inspected::Are + V3 inspected tạo bị động hiện tại đơn với chủ ngữ số nhiều.}} (inspect; bị động hiện tại với chủ ngữ số nhiều) by the panel every month."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The laboratory {{was completed::Was + V3 completed tạo bị động quá khứ đơn với chủ ngữ số ít.}} (complete; bị động quá khứ với chủ ngữ số ít) in 2018."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The findings {{were published::Were + V3 published tạo bị động quá khứ đơn với chủ ngữ số nhiều.}} (publish; bị động quá khứ với chủ ngữ số nhiều) last week."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The proposal {{will be reviewed::Will be + V3 reviewed tạo bị động tương lai đơn.}} (review; bị động tương lai) tomorrow."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The safety procedure {{is reviewed::Is + V3 reviewed tạo bị động hiện tại đơn với chủ ngữ số ít.}} (review; bị động hiện tại với chủ ngữ số ít) by an independent specialist each month."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The proposal ___ by a panel before publication each year. (( is reviewing | **is reviewed** | are reviewed :: Is + V3 reviewed tạo bị động hiện tại đơn với chủ ngữ số ít. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The samples {{are inspected::Are + V3 inspected tạo bị động hiện tại đơn với chủ ngữ số nhiều.}} (inspect; bị động hiện tại với chủ ngữ số nhiều) by specialists before each report."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The files ___ by the team before each meeting. (( is inspected | **are inspected** | are inspecting :: Are + V3 inspected tạo bị động hiện tại đơn với chủ ngữ số nhiều. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The final report {{was completed::Was + V3 completed tạo bị động quá khứ đơn với chủ ngữ số ít.}} (complete; bị động quá khứ với chủ ngữ số ít) before the meeting yesterday."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The project ___ in 2022. (( was completing | **was completed** | were completed :: Was + V3 completed tạo bị động quá khứ đơn với chủ ngữ số ít. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The final results {{were published::Were + V3 published tạo bị động quá khứ đơn với chủ ngữ số nhiều.}} (publish; bị động quá khứ với chủ ngữ số nhiều) after the review yesterday."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The reports ___ in 2021. (( was published | **were published** | were publishing :: Were + V3 published tạo bị động quá khứ đơn với chủ ngữ số nhiều. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The final report {{will be reviewed::Will be + V3 reviewed tạo bị động tương lai đơn.}} (review; bị động tương lai) next week."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The application ___ after the meeting. (( will reviewed | **will be reviewed** | will be review :: Will be + V3 reviewed tạo bị động tương lai đơn. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The road {{is being repaired::Is being + V3 repaired diễn tả việc đang được thực hiện.}} (repair; bị động hiện tại tiếp diễn) right now."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The final results {{have been published::Have been + V3 published diễn tả kết quả bị động đã hoàn tất đến hiện tại.}} (publish; bị động hoàn thành hiện tại), so they are available online."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The samples {{were being examined::Were being + V3 examined diễn tả quá trình bị động đang diễn ra trong quá khứ.}} (examine; bị động quá khứ tiếp diễn) when the inspector arrived."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university is reviewing its facilities. The safety policy {{is reviewed::Is reviewed là bị động hiện tại đơn với policy số ít.}} (review; bị động hiện tại) every year. The laboratory {{was completed::Was completed là bị động quá khứ đơn với laboratory số ít.}} (complete; bị động quá khứ) in 2022. A further proposal {{will be reviewed::Will be reviewed là bị động tương lai đơn.}} (review; bị động tương lai) next month."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A research team has completed a study. The samples {{are inspected::Are inspected là bị động hiện tại đơn với samples số nhiều.}} (inspect; bị động hiện tại số nhiều) before every test. The final results {{were published::Were published là bị động quá khứ đơn với results số nhiều.}} (publish; bị động quá khứ số nhiều) last week. A revised report {{will be reviewed::Will be reviewed là bị động tương lai đơn.}} (review; bị động tương lai) tomorrow."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A museum is digitising its archive. The original documents {{are inspected::Are inspected là bị động hiện tại đơn với documents số nhiều.}} (inspect; bị động hiện tại số nhiều) before scanning. The first catalogue {{was completed::Was completed là bị động quá khứ đơn với catalogue số ít.}} (complete; bị động quá khứ số ít) last year. A new access policy {{will be reviewed::Will be reviewed là bị động tương lai đơn.}} (review; bị động tương lai) next week."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | safety | procedure | is | reviewed | by | an | independent | specialist | each | month. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | results | were | published | after | the | review | was | completed. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | final | proposal | will | be | reviewed | by | the | panel | next | week. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | samples | were | being | examined | when | the | inspector | arrived. ~~"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "g1-03",
+  "title": "03. Tính từ & Trạng từ",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Phần 1: Tính từ (Adjectives) - Bản chất & Vị trí",
+      "contentHTML": "<p><strong>Tính từ (Adjective)</strong> là từ dùng để miêu tả tính chất, đặc điểm, trạng thái của người hoặc sự vật (Danh từ / Đại từ).</p><div class=\"rule-box\" style=\"background: rgba(52, 152, 219, 0.1); border-left: 4px solid #3498db; padding: 10px; margin: 10px 0;\"><strong style=\"color: #3498db;\">2 Vị trí vàng của Tính từ:</strong><br>• <strong>Đứng TRƯỚC Danh từ:</strong> Bổ nghĩa trực tiếp cho danh từ đó (<code>a <strong>beautiful</strong> day</code>, <code>an <strong>important</strong> decision</code>).<br>• <strong>Đứng SAU Động từ nối (Linking Verbs):</strong> <code>be, seem, look, feel, sound, taste, smell, become, get, keep</code>.<br><em>Ví dụ:</em> The soup tastes <strong>delicious</strong>. / She looks <strong>happy</strong> today.</div>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Phần 2: Trạng từ (Adverbs) - Bản chất & Vị trí",
+      "contentHTML": "<p><strong>Trạng từ (Adverb)</strong> dùng để bổ nghĩa cho <strong>Động từ thường</strong> (diễn tả hành động diễn ra như thế nào), hoặc bổ nghĩa cho <strong>Tính từ</strong>, <strong>Trạng từ khác</strong> và <strong>cả câu</strong>.</p><div class=\"rule-box\" style=\"background: rgba(46, 204, 113, 0.1); border-left: 4px solid #2ecc71; padding: 10px; margin: 10px 0;\"><strong style=\"color: #2ecc71;\">Quy tắc cấu tạo & Vị trí:</strong><br>• Đa số được tạo bằng cách: <code>Tính từ + -ly</code> (<code>quick → quickly, careful → carefully, happy → happily</code>).<br>• <strong>Bổ nghĩa cho Động từ thường:</strong> <code>He drives <strong>carefully</strong>.</code><br>• <strong>Đứng trước Tính từ để nhấn mạnh mức độ:</strong> <code>The exam was <strong>extremely</strong> difficult.</code><br>• <strong>Đứng đầu câu làm trạng từ liên kết:</strong> <code><strong>Fortunately</strong>, no one was injured.</code></div>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Phần 3: Các từ Bất quy tắc & Bẫy kinh điển",
+      "contentHTML": "<p>Những trường hợp đặc biệt cực kỳ hay xuất hiện trong các đề thi:</p><div class=\"rule-box\" style=\"background: rgba(231, 76, 60, 0.1); border-left: 4px solid #e74c3c; padding: 10px; margin: 10px 0;\"><strong style=\"color: #e74c3c;\">3 Bẫy phải thuộc lòng:</strong><br>1. <strong>Biến đổi hoàn toàn:</strong> <code>good (adj) → well (adv)</code>.<br>2. <strong>Giữ nguyên hình thái (Vừa là Tính từ, vừa là Trạng từ):</strong> <code>fast, hard, late, early</code>.<br>• <em>Cẩn thận:</em> <code>hardly</code> = hầu như không (KHÔNG phải chăm chỉ); <code>lately</code> = gần đây (KHÔNG phải muộn).<br>3. <strong>Tính từ đuôi -ly:</strong> <code>friendly, lovely, lonely, lively, costly, daily</code> là <strong>TÍNH TỪ</strong>, không phải trạng từ!</div>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The review panel assessed the evidence {{carefully::Carefully là trạng từ bổ nghĩa cho hành động assessed, cho biết hội đồng đánh giá như thế nào.}} (careful) before reaching a decision."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The proposed solution seems {{effective::Seems là động từ nối; theo sau dùng tính từ effective để miêu tả solution, không dùng effectively.}} (dạng tính từ của effect) in reducing waste."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The initial findings were {{highly::Highly là trạng từ chỉ mức độ bổ nghĩa cho tính từ significant; high không dùng thay thế ở đây.}} (high) significant."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The research team worked {{hard::Hard là trạng từ nghĩa là chăm chỉ; hardly nghĩa là hầu như không và làm đổi nghĩa câu.}} (trạng từ nghĩa là chăm chỉ) throughout the winter."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The museum guide explained the historical context {{clearly::Clearly là trạng từ bổ nghĩa cho động từ explained; clear là tính từ.}} (clear) to visitors."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The revised strategy appears ___ to local residents. (( **promising** | promisingly | promise :: Appears là động từ nối chỉ vẻ bề ngoài; theo sau cần tính từ promising mô tả strategy. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The volunteers responded ___ to the sudden shortage. (( quick | **quickly** | quickness :: Động từ responded cần trạng từ quickly chỉ cách phản ứng. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The research assistant could ___ hear the speaker because of the noise. (( hard | **hardly** | harder :: Hardly nghĩa là hầu như không, phù hợp với tiếng ồn khiến trợ lý khó nghe. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The proposal received a ___ response from the community. (( warmly | **warm** | warmth :: Trước danh từ response cần tính từ warm; warmly là trạng từ. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The collection has been maintained remarkably ___. (( good | **well** | goodly :: Well là trạng từ của good, bổ nghĩa cho has been maintained; remarkably bổ nghĩa cho well. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The independent assessor examined the evidence {{carefully::Carefully là trạng từ bổ nghĩa cho examined, cho biết cách đánh giá.}} (careful; bổ nghĩa cho hành động)."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The updated strategy seems {{effective::Seems là động từ nối; effective mô tả strategy.}} (effect; tính từ sau động từ nối) after several successful trials."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers delivered a {{clear::Clear là tính từ đứng trước danh từ presentation.}} (dạng tính từ của clarity) presentation of the findings."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The final results were {{highly::Highly là trạng từ chỉ mức độ, bổ nghĩa cho tính từ significant.}} (high; bổ nghĩa mức độ) significant."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The analysts worked {{hard::Hard vừa là tính từ vừa là trạng từ nghĩa là chăm chỉ; hardly nghĩa là hầu như không.}} (trạng từ nghĩa là chăm chỉ) throughout the review."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The revised explanation sounds ___ to the audience. (( convincingly | **convincing** | conviction :: Sounds là động từ nối; tính từ convincing mô tả explanation. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The team responded ___ to the unexpected problem. (( quick | **quickly** | quickness :: Quickly là trạng từ mô tả cách responded diễn ra. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The researchers could ___ hear the announcement over the noise. (( hard | **hardly** | harder :: Hardly nghĩa là hầu như không, phù hợp với bối cảnh tiếng ồn. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | explained | their | findings | clearly | to | the | public. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | revised | proposal | appears | remarkably | effective | in | practice. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Although the results initially looked {{uncertain::Looked ở đây là động từ nối; tính từ uncertain mô tả trạng thái của results.}} (tính từ mang nghĩa chưa chắc chắn), the later evidence was convincing."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The committee listened {{carefully | attentively::Cả carefully và attentively đều là trạng từ chỉ cách lắng nghe, phù hợp với động từ listened.}} (trạng từ nghĩa là một cách chú ý) to every witness."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The scientist gave a {{friendly::Friendly là tính từ đuôi -ly và đứng trước danh từ explanation; không tạo friendlyly.}} (friend) explanation of the complex process."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The cost of the project increased {{dramatically::Dramatically là trạng từ bổ nghĩa cho increased; dramatically diễn tả mức tăng mạnh.}} (dramatic) after materials became scarce."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Even after several revisions, the argument remains ___. (( weakly | **weak** | weakness :: Remains là động từ nối; cần tính từ weak để mô tả argument. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The researchers arrived ___ to set up the equipment before the lecture. (( earlily | **early** | earlierly :: Early có thể là trạng từ chỉ thời gian; không dùng earlily. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The new treatment worked ___ in the preliminary trial. (( **well** | good | goodly :: Sau động từ chỉ hành động worked, dùng trạng từ well; good là tính từ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A research team studied the effects of noise on concentration. The participants completed a {{difficult::Difficult là tính từ đứng trước danh từ test.}} (dạng tính từ của difficulty) test in two different rooms. Their performance was {{significantly::Significantly là trạng từ chỉ mức độ bổ nghĩa cho tính từ better.}} (significant) better in the quieter room. Although the first results seemed {{surprising::Seemed là động từ nối nên cần tính từ surprising mô tả results.}} (surprise), the team checked the measurements {{carefully::Carefully là trạng từ bổ nghĩa cho động từ checked, nói cách nhóm kiểm tra.}} (careful) before publishing them."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | revised | proposal | seems | remarkably | effective | in | practice. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ Researchers | carefully | examined | the | evidence | before | publishing | their | conclusions. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The committee listened {{carefully | attentively::Carefully và attentively đều là trạng từ bổ nghĩa cho listened và phù hợp với ngữ cảnh.}} (trạng từ nghĩa là một cách chú ý) to the witnesses before reaching a decision."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Despite the initial uncertainty, the evidence now looks {{convincing::Looks là động từ nối; convincing mô tả evidence.}} (tính từ chỉ mức độ thuyết phục)."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The new system performed {{well::Well là trạng từ bổ nghĩa cho performed; good thường là tính từ.}} (trạng từ của good) during independent testing."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The organisation provided a {{friendly::Friendly là tính từ có đuôi -ly, đứng trước explanation.}} (friend; tính từ chỉ sự thân thiện) explanation of the new procedures."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The researchers have ___ completed the preliminary analysis. (( ready | **already** | readiness :: Already là trạng từ có thể đứng giữa have và completed. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The committee found the final recommendation ___. (( practically | **practical** | practice :: Cấu trúc find + tân ngữ + bổ ngữ dùng tính từ practical để mô tả recommendation. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A team evaluated a community transport scheme. The initial proposal seemed {{promising::Seemed là động từ nối; promising mô tả proposal.}} (tính từ của promise) to local residents. Researchers then examined the data {{carefully::Carefully là trạng từ bổ nghĩa cho examined.}} (careful). The final results were {{highly::Highly là trạng từ chỉ mức độ, bổ nghĩa cho tính từ significant.}} (high; chỉ mức độ) significant."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university tested a new learning platform. Students described the instructions as {{clear::Clear là tính từ làm bổ ngữ, mô tả instructions.}} (tính từ của clarity). Most participants completed the tasks {{successfully::Successfully là trạng từ chỉ cách completed diễn ra.}} (successful), and the support team remained {{helpful::Remained là động từ nối; helpful mô tả support team.}} (help; tính từ) throughout the trial. The developers are now reviewing the feedback."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | research | assistants | carefully | examined | the | evidence | before | the | discussion. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | revised | report | provides | a | clear | and | practical | explanation. ~~"
+    }
+  ]
+}

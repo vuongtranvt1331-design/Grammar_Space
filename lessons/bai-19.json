@@ -1,0 +1,223 @@
+{
+  "id": "g4-19",
+  "title": "19. Can, Could, May, Might",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Can và could",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · CAN VÀ COULD</span></h2><p>Động từ khuyết thiếu đứng trước động từ nguyên mẫu không to.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Can: khả năng hiện tại hoặc lời xin phép thân mật.<br>Could: khả năng chung trong quá khứ hoặc cách hỏi lịch sự.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>I can swim now. → Bây giờ tôi có thể bơi.<br>She could read when she was five. → Cô ấy biết đọc khi năm tuổi.</p><p><span class=\"highlight\">Lưu ý:</span> Khả năng hoàn thành một việc cụ thể trong quá khứ thường cần ngữ cảnh và có thể dùng was able to.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "May và might",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · MAY VÀ MIGHT</span></h2><p>May và might có thể diễn tả khả năng; may cũng được dùng để xin phép trang trọng.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>May / might + V nguyên mẫu: điều gì đó có thể xảy ra.<br>May I + V...? là một cách xin phép lịch sự.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>It might rain later. → Có thể lát nữa trời sẽ mưa.<br>May I leave early? → Tôi có thể xin phép về sớm không?</p><p><span class=\"highlight\">Lưu ý:</span> May và might thường đều có thể diễn tả khả năng; không nên xem một từ luôn chính xác hơn từ kia trong mọi ngữ cảnh.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Câu hỏi và phủ định",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · CÂU HỎI VÀ PHỦ ĐỊNH</span></h2><p>Động từ khuyết thiếu không thêm -s theo chủ ngữ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Can / Could / May / Might + S + V nguyên mẫu?<br>S + cannot / can’t / could not + V nguyên mẫu.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>Could you open the window, please? → Bạn có thể mở cửa sổ giúp tôi không?<br>He cannot drive yet. → Anh ấy chưa biết lái xe.</p><p><span class=\"highlight\">Lưu ý:</span> Sau modal dùng nguyên mẫu: she can swim, không phải she can swims.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "My sister {{can::Can + V nguyên mẫu diễn tả khả năng hiện tại; bối cảnh cho biết người đó biết bơi.}} (trợ động từ diễn tả khả năng, xin phép hoặc khả năng xảy ra) swim; she learned last year and swims every week."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "When I was five, I {{could::Could có thể diễn tả khả năng chung trong quá khứ, như việc biết đọc hoặc đi xe khi còn nhỏ.}} (trợ động từ diễn tả khả năng, xin phép hoặc khả năng xảy ra) read simple books."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "{{May | Can | Could::May, Can và Could đều có thể xin phép; May trang trọng và Could lịch sự hơn.}} (trợ động từ diễn tả khả năng, xin phép hoặc khả năng xảy ra) I leave early, please?"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Take an umbrella; it {{might | may | could::Might, may và could đều có thể diễn tả khả năng chưa chắc chắn.}} (trợ động từ diễn tả khả năng, xin phép hoặc khả năng xảy ra) rain later, although I am not certain."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "{{Could | Can | Would::Could, Can và Would đều có thể dùng để nhờ vả; Could và Would thường lịch sự hơn.}} (trợ động từ diễn tả khả năng, xin phép hoặc khả năng xảy ra) you open the door for me, please?"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "I ___ swim now; I go swimming every weekend. (( **can** | must | should :: Can + V nguyên mẫu diễn tả khả năng hiện tại; bối cảnh cho biết người đó biết bơi. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "When he was seven, he ___ ride a bicycle. (( can | may | **could** :: Could có thể diễn tả khả năng chung trong quá khứ, như việc biết đọc hoặc đi xe khi còn nhỏ. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "___ I use your phone, please? (( **May** | Must | Should :: May I + V...? là cách xin phép lịch sự; câu hỏi yêu cầu sự cho phép. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The sky is cloudy; it ___ rain later, but I am not sure. (( must | **might** | cannot :: Might + V nguyên mẫu diễn tả khả năng chưa chắc chắn; ở đây người nói không khẳng định chắc chắn. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "___ you pass me the salt, please? (( Must | Might | **Could** :: Could you + V...? là cách nhờ vả lịch sự, phù hợp với yêu cầu giúp một việc. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ She | can | speak | English | well. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ He | could | read | when | he | was | five. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ May | I | open | the | window, | please? ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ It | might | rain | later | today. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ Could | you | help | me | with | this | bag? ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The sensor {{can::Can + động từ nguyên mẫu diễn tả khả năng hiện tại.}} (trợ động từ chỉ khả năng hiện tại) measure temperature accurately."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The first prototype {{could | was able to::Could và was able to đều có thể diễn tả khả năng trong quá khứ.}} (khả năng trong quá khứ của chủ ngữ số ít) operate without external power."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The report {{may | might | could::May, might và could + nguyên mẫu đều có thể diễn tả khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn) arrive tomorrow; the date is uncertain."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Researchers {{may | can::May và can đều có thể diễn tả sự cho phép; may trang trọng hơn.}} (sự cho phép theo quy định) enter the archive with permission."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "{{Could | Can | Would::Could, Can và Would you + nguyên mẫu đều có thể đưa ra lời nhờ vả.}} (lời nhờ vả lịch sự) you check the figures, please?"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The new instrument {{can::Can + động từ nguyên mẫu diễn tả khả năng hiện tại.}} (trợ động từ chỉ khả năng hiện tại) detect small changes in pressure."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The device ___ record data automatically. (( cans | **can** | can to :: Can + động từ nguyên mẫu diễn tả khả năng hiện tại. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The original machine {{could | was able to::Could và was able to đều có thể diễn tả khả năng trong quá khứ.}} (khả năng trong quá khứ của chủ ngữ số ít) process simple requests in 1995."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The early model ___ store only a small amount of data. (( could to | **could** | coulds :: Could và was able to đều có thể diễn tả khả năng trong quá khứ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The change {{may | might | could::May, might và could + nguyên mẫu đều có thể diễn tả khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn) affect the sample, although the outcome is uncertain."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The project ___ take longer; no one is sure yet. (( may to | **may** | mays :: May, might và could + nguyên mẫu đều có thể diễn tả khả năng chưa chắc chắn. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Registered visitors {{may | can::May và can đều có thể diễn tả sự cho phép; may trang trọng hơn.}} (sự cho phép theo quy định) use the reading room under the stated rules."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Members ___ borrow reference materials under the policy. (( mays | **may** | may to :: May và can đều có thể diễn tả sự cho phép; may trang trọng hơn. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{Could | Can | Would::Could, Can và Would you + nguyên mẫu đều có thể đưa ra lời nhờ vả.}} (lời nhờ vả lịch sự) you send the committee the revised draft, please?"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "___ you explain the method to the audience, please? (( Coulds | **Could** | Could to :: Could, Can và Would you + nguyên mẫu đều có thể đưa ra lời nhờ vả. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The team {{may | might | could::May, might và could đều có thể nêu khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn) finish today, but the schedule is not certain."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "In 2001, the prototype {{could | was able to::Could hoặc was able to diễn tả khả năng của thiết bị trong quá khứ.}} (khả năng quá khứ của chủ ngữ số ít) operate for only two hours."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{Could | Can | Would::Could, Can hoặc Would you đều có thể dùng trong lời nhờ vả.}} (lời nhờ vả lịch sự) you review this paragraph before the meeting, please?"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A research group is preparing a field visit. The portable sensor {{can::Can + nguyên mẫu diễn tả khả năng hiện tại của thiết bị.}} (khả năng hiện tại) record temperatures automatically. The team {{may | might | could::May, might và could đều diễn tả khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn) encounter rain, so it will take waterproof cases. The coordinator asks, “{{Could | Can | Would::Could, Can và Would you đều có thể dùng để nhờ vả.}} (lời nhờ vả) you check the equipment?”"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A museum is organising an exhibition. Registered visitors {{may | can::May và can đều có thể diễn tả sự cho phép theo quy định.}} (sự cho phép) use the reading room. The event {{may | might | could::May, might và could nêu khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn) attract a large audience. The curator asks, “{{Could | Can | Would::Các cách hỏi này đều có thể dùng để nhờ người nghe giúp.}} (lời nhờ vả) you reserve extra seats?”"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A laboratory is testing a new device. It {{can::Can + nguyên mẫu nói về khả năng hiện tại.}} (khả năng hiện tại) measure pressure automatically. The earlier prototype {{could | was able to::Could và was able to đều diễn tả khả năng quá khứ của chủ ngữ số ít.}} (khả năng quá khứ) record only one reading at a time. The new model {{may | might | could::May, might và could đều nêu khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn) be ready next month."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | device | can | record | data | automatically | during | the | experiment. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | earlier | prototype | could | operate | without | external | power. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ Could | you | send | the | committee | the | revised | draft | please? ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | research | team | might | encounter | rain | during | the | field | visit. ~~"
+    }
+  ]
+}

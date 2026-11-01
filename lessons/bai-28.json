@@ -1,0 +1,223 @@
+{
+  "id": "g6-28",
+  "title": "28. To-V và V-ing",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Động từ theo sau bởi V-ing",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · ĐỘNG TỪ THEO SAU BỞI V-ING</span></h2><p>Một số động từ thường được theo sau bởi danh động từ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>enjoy / avoid / finish + V-ing<br>Sau giới từ, động từ thường ở dạng V-ing.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>I enjoy reading novels. → Tôi thích đọc tiểu thuyết.<br>She is interested in travelling. → Cô ấy quan tâm đến du lịch.</p><p><span class=\"highlight\">Lưu ý:</span> V-ing ở đây có thể hoạt động như một danh từ chỉ hoạt động.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Động từ theo sau bởi To-V",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · ĐỘNG TỪ THEO SAU BỞI TO-V</span></h2><p>Một số động từ thường đi với to + động từ nguyên mẫu.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>decide / want / hope + to + V nguyên mẫu<br>Phủ định thường đặt not trước to: decide not to leave.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>We decided to study together. → Chúng tôi quyết định học cùng nhau.<br>I want to meet the teacher. → Tôi muốn gặp giáo viên.</p><p><span class=\"highlight\">Lưu ý:</span> Sau to trong các cấu trúc này dùng nguyên mẫu: to study, không phải to studying.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Học theo cụm",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · HỌC THEO CỤM</span></h2><p>Lựa chọn To-V hay V-ing phụ thuộc vào cấu trúc đứng trước.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>enjoy reading; decide to read<br>interested in reading; look forward to reading</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>They avoid taking taxis. → Họ tránh đi taxi.<br>We look forward to meeting you. → Chúng tôi mong được gặp bạn.</p><p><span class=\"highlight\">Lưu ý:</span> To trong look forward to là giới từ và theo sau bởi V-ing; khác với to trong want to meet.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "I enjoy {{reading::Enjoy theo sau bởi V-ing; reading diễn tả hoạt động đọc.}} (read) books in the evening."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "We decided {{to study::Decide thường đi với to + động từ nguyên mẫu: decide to study.}} (study) together tonight."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "She is interested in {{travelling | traveling::Sau giới từ in dùng V-ing; travelling và traveling đều là cách viết hợp lệ.}} (travel) abroad."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "I want {{to meet::Want theo sau bởi to + V nguyên mẫu: want to meet.}} (meet) the teacher tomorrow."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "They avoid {{taking::Avoid thường theo sau bởi V-ing: avoid taking.}} (take) taxis during rush hour."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "They enjoy ___ novels at weekends. (( to read | **reading** | read :: Enjoy theo sau bởi V-ing; reading diễn tả hoạt động đọc. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "They decided ___ together after class. (( studying | **to study** | study :: Decide thường đi với to + động từ nguyên mẫu: decide to study. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "He is interested in ___ abroad. (( **travelling** | to travel | travel :: Sau giới từ in, dùng V-ing: interested in travelling. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "We want ___ the teacher after class. (( meeting | **to meet** | meet :: Want theo sau bởi to + V nguyên mẫu: want to meet. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "We avoid ___ taxis when traffic is heavy. (( to take | take | **taking** :: Avoid thường theo sau bởi V-ing: avoid taking. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ I | enjoy | reading | books. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ We | decided | to | study | together. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ She | is | interested | in | travelling | abroad. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ I | want | to | meet | the | teacher. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ They | avoid | taking | taxis. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The students enjoy {{reading::Enjoy thường theo sau bởi V-ing; reading là dạng V-ing của read.}} (dạng động từ sau enjoy) research papers."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The team decided {{to revise::Decide thường theo sau bởi to + động từ nguyên mẫu.}} (dạng động từ sau decide) the proposal."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The organisation avoids {{sharing::Avoid thường đi với V-ing; sharing là dạng V-ing của share.}} (dạng động từ sau avoid) confidential data."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers plan {{to publish::Plan thường đi với to + động từ nguyên mẫu.}} (dạng động từ sau plan) the results next month."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The students are interested in {{analysing | analyzing::Sau giới từ in dùng V-ing; analysing và analyzing là hai cách viết hợp lệ.}} (dạng động từ sau giới từ in) survey data."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The reviewers enjoy {{reading::Enjoy thường theo sau bởi V-ing; reading là dạng V-ing của read.}} (dạng động từ sau enjoy) original studies before discussion."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Many researchers enjoy ___ reports about new discoveries. (( to read | **reading** | readed :: Enjoy thường theo sau bởi V-ing; reading là dạng V-ing của read. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The committee decided {{to revise::Decide thường theo sau bởi to + động từ nguyên mẫu.}} (dạng động từ sau decide) the original plan."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The authors decided ___ their draft. (( revising to | **to revise** | revise to :: Decide thường theo sau bởi to + động từ nguyên mẫu. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The research group avoids {{sharing::Avoid thường đi với V-ing; sharing là dạng V-ing của share.}} (dạng động từ sau avoid) personal details without consent."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The team avoids ___ private information publicly. (( to sharing | **sharing** | share to :: Avoid thường đi với V-ing; sharing là dạng V-ing của share. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The journal plans {{to publish::Plan thường đi với to + động từ nguyên mẫu.}} (dạng động từ sau plan) the findings next year."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The institute plans ___ the report online. (( publishing to | **to publish** | publish to :: Plan thường đi với to + động từ nguyên mẫu. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The team is interested in {{analysing | analyzing::Sau giới từ in dùng V-ing; analysing và analyzing là hai cách viết hợp lệ.}} (dạng động từ sau giới từ in) the responses."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Researchers are interested in ___ the findings. (( to analysing | **analysing** | analyse to :: Sau giới từ in dùng V-ing; analysing và analyzing là hai cách viết hợp lệ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The committee suggested {{revising::Suggest thường theo sau bởi V-ing khi đề xuất một hành động.}} (revise; dạng sau suggest) the draft before publication."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The director wants {{to review::Want thường đi với to + động từ nguyên mẫu.}} (review; dạng sau want) the final report."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The team is committed to {{improving::Trong be committed to, to là giới từ nên theo sau là V-ing.}} (improve; dạng sau giới từ to) access to education."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A research team is preparing a publication. The members enjoy {{reading::Enjoy thường đi với V-ing.}} (read; dạng sau enjoy) relevant studies. They decided {{to revise::Decide thường đi với to + động từ nguyên mẫu.}} (revise; dạng sau decide) the draft. They also avoid {{sharing::Avoid thường đi với V-ing.}} (share; dạng sau avoid) confidential details."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university is studying transport patterns. Researchers are interested in {{analysing | analyzing::Sau giới từ in dùng V-ing; cả hai cách viết đều được chấp nhận.}} (analyse; dạng sau giới từ) survey responses. They plan {{to publish::Plan thường đi với to + động từ nguyên mẫu.}} (publish; dạng sau plan) their findings. The team suggested {{revising::Suggest thường theo sau bởi V-ing.}} (revise; dạng sau suggest) the questionnaire first."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A committee is reviewing an education programme. Members enjoy {{reading::Enjoy đi với V-ing.}} (read; dạng sau enjoy) students’ feedback. They want {{to review::Want đi với to + động từ nguyên mẫu.}} (review; dạng sau want) the results carefully. The university is committed to {{improving::Trong be committed to, to là giới từ nên dùng V-ing.}} (improve; dạng sau giới từ) access for all students."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | plan | to | publish | the | report | next | month. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | team | avoids | sharing | personal | details | without | consent. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | students | are | interested | in | analysing | the | survey | data. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | committee | suggested | revising | the | draft | before | publication. ~~"
+    }
+  ]
+}

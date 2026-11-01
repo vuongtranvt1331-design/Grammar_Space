@@ -1,0 +1,88 @@
+{
+  "id": "g9-42",
+  "title": "42. WT1: Miêu tả xu hướng & Chuyển đổi cấu trúc",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Động từ + trạng từ",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · ĐỘNG TỪ + TRẠNG TỪ</span></h2><p>Trong Academic Task 1, dùng động từ xu hướng và trạng từ khi dữ liệu cho thấy sự thay đổi.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>rose / increased + rapidly / steadily / slightly: tăng nhanh / đều / nhẹ.<br>fell / decreased + sharply / gradually / slightly: giảm mạnh / dần / nhẹ.<br>remained stable: giữ ổn định; không cần mô tả là tăng hoặc giảm.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>Số liệu ví dụ: The population rose rapidly from 10 million to 20 million. → Dân số tăng nhanh từ 10 lên 20 triệu.<br>The rate remained stable at 20%. → Tỷ lệ ổn định ở mức 20%.</p><p><span class=\"highlight\">Lưu ý:</span> Chọn trạng từ theo đặc điểm thể hiện trong biểu đồ. Một con số đơn lẻ không đủ để kết luận mức tăng có đều hay không.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Tính từ + danh từ",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · TÍNH TỪ + DANH TỪ</span></h2><p>Có thể chuyển động từ và trạng từ thành danh từ và tính từ để thay đổi cấu trúc câu.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>X rose rapidly. → There was a rapid rise in X.<br>X fell gradually. → There was a gradual fall in X.<br>increase → an increase; decrease → a decrease; grow → growth.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The population rose rapidly. → There was a rapid rise in the population.<br>The number of visitors decreased gradually. → There was a gradual decrease in the number of visitors.</p><p><span class=\"highlight\">Lưu ý:</span> There was đi với danh từ số ít như a rise. Giữ đúng chiều thay đổi, mức độ, đối tượng và thời gian khi chuyển câu.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "X experienced / saw + cụm danh từ",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · X EXPERIENCED / SAW + CỤM DANH TỪ</span></h2><p>Cấu trúc X experienced hoặc X saw + adjective + noun có thể mô tả một sự thay đổi được số liệu cho thấy.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>X experienced a sharp increase.<br>X saw a slight fall.<br>There was a sharp increase in X.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The population rose rapidly from 10 to 20 million. → The population experienced a rapid rise from 10 to 20 million.<br>The rate rose from 20% to 30%. → There was an increase of 10 percentage points in the rate.</p><p><span class=\"highlight\">Lưu ý:</span> Không viết “There experienced”; experienced cần chủ ngữ như the population. Tăng từ 20% lên 30% là tăng 10 điểm phần trăm, không phải tăng tương đối 10%. Không tự suy đoán nguyên nhân.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "gap-fill",
+      "questionHTML": "From 2010 to 2020, the population {{rose::Rose là quá khứ của rise và diễn tả xu hướng tăng trong giai đoạn quá khứ; fell diễn tả giảm.}} (rose / rise / fell) steadily from 10 to 20 million."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "There was a rapid {{rise::Sau a rapid cần danh từ rise; rose là động từ quá khứ và rapidly là trạng từ.}} (rise / rose / rapidly) in the population."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "The population {{experienced::The population experienced a sharp increase có chủ ngữ và động từ hoàn chỉnh ở quá khứ; không dùng There experienced.}} (experienced / was / experiencing) a sharp increase between 2010 and 2020."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "The number of visitors fell {{sharply::Sharply là trạng từ bổ nghĩa cho động từ fell; sharp là tính từ thường bổ nghĩa cho danh từ.}} (sharply / sharp / was) from 50 to 30."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "The rate remained {{stable::Remained stable diễn tả tỷ lệ giữ ổn định; stable là tính từ sau động từ nối remained.}} (stable / rose / stability) at 20%."
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "Which sentence preserves the meaning of “Sales rose slightly”? ___ (( **There was a slight rise in sales.** | There was a dramatic fall in sales. | Sales remained completely stable. :: Slightly → slight và rose → rise; phương án đúng giữ hướng tăng và mức độ nhẹ. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "Which is a correct nominal version of “The number decreased gradually”? ___ (( **There was a gradual decrease in the number.** | There was a gradually decrease in the number. | There experienced a gradual decrease in the number. :: Gradual là tính từ bổ nghĩa cho danh từ decrease. There was là cấu trúc đúng; không dùng There experienced. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "A rate rises from 20% to 30%. How many percentage points is the increase? ___ (( **10 percentage points** | 10 percent relative increase | 20 percentage points :: 30% trừ 20% bằng 10 điểm phần trăm. Mức tăng tương đối so với 20% là 50%, không phải 10%. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "Which sentence describes a change without inventing a cause? ___ (( **The number increased between 2010 and 2020.** | The number increased because taxes fell, although the chart gives no cause. | The increase definitely happened because every household earned more. :: Câu đúng mô tả xu hướng; các phương án khác nêu nguyên nhân không được dữ liệu cung cấp. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "Which sentence correctly uses experienced? ___ (( **The population experienced a rapid rise.** | There experienced a rapid rise. | The population experienced rapidly rise. :: Experienced cần chủ ngữ như the population và có thể đi với cụm danh từ a rapid rise. ))"
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | population | rose | steadily | over | the | period. ~~",
+      "feedback": "The population rose steadily over the period. Rose là động từ; steadily là trạng từ mô tả cách tăng."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ There | was | a | gradual | decrease | in | visitor | numbers. ~~",
+      "feedback": "There was a gradual decrease in visitor numbers. Gradual là tính từ và decrease là danh từ trong cấu trúc There was."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | city | experienced | a | rapid | increase | in | population. ~~",
+      "feedback": "The city experienced a rapid increase in population. The city là chủ ngữ của experienced; a rapid increase là cụm danh từ."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | rate | remained | stable | at | twenty | percent. ~~",
+      "feedback": "The rate remained stable at twenty percent. Remained stable mô tả một mức không thay đổi."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ There | was | a | slight | fall | in | the | number | of | visitors. ~~",
+      "feedback": "There was a slight fall in the number of visitors. Slight bổ nghĩa cho danh từ fall; in giới thiệu chỉ số giảm."
+    }
+  ]
+}

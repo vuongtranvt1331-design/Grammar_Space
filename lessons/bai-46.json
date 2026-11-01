@@ -1,0 +1,88 @@
+{
+  "id": "g9-46",
+  "title": "46. WT2: Câu phức & Đảo ngữ nhấn mạnh",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Nguyên nhân và nhượng bộ",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · NGUYÊN NHÂN VÀ NHƯỢNG BỘ</span></h2><p>Câu phức giúp diễn đạt mối quan hệ giữa các ý; hãy chọn cấu trúc theo nghĩa thay vì chỉ để câu dài hơn.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>because + mệnh đề: nguyên nhân; although + mệnh đề: nhượng bộ.<br>despite / in spite of + danh từ hoặc V-ing: mặc dù.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>Although the service is costly, it may reduce travel time.<br>Despite the high cost, the service may reduce travel time.</p><p><span class=\"highlight\">Lưu ý:</span> Không dùng “although ... but” trong cùng một cấu trúc; despite không đứng trực tiếp trước một mệnh đề hoàn chỉnh.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "While và Whereas",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · WHILE VÀ WHEREAS</span></h2><p>While và whereas có thể đối chiếu hai ý trong một câu.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>While one policy is affordable, another is more reliable.<br>Whereas nối các ý đối lập; while cũng có thể chỉ thời gian tùy ngữ cảnh.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>Some people prefer buses, whereas others choose trains.<br>While public transport may be costly to expand, it can improve access.</p><p><span class=\"highlight\">Lưu ý:</span> Chọn dấu câu và liên từ phù hợp; đừng khẳng định quan hệ nhân quả nếu bạn chỉ đang so sánh.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Not only ... but also",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · NOT ONLY ... BUT ALSO</span></h2><p>Khi Not only đứng đầu mệnh đề để nhấn mạnh, thường đảo trợ động từ trước chủ ngữ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Not only + trợ động từ + S + V, but + S + also + V.<br>Ở vị trí thông thường không nhất thiết đảo: The policy not only saves time but also reduces costs.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>Not only does the scheme save time, but it also reduces costs.<br>The scheme not only saves time but also reduces costs.</p><p><span class=\"highlight\">Lưu ý:</span> Cấu trúc đa dạng chỉ có ích khi chính xác, phù hợp và phục vụ lập luận; không có mẫu câu nào tự bảo đảm một band điểm.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "gap-fill",
+      "questionHTML": "{{Although::Although nối với mệnh đề có chủ ngữ và động từ: the service is costly.}} (although / despite / because of) the service is costly, it may improve access."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "{{Despite::Despite đứng trước cụm danh từ the high cost; although và because thường nối trực tiếp với mệnh đề.}} (despite / although / because) the high cost, the service may improve access."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "Some people prefer buses, {{whereas::Whereas nối hai mệnh đề thể hiện sự đối chiếu giữa hai lựa chọn.}} (whereas / because of / despite) others choose trains."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "Not only {{does::Not only đứng đầu vế nên đảo trợ động từ does trước chủ ngữ the scheme; save giữ nguyên mẫu.}} (does / is / has) the scheme save time, but it also reduces costs."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "The policy can reduce delays {{because::Because nối với mệnh đề it provides more frequent services để nêu lý do.}} (because / despite / in spite of) it provides more frequent services."
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "Which sentence correctly uses although? ___ (( **Although the service is costly, it may improve access.** | Although the service is costly, but it may improve access. | Although the cost, it may improve access. :: Although nối với một mệnh đề và không cần but trong cấu trúc này. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "Which structure correctly follows despite? ___ (( **Despite the high cost, the project continued.** | Despite it was costly, the project continued. | Despite the project was costly, it continued. :: Despite theo sau bởi cụm danh từ the high cost; không nối trực tiếp với mệnh đề có chủ ngữ và động từ. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "Which sentence uses inversion correctly? ___ (( **Not only does the plan save time, but it also reduces costs.** | Not only the plan does save time, but also reduces costs. | Not only does the plan saves time, but it also reduces costs. :: Does đảo trước chủ ngữ và động từ chính giữ dạng nguyên mẫu save. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "What does whereas express in “Buses are cheap, whereas trains are faster”? ___ (( **A contrast between the two statements.** | Proof that buses cause trains to be faster. | A completed sequence of manufacturing stages. :: Whereas đặt hai nhận định đối chiếu nhau; bản thân nó không chứng minh quan hệ nhân quả. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "What is the best reason to use a complex sentence? ___ (( **To express a relevant relationship accurately.** | To guarantee a specific IELTS band automatically. | To make every sentence as long as possible. :: Phạm vi và độ chính xác ngữ pháp quan trọng; câu phức cần đúng và giúp lập luận rõ hơn. ))"
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ Although | it | was | costly, | the | project | continued. ~~",
+      "feedback": "Although it was costly, the project continued. Although giới thiệu mệnh đề nhượng bộ; dấu phẩy ngăn mệnh đề đầu với vế chính."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ Despite | the | cost, | the | project | continued. ~~",
+      "feedback": "Despite the cost, the project continued. Despite theo sau bởi cụm danh từ the cost."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ Some | people | prefer | buses, | whereas | others | prefer | trains. ~~",
+      "feedback": "Some people prefer buses, whereas others prefer trains. Whereas nối hai ý đối chiếu."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ Not | only | does | the | plan | save | time, | but | it | also | reduces | costs. ~~",
+      "feedback": "Not only does the plan save time, but it also reduces costs. Does đảo trước chủ ngữ trong vế Not only đứng đầu câu."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | policy | may | help | because | it | improves | access. ~~",
+      "feedback": "The policy may help because it improves access. Because giới thiệu mệnh đề nêu lý do."
+    }
+  ]
+}

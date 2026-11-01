@@ -1,0 +1,223 @@
+{
+  "id": "g1-04",
+  "title": "04. Động từ Be & Trợ động từ",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Phần 1: Động từ To Be (Am / Is / Are / Was / Were)",
+      "contentHTML": "<p><strong>Động từ To Be</strong> (thì, là, ở) dùng để nối chủ ngữ với Danh từ (chỉ nghề nghiệp, định danh), Tính từ (chỉ tính chất, trạng thái) hoặc Cụm giới từ (chỉ vị trí).</p><div class=\"rule-box\" style=\"background: rgba(52, 152, 219, 0.1); border-left: 4px solid #3498db; padding: 10px; margin: 10px 0;\"><strong style=\"color: #3498db;\">Bảng chia động từ To Be cốt lõi:</strong><br>• <strong>Hiện tại:</strong> <code>I + am</code> | <code>He / She / It / Danh từ số ít + is</code> | <code>You / We / They / Danh từ số nhiều + are</code>.<br>• <strong>Quá khứ:</strong> <code>I / He / She / It + was</code> | <code>You / We / They + were</code>.<br>• <strong>Phủ định & Nghi vấn:</strong> Thêm <code>not</code> trực tiếp sau Be (<code>isn't, aren't, wasn't, weren't</code>) hoặc đảo Be lên trước chủ ngữ (<code>Are you ready?</code>) — <strong>TUYỆT ĐỐI KHÔNG</strong> mượn trợ động từ <em>do/does/did</em> cho To Be!</div>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Phần 2: 3 Nhóm Trợ động từ chính (Do / Be / Have)",
+      "contentHTML": "<p>Khi trong câu có <strong>Động từ thường (Ordinary Verbs)</strong> như <em>work, study, go, play...</em>, ta cần các <strong>Trợ động từ (Auxiliary Verbs)</strong> để tạo câu phủ định, câu hỏi hoặc chia các thì phức hợp:</p><div class=\"rule-box\" style=\"background: rgba(46, 204, 113, 0.1); border-left: 4px solid #2ecc71; padding: 10px; margin: 10px 0;\"><strong style=\"color: #2ecc71;\">Vai trò của từng nhóm trợ động từ:</strong><br>• <strong>Do / Does / Did:</strong> Đi kèm với <strong>V-nguyên mẫu (V-inf)</strong> để lập câu phủ định và nghi vấn ở thì Hiện tại đơn & Quá khứ đơn (<code>She doesn't know</code>, <code>Did you see him?</code>).<br>• <strong>Am / Is / Are / Was / Were:</strong> Đi kèm với <strong>V-ing</strong> để tạo các thì Tiếp diễn, hoặc đi với <strong>V3/ed</strong> trong câu Bị động.<br>• <strong>Have / Has / Had:</strong> Đi kèm với <strong>V3/ed</strong> để tạo các thì Hoàn thành (<code>They have finished</code>).</div>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Phần 3: Bẫy kinh điển & Trợ động từ nhấn mạnh",
+      "contentHTML": "<p>Hai lỗi sai phổ biến nhất của người học tiếng Anh khi ghép câu:</p><div class=\"rule-box\" style=\"background: rgba(231, 76, 60, 0.1); border-left: 4px solid #e74c3c; padding: 10px; margin: 10px 0;\"><strong style=\"color: #e74c3c;\">Các nguyên tắc sống còn:</strong><br>1. <strong>Không dùng 'Be' chung với Động từ thường nguyên mẫu:</strong><br>❌ <em>Sai:</em> I am agree with you. / Are you like coffee?<br>✔ <em>Đúng:</em> I <strong>agree</strong> with you. / <strong>Do</strong> you like coffee?<br>2. <strong>Đã mượn Do / Does / Did thì động từ chính PHẢI về nguyên mẫu:</strong><br>❌ <em>Sai:</em> He didn't went home. / Does she likes music?<br>✔ <em>Đúng:</em> He <strong>didn't go</strong> home. / <strong>Does</strong> she <strong>like</strong> music?<br>3. <strong>Dùng Do/Does/Did trong câu khẳng định để nhấn mạnh (thực sự):</strong><br>• <code>I <strong>do</strong> understand your problem!</code> <em>(Tôi thực sự hiểu vấn đề của bạn!)</em></div>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The results of the independent review {{are::Chủ ngữ chính results là số nhiều, nên dùng are trước tính từ available ở hiện tại.}} (be ở hiện tại) available online."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Why {{did::Yesterday đặt câu hỏi ở quá khứ đơn; dùng trợ động từ did trước chủ ngữ và động từ nguyên mẫu reject.}} (trợ động từ hỏi ở quá khứ) the committee reject the proposal yesterday?"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The local authority {{has::The local authority là chủ ngữ số ít; has đi với phân từ published để tạo hiện tại hoàn thành.}} (trợ động từ hoàn thành, chủ ngữ số ít) published its annual report."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "At this time yesterday, the final draft {{was::At this time yesterday chỉ hành động đang diễn ra trong quá khứ; chủ ngữ số ít final draft đi với was + being reviewed.}} (be ở quá khứ, chủ ngữ số ít) being reviewed by experts."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The revised policy {{does not | doesn't::Chủ ngữ số ít policy dùng does not hoặc doesn't trong phủ định hiện tại đơn; động từ chính remain giữ nguyên mẫu.}} (trợ động từ phủ định hiện tại đơn) remain in effect after 2027."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "___ the research team agree with the proposed changes? (( Is | **Does** | Has :: Agree là động từ thường; câu hỏi hiện tại đơn với team số ít dùng does + động từ nguyên mẫu. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The applications ___ examined by an independent panel last week. (( did | **were** | have :: Bị động quá khứ đơn dùng were + phân từ examined với chủ ngữ số nhiều applications. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The manager did not ___ the final decision yesterday. (( announced | announces | **announce** :: Sau did not, động từ chính trở về nguyên mẫu announce, không chia quá khứ lần nữa. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The results ___ being analysed at the moment. (( do | **are** | have :: At the moment và being analysed gợi bị động hiện tại tiếp diễn; results số nhiều đi với are. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The board ___ completed its review, so the report is now available. (( is | does | **has** :: Has + phân từ completed tạo hiện tại hoàn thành với chủ ngữ số ít board. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The final recommendations {{are::Recommendations là chủ ngữ số nhiều, nên dùng are trước available.}} (be ở hiện tại; chủ ngữ số nhiều) available on the university website."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "{{Did::Yesterday chỉ quá khứ đơn; Did đứng trước chủ ngữ và động từ nguyên mẫu approve.}} (trợ động từ hỏi quá khứ) the committee approve the proposal yesterday?"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The director {{has::Has + released tạo hiện tại hoàn thành với director số ít.}} (trợ động từ hoàn thành; chủ ngữ số ít) released the report, so it is now public."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "At noon yesterday, the results {{were::Results là số nhiều; were being discussed là bị động quá khứ tiếp diễn.}} (be ở quá khứ; chủ ngữ số nhiều) being discussed."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The new policy {{does not | doesn't::Does not hoặc doesn’t đứng trước động từ nguyên mẫu apply với policy số ít.}} (phủ định hiện tại đơn; chủ ngữ số ít) apply to visitors."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "___ the final report contain a summary? (( Is | **Does** | Has :: Contain là động từ thường; câu hỏi hiện tại đơn với report số ít dùng does. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The proposals ___ examined by an independent panel last month. (( did | **were** | have :: Were + V3 examined là bị động quá khứ đơn với proposals số nhiều. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Why did the council ___ the original plan? (( rejected | **reject** | rejects :: Sau did, động từ chính trở về nguyên mẫu reject. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | auditors | checked | the | documents | before | the | results | were | announced. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ Did | the | committee | approve | the | proposal | at | the | meeting? ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The proposed restrictions {{were not | weren't::The proposed restrictions là số nhiều; yesterday yêu cầu quá khứ, nên dùng were not hoặc weren't trước tính từ necessary.}} (be phủ định ở quá khứ, chủ ngữ số nhiều) necessary yesterday, according to the inspector."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{Has::Chủ ngữ the university là số ít; câu hỏi hiện tại hoàn thành đảo has lên trước chủ ngữ và giữ phân từ published.}} (trợ động từ hoàn thành cho chủ ngữ số ít) the university published the revised timetable yet?"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The researchers {{do::Do đứng trước động từ nguyên mẫu believe trong câu khẳng định để nhấn mạnh; chủ ngữ researchers là số nhiều.}} (trợ động từ nhấn mạnh ở hiện tại) believe further investigation is necessary."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Although the report was criticised, it {{did::Did nhấn mạnh động từ nguyên mẫu identify trong một câu khẳng định về quá khứ.}} (trợ động từ nhấn mạnh ở quá khứ) identify a significant risk."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Why ___ the final version contain an additional section? (( is | **does** | has :: Contain là động từ thường nguyên mẫu; câu hỏi hiện tại đơn với version số ít dùng does. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "At 9 a.m. yesterday, the proposals ___ being discussed. (( are | **were** | have :: Mốc 9 a.m. yesterday và being discussed tạo bị động quá khứ tiếp diễn; proposals số nhiều dùng were. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The board ___ not ready to approve the plan yesterday. (( did | **was** | has :: Ready là tính từ nên dùng be; board là chủ ngữ số ít, yesterday yêu cầu was. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A city council is reviewing a transport proposal. The initial draft {{was::Draft là chủ ngữ số ít; mốc last month cần was trong bị động quá khứ đơn.}} (be ở quá khứ, chủ ngữ số ít) circulated last month. Several residents {{did not | didn't::Last week chỉ quá khứ đơn; sau did not hoặc didn't, động từ support giữ nguyên mẫu.}} (trợ động từ phủ định ở quá khứ) support it at a meeting last week. The council {{has::Council được dùng như một đơn vị số ít ở đây; has + invited tạo hiện tại hoàn thành.}} (trợ động từ hoàn thành cho chủ ngữ số ít) invited experts to comment, and the revised figures {{are::Figures là chủ ngữ số nhiều; are + being checked tạo bị động hiện tại tiếp diễn.}} (be ở hiện tại, chủ ngữ số nhiều) being checked now."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ Did | the | committee | approve | the | revised | proposal | yesterday? ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | final | report | has | been | reviewed | by | independent | experts. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The restrictions {{were not | weren't::Restrictions số nhiều ở quá khứ dùng were not hoặc weren’t trước necessary.}} (be phủ định quá khứ; chủ ngữ số nhiều) necessary when the inspector visited yesterday."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The researchers {{do::Do đứng trước động từ nguyên mẫu believe để nhấn mạnh với researchers số nhiều.}} (trợ động từ nhấn mạnh ở hiện tại) believe the findings are reliable."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The applications {{were::Were being assessed là bị động quá khứ tiếp diễn với applications số nhiều.}} (be quá khứ; chủ ngữ số nhiều) being assessed when the director arrived."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{Has::Câu hỏi hiện tại hoàn thành đảo has trước university và dùng phân từ published.}} (trợ động từ hoàn thành cho chủ ngữ số ít) the university published the updated timetable yet?"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The board ___ not ready to release the results yesterday. (( did | **was** | has :: Ready là tính từ nên cần be; yesterday và board số ít phù hợp was. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The team did not ___ the conclusion until all evidence was reviewed. (( accepted | **accept** | accepts :: Sau did not dùng động từ nguyên mẫu accept. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university is reviewing its transport policy. The initial proposal {{was::Was + circulated là bị động quá khứ đơn với proposal số ít.}} (be quá khứ; chủ ngữ số ít) circulated last month. Several students {{did not | didn't::Did not hoặc didn’t đứng trước support nguyên mẫu trong phủ định quá khứ.}} (trợ động từ phủ định quá khứ) support it at the meeting. The committee {{has::Has + invited tạo hiện tại hoàn thành với committee số ít.}} (trợ động từ hoàn thành; chủ ngữ số ít) invited experts to comment."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "An archive recently discovered a collection of letters. The letters {{are::Letters số nhiều dùng are trong bị động hiện tại tiếp diễn.}} (be hiện tại; chủ ngữ số nhiều) being examined by specialists. The curator {{does not | doesn't::Does not hoặc doesn’t + believe nguyên mẫu tạo phủ định hiện tại đơn.}} (trợ động từ phủ định hiện tại; chủ ngữ số ít) believe the collection is complete. The team {{has::Has + requested là hiện tại hoàn thành với team số ít.}} (trợ động từ hoàn thành; chủ ngữ số ít) requested additional records."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | records | were | being | examined | when | the | director | arrived. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | do | believe | that | further | investigation | is | necessary. ~~"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "g3-16",
+  "title": "16. Quá khứ hoàn thành",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Phần 1: Quá khứ Hoàn thành (Past Perfect)",
+      "contentHTML": "<p>Thì Quá khứ Hoàn thành dùng để diễn tả một <strong>hành động đã xảy ra và kết thúc trước một hành động khác hoặc trước một mốc thời gian cụ thể trong quá khứ</strong>.</p><div class=\"rule-box\" style=\"background: rgba(52, 152, 219, 0.1); border-left: 4px solid #3498db; padding: 10px; margin: 10px 0;\"><strong style=\"color: #3498db;\">Cấu trúc cốt lõi:</strong><br>• Khẳng định: <code>S + had + V3/ed</code><br>• Phủ định: <code>S + hadn't + V3/ed</code><br>• Nghi vấn: <code>Had + S + V3/ed?</code></div><p><strong>Cặp liên từ chỉ thứ tự thời gian:</strong><br>• <code>Before / By the time + Quá khứ đơn, Quá khứ hoàn thành</code><br>• <code>After + Quá khứ hoàn thành, Quá khứ đơn</code></p><p><em>Ví dụ:</em> When we arrived at the cinema, the film <strong>had already started</strong>. <em>(Phim chiếu trước, chúng tôi đến sau).</em></p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Phần 2: Quá khứ Hoàn thành Tiếp diễn (Past Perfect Continuous)",
+      "contentHTML": "<p>Dùng để diễn tả một hành động <strong>đã bắt đầu, diễn ra liên tục kéo dài trước một hành động/mốc thời gian khác trong quá khứ</strong>, nhấn mạnh vào <strong>quá trình hoặc nguyên nhân để lại hậu quả ở quá khứ</strong>.</p><div class=\"rule-box\" style=\"background: rgba(46, 204, 113, 0.1); border-left: 4px solid #2ecc71; padding: 10px; margin: 10px 0;\"><strong style=\"color: #2ecc71;\">Cấu trúc cốt lõi:</strong><br>• Khẳng định: <code>S + had + been + V-ing</code><br>• Phủ định: <code>S + hadn't + been + V-ing</code><br>• Nghi vấn: <code>Had + S + been + V-ing?</code></div><p><em>Ví dụ:</em> He was exhausted because he <strong>had been driving</strong> for six hours straight. <em>(Lý do mệt mỏi trong quá khứ là do đã lái xe liên tục suốt 6 tiếng).</em></p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Phần 3: So sánh & Bẫy 'Hardly / No sooner' trong IELTS",
+      "contentHTML": "<p>Cấu trúc đảo ngữ kinh điển mô tả hai hành động diễn ra nối tiếp nhau ngay lập tức trong quá khứ (vừa mới... thì...):</p><div class=\"rule-box\" style=\"background: rgba(231, 76, 60, 0.1); border-left: 4px solid #e74c3c; padding: 10px; margin: 10px 0;\"><strong style=\"color: #e74c3c;\">Cặp cấu trúc nâng cao:</strong><br>• <code>No sooner + had + S + V3/ed + THAN + S + V2/ed</code><br>• <code>Hardly / Scarcely + had + S + V3/ed + WHEN + S + V2/ed</code></div><p><em>Ví dụ:</em> <strong>No sooner had I stepped</strong> outside <strong>than</strong> it started to pour. <em>(Tôi vừa mới bước chân ra ngoài thì trời đổ mưa xối xả).</em></p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "By the time the inspection began, the laboratory {{had tested::Had tested diễn tả việc kiểm tra hoàn tất trước khi inspection began.}} (test; hoàn tất trước mốc quá khứ) the equipment."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The report was rejected because the authors {{had not cited | hadn't cited::Had not hoặc hadn’t + cited chỉ việc không trích dẫn trước quyết định từ chối.}} (not/cite; trước sự kiện quá khứ) the source correctly."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The visitors arrived after the exhibition {{had closed | closed::Sau after, cả had closed và closed đều có thể chỉ thứ tự trước sau rõ ràng.}} (close; việc xảy ra trước)."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researcher recognised the document because she {{had seen::Had seen cho biết đã nhìn thấy tài liệu trước lúc recognised trong quá khứ.}} (see; trải nghiệm trước mốc quá khứ) it before."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Before the meeting began, the committee {{had reviewed | reviewed::Before làm rõ thứ tự; had reviewed hoặc reviewed đều có thể diễn đạt việc đã kiểm tra trước đó.}} (review; hoàn tất trước cuộc họp) every application."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The ground was wet because it ___ all night long. (( had rained | **had been raining** | rained :: Nhấn mạnh tính liên tục kéo dài suốt đêm ('all night long') để lại hệ quả mặt đất ướt đẫm trong quá khứ -> had been raining ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "When I turned on the television, the match ___. (( already finished | has finished | **had already finished** :: Trận đấu đã kết thúc trước thời điểm tôi bật tivi lên xem -> had already finished ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "No sooner ___ closed the front door than the storm hit. (( I had | **had I** | did I :: Cấu trúc đảo ngữ 'No sooner had + S + V3/ed... than...' -> had I ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "By the age of twenty-five, she ___ two bestselling novels. (( has written | **had written** | had been writing :: Nhấn mạnh kết quả hoàn tất số lượng cụ thể ('two bestselling novels' - 2 cuốn tiểu thuyết) trước một mốc tuổi trong quá khứ -> had written ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Hardly had the teacher entered the classroom ___ the students stood up. (( than | **when** | then :: Cặp từ cố định của cấu trúc đảo ngữ: Hardly / Scarcely đi với WHEN ))"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "By the time the meeting began, the panel {{had reviewed::Had reviewed chỉ việc hoàn tất trước khi cuộc họp bắt đầu.}} (review; hoàn tất trước mốc quá khứ) every application."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The team could not enter because it {{had not obtained | hadn't obtained::Had not hoặc hadn’t + V3 đặt việc chưa có phép trước sự kiện không vào được.}} (not/obtain; thiếu trước thời điểm quá khứ) permission."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The visitors arrived after the exhibition {{had closed | closed::After làm rõ thứ tự; had closed và closed đều có thể dùng.}} (close; việc xảy ra trước sau after)."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The curator recognised the document because she {{had seen::Had seen đặt trải nghiệm trước lúc recognised trong quá khứ.}} (see; trải nghiệm trước mốc quá khứ) it before."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Before the inspection began, the technicians {{had tested | tested::Before nêu rõ trình tự; had tested hoặc tested đều có thể diễn đạt.}} (test; hoàn tất trước cuộc kiểm tra) the system."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "By the end of 2021, the organisation ___ two offices. (( has established yesterday | **had established** | is establish :: Had established chỉ kết quả trước mốc quá khứ end of 2021. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The panel recognised the error because a reviewer ___ it earlier. (( is identifying yesterday | **had identified** | has identify :: Had identified đặt việc nhận ra lỗi trước một thời điểm khác trong quá khứ. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The documents were unavailable because the building ___ damaged in the flood. (( has been yesterday | **had been** | is be :: Had been damaged là bị động quá khứ hoàn thành xảy ra trước tình trạng unavailable. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | technicians | had | tested | the | system | before | the | inspection | began. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | panel | had | examined | the | evidence | before | the | vote | began. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The survey had to be repeated because the original data {{had been::Had been đặt trạng thái dữ liệu ở thời điểm trước quyết định lặp lại khảo sát.}} (be; trạng thái trước quyết định) incomplete."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "By the end of 2021, the organisation {{had established::By the end of 2021 là mốc quá khứ; had established chỉ việc hoàn tất trước hoặc vào mốc đó.}} (establish; hoàn tất trước hạn quá khứ) two regional offices."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The team could not enter because it {{had not obtained | hadn't obtained::Had not/hadn’t obtained diễn tả chưa có giấy phép trước lúc không vào được.}} (not/obtain; thiếu trước thời điểm quá khứ) the necessary permission."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The project started only after the funders {{had approved | approved::After đã làm rõ trình tự; had approved và approved đều có thể dùng.}} (approve; hành động trước sau after) the budget."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "By the time the conference started, the speakers ___ their slides. (( have prepared tomorrow | **had prepared** | are preparing yesterday :: Had prepared chỉ việc chuẩn bị hoàn tất trước mốc started trong quá khứ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The records were unavailable because the building ___ damaged in the flood. (( has been yesterday | **had been** | is be :: Had been damaged là bị động quá khứ hoàn thành, xảy ra trước việc records unavailable. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The panel recognised the error because another reviewer ___ it earlier. (( is identifying yesterday | **had identified** | has identify :: Had identified đặt việc nhận ra lỗi trước một thời điểm khác trong quá khứ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "An institution organised an exhibition in 2022. By opening day, the team {{had collected::Had collected diễn tả việc sưu tầm hoàn tất trước opening day trong quá khứ.}} (collect; trước mốc quá khứ) enough documents. The curator explained that a family {{had donated::Had donated đặt việc tặng trước lời giải thích trong quá khứ.}} (donate; trước lời giải thích) several rare letters. The exhibition was successful because the staff {{had prepared::Had prepared chỉ việc chuẩn bị trước thành công của triển lãm.}} (prepare; hoàn tất trước sự kiện quá khứ) the displays carefully."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | team | had | tested | the | equipment | before | the | inspection | began. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | curator | recognised | the | manuscript | because | she | had | seen | it | before. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "By the time funding was confirmed, the researchers {{had prepared::Had prepared đặt việc chuẩn bị trước khi funding was confirmed.}} (prepare; hoàn tất trước mốc quá khứ) a detailed plan."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The project started after the funders {{had approved | approved::After cho thấy rõ thứ tự; had approved và approved đều có thể dùng.}} (approve; hành động trước sau after) the budget."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The report was rejected because the authors {{had not cited | hadn't cited::Had not hoặc hadn’t cited đặt việc không trích dẫn trước quyết định rejected.}} (not/cite; thiếu trước quyết định quá khứ) the source correctly."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The team repeated the survey because the first dataset {{had been::Had been đặt trạng thái incomplete trước quyết định repeated.}} (be; trạng thái trước quyết định) incomplete."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "When the reviewers arrived, the team ___ the documents and was ready. (( is organising yesterday | **had organised** | has organise :: Had organised cho biết việc sắp xếp đã hoàn tất trước khi reviewers arrived. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The exhibition succeeded because the staff ___ carefully beforehand. (( are preparing yesterday | **had prepared** | has prepare :: Had prepared đặt việc chuẩn bị trước sự kiện quá khứ succeeded. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "An institution organised an exhibition in 2022. By opening day, the team {{had collected::Had collected đặt việc sưu tầm trước opening day trong quá khứ.}} (collect; trước mốc quá khứ) enough documents. The curator explained that a family {{had donated::Had donated đặt việc tặng trước lời giải thích trong quá khứ.}} (donate; trước lời giải thích) several letters. The exhibition succeeded because staff {{had prepared::Had prepared chỉ việc chuẩn bị trước sự kiện succeeded.}} (prepare; hoàn tất trước sự kiện) the displays carefully."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A research project began in 2021. By its start date, the university {{had secured::Had secured diễn tả việc đảm bảo nguồn lực trước mốc quá khứ.}} (secure; trước mốc quá khứ) funding. The researchers {{had designed::Had designed đặt việc thiết kế trước khi thử nghiệm bắt đầu.}} (design; trước sự kiện quá khứ) the survey before testing began. The team then {{collected::Collected kể sự kiện đã hoàn tất sau đó bằng quá khứ đơn.}} (collect; sự kiện hoàn tất) the first responses."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | had | prepared | a | detailed | plan | before | funding | was | confirmed. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | project | started | after | the | funders | approved | the | budget. ~~"
+    }
+  ]
+}

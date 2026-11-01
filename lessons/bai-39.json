@@ -1,0 +1,223 @@
+{
+  "id": "g8-39",
+  "title": "39. Câu gián tiếp",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Tường thuật lời nói",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · TƯỜNG THUẬT LỜI NÓI</span></h2><p>Câu gián tiếp thuật lại nội dung mà không cần giữ nguyên từng từ của người nói.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>say + that + mệnh đề; tell + người nghe + that + mệnh đề.<br>Khi động từ tường thuật ở quá khứ, động từ trong lời nói thường được lùi thì.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>She said, “I am tired.” → She said that she was tired.<br>He told me, “I need help.” → He told me that he needed help.</p><p><span class=\"highlight\">Lưu ý:</span> Không phải lúc nào cũng bắt buộc lùi thì: thông tin vẫn đúng hoặc một sự thật chung có thể giữ thì hiện tại.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Câu hỏi gián tiếp",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · CÂU HỎI GIÁN TIẾP</span></h2><p>Trong câu hỏi tường thuật, dùng trật tự câu kể thay vì đảo trợ động từ như câu hỏi trực tiếp.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Câu hỏi yes/no: ask + if / whether + S + V.<br>Câu hỏi có từ hỏi: ask + từ hỏi + S + V.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>“Do you like tea?” → She asked if I liked tea.<br>“Where do you live?” → He asked where I lived.</p><p><span class=\"highlight\">Lưu ý:</span> Không dùng dấu hỏi và trật tự do you live trong mệnh đề gián tiếp sau asked.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Đại từ và mốc thời gian",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · ĐẠI TỪ VÀ MỐC THỜI GIAN</span></h2><p>Khi tường thuật, điều chỉnh đại từ và từ chỉ thời gian theo người kể và thời điểm kể.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>I có thể đổi thành she / he; my có thể đổi thành her / his.<br>yesterday có thể đổi thành the day before; tomorrow có thể đổi thành the next day.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>“I finished yesterday,” he said. → He said he had finished the day before.<br>“I will call tomorrow,” she said. → She said she would call the next day.</p><p><span class=\"highlight\">Lưu ý:</span> Thay đổi đại từ và thời gian phụ thuộc ngữ cảnh thật; không thay từ một cách máy móc.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "She said, “I am tired.” Later, when she no longer felt tired, she said that she {{was tired::Khi tường thuật lại bằng said về trạng thái đã kết thúc trong quá khứ, am thường lùi thành was; đại từ đổi theo người được nói tới.}} (be / tired) at the time."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "He said, “I finished the task yesterday.” He said he {{had finished | finished::Had finished thường dùng để lùi thì; finished cũng phù hợp khi thứ tự thời gian đã rõ.}} (finish) the task the day before."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "She asked {{if | whether::If và whether đều có thể giới thiệu câu hỏi yes/no gián tiếp trong trường hợp này.}} (từ nối hoặc dạng động từ trong lời tường thuật) I liked tea; her original question was yes or no."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "She asked {{where I lived | where I live::Where I lived là dạng lùi thì phổ biến; where I live phù hợp nếu nơi ở vẫn đúng lúc tường thuật.}} (trật tự câu hỏi gián tiếp sau where); her direct question was “Where do you live?”"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "She {{told::Tell đi trực tiếp với người nghe: told me that; trong khi say thường dùng said to me hoặc said that.}} (say / tell) me that the meeting was cancelled."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "He said, “I am tired.” Later, when he no longer felt tired, he said that he ___ at the time. (( is tired | **was tired** | be tired :: Khi tường thuật lại bằng said về trạng thái đã kết thúc trong quá khứ, am thường lùi thành was; đại từ đổi theo người được nói tới. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "She said, “I finished the task yesterday.” She said she ___ the task the day before. (( has finished | **had finished** | will finish :: Khi tường thuật ở quá khứ, quá khứ đơn finished thường lùi thành had finished; yesterday có thể đổi thành the day before. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "They asked ___ I lived nearby; their original question was yes or no. (( that | what | **if** :: If giới thiệu câu hỏi yes/no gián tiếp; trật tự sau if là chủ ngữ trước động từ. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "They asked ___; their direct question was “Where do you live?” (( where did I live | **where I lived** | where do I live :: Câu hỏi gián tiếp giữ từ hỏi where nhưng dùng trật tự câu kể: I lived, không đảo did. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "He ___ me that the meeting was cancelled. (( said | **told** | tells :: Tell đi trực tiếp với người nghe: told me that; trong khi say thường dùng said to me hoặc said that. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ She | said | that | she | was | tired. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ He | said | that | he | had | finished | the | task. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ She | asked | if | I | liked | tea. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ She | asked | where | I | lived. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ She | told | me | that | the | meeting | was | cancelled. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The director said, “I am tired.” Later she said she {{was tired::Was tired tường thuật trạng thái quá khứ đã kết thúc sau động từ tường thuật ở quá khứ.}} (lùi thì cho trạng thái đã kết thúc) at the time, after she had recovered."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The editor said, “I finished yesterday.” She later said she {{had finished | finished::Had finished là dạng lùi thì thường dùng; finished cũng có thể dùng khi thứ tự thời gian đã rõ.}} (tường thuật hành động đã hoàn tất trước đó) the task the day before."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The panel asked {{if | whether::If và whether đều có thể giới thiệu câu hỏi yes/no gián tiếp.}} (từ nối cho câu hỏi yes/no gián tiếp) the applicant was available; the original question was yes/no."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The curator asked {{where the records were | where the records are::Where the records were là dạng lùi thì; where the records are cũng dùng được nếu vị trí vẫn đúng khi tường thuật.}} (trật tự câu hỏi gián tiếp sau where); the direct question was “Where are the records?”"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The director {{told::Told đi trực tiếp với tân ngữ chỉ người nghe: told the panel.}} (động từ tường thuật đi trực tiếp với người nghe) the team that the meeting was cancelled."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The curator said, “I am tired.” Later she reported that she {{was tired::Was tired tường thuật trạng thái quá khứ đã kết thúc sau động từ tường thuật ở quá khứ.}} (lùi thì cho trạng thái đã kết thúc) at the time and had since recovered."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The analyst said, “I am tired.” Later she recalled that she ___ then but felt better now. (( is tiring yesterday | **was tired** | be tired then :: Was tired tường thuật trạng thái quá khứ đã kết thúc sau động từ tường thuật ở quá khứ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The researcher said, “I finished yesterday.” Later she said she {{had finished | finished::Had finished là dạng lùi thì thường dùng; finished cũng có thể dùng khi thứ tự thời gian đã rõ.}} (tường thuật hành động đã hoàn tất trước đó) the review the day before."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The curator said, “I finished yesterday.” Later she said she ___ the catalogue the day before. (( had finish | **had finished** | has finishing :: Had finished là dạng lùi thì thường dùng; finished cũng có thể dùng khi thứ tự thời gian đã rõ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The director asked {{if | whether::If và whether đều có thể giới thiệu câu hỏi yes/no gián tiếp.}} (từ nối cho câu hỏi yes/no gián tiếp) the report was ready; the original question was yes/no."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The curator asked ___ the documents were complete; the original question was yes/no. (( that if | **if** | what whether :: If và whether đều có thể giới thiệu câu hỏi yes/no gián tiếp. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The analyst asked {{where the records were | where the records are::Where the records were là dạng lùi thì; where the records are cũng dùng được nếu vị trí vẫn đúng khi tường thuật.}} (trật tự câu hỏi gián tiếp sau where); the direct question was “Where are the records?”"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The director asked ___; the direct question was “Where are the records?” (( where were the records | **where the records were** | where did the records were :: Câu hỏi gián tiếp dùng trật tự chủ ngữ + động từ: where the records were. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The curator {{told::Told đi trực tiếp với tân ngữ chỉ người nghe: told the panel.}} (động từ tường thuật đi trực tiếp với người nghe) the students that the archive was closed."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The analyst ___ the panel that the report was ready. (( said to the that | **told** | told to the that :: Told đi trực tiếp với tân ngữ chỉ người nghe: told the panel. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The teacher asked {{if | whether::If và whether đều có thể mở đầu câu hỏi yes/no gián tiếp.}} (từ nối cho câu hỏi yes/no gián tiếp) the students needed help; the original question was yes/no."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The curator asked {{where the records were | where the records are::Where the records were là dạng lùi thì; where the records are cũng dùng được nếu vị trí vẫn đúng khi tường thuật.}} (trật tự câu hỏi gián tiếp); the direct question was “Where are the records?”"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The director {{told::Told đứng trực tiếp trước người nghe; said thường cần to trước người nghe.}} (động từ tường thuật đi trực tiếp với người nghe) the researchers that the event was delayed."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "The curator said, “I am tired,” and later recalled that she {{was tired::Was tired tường thuật trạng thái quá khứ đã kết thúc.}} (be; trạng thái đã kết thúc) at the time. She asked, “Are the documents ready?” and then asked {{if | whether::If và whether đều có thể giới thiệu câu hỏi yes/no gián tiếp.}} (từ nối câu hỏi yes/no) they were ready. She {{told::Told đứng trực tiếp trước tân ngữ chỉ người nghe.}} (động từ đi trực tiếp với người nghe) the staff that the meeting was delayed."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A researcher said, “I finished yesterday,” and later said she {{had finished | finished::Had finished thường dùng để lùi thì; finished cũng có thể dùng khi thứ tự thời gian đã rõ.}} (finish; hành động đã hoàn tất trước đó) the report the day before. She asked, “Where are the records?” and then asked {{where the records were | where the records are::Where the records were là dạng lùi thì; where the records are cũng dùng được nếu vị trí vẫn đúng khi tường thuật.}} (trật tự câu hỏi gián tiếp). The director {{told::Told đứng trực tiếp trước người nghe.}} (động từ đi trực tiếp với người nghe) her that the records were in the archive."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "The chair asked, “Is the applicant available?” and later asked {{if | whether::If và whether đều mở đầu câu hỏi yes/no gián tiếp.}} (từ nối câu hỏi yes/no) the applicant was available. The director said, “I am tired,” and later recalled that she {{was tired::Was tired tường thuật trạng thái quá khứ đã kết thúc.}} (be; trạng thái đã kết thúc) at the time. She {{told::Told đi trực tiếp với người nghe.}} (động từ đi trực tiếp với người nghe) the panel that the meeting was postponed."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | curator | asked | whether | the | documents | were | ready. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | director | told | the | researchers | that | the | meeting | was | cancelled. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | analyst | asked | where | the | records | were | stored. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researcher | said | that | she | had | finished | the | report | the | day | before. ~~"
+    }
+  ]
+}

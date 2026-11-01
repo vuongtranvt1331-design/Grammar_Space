@@ -1,0 +1,88 @@
+{
+  "id": "g9-45",
+  "title": "45. WT1: Sơ đồ quy trình & Bản đồ",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Sơ đồ quy trình",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · SƠ ĐỒ QUY TRÌNH</span></h2><p>Với process, nhận diện điểm bắt đầu, điểm kết thúc và trình tự các giai đoạn trước khi viết.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>First / next / subsequently / finally giúp diễn tả trình tự.<br>Trong quy trình sản xuất, be + V3 thường hữu ích khi tập trung vào vật liệu hoặc công đoạn.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>First, the raw materials are washed. Subsequently, they are heated.<br>The liquid is transformed into a finished product. → Chất lỏng được chuyển thành sản phẩm.</p><p><span class=\"highlight\">Lưu ý:</span> Không bắt buộc 100% câu bị động: quá trình tự nhiên có thể cần chủ động, như Water evaporates.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Từ nối trình tự và Overview",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · TỪ NỐI TRÌNH TỰ VÀ OVERVIEW</span></h2><p>Overview có thể nêu số giai đoạn chính hoặc hành trình tổng quát nếu hình ảnh cho thấy rõ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>before + mệnh đề; prior to + danh từ hoặc V-ing.<br>subsequently có nghĩa sau đó; finally giới thiệu bước cuối.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The material is washed before it is heated.<br>Prior to being heated, the material is washed.</p><p><span class=\"highlight\">Lưu ý:</span> Không tự thêm công đoạn, nguyên nhân hoặc thời lượng mà sơ đồ không cho biết.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Bản đồ và thay đổi không gian",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · BẢN ĐỒ VÀ THAY ĐỔI KHÔNG GIAN</span></h2><p>Với hai bản đồ, so sánh vị trí và những thay đổi nổi bật giữa các mốc.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>was demolished: đã bị phá dỡ; was converted into: đã được chuyển thành.<br>was relocated: đã được chuyển vị trí; to the north of: ở phía bắc của.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The old factory was converted into a library.<br>The car park was relocated to the east of the school.</p><p><span class=\"highlight\">Lưu ý:</span> Dùng quá khứ cho thay đổi đã hoàn tất; nếu bản đồ thể hiện dự kiến, hãy thể hiện rõ đó là kế hoạch.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "gap-fill",
+      "questionHTML": "In the manufacturing diagram, the raw material {{is heated::Vật liệu nhận tác động trong quy trình sản xuất: is + V3 heated là cấu trúc bị động.}} (is heated / heats / is heat) in a machine."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "In the natural water cycle, water {{evaporates::Evaporates là động từ chủ động mô tả nước tự bay hơi; không phải mọi quy trình đều cần bị động.}} (evaporates / is evaporates / evaporating) as it turns into vapour."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "First, the material is washed. {{Subsequently::Subsequently nghĩa là sau đó và nối bước rửa với bước làm khô.}} (subsequently / because / although), it is dried."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "On the later map, the factory was converted {{into::Convert something into something diễn tả sự chuyển đổi từ công năng cũ sang công năng mới.}} (into / from / at) a library."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "The old building was {{demolished::Demolished là V3 trong was demolished, phù hợp khi tòa nhà bị phá dỡ.}} (demolished / risen / arrived) and no longer appears on the later map."
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "Which sentence correctly describes a manufacturing stage? ___ (( **The bottles are filled with water.** | The bottles are fill with water. | The bottles filling with water by machine. :: Chủ ngữ bottles nhận tác động, nên dùng are + V3 filled để tạo bị động hiện tại. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "Which sentence naturally describes water in a natural cycle? ___ (( **Water evaporates in the sun.** | Water is evaporates in the sun. | Water is evaporate in the sun. :: Evaporates là động từ chủ động phù hợp với quá trình tự nhiên; hai phương án còn lại sai cấu trúc. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "Which phrase correctly follows “prior to”? ___ (( **being heated** | it is heated | was heated :: Prior to là cụm giới từ nên có thể theo sau bởi V-ing, ở đây là dạng bị động being heated. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "A factory becomes a library. Which sentence describes this change? ___ (( **The factory was converted into a library.** | The factory converted by a library. | The library was demolished into a factory. :: Was converted into mô tả tòa nhà cũ được chuyển đổi thành thư viện. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "A car park moves to a new position. Which verb fits? ___ (( **was relocated** | was eaten | evaporated :: Was relocated diễn tả việc bãi đỗ xe được chuyển sang vị trí khác. ))"
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ First | the | raw | materials | are | washed. ~~",
+      "feedback": "First the raw materials are washed. Are washed là bị động mô tả công đoạn rửa nguyên liệu."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | liquid | is | transformed | into | a | finished | product. ~~",
+      "feedback": "The liquid is transformed into a finished product. Is transformed into mô tả vật liệu được biến đổi thành sản phẩm."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ Water | evaporates | in | the | sun. ~~",
+      "feedback": "Water evaporates in the sun. Evaporates là chủ động tự nhiên khi mô tả nước bay hơi."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | factory | was | converted | into | a | library. ~~",
+      "feedback": "The factory was converted into a library. Was converted into mô tả sự thay đổi công năng trên bản đồ."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | car | park | was | relocated | to | the | east. ~~",
+      "feedback": "The car park was relocated to the east. Was relocated diễn tả việc chuyển vị trí; to the east nêu hướng."
+    }
+  ]
+}

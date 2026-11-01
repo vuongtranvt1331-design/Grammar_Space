@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#506a45">
+  <meta name="description" content="Turn grammar lessons into an interactive 3D notebook.">
+  <title>GrammarSpace</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Pangolin&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%2064%2064%22%3E%3Crect%20x%3D%221%22%20y%3D%221%22%20width%3D%2262%22%20height%3D%2262%22%20rx%3D%2214%22%20fill%3D%22%23fdfbf7%22%20stroke%3D%22%23cdd6c6%22%20stroke-width%3D%222%22%2F%3E%3Ccircle%20cx%3D%228%22%20cy%3D%2217%22%20r%3D%223%22%20fill%3D%22%23506a45%22%2F%3E%3Ccircle%20cx%3D%228%22%20cy%3D%2232%22%20r%3D%223%22%20fill%3D%22%23506a45%22%2F%3E%3Ccircle%20cx%3D%228%22%20cy%3D%2247%22%20r%3D%223%22%20fill%3D%22%23506a45%22%2F%3E%3Cpath%20d%3D%22M17%201v62%22%20stroke%3D%22%23df8278%22%2F%3E%3Cpath%20d%3D%22M1%2023h62M1%2046.72h62%22%20stroke%3D%22%23b9cbb2%22%2F%3E%3Ctext%20x%3D%2239%22%20y%3D%2246.72%22%20text-anchor%3D%22middle%22%20font-family%3D%22cursive%22%20font-size%3D%2225%22%20fill%3D%22%232d5a27%22%3E%26gt%3B9%3C%2Ftext%3E%3C%2Fsvg%3E">
+  <link rel="stylesheet" href="./css/notebook-3d.css?v=cinematic1">
+  <link rel="stylesheet" href="./css/style.css?v=cinematic1">
+  <link rel="stylesheet" href="./assets/space-loader.css?v=cinematic2">
+  <script defer src="./assets/space-loader.js?v=cinematic2"></script>
+</head>
+<body>
+  <section id="space-loader" class="space-loader space-loader--gs" data-space-loader="gs" role="status" aria-label="Loading GrammarSpace" aria-busy="true">
+    <audio data-loader-audio preload="auto" src="assets/gs-loading-normalized.wav?v=cinematic2" hidden></audio>
+    <div class="space-loader__stage" aria-hidden="true">
+      <div class="space-loader__logo">
+        <div class="space-brand space-brand--gs" >
+          <i class="space-brand__holes" aria-hidden="true"></i>
+          <i class="space-brand__rule space-brand__rule--first" aria-hidden="true"></i>
+          <i class="space-brand__rule space-brand__rule--second" aria-hidden="true"></i>
+          <span class="space-brand__mark" aria-hidden="true"><svg viewBox="0 0 60 34" focusable="false" aria-hidden="true"><text x="30" y="34" text-anchor="middle" font-family="inherit" font-size="32" fill="currentColor">&gt;9</text></svg></span>
+        </div>
+      </div>
+      <div class="space-loader__prompt"><span data-loader-lead>&gt; 9</span><span data-loader-text></span><span class="space-loader__cursor" data-loader-cursor>_</span></div>
+    </div>
+  </section>
+  <script>window.__spaceLoaderFailsafe = window.setTimeout(function () { document.getElementById('space-loader')?.remove(); }, 30000);</script>
+  <noscript><style>.space-loader { display: none; }</style></noscript>
+
+  <div class="app-shell" id="app-shell">
+    <header class="app-header" id="app-header">
+      <div class="app-brand-lockup">
+        <div class="space-brand space-brand--gs" style="--space-brand-size: 46px" role="img" aria-label="GrammarSpace Mini Notebook">
+          <i class="space-brand__holes" aria-hidden="true"></i>
+          <i class="space-brand__rule space-brand__rule--first" aria-hidden="true"></i>
+          <i class="space-brand__rule space-brand__rule--second" aria-hidden="true"></i>
+          <span class="space-brand__mark" aria-hidden="true"><svg viewBox="0 0 60 34" focusable="false" aria-hidden="true"><text x="30" y="34" text-anchor="middle" font-family="inherit" font-size="32" fill="currentColor">&gt;9</text></svg></span>
+        </div>
+        <h1 class="app-title">GrammarSpace</h1>
+      </div>
+      <div class="sub-brand-container">
+        <a href="https://vuongtranvt1331-design.github.io/Lexical_Space/" 
+           target="_blank" 
+           rel="noopener noreferrer" 
+           class="lexical-space-link" 
+           id="lexical-space-link"
+           title="Khám phá Lexical Space - Vũ trụ từ vựng">
+          <span class="portal-icon" aria-hidden="true">✦</span>
+          <span class="sub-brand-text">Lexical Space</span>
+          <span class="portal-arrow" aria-hidden="true">↗</span>
+        </a>
+      </div>
+      <p class="app-subtitle">A space to learn, one lesson at a time.</p>
+    </header>
+
+    <p class="app-notice" id="app-notice" role="status" hidden></p>
+
+    <main>
+      <!-- Lesson Library (Direct Landing Page) -->
+      <section id="library-view" aria-label="Grammar Library">
+        <ul id="library-lessons" class="library-grid" aria-label="Grammar lessons"></ul>
+        <div id="library-empty" class="library-empty" hidden>
+          <span aria-hidden="true">✎</span>
+          <h2>A fresh page awaits</h2>
+          <p>Danh mục hiện chưa có bài học. Hãy quay lại sau.</p>
+        </div>
+        <p id="library-status" class="library-status" role="status" aria-live="polite"></p>
+      </section>
+
+      <!-- 3D Notebook View -->
+      <section id="notebook-view" aria-label="Lesson notebook" hidden>
+        <div class="notebook notebook-loader" id="notebook-loader" hidden>
+          <h2 id="lesson-load-title" tabindex="-1"></h2>
+          <p id="lesson-load-message" class="source-message" role="status" aria-live="polite"></p>
+          <div class="loader-actions">
+            <button type="button" id="retry-lesson" hidden>Thử lại ↻</button>
+            <button type="button" id="cancel-lesson-load">← Về thư viện</button>
+          </div>
+        </div>
+        <div class="book" id="notebook-book"></div>
+        <p class="lesson-progress" id="lesson-progress" role="status" aria-live="polite"></p>
+      </section>
+
+      <noscript><p>Please enable JavaScript to use GrammarSpace.</p></noscript>
+    </main>
+  </div>
+
+  <!-- Holographic Canvas Annotation Layer -->
+  <canvas id="annotation-layer"></canvas>
+
+  <!-- AssistiveTouch Annotation Floating Menu -->
+  <aside id="annotation-touch" class="annotation-touch-container" aria-label="Ghi chú vẽ tay">
+    <div id="annotation-toolbar" class="annotation-toolbar" role="toolbar" aria-label="Công cụ ghi chú">
+      <!-- 1. Pen Tool Button -->
+      <button type="button" id="annotation-tool-pen" class="annotation-tool-btn is-active" title="Bút vẽ" aria-label="Bút vẽ" aria-pressed="true">
+        <svg class="tool-btn-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"></path>
+        </svg>
+      </button>
+
+      <!-- 2. Eraser Tool Button -->
+      <button type="button" id="annotation-tool-eraser" class="annotation-tool-btn" title="Cục tẩy" aria-label="Cục tẩy" aria-pressed="false">
+        <svg class="tool-btn-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <path d="m7 21-4.3-4.3c-1-1-1-2.5 0-3.4l9.6-9.6c1-1 2.5-1 3.4 0l5.6 5.6c1 1 1 2.5 0 3.4L13 21"></path>
+          <path d="M22 21H7"></path>
+          <path d="m5 11 9 9"></path>
+        </svg>
+      </button>
+
+      <!-- 3. Active Color Indicator & Color Picker Popup -->
+      <div class="annotation-color-wrapper">
+        <button type="button" id="annotation-color-btn" class="annotation-color-indicator-btn" title="Chọn màu bút" aria-label="Chọn màu bút" aria-haspopup="true" aria-expanded="false">
+          <span class="active-color-circle" id="annotation-active-color"></span>
+        </button>
+        <div id="annotation-color-popup" class="annotation-color-popup" role="menu" aria-label="Bảng màu" hidden>
+          <button type="button" class="color-swatch" data-color="#ff9a9e" style="background-color: #ff9a9e;" title="Pastel Red" aria-label="Pastel Red"></button>
+          <button type="button" class="color-swatch" data-color="#a1c4fd" style="background-color: #a1c4fd;" title="Pastel Blue" aria-label="Pastel Blue"></button>
+          <button type="button" class="color-swatch" data-color="#c2e9fb" style="background-color: #c2e9fb;" title="Pastel Green" aria-label="Pastel Green"></button>
+        </div>
+      </div>
+
+      <!-- 4. Clear All Button -->
+      <button type="button" id="annotation-clear-btn" class="annotation-tool-btn" title="Xóa toàn bộ" aria-label="Xóa toàn bộ">
+        <svg class="tool-btn-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <polyline points="3 6 5 6 21 6"></polyline>
+          <path d="M19 6v14a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2V6m3 0V4a2 2 0 0 1 2-2h4a2 2 0 0 1 2 2v2"></path>
+          <line x1="10" y1="11" x2="10" y2="17"></line>
+          <line x1="14" y1="11" x2="14" y2="17"></line>
+        </svg>
+      </button>
+    </div>
+
+    <!-- Main AssistiveTouch Trigger Button -->
+    <button type="button" id="annotation-trigger" class="annotation-trigger-btn" aria-label="Bật chế độ vẽ ghi chú" aria-expanded="false" title="Vẽ ghi chú (AssistiveTouch)">
+      <span class="trigger-halo" aria-hidden="true"></span>
+      <svg class="trigger-icon icon-pen" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <path d="M12 20h9"></path>
+        <path d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"></path>
+      </svg>
+      <svg class="trigger-icon icon-close" viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+        <line x1="18" y1="6" x2="6" y2="18"></line>
+        <line x1="6" y1="6" x2="18" y2="18"></line>
+      </svg>
+    </button>
+  </aside>
+
+  <script src="./js/offline-register.js" defer></script>
+  
+  <script type="module" src="./js/notebook-ui.js?v=cinematic1"></script>
+  <script type="module" src="./js/app.js?v=cinematic1"></script>
+</body>
+</html>

@@ -1,0 +1,223 @@
+{
+  "id": "g3-17",
+  "title": "17. Các thì tương lai",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Will và be going to",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · WILL VÀ BE GOING TO</span></h2><p>Hai cấu trúc đều có thể nói về tương lai, nhưng người nói chọn theo bối cảnh.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>will + V nguyên mẫu: dự đoán, quyết định ngay lúc nói hoặc lời hứa.<br>am/is/are going to + V nguyên mẫu: dự định đã có hoặc dự đoán dựa vào dấu hiệu hiện tại.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>I think electric buses will become more common. → Tôi dự đoán xe buýt điện sẽ phổ biến hơn.<br>Look at those clouds! It is going to rain. → Những đám mây là dấu hiệu trời sắp mưa.</p><p><span class=\"highlight\">Lưu ý:</span> Will và going to có thể cùng phù hợp trong một số dự đoán; hãy đọc bối cảnh thay vì dựa vào một từ khóa.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Kế hoạch và lịch trình",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · KẾ HOẠCH VÀ LỊCH TRÌNH</span></h2><p>Có thể dùng thì hiện tại để diễn đạt một số việc trong tương lai.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Present Continuous: am/is/are + V-ing cho cuộc hẹn hoặc sự sắp xếp đã định.<br>Present Simple thường diễn tả thời gian biểu hoặc lịch trình cố định.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>I am meeting my tutor tomorrow; we have arranged it. → Tôi đã hẹn gặp gia sư.<br>The train leaves at 8 tomorrow morning. → Tàu có lịch khởi hành lúc 8 giờ.</p><p><span class=\"highlight\">Lưu ý:</span> Một mốc như tomorrow không tự xác định thì; hãy xem đó là dự đoán, kế hoạch hay lịch trình.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Phủ định, câu hỏi và mệnh đề thời gian",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · PHỦ ĐỊNH, CÂU HỎI VÀ MỆNH ĐỀ THỜI GIAN</span></h2><p>Khi kể kế hoạch, cần đặt trợ động từ đúng vị trí.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Will + S + V...?; S + will not / won’t + V.<br>Trong mệnh đề thời gian nói về tương lai sau when, before, after, thường dùng hiện tại đơn.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>Will you join us tomorrow? → Bạn sẽ tham gia cùng chúng tôi chứ?<br>I will call you when I arrive. → Tôi sẽ gọi khi đến nơi.</p><p><span class=\"highlight\">Lưu ý:</span> When I arrive là mệnh đề thời gian trong câu này; arrive không cần will ở mệnh đề đó.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The conference {{starts::Thời khóa biểu hoặc lịch chính thức tương lai thường dùng hiện tại đơn starts.}} (start; lịch cố định) at 9 a.m. tomorrow according to the official programme."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Look at those dark clouds: it {{is going to rain | will rain::Is going to rain nhấn mạnh dấu hiệu hiện tại; will rain cũng có thể là dự đoán trong ngữ cảnh này.}} (rain; dự đoán dựa trên dấu hiệu) soon."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The research team {{is meeting::Hiện tại tiếp diễn is meeting diễn đạt lịch hẹn tương lai đã được sắp xếp.}} (meet; lịch hẹn đã sắp xếp) the director tomorrow; the meeting has already been arranged."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "I think the new policy {{will make::I think nêu dự đoán theo quan điểm; will + make nguyên mẫu phù hợp.}} (make; dự đoán theo quan điểm) public transport more attractive."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers have decided that they {{are going to repeat | will repeat::Are going to repeat nhấn mạnh kế hoạch; will repeat cũng diễn đạt sự việc tương lai đã quyết định.}} (repeat; kế hoạch đã quyết định) the experiment next month."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "I believe the new policy ___ improve public transport. (( are | **will** | has :: Will + động từ nguyên mẫu diễn tả một dự đoán; become và improve giữ dạng nguyên mẫu. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Look at the glass near the edge of the table! It ___ fall. (( **is going to** | has | was :: Is going to + động từ nguyên mẫu có thể diễn tả dự đoán dựa trên dấu hiệu đang nhìn thấy. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "We ___ our guide tomorrow; the arrangement is confirmed. (( meet | **are meeting** | will have met :: Hiện tại tiếp diễn có thể dùng cho cuộc hẹn tương lai đã được sắp xếp. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The bus ___ at nine tomorrow according to its published schedule. (( is leaving | will have left | **leaves** :: Hiện tại đơn diễn tả thời gian biểu cố định; chủ ngữ số ít đi với leaves. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "She will send the file when she ___ home. (( will arrive | arrive | **arrives** :: Trong mệnh đề thời gian when nói về tương lai, dùng hiện tại đơn; với she dùng arrives. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The seminar {{starts::Lịch trình chính thức trong tương lai thường dùng hiện tại đơn starts.}} (start; lịch trình cố định) at 9 a.m. tomorrow according to the timetable."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Look at those clouds: it {{is going to rain | will rain::Is going to rain nhấn mạnh dấu hiệu hiện tại; will rain cũng là một dự đoán có thể dùng.}} (rain; dự đoán tương lai) soon."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The director {{is meeting::Hiện tại tiếp diễn is meeting diễn tả cuộc hẹn tương lai đã sắp xếp.}} (meet; lịch hẹn đã sắp xếp) the researchers tomorrow; the meeting is confirmed."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "I think the new policy {{will make::Will + make diễn tả dự đoán theo quan điểm người nói.}} (make; dự đoán theo quan điểm) transport more reliable."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers have decided they {{are going to repeat | will repeat::Are going to repeat nhấn mạnh kế hoạch; will repeat cũng có thể diễn đạt sự việc tương lai.}} (repeat; kế hoạch đã quyết định) the experiment next month."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The train ___ at 7 a.m. tomorrow according to the timetable. (( left tomorrow | **leaves** | has leaving :: Lịch tàu cố định trong tương lai thường dùng hiện tại đơn leaves. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The team ___ the curator tomorrow; the appointment is confirmed. (( met tomorrow | **is meeting** | has meet :: Hiện tại tiếp diễn phù hợp với lịch hẹn tương lai đã xác nhận. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "I think demand ___ next year. (( rises yesterday | **will rise** | has rising :: Will rise diễn tả dự đoán theo ý kiến về next year. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | seminar | starts | at | noon | according | to | the | published | schedule. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | director | is | meeting | the | advisers | tomorrow | afternoon. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The train {{leaves::Lịch tàu chính thức thường dùng hiện tại đơn leaves.}} (leave; lịch trình cố định) at 7:10 tomorrow morning, according to the timetable."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The committee {{is consulting::Hiện tại tiếp diễn is consulting phù hợp với lịch hẹn cụ thể đã sắp xếp.}} (consult; lịch hẹn đã xác nhận) a specialist on Tuesday; the appointment has been confirmed."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The analyst predicts that demand {{will increase | is going to increase::Will increase và is going to increase đều có thể diễn tả dự đoán trong ngữ cảnh này.}} (increase; dự đoán tương lai) over the next decade."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The office door is open. I {{will close::Will close diễn tả quyết định được đưa ra ngay tại thời điểm nói.}} (close; quyết định ngay lúc nói) it now."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The seminar ___ at 2 p.m. tomorrow according to the published schedule. (( began tomorrow | **begins** | has beginning :: Lịch trình cố định trong tương lai thường dùng hiện tại đơn begins. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The team ___ the curator tomorrow; the appointment is confirmed. (( met tomorrow | **is meeting** | has meet :: Hiện tại tiếp diễn có thể diễn tả lịch hẹn tương lai đã được xác nhận. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "I think the number of applicants ___ next year. (( rises yesterday | **will rise** | has rising :: Will rise diễn tả dự đoán về next year theo quan điểm người nói. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university is planning a research conference. According to the schedule, the first lecture {{starts::Starts dùng hiện tại đơn cho lịch trình chính thức tương lai.}} (start; lịch trình) at nine tomorrow. The organisers {{are meeting::Are meeting diễn tả cuộc hẹn đã sắp xếp; organisers số nhiều.}} (meet; cuộc hẹn đã sắp xếp) the speakers this evening. They expect that the event {{will attract | is going to attract::Will attract và is going to attract đều có thể dùng để dự đoán số người tham dự.}} (attract; dự đoán) a large audience."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | train | leaves | at | seven | according | to | the | published | timetable. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | organisers | are | meeting | the | speakers | tomorrow | afternoon. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The lecture {{begins::Hiện tại đơn begins dùng cho lịch trình chính thức tương lai.}} (begin; lịch trình cố định) at noon tomorrow according to the published schedule."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The committee {{is consulting::Is consulting diễn đạt lịch hẹn cụ thể đã được sắp xếp.}} (consult; lịch hẹn đã xác nhận) an adviser on Tuesday; the appointment is confirmed."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The analyst predicts that demand {{will increase | is going to increase::Will increase và is going to increase đều có thể diễn tả dự đoán.}} (increase; dự đoán tương lai) over the next decade."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The window is open. I {{will close::Will close diễn tả quyết định vừa được đưa ra tại thời điểm nói.}} (close; quyết định ngay lúc nói) it now."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The conference ___ at 10 a.m. tomorrow according to the programme. (( began tomorrow | **begins** | has beginning :: Hiện tại đơn begins dùng cho lịch trình chính thức. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The analyst expects investment ___ next year. (( grew tomorrow | **will grow** | is grow :: Will grow diễn tả dự đoán trong tương lai. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A university is planning a conference. According to the schedule, the first lecture {{starts::Starts dùng hiện tại đơn cho lịch trình cố định.}} (start; lịch trình) at nine tomorrow. The organisers {{are meeting::Are meeting diễn tả cuộc hẹn đã sắp xếp.}} (meet; cuộc hẹn đã sắp xếp) the speakers this evening. They expect that the event {{will attract | is going to attract::Cả will attract và is going to attract đều có thể diễn tả dự đoán.}} (attract; dự đoán) a large audience."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A town is preparing a new bus service. According to the timetable, the first bus {{leaves::Leaves là hiện tại đơn dùng cho lịch trình.}} (leave; lịch trình) at six tomorrow. The transport team {{is meeting::Is meeting diễn tả cuộc hẹn đã sắp xếp với team số ít.}} (meet; cuộc hẹn đã sắp xếp) local residents tonight. The mayor thinks the service {{will reduce::Will reduce diễn tả dự đoán theo quan điểm.}} (reduce; dự đoán) congestion."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | lecture | begins | at | noon | according | to | the | published | schedule. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | committee | is | consulting | an | adviser | on | Tuesday | afternoon. ~~"
+    }
+  ]
+}

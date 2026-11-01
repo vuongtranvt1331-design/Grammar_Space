@@ -1,0 +1,88 @@
+{
+  "id": "g9-44",
+  "title": "44. WT1: Dữ liệu tĩnh, Bảng số liệu & Biểu đồ tròn",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Dữ liệu tĩnh là gì?",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · DỮ LIỆU TĨNH LÀ GÌ?</span></h2><p>Bảng hoặc biểu đồ tròn có thể so sánh các nhóm tại một thời điểm mà không thể hiện chuỗi thời gian.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Đọc đơn vị và xác định các nhóm có thể so sánh.<br>Khi chỉ có một thời điểm, không tự suy ra xu hướng tăng hoặc giảm.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>Dữ liệu ví dụ năm 2020: A = 50%, B = 30%, C = 20%.<br>A was the largest category in 2020. → A là nhóm lớn nhất năm 2020.</p><p><span class=\"highlight\">Lưu ý:</span> Một biểu đồ tròn theo nhiều năm có thể cho phép so sánh thay đổi; phải dựa trên đúng hình ảnh được cung cấp.</p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Overview và nhóm dữ liệu",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · OVERVIEW VÀ NHÓM DỮ LIỆU</span></h2><p>Overview nêu đặc điểm nổi bật, còn thân bài chọn số liệu tiêu biểu để hỗ trợ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Tìm nhóm cao nhất / thấp nhất và những nhóm có giá trị gần nhau.<br>Nhóm dữ liệu theo đặc điểm chung hoặc sự đối lập có ý nghĩa.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>Overall, A accounted for the largest share, while C made up the smallest.<br>A and B together accounted for 80% in the example data.</p><p><span class=\"highlight\">Lưu ý:</span> Không liệt kê mọi ô dữ liệu nếu việc đó che khuất những đặc điểm chính; các số kết hợp phải được tính đúng.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Viết so sánh có chọn lọc",
+      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · VIẾT SO SÁNH CÓ CHỌN LỌC</span></h2><p>Đặt hai số liệu liên quan cạnh nhau giúp người đọc thấy sự khác biệt.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>A accounted for 50%, compared with 30% for B.<br>A was the largest group, while C was the smallest.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>A made up half of the total in the example.<br>B accounted for a larger share than C: 30% versus 20%.</p><p><span class=\"highlight\">Lưu ý:</span> Không suy đoán nguyên nhân từ biểu đồ. Nếu năm dữ liệu nằm trong quá khứ, dùng thì phù hợp với bối cảnh.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "type": "gap-fill",
+      "questionHTML": "In the example chart, A is 50%, B is 30% and C is 20%. A is the {{largest::A chiếm 50%, cao nhất trong ba nhóm, nên dùng largest.}} (largest / smallest / lower)."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "In the same data, C is the {{smallest::C ở mức 20%, thấp nhất trong ba nhóm, nên dùng smallest.}} (smallest / largest / higher) group at 20%."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "In 2020, A {{accounted for::Accounted for diễn tả tỷ phần trong tổng thể tại năm 2020; increased to hàm ý thay đổi theo thời gian.}} (accounted for / increased to / caused) 50% of the total."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "A accounted for 50%, {{while::While nối hai số liệu để đối chiếu; biểu đồ không cung cấp nguyên nhân nên không suy ra because.}} (while / because / unless) B made up 30%."
+    },
+    {
+      "type": "gap-fill",
+      "questionHTML": "For a chart with data from only one year, avoid inventing a {{trend::Một thời điểm đơn lẻ không cho thấy xu hướng theo thời gian; category và unit vẫn có thể xuất hiện trong biểu đồ.}} (trend / category / unit) over time."
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "A = 50%, B = 30%, C = 20% in 2020. Which overview is supported? ___ (( **A was the largest category and C was the smallest.** | All categories rose over the year. | C was larger than A. :: 50% là giá trị cao nhất, 20% là thấp nhất; dữ liệu một thời điểm không xác nhận xu hướng tăng. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "Why group related data in a Task 1 response? ___ (( **To make significant patterns and comparisons easier to follow.** | To omit the overview entirely. | To invent reasons for the figures. :: Nhóm các số liệu liên quan giúp trình bày mạch lạc và làm rõ đặc điểm nổi bật. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "A pie chart shows one year only. Which verb is safest without further time data? ___ (( **accounted for** | rose | fell :: Accounted for mô tả tỷ trọng tại một thời điểm; rose và fell cần bằng chứng về sự thay đổi theo thời gian. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "A = 50% and B = 30%. Which comparison is correct? ___ (( **A accounted for 50%, compared with 30% for B.** | B was larger than A. | A and B were equal. :: Phương án đúng giữ cả hai số liệu và so sánh chính xác 50% với 30%. ))"
+    },
+    {
+      "type": "mcq",
+      "questionHTML": "What belongs in an overview of static data? ___ (( **The most notable differences among categories.** | Every number repeated without selection. | A personal explanation of why people made each choice. :: Overview tóm tắt đặc điểm nổi bật; số chi tiết chọn lọc đặt ở thân bài và không nên tự bịa nguyên nhân. ))"
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ Category | A | accounted | for | the | largest | share. ~~",
+      "feedback": "Category A accounted for the largest share. Accounted for diễn tả tỷ trọng của nhóm A trong dữ liệu quá khứ."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ Category | C | had | the | smallest | proportion. ~~",
+      "feedback": "Category C had the smallest proportion. The smallest nêu nhóm có tỷ lệ thấp nhất."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | table | compares | three | categories | in | one | year. ~~",
+      "feedback": "The table compares three categories in one year. Compares phù hợp với bảng đối chiếu các nhóm ở một năm."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | figures | for | A | and | B | were | relatively | similar. ~~",
+      "feedback": "The figures for A and B were relatively similar. Relatively similar so sánh các giá trị gần nhau khi dữ liệu cho phép."
+    },
+    {
+      "type": "unscramble",
+      "questionHTML": "Sắp xếp thành câu đúng: ~~ An | overview | summarises | the | most | notable | differences. ~~",
+      "feedback": "An overview summarises the most notable differences. Overview chọn ra những khác biệt nổi bật thay vì lặp tất cả số liệu."
+    }
+  ]
+}

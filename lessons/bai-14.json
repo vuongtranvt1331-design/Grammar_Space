@@ -1,0 +1,223 @@
+{
+  "id": "g3-14",
+  "title": "14. Hiện tại hoàn thành",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Phần 1: Cấu trúc & Bản chất cốt lõi",
+      "contentHTML": "<p>Thì Hiện tại Hoàn thành diễn tả một hành động xảy ra trong quá khứ nhưng <strong>kết quả hoặc ảnh hưởng vẫn còn lưu lại ở hiện tại</strong>, hoặc nói về <strong>trải nghiệm tính đến thời điểm hiện tại</strong> (không xác định thời gian cụ thể).</p><div class=\"rule-box\" style=\"background: rgba(52, 152, 219, 0.1); border-left: 4px solid #3498db; padding: 10px; margin: 10px 0;\"><strong style=\"color: #3498db;\">Cấu trúc cốt lõi:</strong><br>• Khẳng định: <code>S + have / has + V3/ed</code><br>• Phủ định: <code>S + haven't / hasn't + V3/ed</code><br>• Nghi vấn: <code>Have / Has + S + V3/ed?</code></div><p><em>Lưu ý:</em> He / She / It / Danh từ số ít đi với <code>has</code>. I / You / We / They / Danh từ số nhiều đi với <code>have</code>.</p><p><em>Ví dụ:</em> I <strong>have lost</strong> my key. <em>(Mất trong quá khứ, hiện tại vẫn chưa tìm thấy).</em></p>"
+    },
+    {
+      "pageNumber": 2,
+      "pageTitle": "Phần 2: Dấu hiệu nhận biết & Cặp từ kinh điển",
+      "contentHTML": "<p>Các trạng từ thường gặp trong các bài thi ngữ pháp và bài viết IELTS:</p><div class=\"rule-box\" style=\"background: rgba(46, 204, 113, 0.1); border-left: 4px solid #2ecc71; padding: 10px; margin: 10px 0;\"><strong style=\"color: #2ecc71;\">Dấu hiệu nhận biết:</strong><br>• <strong>Since + Mốc thời gian:</strong> <em>since 2010, since last week, since I was a child</em>.<br>• <strong>For + Khoảng thời gian:</strong> <em>for 5 years, for two months, for ages</em>.<br>• <strong>Already / Just / Never / Ever:</strong> Đứng giữa <code>have/has</code> và <code>V3/ed</code>.<br>• <strong>Yet:</strong> Đứng cuối câu phủ định và câu hỏi.</div><p><em>Ví dụ:</em> She <strong>has worked</strong> here <em>for three years</em>.</p>"
+    },
+    {
+      "pageNumber": 3,
+      "pageTitle": "Phần 3: Phân biệt bẫy - Have been to vs. Have gone to",
+      "contentHTML": "<p>Đây là điểm rất hay bị bẫy trong các bài thi trắc nghiệm:</p><div class=\"rule-box\" style=\"background: rgba(231, 76, 60, 0.1); border-left: 4px solid #e74c3c; padding: 10px; margin: 10px 0;\"><strong style=\"color: #e74c3c;\">Bẫy phân biệt:</strong><br>• <strong>Have/Has been to:</strong> Đã từng đến đó và <em>đã quay trở về</em> (trải nghiệm).<br>• <strong>Have/Has gone to:</strong> Đã đi đến đó và <em>hiện chưa về</em> (đang trên đường hoặc vẫn ở đó).</div><p>❌ <em>Sai:</em> My mom has gone to Paris three times.<br>✔ <em>Đúng:</em> My mom <strong>has been to</strong> Paris three times.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The university {{has published::Since the project began nối quá khứ với hiện tại; university số ít dùng has published.}} (publish; hoàn thành đến hiện tại) three reports since the project began."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers {{have not released | haven't released::Yet trong câu phủ định và chủ ngữ số nhiều dùng have not/haven’t + released.}} (not/release; chưa hoàn tất đến nay) the final results yet."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The archive {{has been::Since 2019 chỉ trạng thái kéo dài đến hiện tại; archive số ít dùng has been.}} (be; trạng thái từ quá khứ đến nay) open to the public since 2019."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Several countries {{have adopted::In recent years là khoảng thời gian chưa khép lại; countries số nhiều dùng have adopted.}} (adopt; giai đoạn kéo dài đến hiện tại) similar policies in recent years."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The research group {{has completed::Kết quả hiện tại là findings available; has completed nhấn mạnh việc vừa hoàn tất.}} (complete; kết quả hiện tại) its work, so the findings are now available."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Where is Anna? - She ___ to the supermarket. (( has been | **has gone** | went :: Anna hiện không có ở đây, đã đi đến siêu thị và chưa về -> dùng 'has gone' ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "I have never ___ such a breathtaking landscape before. (( see | saw | **seen** :: Cấu trúc Hiện tại hoàn thành với never: have + never + V3/ed (seen) ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Have you ___ finished the final project report? (( yet | **already** | since :: Dùng 'already' trong câu hỏi mang ý ngạc nhiên vì hành động hoàn thành sớm hơn mong đợi ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "He ___ English since he was in elementary school. (( learned | **has learned** | is learning :: Mệnh đề chứa 'since + mốc quá khứ đơn' thì mệnh đề chính dùng Hiện tại hoàn thành (has learned) ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "How many times ___ to Da Lat city? (( did you go | were you | **have you been** :: Hỏi về số lần trải nghiệm tính đến hiện tại -> dùng have you been to ))"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The institute {{has published::Since 2021 nối quá khứ với hiện tại; institute số ít dùng has published.}} (publish; kết quả tính đến hiện tại) several reports since 2021."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers {{have not released | haven't released::Have not hoặc haven’t + V3 diễn tả điều chưa hoàn tất đến hiện tại.}} (not/release; chưa hoàn tất đến nay) their findings yet."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The archive {{has been::Since 2018 chỉ trạng thái kéo dài đến hiện tại; archive dùng has been.}} (be; trạng thái kéo dài đến nay) open to visitors since 2018."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Several cities {{have adopted::In recent years là giai đoạn nối đến hiện tại; cities dùng have adopted.}} (adopt; khoảng thời gian đến hiện tại) similar measures in recent years."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The council {{has completed::Has completed nhấn mạnh việc đã xong và quyết định hiện đã công khai.}} (complete; kết quả hiện tại) its review, so the decision is now public."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The team ___ the preliminary results yet. (( does not published | **has not published** | is not publish :: Yet và ý chưa hoàn tất phù hợp has not published. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The programme ___ considerably since 2020. (( has expand | **has expanded** | is expanded since :: Since 2020 dùng hiện tại hoàn thành has expanded. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The document ___, so it is available online. (( has releasing | **has been released** | is release :: Has been released là hiện tại hoàn thành bị động với kết quả hiện tại. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | archive | has | been | open | to | visitors | since | 2018. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | university | has | announced | the | findings | of | its | annual | survey. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The number of registered participants {{has increased | has grown::Has increased và has grown đều diễn tả số lượng tăng từ January đến hiện tại.}} (động từ chỉ sự tăng từ quá khứ đến nay) since January."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The researchers {{have examined::Have examined cho biết việc kiểm tra đã hoàn tất và hiện có kết quả để so sánh.}} (examine; kết quả liên quan hiện tại) the original records, and they are ready to compare them."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The institute {{has conducted | has been conducting::Hiện tại hoàn thành đơn hoặc tiếp diễn đều có thể diễn đạt hoạt động kéo dài; tiếp diễn nhấn mạnh quá trình.}} (conduct; hoạt động kéo dài đến nay) this annual survey for a decade and still conducts it."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The policy {{has undergone::Has + undergone là hiện tại hoàn thành; since xác lập điểm bắt đầu trong quá khứ.}} (undergo; thay đổi đến hiện tại) several revisions since it was introduced."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The researchers ___ their conclusions yet. (( did not publish tomorrow | **have not published** | are not publish :: Yet và ý chưa hoàn thành đến hiện tại phù hợp have not published. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The collection ___ considerably since 2020. (( expanded since tomorrow | **has expanded** | is expand :: Since 2020 chỉ khoảng thời gian đến hiện tại; collection số ít dùng has expanded. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The latest report ___, so it can now be downloaded. (( was releasing tomorrow | **has been released** | is release :: Kết quả hiện tại dùng hiện tại hoàn thành bị động has been released. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A city has monitored air quality since 2020. The number of monitoring stations {{has increased | has grown::Has increased và has grown đều diễn tả mức tăng từ quá khứ đến hiện tại.}} (động từ chỉ sự tăng đến hiện tại) since the project began. The research team {{has published::Team số ít dùng has published khi kết quả đã được công bố đến nay.}} (publish; kết quả đến hiện tại) several reports. However, it {{has not completed | hasn't completed::Have/has not + V3 diễn tả việc chưa hoàn thành; team số ít dùng has not hoặc hasn't.}} (not/complete; chưa hoàn tất) the latest review yet."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | have | published | several | reports | since | the | project | began. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | archive | has | been | open | to | the | public | since | 2019. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The number of participants {{has increased | has grown::Has increased và has grown đều diễn tả số lượng tăng từ quá khứ đến nay.}} (động từ chỉ sự tăng đến hiện tại) since the programme started."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The organisation {{has worked | has been working::Hiện tại hoàn thành đơn và tiếp diễn đều có thể diễn tả công việc kéo dài đến nay.}} (work; hoạt động kéo dài đến hiện tại) in this community for a decade and still works there."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The committee {{has reviewed::Has reviewed nêu việc xem xét đã hoàn tất và có kết quả hiện tại.}} (review; kết quả liên quan hiện tại) the applications and is ready to make a decision."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The policy {{has undergone::Has undergone là hiện tại hoàn thành; undergone là V3 của undergo.}} (undergo; thay đổi đến hiện tại) several revisions since it was introduced."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The number of applications ___ since January. (( increased since tomorrow | **has increased** | is increase :: Since January nối đến hiện tại; has increased phù hợp với number số ít. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The final report ___, so students can download it. (( has publishing | **has been published** | is publish :: Has been published là hiện tại hoàn thành bị động với kết quả hiện tại. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A city has monitored air quality since 2020. The number of stations {{has increased | has grown::Has increased và has grown đều diễn tả số lượng tăng đến hiện tại.}} (động từ chỉ sự tăng đến hiện tại) since the project began. The research team {{has published::Team số ít dùng has published khi công bố các báo cáo đến nay.}} (publish; kết quả đến hiện tại) several reports. However, it {{has not completed | hasn't completed::Has not hoặc hasn’t + V3 diễn tả việc chưa hoàn tất với team số ít.}} (not/complete; chưa hoàn tất) the latest review yet."
+    },
+    {
+      "tier": "apply",
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A library started a digitisation project in 2019. It {{has scanned::Has scanned diễn tả số lượng đã được quét từ quá khứ đến hiện tại.}} (scan; kết quả đến hiện tại) thousands of documents since then. The collection {{has become::Has become diễn tả sự thay đổi tạo trạng thái hiện tại.}} (become; thay đổi đến hiện tại) easier to search, and researchers {{have used::Have used diễn tả việc sử dụng trong giai đoạn recent years nối đến hiện tại.}} (use; giai đoạn đến hiện tại) it extensively in recent years. The work continues."
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | university | has | published | three | reports | since | the | project | began. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | final | report | has | been | released | and | is | now | available | online. ~~"
+    }
+  ]
+}
