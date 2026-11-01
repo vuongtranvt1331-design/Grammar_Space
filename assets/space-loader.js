@@ -150,20 +150,20 @@
         emit('blinking');
         await Promise.all([
           animate(cursor, [
-            { opacity: 1, offset: 0 }, { opacity: 1, offset: 0.35 },
-            { opacity: 0, offset: 0.5 }, { opacity: 0, offset: 0.85 },
+            { opacity: 1, offset: 0, easing: 'steps(1, end)' },
+            { opacity: 0, offset: 0.5, easing: 'steps(1, end)' },
             { opacity: 1, offset: 1 }
-          ], slow(600), { iterations: 3 }),
+          ], slow(600), { iterations: 3, easing: 'linear' }),
           ready
         ]);
         if (signal.aborted) return;
 
         emit('zooming');
         await Promise.all([
-          animate(prompt, [{ transform: initialPrompt }, { transform: settledPrompt }], slow(1800)),
+          animate(prompt, [{ transform: initialPrompt }, { transform: settledPrompt }], slow(2600)),
           animate(logo, [{ opacity: 0, transform: initialLogo }, {
             opacity: 1, transform: 'translate3d(-50%, 0, 0)'
-          }], slow(1800))
+          }], slow(2600))
         ]);
         if (signal.aborted) return;
       }
