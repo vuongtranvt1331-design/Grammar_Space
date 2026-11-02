@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "Before planning, identify the topic and the key {{keywords::Keywords giúp xác định chủ đề và những giới hạn như đối tượng hoặc phạm vi; charts và axes không phải thành phần chung của mọi đề Task 2.}} (keywords / charts / axes) that limit the question."
+      "questionHTML": "Before planning, identify the topic and the key {{keywords::Keywords giúp xác định chủ đề và những giới hạn như đối tượng hoặc phạm vi; charts và axes không phải thành phần chung của mọi đề Task 2.}} [axes / charts / keywords] that limit the question."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "For “Discuss both views and give your opinion”, address both views and state your {{opinion::Đề yêu cầu thảo luận hai quan điểm và cho biết ý kiến của người viết, nên cần opinion.}} (opinion / unit / chart)."
+      "questionHTML": "For “Discuss both views and give your opinion”, address both views and state your {{opinion::Đề yêu cầu thảo luận hai quan điểm và cho biết ý kiến của người viết, nên cần opinion.}} [chart / unit / opinion]."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "For a causes-and-solutions question, brainstorm causes and possible {{solutions::Đề nguyên nhân và giải pháp cần cả causes lẫn solutions; chỉ liệt kê nguyên nhân sẽ chưa trả lời đầy đủ.}} (solutions / labels / axes)."
+      "questionHTML": "For a causes-and-solutions question, brainstorm causes and possible {{solutions::Đề nguyên nhân và giải pháp cần cả causes lẫn solutions; chỉ liệt kê nguyên nhân sẽ chưa trả lời đầy đủ.}} [axes / labels / solutions]."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "It is often {{argued::It is often argued that là cụm dẫn một quan điểm thường được nêu; động từ argued phù hợp với nội dung lập luận.}} (argued / counted / graphed) that reliable buses can reduce traffic."
+      "questionHTML": "It is often {{argued::It is often argued that là cụm dẫn một quan điểm thường được nêu; động từ argued phù hợp với nội dung lập luận.}} (argue) that reliable buses can reduce traffic."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "{{Proponents::Proponents of this view chỉ những người ủng hộ quan điểm ấy; cụm này giúp gắn ý kiến với nhóm người nêu ý kiến.}} (proponents / axes / percentages) of this view suggest that better buses can reduce commuting costs."
+      "questionHTML": "{{Proponents::Proponents of this view chỉ những người ủng hộ quan điểm ấy; cụm này giúp gắn ý kiến với nhóm người nêu ý kiến.}} [percentages / axes / proponents] of this view suggest that better buses can reduce commuting costs."
     },
     {
       "type": "mcq",

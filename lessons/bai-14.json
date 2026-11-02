@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The university {{has published::Since the project began nối quá khứ với hiện tại; university số ít dùng has published.}} (publish; hoàn thành đến hiện tại) three reports since the project began."
+      "questionHTML": "The university {{has published::Since the project began nối quá khứ với hiện tại; university số ít dùng has published.}} (publish) three reports since the project began."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{have not released | haven't released::Yet trong câu phủ định và chủ ngữ số nhiều dùng have not/haven’t + released.}} (not/release; chưa hoàn tất đến nay) the final results yet."
+      "questionHTML": "The researchers {{have not released | haven't released::Yet trong câu phủ định và chủ ngữ số nhiều dùng have not/haven’t + released.}} [not] (release) the final results yet."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The archive {{has been::Since 2019 chỉ trạng thái kéo dài đến hiện tại; archive số ít dùng has been.}} (be; trạng thái từ quá khứ đến nay) open to the public since 2019."
+      "questionHTML": "The archive {{has been::Since 2019 chỉ trạng thái kéo dài đến hiện tại; archive số ít dùng has been.}} (be) open to the public since 2019."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Several countries {{have adopted::In recent years là khoảng thời gian chưa khép lại; countries số nhiều dùng have adopted.}} (adopt; giai đoạn kéo dài đến hiện tại) similar policies in recent years."
+      "questionHTML": "Several countries {{have adopted::In recent years là khoảng thời gian chưa khép lại; countries số nhiều dùng have adopted.}} (adopt) similar policies in recent years."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The research group {{has completed::Kết quả hiện tại là findings available; has completed nhấn mạnh việc vừa hoàn tất.}} (complete; kết quả hiện tại) its work, so the findings are now available."
+      "questionHTML": "The research group {{has completed::Kết quả hiện tại là findings available; has completed nhấn mạnh việc vừa hoàn tất.}} (complete) its work, so the findings are now available."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The institute {{has published::Since 2021 nối quá khứ với hiện tại; institute số ít dùng has published.}} (publish; kết quả tính đến hiện tại) several reports since 2021."
+      "questionHTML": "The institute {{has published::Since 2021 nối quá khứ với hiện tại; institute số ít dùng has published.}} (publish) several reports since 2021."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{have not released | haven't released::Have not hoặc haven’t + V3 diễn tả điều chưa hoàn tất đến hiện tại.}} (not/release; chưa hoàn tất đến nay) their findings yet."
+      "questionHTML": "The researchers {{have not released | haven't released::Have not hoặc haven’t + V3 diễn tả điều chưa hoàn tất đến hiện tại.}} [not] (release) their findings yet."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The archive {{has been::Since 2018 chỉ trạng thái kéo dài đến hiện tại; archive dùng has been.}} (be; trạng thái kéo dài đến nay) open to visitors since 2018."
+      "questionHTML": "The archive {{has been::Since 2018 chỉ trạng thái kéo dài đến hiện tại; archive dùng has been.}} (be) open to visitors since 2018."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Several cities {{have adopted::In recent years là giai đoạn nối đến hiện tại; cities dùng have adopted.}} (adopt; khoảng thời gian đến hiện tại) similar measures in recent years."
+      "questionHTML": "Several cities {{have adopted::In recent years là giai đoạn nối đến hiện tại; cities dùng have adopted.}} (adopt) similar measures in recent years."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The council {{has completed::Has completed nhấn mạnh việc đã xong và quyết định hiện đã công khai.}} (complete; kết quả hiện tại) its review, so the decision is now public."
+      "questionHTML": "The council {{has completed::Has completed nhấn mạnh việc đã xong và quyết định hiện đã công khai.}} (complete) its review, so the decision is now public."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The number of registered participants {{has increased | has grown::Has increased và has grown đều diễn tả số lượng tăng từ January đến hiện tại.}} (động từ chỉ sự tăng từ quá khứ đến nay) since January."
+      "questionHTML": "The number of registered participants {{has increased | has grown::Has increased và has grown đều diễn tả số lượng tăng từ January đến hiện tại.}} (increase) since January."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{have examined::Have examined cho biết việc kiểm tra đã hoàn tất và hiện có kết quả để so sánh.}} (examine; kết quả liên quan hiện tại) the original records, and they are ready to compare them."
+      "questionHTML": "The researchers {{have examined::Have examined cho biết việc kiểm tra đã hoàn tất và hiện có kết quả để so sánh.}} (examine) the original records, and they are ready to compare them."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The institute {{has conducted | has been conducting::Hiện tại hoàn thành đơn hoặc tiếp diễn đều có thể diễn đạt hoạt động kéo dài; tiếp diễn nhấn mạnh quá trình.}} (conduct; hoạt động kéo dài đến nay) this annual survey for a decade and still conducts it."
+      "questionHTML": "The institute {{has conducted | has been conducting::Hiện tại hoàn thành đơn hoặc tiếp diễn đều có thể diễn đạt hoạt động kéo dài; tiếp diễn nhấn mạnh quá trình.}} (conduct) this annual survey for a decade and still conducts it."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The policy {{has undergone::Has + undergone là hiện tại hoàn thành; since xác lập điểm bắt đầu trong quá khứ.}} (undergo; thay đổi đến hiện tại) several revisions since it was introduced."
+      "questionHTML": "The policy {{has undergone::Has + undergone là hiện tại hoàn thành; since xác lập điểm bắt đầu trong quá khứ.}} (undergo) several revisions since it was introduced."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A city has monitored air quality since 2020. The number of monitoring stations {{has increased | has grown::Has increased và has grown đều diễn tả mức tăng từ quá khứ đến hiện tại.}} (động từ chỉ sự tăng đến hiện tại) since the project began. The research team {{has published::Team số ít dùng has published khi kết quả đã được công bố đến nay.}} (publish; kết quả đến hiện tại) several reports. However, it {{has not completed | hasn't completed::Have/has not + V3 diễn tả việc chưa hoàn thành; team số ít dùng has not hoặc hasn't.}} (not/complete; chưa hoàn tất) the latest review yet."
+      "questionHTML": "A city has monitored air quality since 2020. The number of monitoring stations {{has increased | has grown::Has increased và has grown đều diễn tả mức tăng từ quá khứ đến hiện tại.}} (increase) since the project began. The research team {{has published::Team số ít dùng has published khi kết quả đã được công bố đến nay.}} (publish) several reports. However, it {{has not completed | hasn't completed::Have/has not + V3 diễn tả việc chưa hoàn thành; team số ít dùng has not hoặc hasn't.}} [not] (complete) the latest review yet."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The number of participants {{has increased | has grown::Has increased và has grown đều diễn tả số lượng tăng từ quá khứ đến nay.}} (động từ chỉ sự tăng đến hiện tại) since the programme started."
+      "questionHTML": "The number of participants {{has increased | has grown::Has increased và has grown đều diễn tả số lượng tăng từ quá khứ đến nay.}} (increase) since the programme started."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The organisation {{has worked | has been working::Hiện tại hoàn thành đơn và tiếp diễn đều có thể diễn tả công việc kéo dài đến nay.}} (work; hoạt động kéo dài đến hiện tại) in this community for a decade and still works there."
+      "questionHTML": "The organisation {{has worked | has been working::Hiện tại hoàn thành đơn và tiếp diễn đều có thể diễn tả công việc kéo dài đến nay.}} (work) in this community for a decade and still works there."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The committee {{has reviewed::Has reviewed nêu việc xem xét đã hoàn tất và có kết quả hiện tại.}} (review; kết quả liên quan hiện tại) the applications and is ready to make a decision."
+      "questionHTML": "The committee {{has reviewed::Has reviewed nêu việc xem xét đã hoàn tất và có kết quả hiện tại.}} (review) the applications and is ready to make a decision."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The policy {{has undergone::Has undergone là hiện tại hoàn thành; undergone là V3 của undergo.}} (undergo; thay đổi đến hiện tại) several revisions since it was introduced."
+      "questionHTML": "The policy {{has undergone::Has undergone là hiện tại hoàn thành; undergone là V3 của undergo.}} (undergo) several revisions since it was introduced."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A city has monitored air quality since 2020. The number of stations {{has increased | has grown::Has increased và has grown đều diễn tả số lượng tăng đến hiện tại.}} (động từ chỉ sự tăng đến hiện tại) since the project began. The research team {{has published::Team số ít dùng has published khi công bố các báo cáo đến nay.}} (publish; kết quả đến hiện tại) several reports. However, it {{has not completed | hasn't completed::Has not hoặc hasn’t + V3 diễn tả việc chưa hoàn tất với team số ít.}} (not/complete; chưa hoàn tất) the latest review yet."
+      "questionHTML": "A city has monitored air quality since 2020. The number of stations {{has increased | has grown::Has increased và has grown đều diễn tả số lượng tăng đến hiện tại.}} (increase) since the project began. The research team {{has published::Team số ít dùng has published khi công bố các báo cáo đến nay.}} (publish) several reports. However, it {{has not completed | hasn't completed::Has not hoặc hasn’t + V3 diễn tả việc chưa hoàn tất với team số ít.}} [not] (complete) the latest review yet."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A library started a digitisation project in 2019. It {{has scanned::Has scanned diễn tả số lượng đã được quét từ quá khứ đến hiện tại.}} (scan; kết quả đến hiện tại) thousands of documents since then. The collection {{has become::Has become diễn tả sự thay đổi tạo trạng thái hiện tại.}} (become; thay đổi đến hiện tại) easier to search, and researchers {{have used::Have used diễn tả việc sử dụng trong giai đoạn recent years nối đến hiện tại.}} (use; giai đoạn đến hiện tại) it extensively in recent years. The work continues."
+      "questionHTML": "A library started a digitisation project in 2019. It {{has scanned::Has scanned diễn tả số lượng đã được quét từ quá khứ đến hiện tại.}} (scan) thousands of documents since then. The collection {{has become::Has become diễn tả sự thay đổi tạo trạng thái hiện tại.}} (become) easier to search, and researchers {{have used::Have used diễn tả việc sử dụng trong giai đoạn recent years nối đến hiện tại.}} (use) it extensively in recent years. The work continues."
     },
     {
       "tier": "apply",

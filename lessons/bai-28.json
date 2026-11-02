@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The students enjoy {{reading::Enjoy thường theo sau bởi V-ing; reading là dạng V-ing của read.}} (dạng động từ sau enjoy) research papers."
+      "questionHTML": "The students enjoy {{reading::Enjoy thường theo sau bởi V-ing; reading là dạng V-ing của read.}} (read) research papers."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The team decided {{to revise::Decide thường theo sau bởi to + động từ nguyên mẫu.}} (dạng động từ sau decide) the proposal."
+      "questionHTML": "The team decided {{to revise::Decide thường theo sau bởi to + động từ nguyên mẫu.}} (revise) the proposal."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The organisation avoids {{sharing::Avoid thường đi với V-ing; sharing là dạng V-ing của share.}} (dạng động từ sau avoid) confidential data."
+      "questionHTML": "The organisation avoids {{sharing::Avoid thường đi với V-ing; sharing là dạng V-ing của share.}} (share) confidential data."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers plan {{to publish::Plan thường đi với to + động từ nguyên mẫu.}} (dạng động từ sau plan) the results next month."
+      "questionHTML": "The researchers plan {{to publish::Plan thường đi với to + động từ nguyên mẫu.}} (publish) the results next month."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The students are interested in {{analysing | analyzing::Sau giới từ in dùng V-ing; analysing và analyzing là hai cách viết hợp lệ.}} (dạng động từ sau giới từ in) survey data."
+      "questionHTML": "The students are interested in {{analysing | analyzing::Sau giới từ in dùng V-ing; analysing và analyzing là hai cách viết hợp lệ.}} (analyse) survey data."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The reviewers enjoy {{reading::Enjoy thường theo sau bởi V-ing; reading là dạng V-ing của read.}} (dạng động từ sau enjoy) original studies before discussion."
+      "questionHTML": "The reviewers enjoy {{reading::Enjoy thường theo sau bởi V-ing; reading là dạng V-ing của read.}} (read) original studies before discussion."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The committee decided {{to revise::Decide thường theo sau bởi to + động từ nguyên mẫu.}} (dạng động từ sau decide) the original plan."
+      "questionHTML": "The committee decided {{to revise::Decide thường theo sau bởi to + động từ nguyên mẫu.}} (revise) the original plan."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The research group avoids {{sharing::Avoid thường đi với V-ing; sharing là dạng V-ing của share.}} (dạng động từ sau avoid) personal details without consent."
+      "questionHTML": "The research group avoids {{sharing::Avoid thường đi với V-ing; sharing là dạng V-ing của share.}} (share) personal details without consent."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The journal plans {{to publish::Plan thường đi với to + động từ nguyên mẫu.}} (dạng động từ sau plan) the findings next year."
+      "questionHTML": "The journal plans {{to publish::Plan thường đi với to + động từ nguyên mẫu.}} (publish) the findings next year."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team is interested in {{analysing | analyzing::Sau giới từ in dùng V-ing; analysing và analyzing là hai cách viết hợp lệ.}} (dạng động từ sau giới từ in) the responses."
+      "questionHTML": "The team is interested in {{analysing | analyzing::Sau giới từ in dùng V-ing; analysing và analyzing là hai cách viết hợp lệ.}} (analyse) the responses."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The committee suggested {{revising::Suggest thường theo sau bởi V-ing khi đề xuất một hành động.}} (revise; dạng sau suggest) the draft before publication."
+      "questionHTML": "The committee suggested {{revising::Suggest thường theo sau bởi V-ing khi đề xuất một hành động.}} (revise) the draft before publication."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The director wants {{to review::Want thường đi với to + động từ nguyên mẫu.}} (review; dạng sau want) the final report."
+      "questionHTML": "The director wants {{to review::Want thường đi với to + động từ nguyên mẫu.}} (review) the final report."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team is committed to {{improving::Trong be committed to, to là giới từ nên theo sau là V-ing.}} (improve; dạng sau giới từ to) access to education."
+      "questionHTML": "The team is committed to {{improving::Trong be committed to, to là giới từ nên theo sau là V-ing.}} (improve) access to education."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team is preparing a publication. The members enjoy {{reading::Enjoy thường đi với V-ing.}} (read; dạng sau enjoy) relevant studies. They decided {{to revise::Decide thường đi với to + động từ nguyên mẫu.}} (revise; dạng sau decide) the draft. They also avoid {{sharing::Avoid thường đi với V-ing.}} (share; dạng sau avoid) confidential details."
+      "questionHTML": "A research team is preparing a publication. The members enjoy {{reading::Enjoy thường đi với V-ing.}} (read) relevant studies. They decided {{to revise::Decide thường đi với to + động từ nguyên mẫu.}} (revise) the draft. They also avoid {{sharing::Avoid thường đi với V-ing.}} (share) confidential details."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is studying transport patterns. Researchers are interested in {{analysing | analyzing::Sau giới từ in dùng V-ing; cả hai cách viết đều được chấp nhận.}} (analyse; dạng sau giới từ) survey responses. They plan {{to publish::Plan thường đi với to + động từ nguyên mẫu.}} (publish; dạng sau plan) their findings. The team suggested {{revising::Suggest thường theo sau bởi V-ing.}} (revise; dạng sau suggest) the questionnaire first."
+      "questionHTML": "A university is studying transport patterns. Researchers are interested in {{analysing | analyzing::Sau giới từ in dùng V-ing; cả hai cách viết đều được chấp nhận.}} (analyse) survey responses. They plan {{to publish::Plan thường đi với to + động từ nguyên mẫu.}} (publish) their findings. The team suggested {{revising::Suggest thường theo sau bởi V-ing.}} (revise) the questionnaire first."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A committee is reviewing an education programme. Members enjoy {{reading::Enjoy đi với V-ing.}} (read; dạng sau enjoy) students’ feedback. They want {{to review::Want đi với to + động từ nguyên mẫu.}} (review; dạng sau want) the results carefully. The university is committed to {{improving::Trong be committed to, to là giới từ nên dùng V-ing.}} (improve; dạng sau giới từ) access for all students."
+      "questionHTML": "A committee is reviewing an education programme. Members enjoy {{reading::Enjoy đi với V-ing.}} (read) students’ feedback. They want {{to review::Want đi với to + động từ nguyên mẫu.}} (review) the results carefully. The university is committed to {{improving::Trong be committed to, to là giới từ nên dùng V-ing.}} (improve) access for all students."
     },
     {
       "tier": "apply",

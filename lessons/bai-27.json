@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I {{had my hair cut::Had + tân ngữ my hair + V3 cut diễn tả việc nhờ cắt tóc trong quá khứ.}} (have / my hair / cut) at the salon yesterday."
+      "questionHTML": "I {{had my hair cut::Had + tân ngữ my hair + V3 cut diễn tả việc nhờ cắt tóc trong quá khứ.}} [my hair] (cut) at the salon yesterday."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I {{had my car repaired::Had my car repaired nghĩa là nhờ sửa xe; repaired là V3 sau tân ngữ.}} (have / my car / repair) at the garage yesterday."
+      "questionHTML": "I {{had my car repaired::Had my car repaired nghĩa là nhờ sửa xe; repaired là V3 sau tân ngữ.}} [my car] (repair) at the garage yesterday."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "We {{will have the house painted::Will have + tân ngữ + painted diễn tả việc sẽ nhờ sơn ngôi nhà.}} (have / the house / paint) next month through a painting company."
+      "questionHTML": "We {{will have the house painted::Will have + tân ngữ + painted diễn tả việc sẽ nhờ sơn ngôi nhà.}} [the house] (paint) next month through a painting company."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I {{got my phone fixed::Got + my phone + V3 fixed có thể diễn tả việc nhờ cửa hàng sửa điện thoại.}} (get / my phone / fix) at the shop yesterday."
+      "questionHTML": "I {{got my phone fixed::Got + my phone + V3 fixed có thể diễn tả việc nhờ cửa hàng sửa điện thoại.}} [my phone] (fix) at the shop yesterday."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "We need to {{have the documents printed::Sau need to hoặc want to dùng have nguyên mẫu, rồi tân ngữ và V3 printed.}} (have / documents / print) at the print shop."
+      "questionHTML": "We need to {{have the documents printed::Sau need to hoặc want to dùng have nguyên mẫu, rồi tân ngữ và V3 printed.}} [the documents] (print) at the print shop."
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The team {{had the equipment repaired | got the equipment repaired::Had/got + tân ngữ + V3 diễn tả việc nhờ sửa thiết bị trong quá khứ.}} (nhờ sửa thiết bị trong quá khứ) by a specialist yesterday."
+      "questionHTML": "The team {{had the equipment repaired | got the equipment repaired::Had/got + tân ngữ + V3 diễn tả việc nhờ sửa thiết bị trong quá khứ.}} [the equipment] (repair) by a specialist yesterday."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The director {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra; chủ ngữ số ít dùng has hoặc gets.}} (nhờ kiểm tra báo cáo theo thói quen) by an editor every month."
+      "questionHTML": "The director {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra; chủ ngữ số ít dùng has hoặc gets.}} [the reports] (check) by an editor every month."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The team {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc sẽ nhờ in tài liệu.}} (nhờ in tài liệu trong tương lai) at a print shop next week."
+      "questionHTML": "The team {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc sẽ nhờ in tài liệu.}} [the documents] (print) at a print shop next week."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The team needs to {{have the equipment checked | get the equipment checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3 checked.}} (nhờ kiểm tra sau to) by a specialist."
+      "questionHTML": "The team needs to {{have the equipment checked | get the equipment checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3 checked.}} [the equipment] (check) by a specialist."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The committee {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ người khác xem xét báo cáo.}} (nhờ xem xét báo cáo trong quá khứ) by an editor last week."
+      "questionHTML": "The committee {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ người khác xem xét báo cáo.}} [the report] (review) by an editor last week."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The laboratory {{had the equipment repaired | got the equipment repaired::Had/got + tân ngữ + V3 diễn tả việc nhờ sửa thiết bị trong quá khứ.}} (nhờ sửa thiết bị trong quá khứ) by an engineer last week."
+      "questionHTML": "The laboratory {{had the equipment repaired | got the equipment repaired::Had/got + tân ngữ + V3 diễn tả việc nhờ sửa thiết bị trong quá khứ.}} [the equipment] (repair) by an engineer last week."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The curator {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra; chủ ngữ số ít dùng has hoặc gets.}} (nhờ kiểm tra báo cáo theo thói quen) by an editor before each exhibition."
+      "questionHTML": "The curator {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra; chủ ngữ số ít dùng has hoặc gets.}} [the reports] (check) by an editor before each exhibition."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The organisation {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc sẽ nhờ in tài liệu.}} (nhờ in tài liệu trong tương lai) at the print shop tomorrow."
+      "questionHTML": "The organisation {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc sẽ nhờ in tài liệu.}} [the documents] (print) at the print shop tomorrow."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The organisation wants to {{have the equipment checked | get the equipment checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3 checked.}} (nhờ kiểm tra sau to) before the event."
+      "questionHTML": "The organisation wants to {{have the equipment checked | get the equipment checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3 checked.}} [the equipment] (check) before the event."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The university {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ người khác xem xét báo cáo.}} (nhờ xem xét báo cáo trong quá khứ) by a specialist before publication yesterday."
+      "questionHTML": "The university {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ người khác xem xét báo cáo.}} [the report] (review) by a specialist before publication yesterday."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The library will {{have the manuscript restored | get the manuscript restored::Will have/get + tân ngữ + V3 restored chỉ việc nhờ phục chế.}} (nhờ phục chế tài liệu trong tương lai) by a conservator next month."
+      "questionHTML": "The library will {{have the manuscript restored | get the manuscript restored::Will have/get + tân ngữ + V3 restored chỉ việc nhờ phục chế.}} [the manuscript] (restore) by a conservator next month."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The director needs to {{have the presentation checked | get the presentation checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3 checked.}} (nhờ kiểm tra sau to) before the conference."
+      "questionHTML": "The director needs to {{have the presentation checked | get the presentation checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3 checked.}} [the presentation] (check) before the conference."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The organisation {{had the system repaired | got the system repaired::Had/got + tân ngữ + V3 repaired diễn tả việc nhờ sửa trong quá khứ.}} (nhờ sửa hệ thống trong quá khứ) by a technician yesterday."
+      "questionHTML": "The organisation {{had the system repaired | got the system repaired::Had/got + tân ngữ + V3 repaired diễn tả việc nhờ sửa trong quá khứ.}} [the system] (repair) by a technician yesterday."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A laboratory is preparing for an inspection. Yesterday, the team {{had the equipment repaired | got the equipment repaired::Had/got + tân ngữ + V3 diễn tả việc nhờ sửa trong quá khứ.}} (nhờ sửa thiết bị trong quá khứ) by a technician. The director {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra thường xuyên.}} (nhờ kiểm tra báo cáo thường xuyên) every month. Next week, the team {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc nhờ in trong tương lai.}} (nhờ in tài liệu trong tương lai) at a print shop."
+      "questionHTML": "A laboratory is preparing for an inspection. Yesterday, the team {{had the equipment repaired | got the equipment repaired::Had/got + tân ngữ + V3 diễn tả việc nhờ sửa trong quá khứ.}} [the equipment] (repair) by a technician. The director {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra thường xuyên.}} [the reports] (check) every month. Next week, the team {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc nhờ in trong tương lai.}} [the documents] (print) at a print shop."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A museum is preparing an exhibition. The staff {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ xem xét trong quá khứ.}} (nhờ xem xét báo cáo quá khứ) by an expert last week. The curator needs to {{have the equipment checked | get the equipment checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3.}} (nhờ kiểm tra thiết bị) before opening. The museum {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc nhờ in trong tương lai.}} (nhờ in tài liệu tương lai) next month."
+      "questionHTML": "A museum is preparing an exhibition. The staff {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ xem xét trong quá khứ.}} [the report] (review) by an expert last week. The curator needs to {{have the equipment checked | get the equipment checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3.}} [the equipment] (check) before opening. The museum {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc nhờ in trong tương lai.}} [the documents] (print) next month."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is updating its archive. Yesterday, the team {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ xem xét quá khứ.}} (nhờ xem xét báo cáo quá khứ) by an editor. The director {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra định kỳ.}} (nhờ kiểm tra báo cáo định kỳ) every month. Staff will {{have the documents printed | get the documents printed::Sau will dùng have/get nguyên mẫu + tân ngữ + V3.}} (nhờ in tài liệu) at a local print shop."
+      "questionHTML": "A university is updating its archive. Yesterday, the team {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ xem xét quá khứ.}} [the report] (review) by an editor. The director {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra định kỳ.}} [the reports] (check) every month. Staff will {{have the documents printed | get the documents printed::Sau will dùng have/get nguyên mẫu + tân ngữ + V3.}} [the documents] (print) at a local print shop."
     },
     {
       "tier": "apply",

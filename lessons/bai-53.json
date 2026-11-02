@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "If I had more time, I {{would::Điều kiện loại 2 dùng would + V nguyên mẫu để nói về kết quả giả định.}} (would / will / am) volunteer."
+      "questionHTML": "If I had more time, I {{would::Điều kiện loại 2 dùng would + V nguyên mẫu để nói về kết quả giả định.}} [am / will / would] volunteer."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "If I had studied earlier, I might have {{felt::Sau might have dùng V3; felt là V3 của feel.}} (felt / feel / feeling) less stressed."
+      "questionHTML": "If I had studied earlier, I might have {{felt::Sau might have dùng V3; felt là V3 của feel.}} (feel) less stressed."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "{{Had::Had I known là đảo ngữ của If I had known trong điều kiện loại 3.}} (had / did / have) I known about the event, I might have attended."
+      "questionHTML": "{{Had::Had I known là đảo ngữ của If I had known trong điều kiện loại 3.}} (have) I known about the event, I might have attended."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "I wish I {{had::Wish + quá khứ đơn diễn đạt mong muốn khác với hiện tại.}} (had / have / will have) more time now."
+      "questionHTML": "I wish I {{had::Wish + quá khứ đơn diễn đạt mong muốn khác với hiện tại.}} (have) more time now."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "I wish I had prepared {{earlier::Had prepared diễn tả tiếc nuối trong quá khứ; earlier phù hợp với sự việc yesterday.}} (earlier / tomorrow / next week) for the trip yesterday."
+      "questionHTML": "I wish I had prepared {{earlier::Had prepared diễn tả tiếc nuối trong quá khứ; earlier phù hợp với sự việc yesterday.}} [next week / tomorrow / earlier] for the trip yesterday."
     },
     {
       "type": "mcq",

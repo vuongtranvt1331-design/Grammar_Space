@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The teacher {{who | that::Who và that đều có thể thay người làm chủ ngữ trong mệnh đề quan hệ xác định.}} (đại từ quan hệ thay chủ ngữ chỉ người) helped me is very kind."
+      "questionHTML": "The teacher {{who | that::Who và that đều có thể thay người làm chủ ngữ trong mệnh đề quan hệ xác định.}} helped me is very kind."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The book {{which | that::Which và that đều có thể thay vật làm chủ ngữ trong mệnh đề quan hệ xác định.}} (đại từ quan hệ thay chủ ngữ chỉ vật trong mệnh đề xác định) is on the table is mine."
+      "questionHTML": "The book {{which | that::Which và that đều có thể thay vật làm chủ ngữ trong mệnh đề quan hệ xác định.}} is on the table is mine."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The student {{whose::Whose đứng trước bag hoặc bicycle để diễn tả quan hệ sở hữu.}} (đại từ quan hệ chỉ sự sở hữu) bag is red is Lan."
+      "questionHTML": "The student {{whose::Whose đứng trước bag hoặc bicycle để diễn tả quan hệ sở hữu.}} bag is red is Lan."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "This is the town {{where | in which::Where và in which đều có thể chỉ địa điểm trong mệnh đề này.}} (từ quan hệ thay cho địa điểm) I was born."
+      "questionHTML": "This is the town {{where | in which::Where và in which đều có thể chỉ địa điểm trong mệnh đề này.}} I was born."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The museum, {{which::Mệnh đề không xác định được ngăn bằng dấu phẩy và nói về vật, nên dùng which thay vì that hoặc who.}} (đại từ quan hệ chỉ vật trong mệnh đề không xác định) opened in 1920, is popular."
+      "questionHTML": "The museum, {{which::Mệnh đề không xác định được ngăn bằng dấu phẩy và nói về vật, nên dùng which thay vì that hoặc who.}} opened in 1920, is popular."
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researcher {{who | that::Who và that đều có thể thay người làm chủ ngữ trong mệnh đề quan hệ xác định.}} (đại từ quan hệ làm chủ ngữ chỉ người trong mệnh đề xác định) led the survey presented the findings."
+      "questionHTML": "The researcher {{who | that::Who và that đều có thể thay người làm chủ ngữ trong mệnh đề quan hệ xác định.}} led the survey presented the findings."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The report {{which | that::Which và that đều có thể thay vật làm chủ ngữ trong mệnh đề quan hệ xác định.}} (đại từ quan hệ làm chủ ngữ chỉ vật trong mệnh đề xác định) contains the results is online."
+      "questionHTML": "The report {{which | that::Which và that đều có thể thay vật làm chủ ngữ trong mệnh đề quan hệ xác định.}} contains the results is online."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researcher {{whose::Whose đứng trước danh từ để diễn tả quan hệ sở hữu.}} (đại từ quan hệ chỉ sở hữu) project received funding presented the results."
+      "questionHTML": "The researcher {{whose::Whose đứng trước danh từ để diễn tả quan hệ sở hữu.}} project received funding presented the results."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The library {{where | in which::Where và in which đều có thể chỉ địa điểm trong các mệnh đề này.}} (từ quan hệ chỉ địa điểm) the records are stored is open."
+      "questionHTML": "The library {{where | in which::Where và in which đều có thể chỉ địa điểm trong các mệnh đề này.}} the records are stored is open."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The archive, {{which::Sau dấu phẩy, mệnh đề không xác định chỉ vật dùng which; không dùng that.}} (đại từ chỉ vật trong mệnh đề không xác định) opened in 1920, is now digital."
+      "questionHTML": "The archive, {{which::Sau dấu phẩy, mệnh đề không xác định chỉ vật dùng which; không dùng that.}} opened in 1920, is now digital."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The specialist {{who | that::Who và that đều có thể thay người làm chủ ngữ trong mệnh đề quan hệ xác định.}} (đại từ quan hệ làm chủ ngữ chỉ người trong mệnh đề xác định) designed the study explained its limitations."
+      "questionHTML": "The specialist {{who | that::Who và that đều có thể thay người làm chủ ngữ trong mệnh đề quan hệ xác định.}} designed the study explained its limitations."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The instrument {{which | that::Which và that đều có thể thay vật làm chủ ngữ trong mệnh đề quan hệ xác định.}} (đại từ quan hệ làm chủ ngữ chỉ vật trong mệnh đề xác định) measures pressure was inspected."
+      "questionHTML": "The instrument {{which | that::Which và that đều có thể thay vật làm chủ ngữ trong mệnh đề quan hệ xác định.}} measures pressure was inspected."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The student {{whose::Whose đứng trước danh từ để diễn tả quan hệ sở hữu.}} (đại từ quan hệ chỉ sở hữu) article won the prize gave a lecture."
+      "questionHTML": "The student {{whose::Whose đứng trước danh từ để diễn tả quan hệ sở hữu.}} article won the prize gave a lecture."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The university {{where | in which::Where và in which đều có thể chỉ địa điểm trong các mệnh đề này.}} (từ quan hệ chỉ địa điểm) the research was conducted published the report."
+      "questionHTML": "The university {{where | in which::Where và in which đều có thể chỉ địa điểm trong các mệnh đề này.}} the research was conducted published the report."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The report, {{which::Sau dấu phẩy, mệnh đề không xác định chỉ vật dùng which; không dùng that.}} (đại từ chỉ vật trong mệnh đề không xác định) was published yesterday, is available online."
+      "questionHTML": "The report, {{which::Sau dấu phẩy, mệnh đề không xác định chỉ vật dùng which; không dùng that.}} was published yesterday, is available online."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researcher {{who | whom | that::Who, whom và that đều có thể thay người làm tân ngữ trong mệnh đề quan hệ xác định.}} (đại từ quan hệ làm tân ngữ chỉ người) the panel appointed will lead the survey."
+      "questionHTML": "The researcher {{who | whom | that::Who, whom và that đều có thể thay người làm tân ngữ trong mệnh đề quan hệ xác định.}} the panel appointed will lead the survey."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The method {{which | that::Which và that đều có thể thay vật làm tân ngữ trong mệnh đề quan hệ xác định.}} (đại từ quan hệ làm tân ngữ chỉ vật trong mệnh đề xác định) the team selected reduced costs."
+      "questionHTML": "The method {{which | that::Which và that đều có thể thay vật làm tân ngữ trong mệnh đề quan hệ xác định.}} the team selected reduced costs."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The report, {{which::Mệnh đề không xác định sau dấu phẩy dùng which để chỉ vật; không dùng that.}} (đại từ chỉ vật trong mệnh đề không xác định) was revised yesterday, is available online."
+      "questionHTML": "The report, {{which::Mệnh đề không xác định sau dấu phẩy dùng which để chỉ vật; không dùng that.}} was revised yesterday, is available online."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university published a new study. The researcher {{who | that::Who và that đều có thể làm chủ ngữ chỉ người trong mệnh đề xác định.}} (đại từ quan hệ làm chủ ngữ chỉ người) led the project thanked the team. The report {{which | that::Which và that đều có thể làm chủ ngữ chỉ vật trong mệnh đề xác định.}} (đại từ quan hệ làm chủ ngữ chỉ vật) contains the results is available online. The laboratory, {{which::Mệnh đề không xác định sau dấu phẩy dùng which để chỉ vật.}} (đại từ chỉ vật trong mệnh đề không xác định) opened in 2018, supported the work."
+      "questionHTML": "A university published a new study. The researcher {{who | that::Who và that đều có thể làm chủ ngữ chỉ người trong mệnh đề xác định.}} led the project thanked the team. The report {{which | that::Which và that đều có thể làm chủ ngữ chỉ vật trong mệnh đề xác định.}} contains the results is available online. The laboratory, {{which::Mệnh đề không xác định sau dấu phẩy dùng which để chỉ vật.}} opened in 2018, supported the work."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A library is digitising a collection. The curator {{whose::Whose đứng trước danh từ collection để chỉ sự sở hữu.}} (đại từ quan hệ chỉ sở hữu) collection was donated explained its history. The archive {{where | in which::Where và in which đều có thể chỉ địa điểm trong mệnh đề này.}} (từ quan hệ chỉ địa điểm) the documents are stored is being renovated. The catalogue {{which | that::Which và that đều thay vật làm chủ ngữ trong mệnh đề xác định.}} (đại từ quan hệ làm chủ ngữ chỉ vật) lists the letters is online."
+      "questionHTML": "A library is digitising a collection. The curator {{whose::Whose đứng trước danh từ collection để chỉ sự sở hữu.}} collection was donated explained its history. The archive {{where | in which::Where và in which đều có thể chỉ địa điểm trong mệnh đề này.}} the documents are stored is being renovated. The catalogue {{which | that::Which và that đều thay vật làm chủ ngữ trong mệnh đề xác định.}} lists the letters is online."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A committee appointed an adviser. The specialist {{who | whom | that::Who, whom và that đều có thể làm tân ngữ chỉ người trong mệnh đề xác định.}} (đại từ quan hệ làm tân ngữ chỉ người) the panel selected will review the project. The proposal {{which | that::Which và that đều có thể làm tân ngữ chỉ vật trong mệnh đề xác định.}} (đại từ quan hệ làm tân ngữ chỉ vật) the team submitted is detailed. The university, {{which::Mệnh đề không xác định sau dấu phẩy dùng which để chỉ tổ chức.}} (đại từ chỉ vật hoặc tổ chức trong mệnh đề không xác định) funded the project, will publish the report."
+      "questionHTML": "A committee appointed an adviser. The specialist {{who | whom | that::Who, whom và that đều có thể làm tân ngữ chỉ người trong mệnh đề xác định.}} the panel selected will review the project. The proposal {{which | that::Which và that đều có thể làm tân ngữ chỉ vật trong mệnh đề xác định.}} the team submitted is detailed. The university, {{which::Mệnh đề không xác định sau dấu phẩy dùng which để chỉ tổ chức.}} funded the project, will publish the report."
     },
     {
       "tier": "apply",

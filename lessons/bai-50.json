@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "{{Although::Although theo sau bởi mệnh đề online classes are flexible và giới thiệu ý nhượng bộ.}} (although / because of / despite) online classes are flexible, some learners need in-person support."
+      "questionHTML": "{{Although::Although theo sau bởi mệnh đề online classes are flexible và giới thiệu ý nhượng bộ.}} [despite / because of / although] online classes are flexible, some learners need in-person support."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "{{Admittedly::Admittedly công nhận một điểm trước khi chuyển sang lập luận khác.}} (admittedly / firstly / therefore), the policy has costs; however, it may improve access."
+      "questionHTML": "{{Admittedly::Admittedly công nhận một điểm trước khi chuyển sang lập luận khác.}} [therefore / firstly / admittedly], the policy has costs; however, it may improve access."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "The plan has costs. {{However::However giới thiệu ý tương phản với câu trước và thường được ngăn bằng dấu phẩy.}} (however / because / therefore), it may offer long-term benefits."
+      "questionHTML": "The plan has costs. {{However::However giới thiệu ý tương phản với câu trước và thường được ngăn bằng dấu phẩy.}} [therefore / because / however], it may offer long-term benefits."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A counter-argument should respond to a relevant opposing {{view::Counter-argument phản hồi một quan điểm đối lập liên quan, không phải một trục hay đơn vị biểu đồ.}} (view / axis / unit)."
+      "questionHTML": "A counter-argument should respond to a relevant opposing {{view::Counter-argument phản hồi một quan điểm đối lập liên quan, không phải một trục hay đơn vị biểu đồ.}} [unit / axis / view]."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "It is important to {{remember::Sau to dùng động từ nguyên mẫu remember trong cụm it is important to remember that.}} (remember / remembers / remembered) that learners have different needs."
+      "questionHTML": "It is important to {{remember::Sau to dùng động từ nguyên mẫu remember trong cụm it is important to remember that.}} [ghi nhớ] that learners have different needs."
     },
     {
       "type": "mcq",

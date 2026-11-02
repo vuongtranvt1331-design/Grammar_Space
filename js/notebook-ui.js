@@ -245,6 +245,7 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
       record.card.classList.remove('is-correct', 'is-incorrect', 'is-unanswered');
       record.hints.hidden = true; record.success.hidden = true; record.unansweredMessage.hidden = true;
       record.hints.querySelectorAll('li').forEach(hint => { hint.hidden = true; });
+      if (record.hint) record.hint.hidden = true;
       record.inputs.forEach(input => {
         input.classList.remove('correct', 'incorrect', 'unanswered');
         input.removeAttribute('aria-invalid'); input.removeAttribute('aria-describedby');
@@ -279,7 +280,7 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
       const card = document.createElement('li'); card.className = `exercise exercise-${data.type}`;
       const number = document.createElement('span'); number.className = 'question-number'; number.textContent = String(questionNumber); number.setAttribute('aria-hidden', 'true');
       const body = document.createElement('div'); body.className = 'question';
-      const prompt = document.createElement('div'); prompt.id = prefix + '-prompt'; prompt.innerHTML = data.questionHTML;
+      const prompt = document.createElement('div'); prompt.id = prefix + '-prompt'; prompt.className = 'question-text'; prompt.innerHTML = data.questionHTML;
       const hints = document.createElement('ul'); hints.className = 'feedback-list'; hints.hidden = true; hints.lang = 'vi'; hints.setAttribute('aria-live', 'polite');
       const success = document.createElement('p'); success.className = 'success-message'; success.textContent = '✔ Chính xác!'; success.lang = 'vi'; success.hidden = true;
       const unansweredMessage = document.createElement('p'); unansweredMessage.id = prefix + '-unanswered'; unansweredMessage.className = 'unanswered-message'; unansweredMessage.lang = 'vi'; unansweredMessage.textContent = 'Vui lòng hoàn thành câu này'; unansweredMessage.hidden = true;
@@ -297,7 +298,7 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
       if (data.type === 'gap-fill' || data.type === 'paragraph-gap-fill') {
         record.inputs = [...prompt.querySelectorAll('.gap-input')];
         record.inputs.forEach((input, gapIndex) => {
-          input.id = prefix + '-gap-' + (gapIndex + 1); input.autocomplete = 'off'; input.spellcheck = false; input.placeholder = '…';
+          input.id = prefix + '-gap-' + (gapIndex + 1); input.autocomplete = 'off'; input.spellcheck = false; input.removeAttribute('placeholder'); input.placeholder = '';
           input.setAttribute('aria-label', `Part ${part.index + 1}, question ${questionNumber}, gap ${gapIndex + 1}`);
           const answers = (input.dataset.answer || '').split('|').map(a => a.trim()).filter(Boolean);
           const maxLen = answers.reduce((max, a) => Math.max(max, Array.from(a).length), 0);
@@ -464,91 +465,149 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
     }
     const normalizeAnswer = value => value.normalize('NFC').trim().toLowerCase();
     function checkQuestion(record, preview = false) {
-        // Clear the previous attempt before showing the current result.
-        clearQuestionFeedback(record);
-        const words = record.zone ? [...record.zone.querySelectorAll('.unscramble-chip')].map(chip => chip.dataset.word) : [];
-        const unanswered = (record.data.type === 'gap-fill' || record.data.type === 'paragraph-gap-fill')
-          ? record.inputs.some(input => input.value.trim() === '')
-          : record.data.type === 'multiple-choice'
-            ? !record.inputs.some(input => input.checked)
-            : words.length !== record.data.words.length;
-        record.checked = !preview; record.isCorrect = false; record.isUnanswered = unanswered;
-        if (unanswered && preview) return;
-        if (unanswered && record.data.type === 'unscramble') {
-          record.card.classList.add('is-unanswered');
-          if (record.inlineFeedback) {
-            record.inlineFeedback.textContent = '⚠️ Chưa hoàn thành';
-            record.inlineFeedback.className = 'inline-feedback feedback-unanswered';
-            record.inlineFeedback.hidden = false;
+      // Clear the previous feedback before evaluating
+      clearQuestionFeedback(record);
+
+      const type = record.data.type;
+
+      // 1. Determine if the question has been attempted
+      let isAttempted = false;
+      if (type === 'gap-fill' || type === 'paragraph-gap-fill') {
+        isAttempted = record.inputs.some(input => input.value.trim() !== '');
+      } else if (type === 'multiple-choice') {
+        isAttempted = record.inputs.some(input => input.checked);
+      } else if (type === 'unscramble') {
+        const placedChips = record.zone ? record.zone.querySelectorAll('.unscramble-chip') : [];
+        isAttempted = placedChips.length > 0;
+      }
+
+      // If NOT attempted: SKIP evaluation completely and enforce neutral state
+      if (!isAttempted) {
+        record.checked = !preview;
+        record.isCorrect = false;
+        record.isUnanswered = true;
+        return;
+      }
+
+      // 2. Question was attempted: Evaluate according to question type
+      record.checked = !preview;
+
+      if (type === 'gap-fill' || type === 'paragraph-gap-fill') {
+        let anyWrong = false;
+        let anyEmpty = false;
+
+        record.inputs.forEach(input => {
+          const val = input.value.trim();
+          const hint = byId(input.dataset.feedbackId);
+
+          if (val === '') {
+            // Unanswered gap within an attempted question:
+            // Skip evaluation for this input, remove UI states, and hide hints
+            input.classList.remove('correct', 'incorrect', 'unanswered');
+            input.removeAttribute('aria-invalid');
+            input.removeAttribute('aria-describedby');
+            if (hint) hint.hidden = true;
+            anyEmpty = true;
           } else {
-            record.unansweredMessage.hidden = false;
-          }
-          record.control.setAttribute('aria-describedby', record.unansweredMessage.id);
-          return;
-        }
-        let correct = true;
-        if (record.data.type === 'gap-fill' || record.data.type === 'paragraph-gap-fill') {
-          record.inputs.forEach(input => {
-            const empty = !input.value.trim();
+            // Attempted gap: evaluate answer
             const validAnswers = (input.dataset.answer || '').split('|').map(a => normalizeAnswer(a)).filter(Boolean);
-            const userVal = normalizeAnswer(input.value);
-            const right = !empty && validAnswers.includes(userVal);
-            const hint = byId(input.dataset.feedbackId);
-            input.classList.toggle('correct', right); input.classList.toggle('incorrect', !right && !empty); input.classList.toggle('unanswered', empty); input.setAttribute('aria-invalid', String(!right));
+            const userVal = normalizeAnswer(val);
+            const right = validAnswers.includes(userVal);
+
+            input.classList.toggle('correct', right);
+            input.classList.toggle('incorrect', !right);
+            input.classList.remove('unanswered');
+            input.setAttribute('aria-invalid', String(!right));
+
             if (hint) hint.hidden = right;
             if (right) {
               input.removeAttribute('aria-describedby');
             } else {
-              correct = false;
+              anyWrong = true;
               if (hint) input.setAttribute('aria-describedby', hint.id);
             }
-          });
-        } else if (record.data.type === 'multiple-choice') {
-          correct = record.inputs.some(input => input.checked && input.value === record.data.answer);
-          record.hint.hidden = correct; record.control.setAttribute('aria-invalid', String(!correct));
-          if (correct) record.control.removeAttribute('aria-describedby'); else record.control.setAttribute('aria-describedby', record.hint.id);
+          }
+        });
+
+        const correct = !anyEmpty && !anyWrong;
+        record.isCorrect = correct;
+        record.isUnanswered = anyEmpty;
+
+        record.card.classList.toggle('is-correct', correct);
+        record.card.classList.toggle('is-incorrect', anyWrong);
+        record.card.classList.remove('is-unanswered');
+
+        if (correct) {
+          record.success.hidden = false;
+          record.hints.hidden = true;
+        } else if (anyWrong) {
+          record.success.hidden = true;
+          record.hints.hidden = false;
         } else {
-          // Word-by-word visual feedback for unscramble sentences
-          const placedChips = record.zone ? [...record.zone.querySelectorAll('.unscramble-chip')] : [];
-          const correctWords = record.data.words;
-          let misplacedCount = 0;
+          // Gaps partially filled, none wrong so far
+          record.success.hidden = true;
+          record.hints.hidden = true;
+        }
 
-          if (!preview) {
-            placedChips.forEach((chip, i) => {
-              const isWordCorrect = chip.dataset.word === correctWords[i];
-              if (isWordCorrect) {
-                chip.classList.add('chip-correct');
-                chip.classList.remove('chip-incorrect');
-                chip.setAttribute('aria-label', `${chip.dataset.word}. Vị trí đúng (từ số ${i + 1})`);
-              } else {
-                chip.classList.add('chip-incorrect');
-                chip.classList.remove('chip-correct');
-                chip.setAttribute('aria-label', `${chip.dataset.word}. Vị trí chưa đúng (từ số ${i + 1})`);
-                misplacedCount++;
-              }
-            });
+      } else if (type === 'multiple-choice') {
+        const selectedInput = record.inputs.find(input => input.checked);
+        const correct = Boolean(selectedInput && selectedInput.value === record.data.answer);
+        record.isCorrect = correct;
+        record.isUnanswered = false;
 
-            if (record.unscrambleNote) {
-              if (misplacedCount > 0) {
-                record.unscrambleNote.textContent = `⚠️ Có ${misplacedCount} từ chưa đúng vị trí (${placedChips.length - misplacedCount}/${correctWords.length} từ đúng). Nhấp hoặc kéo từ màu đỏ để sắp xếp lại.`;
-                record.unscrambleNote.hidden = false;
-              } else {
-                record.unscrambleNote.hidden = true;
-                record.unscrambleNote.textContent = '';
-              }
+        record.card.classList.toggle('is-correct', correct);
+        record.card.classList.toggle('is-incorrect', !correct);
+        record.card.classList.remove('is-unanswered');
+
+        record.hint.hidden = correct;
+        record.hints.hidden = correct;
+        record.success.hidden = !correct;
+
+        record.control.setAttribute('aria-invalid', String(!correct));
+        if (correct) {
+          record.control.removeAttribute('aria-describedby');
+        } else {
+          record.control.setAttribute('aria-describedby', record.hint.id);
+        }
+
+      } else if (type === 'unscramble') {
+        const placedChips = record.zone ? [...record.zone.querySelectorAll('.unscramble-chip')] : [];
+        const correctWords = record.data.words;
+        let misplacedCount = 0;
+
+        if (!preview) {
+          placedChips.forEach((chip, i) => {
+            const isWordCorrect = chip.dataset.word === correctWords[i];
+            if (isWordCorrect) {
+              chip.classList.add('chip-correct');
+              chip.classList.remove('chip-incorrect');
+              chip.setAttribute('aria-label', `${chip.dataset.word}. Vị trí đúng (từ số ${i + 1})`);
+            } else {
+              chip.classList.add('chip-incorrect');
+              chip.classList.remove('chip-correct');
+              chip.setAttribute('aria-label', `${chip.dataset.word}. Vị trí chưa đúng (từ số ${i + 1})`);
+              misplacedCount++;
             }
-          } else {
-            placedChips.forEach(chip => chip.classList.remove('chip-correct', 'chip-incorrect'));
-            if (record.unscrambleNote) {
+          });
+
+          const allPlaced = placedChips.length === correctWords.length;
+
+          if (record.unscrambleNote) {
+            if (misplacedCount > 0) {
+              record.unscrambleNote.textContent = `⚠️ Có ${misplacedCount} từ chưa đúng vị trí (${placedChips.length - misplacedCount}/${correctWords.length} từ đúng). Nhấp hoặc kéo từ màu đỏ để sắp xếp lại.`;
+              record.unscrambleNote.hidden = false;
+            } else if (!allPlaced) {
+              record.unscrambleNote.textContent = `⚠️ Chưa xếp đủ từ (${placedChips.length}/${correctWords.length} từ).`;
+              record.unscrambleNote.hidden = false;
+            } else {
               record.unscrambleNote.hidden = true;
               record.unscrambleNote.textContent = '';
             }
-            misplacedCount = placedChips.filter((chip, i) => chip.dataset.word !== correctWords[i]).length;
           }
 
-          correct = misplacedCount === 0;
+          const correct = allPlaced && misplacedCount === 0;
 
-          if (record.inlineFeedback && !preview) {
+          if (record.inlineFeedback) {
             if (correct) {
               record.inlineFeedback.textContent = '✓ Chính xác!';
               record.inlineFeedback.className = 'inline-feedback feedback-correct';
@@ -560,21 +619,26 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
             }
           }
 
+          record.isCorrect = correct;
+          record.isUnanswered = !allPlaced;
+
+          record.card.classList.toggle('is-correct', correct);
+          record.card.classList.toggle('is-incorrect', !correct);
+          record.card.classList.remove('is-unanswered');
+
           record.hint.hidden = correct;
-          record.control.setAttribute('aria-invalid', String(!correct));
-          if (correct) record.control.removeAttribute('aria-describedby');
-          else record.control.setAttribute('aria-describedby', record.hint.id);
-        }
-        record.checked = !preview; record.isCorrect = correct;
-        record.card.classList.toggle('is-correct', correct); record.card.classList.toggle('is-incorrect', !correct && !unanswered); record.card.classList.toggle('is-unanswered', unanswered);
-        if (record.data.type === 'unscramble') {
           record.hints.hidden = true;
           record.success.hidden = true;
           record.unansweredMessage.hidden = true;
-        } else {
-          record.hints.hidden = correct;
-          record.success.hidden = !correct;
+
+          record.control.setAttribute('aria-invalid', String(!correct));
+          if (correct) {
+            record.control.removeAttribute('aria-describedby');
+          } else {
+            record.control.setAttribute('aria-describedby', record.hint.id);
+          }
         }
+      }
     }
     function previewQuestion(record) {
       // Real-time validation disabled: inputs remain neutral until Check button is clicked
@@ -780,16 +844,16 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
       // 1. Quay lại (Prev Page)
       const previous = document.createElement('button');
       previous.type = 'button';
-      previous.className = 'page-button previous-page';
-      previous.textContent = '← Quay lại';
+      previous.className = 'page-button previous-page nav-btn prev';
+      previous.innerHTML = '<span class="icon" aria-hidden="true">&lt;-</span> <span class="btn-text">Quay lại</span>';
       previous.setAttribute('aria-label', 'Quay lại');
       previous.addEventListener('click', () => turnPage(-1));
 
       // 2. Clear đáp án (Clear Answers)
       const clearBtn = document.createElement('button');
       clearBtn.type = 'button';
-      clearBtn.className = 'page-button clear-page-button';
-      clearBtn.innerHTML = 'Clear đáp án <span class="btn-icon-clear" aria-hidden="true" style="margin-left: 2px;">✕</span>';
+      clearBtn.className = 'page-button clear-page-button nav-btn clear';
+      clearBtn.innerHTML = '<span class="icon" aria-hidden="true">✕</span> <span class="btn-text">Clear đáp án</span>';
       clearBtn.setAttribute('aria-label', 'Clear đáp án');
       if (kind === 'theory') {
         clearBtn.classList.add('is-hidden');
@@ -807,8 +871,8 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
       // 3. Check đáp án (Check Answers)
       const check = document.createElement('button');
       check.type = 'button';
-      check.className = 'check-button final-check-button';
-      check.textContent = 'Check đáp án ✓';
+      check.className = 'check-button final-check-button nav-btn check';
+      check.innerHTML = '<span class="icon" aria-hidden="true">✓</span> <span class="btn-text">Check đáp án</span>';
       check.setAttribute('aria-label', 'Check đáp án');
       check.addEventListener('click', checkAllAnswers);
       if (kind === 'theory') {
@@ -822,8 +886,8 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
       // 4. Trang tiếp (Next Page)
       const next = document.createElement('button');
       next.type = 'button';
-      next.className = 'page-button next-page';
-      next.textContent = 'Trang tiếp ➔';
+      next.className = 'page-button next-page nav-btn next';
+      next.innerHTML = '<span class="btn-text">Trang tiếp</span> <span class="icon" aria-hidden="true">-&gt;</span>';
       next.setAttribute('aria-label', 'Trang tiếp');
       next.addEventListener('click', () => turnPage(1));
 
@@ -862,8 +926,8 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
 
         // Behavior on LAST page: change right-hand button into "Quay lại trang đầu ↺"
         if (index === pages.length - 1) {
-          page.forward.textContent = 'Quay lại trang đầu ↺';
-          page.forward.className = 'page-button restart-page';
+          page.forward.innerHTML = '<span class="icon" aria-hidden="true">↺</span> <span class="btn-text">Quay lại trang đầu</span>';
+          page.forward.className = 'page-button restart-page nav-btn restart';
           page.forward.setAttribute('aria-label', 'Quay lại trang đầu');
           page.forward.onclick = () => goToFirstPage();
         }

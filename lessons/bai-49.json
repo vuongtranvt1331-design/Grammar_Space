@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "A root {{cause::Cause là nguyên nhân; khác với effect là hệ quả.}} (cause / axis / label) explains why a problem happens."
+      "questionHTML": "A root {{cause::Cause là nguyên nhân; khác với effect là hệ quả.}} [label / axis / cause] explains why a problem happens."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A practical {{solution::Solution là giải pháp cần liên quan đến vấn đề hoặc nguyên nhân đã phân tích.}} (solution / unit / legend) should address the identified problem or cause."
+      "questionHTML": "A practical {{solution::Solution là giải pháp cần liên quan đến vấn đề hoặc nguyên nhân đã phân tích.}} [legend / unit / solution] should address the identified problem or cause."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "To {{tackle::To tackle this issue nghĩa là để giải quyết vấn đề này; sau to dùng động từ nguyên mẫu.}} (tackle / measure / illustrate) this issue, authorities could improve bus services."
+      "questionHTML": "To {{tackle::To tackle this issue nghĩa là để giải quyết vấn đề này; sau to dùng động từ nguyên mẫu.}} [giải quyết] this issue, authorities could improve bus services."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "One practical measure would {{be::Sau would dùng động từ nguyên mẫu be: would be to increase.}} (be / been / being) to increase bus frequency."
+      "questionHTML": "One practical measure would {{be::Sau would dùng động từ nguyên mẫu be: would be to increase.}} [là] to increase bus frequency."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A proposed policy {{may::May diễn đạt khả năng và phù hợp khi tác động thực tế còn phụ thuộc vào cách thực hiện.}} (may / definitely always / is) reduce congestion, but its impact depends on implementation."
+      "questionHTML": "A proposed policy {{may::May diễn đạt khả năng và phù hợp khi tác động thực tế còn phụ thuộc vào cách thực hiện.}} [is / definitely always / may] reduce congestion, but its impact depends on implementation."
     },
     {
       "type": "mcq",

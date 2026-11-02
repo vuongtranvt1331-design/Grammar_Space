@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The project coordinator contacted Professor Lin and asked {{her::Professor Lin được xác định là nữ trong ngữ cảnh; sau động từ asked cần đại từ tân ngữ her.}} (đại từ tân ngữ chỉ giáo sư nữ) to review the proposal. Professor Lin is a woman."
+      "questionHTML": "The project coordinator contacted Professor Lin and asked {{her::Professor Lin được xác định là nữ trong ngữ cảnh; sau động từ asked cần đại từ tân ngữ her.}} [cô ấy] to review the proposal. Professor Lin is a woman."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The committee submitted {{its::Committee là tổ chức số ít; trước danh từ recommendations cần tính từ sở hữu its, không có dấu nháy.}} (sở hữu của tổ chức số ít) recommendations before the deadline."
+      "questionHTML": "The committee submitted {{its::Committee là tổ chức số ít; trước danh từ recommendations cần tính từ sở hữu its, không có dấu nháy.}} [của nó] recommendations before the deadline."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The internship is ours, but the research grant is {{theirs::Đứng độc lập sau is và thay thế their research grant nên dùng đại từ sở hữu theirs.}} (đại từ sở hữu thay cho suất tài trợ của họ)."
+      "questionHTML": "The internship is ours, but the research grant is {{theirs::Đứng độc lập sau is và thay thế their research grant nên dùng đại từ sở hữu theirs.}} [của họ]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The volunteers organised the entire exhibition by {{themselves::By themselves chỉ nhóm volunteers tự làm; đại từ phản thân số nhiều kết thúc bằng -selves.}} (đại từ phản thân chỉ các tình nguyện viên)."
+      "questionHTML": "The volunteers organised the entire exhibition by {{themselves::By themselves chỉ nhóm volunteers tự làm; đại từ phản thân số nhiều kết thúc bằng -selves.}} [chính họ]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The funding body sent the research team an invitation and asked {{us::Sau asked cần đại từ tân ngữ; us thay cho the research team khi người nói thuộc nhóm đó.}} (đại từ tân ngữ chỉ nhóm có người nói) to respond. I am a member of that team."
+      "questionHTML": "The funding body sent the research team an invitation and asked {{us::Sau asked cần đại từ tân ngữ; us thay cho the research team khi người nói thuộc nhóm đó.}} [chúng tôi] to respond. I am a member of that team."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The panel interviewed the volunteers and recorded {{their::Their đứng trước experiences và chỉ những trải nghiệm thuộc nhóm volunteers.}} (tính từ sở hữu của nhóm tình nguyện viên) experiences."
+      "questionHTML": "The panel interviewed the volunteers and recorded {{their::Their đứng trước experiences và chỉ những trải nghiệm thuộc nhóm volunteers.}} [của họ] experiences."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Dr Mai, a woman, presented the findings; the committee thanked {{her | them::Her chỉ người nữ; them cũng có thể là đại từ số ít trung tính, đều dùng sau thanked.}} (đại từ tân ngữ thay cho Dr Mai)."
+      "questionHTML": "Dr Mai, a woman, presented the findings; the committee thanked {{her | them::Her chỉ người nữ; them cũng có thể là đại từ số ít trung tính, đều dùng sau thanked.}} [cô ấy]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "These manuscripts belong to the historians; the documents are {{theirs::Theirs đứng độc lập sau are và thay cho their documents.}} (đại từ sở hữu thay cho tài liệu của họ)."
+      "questionHTML": "These manuscripts belong to the historians; the documents are {{theirs::Theirs đứng độc lập sau are và thay cho their documents.}} [của họ]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers reviewed the calculations {{themselves::Themselves nhấn mạnh chính researchers, chủ ngữ số nhiều, đã kiểm tra.}} (đại từ phản thân nhấn mạnh nhóm nghiên cứu)."
+      "questionHTML": "The researchers reviewed the calculations {{themselves::Themselves nhấn mạnh chính researchers, chủ ngữ số nhiều, đã kiểm tra.}} [chính họ]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The institute revised {{its::Its bổ nghĩa cho policy và chỉ sự sở hữu của institute, không có dấu nháy.}} (tính từ sở hữu của tổ chức số ít) policy after the consultation."
+      "questionHTML": "The institute revised {{its::Its bổ nghĩa cho policy và chỉ sự sở hữu của institute, không có dấu nháy.}} [của nó] policy after the consultation."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The original proposal was written by Dr Hoa, a woman; the final version was edited by {{her::Sau giới từ by cần đại từ tân ngữ her để thay cho Dr Hoa.}} (đại từ tân ngữ thay cho Dr Hoa)."
+      "questionHTML": "The original proposal was written by Dr Hoa, a woman; the final version was edited by {{her::Sau giới từ by cần đại từ tân ngữ her để thay cho Dr Hoa.}} [cô ấy]."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Each laboratory must verify {{its::Each laboratory là đơn vị số ít; its bổ nghĩa cho danh từ equipment.}} (sở hữu của phòng thí nghiệm số ít) equipment before the inspection."
+      "questionHTML": "Each laboratory must verify {{its::Each laboratory là đơn vị số ít; its bổ nghĩa cho danh từ equipment.}} [của nó] equipment before the inspection."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The research assistants checked the calculations {{themselves::Themselves nhấn mạnh chính các trợ lý, chủ ngữ số nhiều, đã kiểm tra phép tính.}} (đại từ phản thân nhấn mạnh nhóm trợ lý), rather than delegating the task."
+      "questionHTML": "The research assistants checked the calculations {{themselves::Themselves nhấn mạnh chính các trợ lý, chủ ngữ số nhiều, đã kiểm tra phép tính.}} [chính họ], rather than delegating the task."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "That desk belongs to you; the one near the window is {{mine::Mine là đại từ sở hữu đứng độc lập, thay cho my desk.}} (đại từ sở hữu chỉ chiếc bàn của người nói)."
+      "questionHTML": "That desk belongs to you; the one near the window is {{mine::Mine là đại từ sở hữu đứng độc lập, thay cho my desk.}} [của tôi]."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "Dr Lan, a woman, leads an urban-planning team. The mayor asked {{her::Sau asked dùng đại từ tân ngữ her thay cho Dr Lan, người được xác định là nữ.}} (đại từ tân ngữ thay cho Dr Lan) to present the findings. The team revised {{its | their::Its coi team là một đơn vị; their cũng có thể coi team là tập thể thành viên, nhất là trong tiếng Anh Anh.}} (tính từ sở hữu chỉ nhóm) recommendations before the meeting. The final proposal was {{theirs::Theirs đứng độc lập sau was và thay cho their final proposal.}} (đại từ sở hữu thay cho đề xuất của nhóm), and the researchers submitted it {{themselves::Themselves nhấn mạnh chính các nhà nghiên cứu, một chủ ngữ số nhiều, đã nộp đề xuất.}} (đại từ phản thân nhấn mạnh các nhà nghiên cứu)."
+      "questionHTML": "Dr Lan, a woman, leads an urban-planning team. The mayor asked {{her::Sau asked dùng đại từ tân ngữ her thay cho Dr Lan, người được xác định là nữ.}} [cô ấy] to present the findings. The team revised {{its | their::Its coi team là một đơn vị; their cũng có thể coi team là tập thể thành viên, nhất là trong tiếng Anh Anh.}} [của nó] recommendations before the meeting. The final proposal was {{theirs::Theirs đứng độc lập sau was và thay cho their final proposal.}} [của họ], and the researchers submitted it {{themselves::Themselves nhấn mạnh chính các nhà nghiên cứu, một chủ ngữ số nhiều, đã nộp đề xuất.}} [chính họ]."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The foundation promised the applicants that it would notify {{them::Notify cần tân ngữ; them thay cho applicants số nhiều.}} (đại từ tân ngữ thay cho các ứng viên) by Friday."
+      "questionHTML": "The foundation promised the applicants that it would notify {{them::Notify cần tân ngữ; them thay cho applicants số nhiều.}} [họ] by Friday."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The original findings are ours; the revised conclusions are {{theirs::Theirs đứng độc lập và thay cho their revised conclusions.}} (đại từ sở hữu chỉ kết luận của nhóm kia)."
+      "questionHTML": "The original findings are ours; the revised conclusions are {{theirs::Theirs đứng độc lập và thay cho their revised conclusions.}} [của họ]."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The algorithm checks {{its::Its own output là đầu ra của thuật toán; its không có dấu nháy.}} (tính từ sở hữu chỉ thuật toán số ít) own output before producing the final report."
+      "questionHTML": "The algorithm checks {{its::Its own output là đầu ra của thuật toán; its không có dấu nháy.}} [của nó] own output before producing the final report."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The members of the panel prepared the summary {{themselves::Themselves nhấn mạnh các thành viên số nhiều tự làm, không có hỗ trợ bên ngoài.}} (đại từ phản thân nhấn mạnh các thành viên), without outside assistance."
+      "questionHTML": "The members of the panel prepared the summary {{themselves::Themselves nhấn mạnh các thành viên số nhiều tự làm, không có hỗ trợ bên ngoài.}} [chính họ], without outside assistance."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team is preparing a public report. The director asked the researchers to explain {{their::Their đứng trước danh từ methods và chỉ phương pháp của researchers.}} (tính từ sở hữu chỉ nhóm nghiên cứu) methods. The editor thanked {{them::Them là đại từ tân ngữ thay cho researchers, dùng sau thanked.}} (đại từ tân ngữ chỉ nhóm nghiên cứu) for the clear summary. The final conclusions were {{theirs::Theirs đứng độc lập và thay cho their conclusions.}} (đại từ sở hữu thay cho kết luận của nhóm)."
+      "questionHTML": "A research team is preparing a public report. The director asked the researchers to explain {{their::Their đứng trước danh từ methods và chỉ phương pháp của researchers.}} [của họ] methods. The editor thanked {{them::Them là đại từ tân ngữ thay cho researchers, dùng sau thanked.}} [họ] for the clear summary. The final conclusions were {{theirs::Theirs đứng độc lập và thay cho their conclusions.}} [của họ]."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A library received a donation from Dr Lan, a woman. The curator contacted {{her | them::Her chỉ người nữ; them cũng có thể dùng làm đại từ số ít trung tính sau contacted.}} (đại từ tân ngữ thay cho Dr Lan) to arrange delivery. The library added the books to {{its::Its là tính từ sở hữu chỉ library số ít và đứng trước collection.}} (tính từ sở hữu chỉ thư viện) collection. The archivists catalogued the documents {{themselves::Themselves nhấn mạnh chính các archivists số nhiều tự lập danh mục.}} (đại từ phản thân nhấn mạnh các nhân viên)."
+      "questionHTML": "A library received a donation from Dr Lan, a woman. The curator contacted {{her | them::Her chỉ người nữ; them cũng có thể dùng làm đại từ số ít trung tính sau contacted.}} [cô ấy] to arrange delivery. The library added the books to {{its::Its là tính từ sở hữu chỉ library số ít và đứng trước collection.}} [của nó] collection. The archivists catalogued the documents {{themselves::Themselves nhấn mạnh chính các archivists số nhiều tự lập danh mục.}} [chính họ]."
     },
     {
       "tier": "apply",

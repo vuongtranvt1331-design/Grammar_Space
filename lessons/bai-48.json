@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "A discussion prompt asks the writer to discuss both {{views::Both views chỉ hai quan điểm trong đề; bài cũng cần ý kiến cá nhân.}} (views / axes / units) and give an opinion."
+      "questionHTML": "A discussion prompt asks the writer to discuss both {{views::Both views chỉ hai quan điểm trong đề; bài cũng cần ý kiến cá nhân.}} [units / axes / views] and give an opinion."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "On the one {{hand::On the one hand là cụm thường dùng để giới thiệu một phía của cuộc thảo luận.}} (hand / foot / time), online learning can be flexible."
+      "questionHTML": "On the one {{hand::On the one hand là cụm thường dùng để giới thiệu một phía của cuộc thảo luận.}} [time / foot / hand], online learning can be flexible."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "On the other {{hand::On the other hand giới thiệu một mặt hoặc góc nhìn đối lập với ý trước.}} (hand / year / graph), classroom learning offers direct interaction."
+      "questionHTML": "On the other {{hand::On the other hand giới thiệu một mặt hoặc góc nhìn đối lập với ý trước.}} [graph / year / hand], classroom learning offers direct interaction."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "{{Proponents::Proponents of this view là những người ủng hộ quan điểm đang được nhắc đến.}} (proponents / percentages / figures) of this view argue that online courses provide flexibility."
+      "questionHTML": "{{Proponents::Proponents of this view là những người ủng hộ quan điểm đang được nhắc đến.}} [figures / percentages / proponents] of this view argue that online courses provide flexibility."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A clear personal {{position::Position là lập trường của người viết, cần rõ ràng và nhất quán khi đề yêu cầu ý kiến.}} (position / axis / unit) helps the reader understand the writer’s view."
+      "questionHTML": "A clear personal {{position::Position là lập trường của người viết, cần rõ ràng và nhất quán khi đề yêu cầu ý kiến.}} [unit / axis / position] helps the reader understand the writer’s view."
     },
     {
       "type": "mcq",

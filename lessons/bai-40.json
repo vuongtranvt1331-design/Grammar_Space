@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Never {{have I seen::Never đứng đầu câu tạo đảo ngữ: have đứng trước chủ ngữ I và seen là V3 của see.}} (I / have / see) such a beautiful view before."
+      "questionHTML": "Never {{have I seen::Never đứng đầu câu tạo đảo ngữ: have đứng trước chủ ngữ I và seen là V3 của see.}} [I] (have) (see) such a beautiful view before."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Hardly {{had we arrived::Hardly đứng đầu câu dùng had + chủ ngữ + V3 và đi với when.}} (we / arrive) when it began to rain."
+      "questionHTML": "Hardly {{had we arrived::Hardly đứng đầu câu dùng had + chủ ngữ + V3 và đi với when.}} [we] (arrive) when it began to rain."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "No sooner {{had we reached the station::No sooner đứng đầu câu dùng had + S + V3 và nối với mệnh đề sau bằng than.}} (we / reach the station) than the train left."
+      "questionHTML": "No sooner {{had we reached the station::No sooner đứng đầu câu dùng had + S + V3 và nối với mệnh đề sau bằng than.}} [we] [reach the station] than the train left."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{It was Lan who | It was Lan that::Cả who và that đều có thể giới thiệu phần còn lại của câu chẻ nhấn mạnh người.}} (câu chẻ nhấn mạnh người thực hiện) called me yesterday."
+      "questionHTML": "{{It was Lan who | It was Lan that::Cả who và that đều có thể giới thiệu phần còn lại của câu chẻ nhấn mạnh người.}} [Lan] (be) called me yesterday."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{It was at noon that::Câu chẻ It was + at noon + that nhấn mạnh thời điểm sự việc xảy ra.}} (câu chẻ nhấn mạnh thời gian) the meeting began."
+      "questionHTML": "{{It was at noon that::Câu chẻ It was + at noon + that nhấn mạnh thời điểm sự việc xảy ra.}} [at noon] (be) the meeting began."
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Never {{have the researchers seen::Never ở đầu câu yêu cầu đảo trợ động từ have trước chủ ngữ; seen là V3.}} (đảo trợ động từ trước chủ ngữ sau never) such a complex case before."
+      "questionHTML": "Never {{have the researchers seen::Never ở đầu câu yêu cầu đảo trợ động từ have trước chủ ngữ; seen là V3.}} [the researchers] (see) such a complex case before."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Hardly {{had the team arrived::Hardly ở đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} (đảo had trước chủ ngữ sau hardly) when the meeting began."
+      "questionHTML": "Hardly {{had the team arrived::Hardly ở đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} [the team] (arrive) when the meeting began."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "No sooner {{had the panel finished::No sooner ở đầu câu thường dùng had + chủ ngữ + V3, rồi than.}} (đảo had trước chủ ngữ sau no sooner) than the lights went out."
+      "questionHTML": "No sooner {{had the panel finished::No sooner ở đầu câu thường dùng had + chủ ngữ + V3, rồi than.}} [the panel] (finish) than the lights went out."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Only after the review {{did the committee announce::Only + trạng ngữ đầu câu yêu cầu đảo did trước chủ ngữ; động từ chính dùng nguyên mẫu.}} (đảo did trước chủ ngữ sau only + trạng ngữ) its decision."
+      "questionHTML": "Only after the review {{did the committee announce::Only + trạng ngữ đầu câu yêu cầu đảo did trước chủ ngữ; động từ chính dùng nguyên mẫu.}} [the committee] (announce) its decision."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{It was the curator who | It was the curator that::It was + người + who/that đều có thể tạo câu chẻ nhấn mạnh người.}} (câu chẻ nhấn mạnh người) approved the final proposal."
+      "questionHTML": "{{It was the curator who | It was the curator that::It was + người + who/that đều có thể tạo câu chẻ nhấn mạnh người.}} [the curator] (be) approved the final proposal."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Never {{have the researchers seen::Never ở đầu câu yêu cầu đảo trợ động từ have trước chủ ngữ; seen là V3.}} (đảo trợ động từ trước chủ ngữ sau never) such detailed evidence before."
+      "questionHTML": "Never {{have the researchers seen::Never ở đầu câu yêu cầu đảo trợ động từ have trước chủ ngữ; seen là V3.}} [the researchers] (see) such detailed evidence before."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Hardly {{had the team arrived::Hardly ở đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} (đảo had trước chủ ngữ sau hardly) when the presentation started."
+      "questionHTML": "Hardly {{had the team arrived::Hardly ở đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} [the team] (arrive) when the presentation started."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "No sooner {{had the panel finished::No sooner ở đầu câu thường dùng had + chủ ngữ + V3, rồi than.}} (đảo had trước chủ ngữ sau no sooner) than the director entered."
+      "questionHTML": "No sooner {{had the panel finished::No sooner ở đầu câu thường dùng had + chủ ngữ + V3, rồi than.}} [the panel] (finish) than the director entered."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Only after checking the figures {{did the committee announce::Only + trạng ngữ đầu câu yêu cầu đảo did trước chủ ngữ; động từ chính dùng nguyên mẫu.}} (đảo did trước chủ ngữ sau only + trạng ngữ) the outcome."
+      "questionHTML": "Only after checking the figures {{did the committee announce::Only + trạng ngữ đầu câu yêu cầu đảo did trước chủ ngữ; động từ chính dùng nguyên mẫu.}} [the committee] (announce) the outcome."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{It was the curator who | It was the curator that::It was + người + who/that đều có thể tạo câu chẻ nhấn mạnh người.}} (câu chẻ nhấn mạnh người) presented the original manuscript."
+      "questionHTML": "{{It was the curator who | It was the curator that::It was + người + who/that đều có thể tạo câu chẻ nhấn mạnh người.}} [the curator] (be) presented the original manuscript."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Only then {{did the panel notice::Only then ở đầu câu yêu cầu đảo did trước chủ ngữ và dùng động từ nguyên mẫu.}} (đảo did trước chủ ngữ sau only then) the error."
+      "questionHTML": "Only then {{did the panel notice::Only then ở đầu câu yêu cầu đảo did trước chủ ngữ và dùng động từ nguyên mẫu.}} [the panel] (notice) the error."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{It was on Monday that::It was + trạng ngữ thời gian + that tạo câu chẻ nhấn mạnh thời điểm.}} (câu chẻ nhấn mạnh thời gian) the report was published."
+      "questionHTML": "{{It was on Monday that::It was + trạng ngữ thời gian + that tạo câu chẻ nhấn mạnh thời điểm.}} [on Monday] (be) the report was published."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Hardly {{had the team arrived::Hardly ở đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} (đảo had trước chủ ngữ sau hardly) when the session began."
+      "questionHTML": "Hardly {{had the team arrived::Hardly ở đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} [the team] (arrive) when the session began."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A committee reviewed a difficult case. Never {{have the researchers seen::Never đầu câu yêu cầu đảo have trước chủ ngữ; seen là V3.}} (đảo trợ động từ trước chủ ngữ) such detailed evidence before. Only after the review {{did the committee announce::Only + trạng ngữ đầu câu yêu cầu đảo did trước chủ ngữ và dùng nguyên mẫu.}} (đảo did trước chủ ngữ) its decision. {{It was the curator who | It was the curator that::Who và that đều có thể dùng trong câu chẻ nhấn mạnh người.}} (câu chẻ nhấn mạnh người) presented the original manuscript."
+      "questionHTML": "A committee reviewed a difficult case. Never {{have the researchers seen::Never đầu câu yêu cầu đảo have trước chủ ngữ; seen là V3.}} [the researchers] (see) such detailed evidence before. Only after the review {{did the committee announce::Only + trạng ngữ đầu câu yêu cầu đảo did trước chủ ngữ và dùng nguyên mẫu.}} [the committee] (announce) its decision. {{It was the curator who | It was the curator that::Who và that đều có thể dùng trong câu chẻ nhấn mạnh người.}} [the curator] (be) presented the original manuscript."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team attended a meeting. Hardly {{had the team arrived::Hardly đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} (đảo had trước chủ ngữ) when the presentation began. No sooner {{had the panel finished::No sooner đầu câu thường dùng had + chủ ngữ + V3, rồi than.}} (đảo had trước chủ ngữ) than the director entered. Only then {{did the panel notice::Only then đầu câu yêu cầu đảo did trước chủ ngữ.}} (đảo did trước chủ ngữ) the error."
+      "questionHTML": "A research team attended a meeting. Hardly {{had the team arrived::Hardly đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} [the team] (arrive) when the presentation began. No sooner {{had the panel finished::No sooner đầu câu thường dùng had + chủ ngữ + V3, rồi than.}} [the panel] (finish) than the director entered. Only then {{did the panel notice::Only then đầu câu yêu cầu đảo did trước chủ ngữ.}} [the panel] (notice) the error."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A museum organised an exhibition. {{It was the curator who | It was the curator that::Who và that đều có thể dùng trong câu chẻ nhấn mạnh người.}} (câu chẻ nhấn mạnh người) designed the display. {{It was on Monday that::Câu chẻ It was + thời gian + that nhấn mạnh thời điểm.}} (câu chẻ nhấn mạnh thời gian) the exhibition opened. Never {{have the researchers seen::Never đầu câu yêu cầu đảo have trước chủ ngữ.}} (đảo trợ động từ trước chủ ngữ) such an unusual collection before."
+      "questionHTML": "A museum organised an exhibition. {{It was the curator who | It was the curator that::Who và that đều có thể dùng trong câu chẻ nhấn mạnh người.}} [the curator] (be) designed the display. {{It was on Monday that::Câu chẻ It was + thời gian + that nhấn mạnh thời điểm.}} [on Monday] (be) the exhibition opened. Never {{have the researchers seen::Never đầu câu yêu cầu đảo have trước chủ ngữ.}} [the researchers] (see) such an unusual collection before."
     },
     {
       "tier": "apply",

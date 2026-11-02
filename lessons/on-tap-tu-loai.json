@@ -1,0 +1,763 @@
+{
+  "id": "review-tu-loai",
+  "title": "Ôn tập tổng hợp: Từ loại",
+  "pages": [
+    {
+      "pageNumber": 1,
+      "pageTitle": "Ôn tập tổng hợp: Từ loại",
+      "contentHTML": "<p>Bài ôn tổng hợp các chủ đề: danh từ và số ít/số nhiều, đại từ và sở hữu, tính từ và trạng từ, động từ be và trợ động từ, trật tự từ trong câu.</p><div class=\"rule-box\"><strong>Practice · Cơ bản:</strong> 100 câu. <strong>Apply · Nâng cao:</strong> 50 câu.</div><p>Từ gốc của động từ được đặt trong ngoặc tròn; các từ gốc hoặc gợi ý về nghĩa khác được đặt trong ngoặc vuông. Mỗi câu được tính một điểm.</p>"
+    }
+  ],
+  "exercises": [
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The museum has digitised several rare {{manuscripts::Several đi với danh từ đếm được số nhiều; manuscript thêm -s.}} [manuscript] for public access."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The project coordinator contacted Professor Lin and asked {{her::Professor Lin được xác định là nữ trong ngữ cảnh; sau động từ asked cần đại từ tân ngữ her.}} [cô ấy] to review the proposal. Professor Lin is a woman."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The review panel assessed the evidence {{carefully::Carefully là trạng từ bổ nghĩa cho hành động assessed, cho biết hội đồng đánh giá như thế nào.}} [careful] before reaching a decision."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The results of the independent review {{are::Chủ ngữ chính results là số nhiều, nên dùng are trước tính từ available ở hiện tại.}} (be) available online."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The ethics committee {{usually reviews::Usually thường đứng trước động từ thường reviews; committee được xem là một đơn vị số ít.}} (review) [usually] proposals before the study begins."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Researchers compared the migration patterns of three {{species::Species có cùng hình thức ở số ít và số nhiều; three cho biết ở đây là số nhiều.}} [loài]."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The committee submitted {{its::Committee là tổ chức số ít; trước danh từ recommendations cần tính từ sở hữu its, không có dấu nháy.}} [của nó] recommendations before the deadline."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The proposed solution seems {{effective::Seems là động từ nối; theo sau dùng tính từ effective để miêu tả solution, không dùng effectively.}} [effect] in reducing waste."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Why {{did::Yesterday đặt câu hỏi ở quá khứ đơn; dùng trợ động từ did trước chủ ngữ và động từ nguyên mẫu reject.}} (do) the committee reject the proposal yesterday?"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The laboratory {{is often::Trạng từ tần suất often thường đứng sau động từ be: is often.}} (be) [often] open to visiting scholars."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The final report contains valuable {{information::Information là danh từ không đếm được; không dùng informations hay an information.}} [thông tin] about local air quality."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The internship is ours, but the research grant is {{theirs::Đứng độc lập sau is và thay thế their research grant nên dùng đại từ sở hữu theirs.}} [của họ]."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The initial findings were {{highly::Highly là trạng từ chỉ mức độ bổ nghĩa cho tính từ significant; high không dùng thay thế ở đây.}} [high] significant."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The local authority {{has::The local authority là chủ ngữ số ít; has đi với phân từ published để tạo hiện tại hoàn thành.}} (have) published its annual report."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The research team {{has never published::Never thường đứng giữa trợ động từ has và phân từ published.}} (publish) [never] such a detailed report before."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Several {{analyses::Analysis có số nhiều bất quy tắc là analyses; several yêu cầu danh từ số nhiều.}} [analysis] were conducted before the findings were published."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The volunteers organised the entire exhibition by {{themselves::By themselves chỉ nhóm volunteers tự làm; đại từ phản thân số nhiều kết thúc bằng -selves.}} [chính họ]."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The research team worked {{hard::Hard là trạng từ nghĩa là chăm chỉ; hardly nghĩa là hầu như không và làm đổi nghĩa câu.}} [chăm chỉ] throughout the winter."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "At this time yesterday, the final draft {{was::At this time yesterday chỉ hành động đang diễn ra trong quá khứ; chủ ngữ số ít final draft đi với was + being reviewed.}} (be) being reviewed by experts."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The reviewer explained {{the findings clearly::Tân ngữ the findings đứng ngay sau động từ explained; trạng từ clearly có thể theo sau tân ngữ.}} [clearly / the findings] to the audience."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The charity provided school meals for hundreds of {{children::Sau hundreds of cần danh từ số nhiều; child đổi bất quy tắc thành children.}} [child] in rural areas."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The funding body sent the research team an invitation and asked {{us::Sau asked cần đại từ tân ngữ; us thay cho the research team khi người nói thuộc nhóm đó.}} [chúng tôi] to respond. I am a member of that team."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The museum guide explained the historical context {{clearly::Clearly là trạng từ bổ nghĩa cho động từ explained; clear là tính từ.}} [clear] to visitors."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The revised policy {{does not | doesn't::Chủ ngữ số ít policy dùng does not hoặc doesn't trong phủ định hiện tại đơn; động từ chính remain giữ nguyên mẫu.}} (do) [not] remain in effect after 2027."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The panel found {{the proposal convincing | the proposal to be convincing::Sau found, cả tân ngữ + tính từ và tân ngữ + to be + tính từ đều mô tả proposal.}} [convincing / the proposal] after the presentation."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The environmental agency issued two ___ about coastal flooding. (( advice | **pieces of advice** | advices :: Advice không đếm được; để đếm từng lời khuyên, dùng piece(s) of advice. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The students completed the fieldwork; the final decision was ___. (( their | **theirs** | them :: Sau was cần đại từ sở hữu đứng độc lập thay cho their decision; their cần danh từ theo sau. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The revised strategy appears ___ to local residents. (( **promising** | promisingly | promise :: Appears là động từ nối chỉ vẻ bề ngoài; theo sau cần tính từ promising mô tả strategy. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "___ the research team agree with the proposed changes? (( Is | **Does** | Has :: Agree là động từ thường; câu hỏi hiện tại đơn với team số ít dùng does + động từ nguyên mẫu. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Which sentence places the frequency adverb in a standard position? (( **The institute usually publishes its findings online.** | The institute publishes usually its findings online. | The institute usually its findings publishes online. :: Usually thường đứng trước động từ thường publishes; không chen trạng từ giữa động từ và tân ngữ. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The ___ collected during the inspection is confidential. (( **evidence** | evidences | an evidence :: Evidence là danh từ không đếm được trong nghĩa bằng chứng và thường đi với động từ số ít. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The museum updated ___ website after the collection was digitised. (( it's | **its** | it :: Trước danh từ website dùng tính từ sở hữu its; it's là viết tắt của it is hoặc it has. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The volunteers responded ___ to the sudden shortage. (( quick | **quickly** | quickness :: Động từ responded cần trạng từ quickly chỉ cách phản ứng. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The applications ___ examined by an independent panel last week. (( did | **were** | have :: Bị động quá khứ đơn dùng were + phân từ examined với chủ ngữ số nhiều applications. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Choose the standard word order. (( The data team has analysed carefully the results. | **The data team has carefully analysed the results.** | The data team carefully the results has analysed. :: Carefully có thể đứng giữa trợ động từ has và phân từ analysed; the results theo sau động từ. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Several historical ___ were displayed in the gallery. (( **photographs** | photograph | photographies :: Several yêu cầu danh từ đếm được số nhiều; photographs là các bức ảnh. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Between the director and ___, the proposal requires further review. (( I | **me** | mine :: Sau giới từ between, dùng đại từ tân ngữ me thay vì đại từ chủ ngữ I. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The research assistant could ___ hear the speaker because of the noise. (( hard | **hardly** | harder :: Hardly nghĩa là hầu như không, phù hợp với tiếng ồn khiến trợ lý khó nghe. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The manager did not ___ the final decision yesterday. (( announced | announces | **announce** :: Sau did not, động từ chính trở về nguyên mẫu announce, không chia quá khứ lần nữa. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Which sentence uses the subject–verb–complement pattern? (( **The proposed solution seems practical.** | The proposed seems solution practical. | The solution practical seems proposed. :: Chủ ngữ the proposed solution đứng trước động từ nối seems; practical là bổ ngữ mô tả solution. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The latest ___ from the research centre was unexpected. (( **news** | newses | a news :: News là danh từ không đếm được dù tận cùng bằng s; dùng với was ở đây. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The two researchers introduced ___ to the visiting panel. (( theirselves | themself | **themselves** :: The two researchers là chủ ngữ số nhiều và tự giới thiệu chính mình; đại từ phản thân là themselves. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The proposal received a ___ response from the community. (( warmly | **warm** | warmth :: Trước danh từ response cần tính từ warm; warmly là trạng từ. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The results ___ being analysed at the moment. (( do | **are** | have :: At the moment và being analysed gợi bị động hiện tại tiếp diễn; results số nhiều đi với are. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Choose the natural order of the two objects. (( The foundation offered a grant the students. | **The foundation offered the students a grant.** | The foundation the students a grant offered. :: Offer có thể theo cấu trúc offer + người nhận + vật được trao: offered the students a grant. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The conservation team examined the ___ of the ancient trees. (( leafs | **leaves** | leafes :: Leaf là danh từ có dạng số nhiều bất quy tắc leaves trong ngữ cảnh này. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Our findings differ from ___ published by the earlier team. (( their | **theirs** | them :: Theirs thay cho their findings và đứng độc lập; their phải đi trước danh từ. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The collection has been maintained remarkably ___. (( good | **well** | goodly :: Well là trạng từ của good, bổ nghĩa cho has been maintained; remarkably bổ nghĩa cho well. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The board ___ completed its review, so the report is now available. (( is | does | **has** :: Has + phân từ completed tạo hiện tại hoàn thành với chủ ngữ số ít board. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Which sentence places the adverb of frequency after be? (( The survey always is anonymous. | **The survey is always anonymous.** | Always the survey anonymous is. :: Always thường đứng sau động từ be chính: is always anonymous. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The report compares air quality in six {{cities::Six yêu cầu danh từ đếm được số nhiều; city kết thúc bằng phụ âm + y nên đổi y thành ies.}} [city] across the region."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The panel interviewed the volunteers and recorded {{their::Their đứng trước experiences và chỉ những trải nghiệm thuộc nhóm volunteers.}} [của họ] experiences."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The independent assessor examined the evidence {{carefully::Carefully là trạng từ bổ nghĩa cho examined, cho biết cách đánh giá.}} [careful]."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The final recommendations {{are::Recommendations là chủ ngữ số nhiều, nên dùng are trước available.}} (be) available on the university website."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The committee {{usually reviews::Usually thường đứng trước động từ thường reviews.}} (review) [usually] the final report before publication."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The board examined several proposed {{policies::Sau several cần danh từ số nhiều; policy đổi phụ âm + y thành ies.}} [policy] before the vote."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Dr Mai, a woman, presented the findings; the committee thanked {{her | them::Her chỉ người nữ; them cũng có thể là đại từ số ít trung tính, đều dùng sau thanked.}} [cô ấy]."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The updated strategy seems {{effective::Seems là động từ nối; effective mô tả strategy.}} [effect] after several successful trials."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "{{Did::Yesterday chỉ quá khứ đơn; Did đứng trước chủ ngữ và động từ nguyên mẫu approve.}} (do) the committee approve the proposal yesterday?"
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The laboratory {{is often::Often thường đứng sau động từ be: is often.}} (be) [often] open to visitors on Fridays."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Two {{women::Two yêu cầu số nhiều; woman có dạng số nhiều bất quy tắc women.}} [woman] led the field investigation."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "These manuscripts belong to the historians; the documents are {{theirs::Theirs đứng độc lập sau are và thay cho their documents.}} [của họ]."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers delivered a {{clear::Clear là tính từ đứng trước danh từ presentation.}} [clarity] presentation of the findings."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The director {{has::Has + released tạo hiện tại hoàn thành với director số ít.}} (have) released the report, so it is now public."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The director {{has never seen::Never thường đứng giữa trợ động từ has và phân từ seen.}} (see) [never] such a detailed proposal before."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The university made these {{theses::These đi với danh từ số nhiều; thesis đổi -is thành -es, tạo theses.}} [thesis] available online."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers reviewed the calculations {{themselves::Themselves nhấn mạnh chính researchers, chủ ngữ số nhiều, đã kiểm tra.}} [chính họ]."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The final results were {{highly::Highly là trạng từ chỉ mức độ, bổ nghĩa cho tính từ significant.}} [high] significant."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "At noon yesterday, the results {{were::Results là số nhiều; were being discussed là bị động quá khứ tiếp diễn.}} (be) being discussed."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The lecturer explained {{the findings clearly::Tân ngữ the findings đứng ngay sau explained; clearly có thể theo sau tân ngữ.}} [clearly / the findings] to the audience."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The conservation team repaired the {{roofs::Roof là ngoại lệ không đổi f thành ves; số nhiều thông dụng là roofs.}} [roof] of several historic buildings."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The institute revised {{its::Its bổ nghĩa cho policy và chỉ sự sở hữu của institute, không có dấu nháy.}} [của nó] policy after the consultation."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The analysts worked {{hard::Hard vừa là tính từ vừa là trạng từ nghĩa là chăm chỉ; hardly nghĩa là hầu như không.}} [chăm chỉ] throughout the review."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The new policy {{does not | doesn't::Does not hoặc doesn’t đứng trước động từ nguyên mẫu apply với policy số ít.}} (do) [not] apply to visitors."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The panel found {{the evidence convincing | the evidence to be convincing::Cả tân ngữ + tính từ và tân ngữ + to be + tính từ đều có thể dùng sau found để mô tả evidence.}} [convincing / the evidence] after the independent assessment."
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The researchers observed several unusual ___ during the experiment. (( phenomenons | **phenomena** | phenomenon :: Several cần danh từ đếm được số nhiều; phenomenon có số nhiều bất quy tắc phenomena. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The organisers invited the speakers to submit ___ biographies. (( theirs | **their** | them :: Their là tính từ sở hữu đứng trước danh từ biographies. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The revised explanation sounds ___ to the audience. (( convincingly | **convincing** | conviction :: Sounds là động từ nối; tính từ convincing mô tả explanation. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "___ the final report contain a summary? (( Is | **Does** | Has :: Contain là động từ thường; câu hỏi hiện tại đơn với report số ít dùng does. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Choose the standard position for the frequency adverb: the institute ___ online. (( publishes usually its findings | **usually publishes its findings** | usually its findings publishes :: Usually thường đứng trước động từ thường; tránh chen vào giữa publishes và tân ngữ. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "During the inspection, ___ was found to be damaged. (( an equipment | **a piece of equipment** | two equipments :: Equipment không đếm được; a piece of equipment là một đơn vị thiết bị và đi với was. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The final decision belongs to the committee; it is ___. (( their | **theirs** | them :: Theirs đứng độc lập, thay cho their decision; their cần danh từ theo sau. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The team responded ___ to the unexpected problem. (( quick | **quickly** | quickness :: Quickly là trạng từ mô tả cách responded diễn ra. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The proposals ___ examined by an independent panel last month. (( did | **were** | have :: Were + V3 examined là bị động quá khứ đơn với proposals số nhiều. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The director offered ___ at the ceremony. (( a grant the students | **the students a grant** | the students grant a :: Offer có thể theo cấu trúc người nhận + vật: the students a grant. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The laboratory recorded the behaviour of three ___. (( mouses | **mice** | mouse :: Three cần danh từ số nhiều; mouse có số nhiều bất quy tắc mice. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The visiting lecturer thanked the student assistants and spoke with ___. (( they | **them** | their :: Sau giới từ with cần đại từ tân ngữ them để thay cho assistants. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The researchers could ___ hear the announcement over the noise. (( hard | **hardly** | harder :: Hardly nghĩa là hầu như không, phù hợp với bối cảnh tiếng ồn. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "Why did the council ___ the original plan? (( rejected | **reject** | rejects :: Sau did, động từ chính trở về nguyên mẫu reject. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "mcq",
+      "questionHTML": "The survey ___ anonymous. (( always is be | **is always** | always anonymous is :: Always thường đứng sau động từ be chính trong câu này. ))"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ Several | museums | have | preserved | rare | manuscripts | for | future | generations. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | reviewed | their | findings | before | presenting | them | to | the | panel. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | explained | their | findings | clearly | to | the | public. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | auditors | checked | the | documents | before | the | results | were | announced. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | presented | their | findings | clearly | to | the | review | panel. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | latest | news | was | shared | with | the | research | team. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | volunteers | organised | the | entire | exhibition | by | themselves. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | revised | proposal | appears | remarkably | effective | in | practice. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ Did | the | committee | approve | the | proposal | at | the | meeting? ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ The | lecturer | presented | the | findings | clearly | at | the | conference. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "A series of public {{campaigns::A series of theo sau bởi danh từ số nhiều chỉ nhiều chiến dịch; campaign thêm -s.}} [campaign] was launched across the region."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The original proposal was written by Dr Hoa, a woman; the final version was edited by {{her::Sau giới từ by cần đại từ tân ngữ her để thay cho Dr Hoa.}} [cô ấy]."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Although the results initially looked {{uncertain::Looked ở đây là động từ nối; tính từ uncertain mô tả trạng thái của results.}} [không chắc chắn], the later evidence was convincing."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The proposed restrictions {{were not | weren't::The proposed restrictions là số nhiều; yesterday yêu cầu quá khứ, nên dùng were not hoặc weren't trước tính từ necessary.}} (be) [not] necessary yesterday, according to the inspector."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The campaign team {{rarely releases::Rarely thường đứng trước động từ thường releases; team được xem là một đơn vị số ít.}} (release) [rarely] incomplete figures."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Three independent ___ of the survey results were compared before publication. (( analysises | **analyses** | analysis :: Three independent yêu cầu số nhiều; analysis đổi thành analyses. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The lecturer asked the students to compare their conclusions with ___. (( her | **hers** | she :: Hers là đại từ sở hữu đứng độc lập, thay cho her conclusions; her cần danh từ theo sau. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Even after several revisions, the argument remains ___. (( weakly | **weak** | weakness :: Remains là động từ nối; cần tính từ weak để mô tả argument. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Why ___ the final version contain an additional section? (( is | **does** | has :: Contain là động từ thường nguyên mẫu; câu hỏi hiện tại đơn với version số ít dùng does. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Which sentence uses the given adverb in the usual position? (( The project is completed often late. | **The project is often completed late.** | The project often completed is late. :: Often thường đứng sau trợ động từ is và trước phân từ completed trong câu bị động. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | committee | considered | several | pieces | of | evidence | before | voting. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | presented | their | findings | to | the | committee. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | revised | proposal | seems | remarkably | effective | in | practice. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ Did | the | committee | approve | the | revised | proposal | yesterday? ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | committee | has | never | published | an | incomplete | report. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Each applicant must submit two {{copies::Copy kết thúc bằng phụ âm + y; đổi y thành ies để tạo số nhiều sau two.}} [copy] of the signed agreement."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The research assistants checked the calculations {{themselves::Themselves nhấn mạnh chính các trợ lý, chủ ngữ số nhiều, đã kiểm tra phép tính.}} [chính họ], rather than delegating the task."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The scientist gave a {{friendly::Friendly là tính từ đuôi -ly và đứng trước danh từ explanation; không tạo friendlyly.}} [friend] explanation of the complex process."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The researchers {{do::Do đứng trước động từ nguyên mẫu believe trong câu khẳng định để nhấn mạnh; chủ ngữ researchers là số nhiều.}} [thực sự] believe further investigation is necessary."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The lecturer presented {{the results clearly::The results là tân ngữ trực tiếp theo sau presented; clearly có thể đứng sau cụm tân ngữ.}} [clearly / the results] during the conference."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The committee requested several ___ to support the recommendation. (( evidences | **pieces of evidence** | an evidence :: Evidence không đếm được; several pieces of evidence đếm từng đơn vị bằng chứng. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The policy affects residents, and the council has invited ___ to share their views. (( they | **them** | their :: Sau động từ invited cần đại từ tân ngữ them, thay cho residents. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The new treatment worked ___ in the preliminary trial. (( **well** | good | goodly :: Sau động từ chỉ hành động worked, dùng trạng từ well; good là tính từ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The board ___ not ready to approve the plan yesterday. (( did | **was** | has :: Ready là tính từ nên dùng be; board là chủ ngữ số ít, yesterday yêu cầu was. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Which order places the object immediately after the verb? (( The researchers analysed thoroughly the survey responses. | **The researchers analysed the survey responses thoroughly.** | The researchers the survey responses analysed thoroughly. :: The survey responses là tân ngữ trực tiếp của analysed; thoroughly đặt sau tân ngữ là cách diễn đạt tự nhiên. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | compared | three | hypotheses | about | the | observed | changes. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | final | decision | was | theirs, | not | ours. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ Researchers | carefully | examined | the | evidence | before | publishing | their | conclusions. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | final | report | has | been | reviewed | by | independent | experts. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | presented | their | findings | clearly | at | the | conference. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The legal notice refers to {{people | persons::People và persons đều là số nhiều của person; persons thường mang sắc thái pháp lý hoặc rất trang trọng.}} [person] with disabilities."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The foundation promised the applicants that it would notify {{them::Notify cần tân ngữ; them thay cho applicants số nhiều.}} [họ] by Friday."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The committee listened {{carefully | attentively::Carefully và attentively đều là trạng từ bổ nghĩa cho listened và phù hợp với ngữ cảnh.}} [một cách chú ý] to the witnesses before reaching a decision."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The restrictions {{were not | weren't::Restrictions số nhiều ở quá khứ dùng were not hoặc weren’t trước necessary.}} (be) [not] necessary when the inspector visited yesterday."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The institute {{rarely releases::Rarely thường đứng trước động từ thường releases.}} (release) [rarely] incomplete data."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The field team needs ___ to confirm the observation. (( a further evidence | further evidences | **further evidence** :: Evidence là danh từ không đếm được; further evidence nghĩa là thêm bằng chứng, không dùng a hay thêm -s. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The director introduced Dr Hoa and then invited ___ to speak. Dr Hoa is a woman. (( she | **her** | hers :: Sau invited cần đại từ tân ngữ her; she là chủ ngữ và hers là đại từ sở hữu. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The committee found the final recommendation ___. (( practically | **practical** | practice :: Cấu trúc find + tân ngữ + bổ ngữ dùng tính từ practical để mô tả recommendation. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The team did not ___ the conclusion until all evidence was reviewed. (( accepted | **accept** | accepts :: Sau did not dùng động từ nguyên mẫu accept. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The applications ___ checked before decisions are made. (( usually are be | **are usually** | are checked usually are :: Usually thường đứng sau trợ động từ are và trước phân từ checked trong bị động. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | presented | their | analyses | and | supporting | evidence | to | the | panel. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | final | conclusions | were | theirs, | although | the | original | proposal | was | ours. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | revised | report | provides | a | clear | and | practical | explanation. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | researchers | do | believe | that | further | investigation | is | necessary. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "unscramble",
+      "questionHTML": "~~ The | board | considers | the | revised | proposal | essential | for | the | next | phase. ~~"
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The investigators identified several {{phenomena::Several yêu cầu số nhiều; phenomenon có dạng số nhiều bất quy tắc phenomena.}} [phenomenon] that could influence the results."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The algorithm checks {{its::Its own output là đầu ra của thuật toán; its không có dấu nháy.}} [của nó] own output before producing the final report."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The new system performed {{well::Well là trạng từ bổ nghĩa cho performed; good thường là tính từ.}} [good] during independent testing."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The applications {{were::Were being assessed là bị động quá khứ tiếp diễn với applications số nhiều.}} (be) being assessed when the director arrived."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The consultant presented {{the results clearly::The results là tân ngữ theo ngay sau presented; clearly có thể đứng sau tân ngữ.}} [clearly / the results] at the meeting."
+    }
+  ]
+}

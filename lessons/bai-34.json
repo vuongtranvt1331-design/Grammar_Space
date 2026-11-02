@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The analysts {{reviewing::Reviewing rút gọn mệnh đề chủ động who are reviewing.}} (phân từ hiện tại rút gọn mệnh đề chủ động) the report are preparing a summary."
+      "questionHTML": "The analysts {{reviewing::Reviewing rút gọn mệnh đề chủ động who are reviewing.}} (review) the report are preparing a summary."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The report {{published::Published rút gọn mệnh đề bị động which was published.}} (phân từ quá khứ rút gọn mệnh đề bị động) in 2020 is available online."
+      "questionHTML": "The report {{published::Published rút gọn mệnh đề bị động which was published.}} (publish) in 2020 is available online."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The first researcher {{to complete::Sau the first, to + nguyên mẫu có thể rút gọn mệnh đề quan hệ.}} (động từ nguyên mẫu sau the first) the project received an award."
+      "questionHTML": "The first researcher {{to complete::Sau the first, to + nguyên mẫu có thể rút gọn mệnh đề quan hệ.}} (complete) the project received an award."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The building {{designed::Designed by rút gọn mệnh đề bị động which was designed by.}} (phân từ quá khứ chỉ quan hệ bị động) by an architect won a prize."
+      "questionHTML": "The building {{designed::Designed by rút gọn mệnh đề bị động which was designed by.}} (design) by an architect won a prize."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{working::Working rút gọn mệnh đề chủ động who are working.}} (phân từ hiện tại chỉ hành động chủ động) in the laboratory are testing samples."
+      "questionHTML": "The researchers {{working::Working rút gọn mệnh đề chủ động who are working.}} (work) in the laboratory are testing samples."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{reviewing::Reviewing rút gọn mệnh đề chủ động who are reviewing.}} (phân từ hiện tại rút gọn mệnh đề chủ động) the data will present their conclusions."
+      "questionHTML": "The researchers {{reviewing::Reviewing rút gọn mệnh đề chủ động who are reviewing.}} (review) the data will present their conclusions."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The catalogue {{published::Published rút gọn mệnh đề bị động which was published.}} (phân từ quá khứ rút gọn mệnh đề bị động) in 2018 contains rare photographs."
+      "questionHTML": "The catalogue {{published::Published rút gọn mệnh đề bị động which was published.}} (publish) in 2018 contains rare photographs."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The first student {{to complete::Sau the first, to + nguyên mẫu có thể rút gọn mệnh đề quan hệ.}} (động từ nguyên mẫu sau the first) the assignment presented the findings."
+      "questionHTML": "The first student {{to complete::Sau the first, to + nguyên mẫu có thể rút gọn mệnh đề quan hệ.}} (complete) the assignment presented the findings."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The display {{designed::Designed by rút gọn mệnh đề bị động which was designed by.}} (phân từ quá khứ chỉ quan hệ bị động) by the curator attracted visitors."
+      "questionHTML": "The display {{designed::Designed by rút gọn mệnh đề bị động which was designed by.}} (design) by the curator attracted visitors."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The technicians {{working::Working rút gọn mệnh đề chủ động who are working.}} (phân từ hiện tại chỉ hành động chủ động) at the site need additional equipment."
+      "questionHTML": "The technicians {{working::Working rút gọn mệnh đề chủ động who are working.}} (work) at the site need additional equipment."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The document {{approved::Approved by rút gọn which was approved by.}} (approve; dạng rút gọn bị động) by the committee is available online."
+      "questionHTML": "The document {{approved::Approved by rút gọn which was approved by.}} (approve) by the committee is available online."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The first applicant {{to submit::Sau the first, dùng to + nguyên mẫu để rút gọn mệnh đề quan hệ.}} (submit; cấu trúc sau the first) the form will be contacted."
+      "questionHTML": "The first applicant {{to submit::Sau the first, dùng to + nguyên mẫu để rút gọn mệnh đề quan hệ.}} (submit) the form will be contacted."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The volunteers {{working::Working rút gọn who are working.}} (work; dạng rút gọn chủ động) at the museum are preparing the exhibition."
+      "questionHTML": "The volunteers {{working::Working rút gọn who are working.}} (work) at the museum are preparing the exhibition."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is preparing a report. The researchers {{reviewing::Reviewing rút gọn mệnh đề chủ động who are reviewing.}} (review; rút gọn chủ động) the data will present tomorrow. The report {{published::Published rút gọn mệnh đề bị động which was published.}} (publish; rút gọn bị động) last year provides background. The first student {{to complete::Sau the first có thể dùng to + nguyên mẫu.}} (complete; sau the first) the analysis will explain the method."
+      "questionHTML": "A university is preparing a report. The researchers {{reviewing::Reviewing rút gọn mệnh đề chủ động who are reviewing.}} (review) the data will present tomorrow. The report {{published::Published rút gọn mệnh đề bị động which was published.}} (publish) last year provides background. The first student {{to complete::Sau the first có thể dùng to + nguyên mẫu.}} (complete) the analysis will explain the method."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A museum is planning an exhibition. The curator selected a display {{designed::Designed by rút gọn mệnh đề bị động.}} (design; rút gọn bị động) by a local artist. The volunteers {{working::Working rút gọn mệnh đề chủ động who are working.}} (work; rút gọn chủ động) at the museum will guide visitors. The first guest {{to complete::Sau the first có thể dùng to + nguyên mẫu.}} (complete; sau the first) the tour will provide feedback."
+      "questionHTML": "A museum is planning an exhibition. The curator selected a display {{designed::Designed by rút gọn mệnh đề bị động.}} (design) by a local artist. The volunteers {{working::Working rút gọn mệnh đề chủ động who are working.}} (work) at the museum will guide visitors. The first guest {{to complete::Sau the first có thể dùng to + nguyên mẫu.}} (complete) the tour will provide feedback."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A committee is reviewing an application. The specialists {{reviewing::Reviewing rút gọn mệnh đề chủ động.}} (review; rút gọn chủ động) the proposal will report today. The document {{approved::Approved by rút gọn mệnh đề bị động.}} (approve; rút gọn bị động) by the panel will be published. The first researcher {{to complete::Sau the first có thể dùng to + nguyên mẫu.}} (complete; sau the first) the work will receive a certificate."
+      "questionHTML": "A committee is reviewing an application. The specialists {{reviewing::Reviewing rút gọn mệnh đề chủ động.}} (review) the proposal will report today. The document {{approved::Approved by rút gọn mệnh đề bị động.}} (approve) by the panel will be published. The first researcher {{to complete::Sau the first có thể dùng to + nguyên mẫu.}} (complete) the work will receive a certificate."
     },
     {
       "tier": "apply",

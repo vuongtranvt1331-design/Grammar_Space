@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "In the manufacturing diagram, the raw material {{is heated::Vật liệu nhận tác động trong quy trình sản xuất: is + V3 heated là cấu trúc bị động.}} (is heated / heats / is heat) in a machine."
+      "questionHTML": "In the manufacturing diagram, the raw material {{is heated::Vật liệu nhận tác động trong quy trình sản xuất: is + V3 heated là cấu trúc bị động.}} (be) (heat) in a machine."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "In the natural water cycle, water {{evaporates::Evaporates là động từ chủ động mô tả nước tự bay hơi; không phải mọi quy trình đều cần bị động.}} (evaporates / is evaporates / evaporating) as it turns into vapour."
+      "questionHTML": "In the natural water cycle, water {{evaporates::Evaporates là động từ chủ động mô tả nước tự bay hơi; không phải mọi quy trình đều cần bị động.}} (evaporate) as it turns into vapour."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "First, the material is washed. {{Subsequently::Subsequently nghĩa là sau đó và nối bước rửa với bước làm khô.}} (subsequently / because / although), it is dried."
+      "questionHTML": "First, the material is washed. {{Subsequently::Subsequently nghĩa là sau đó và nối bước rửa với bước làm khô.}} [although / because / subsequently], it is dried."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "On the later map, the factory was converted {{into::Convert something into something diễn tả sự chuyển đổi từ công năng cũ sang công năng mới.}} (into / from / at) a library."
+      "questionHTML": "On the later map, the factory was converted {{into::Convert something into something diễn tả sự chuyển đổi từ công năng cũ sang công năng mới.}} [at / from / into] a library."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "The old building was {{demolished::Demolished là V3 trong was demolished, phù hợp khi tòa nhà bị phá dỡ.}} (demolished / risen / arrived) and no longer appears on the later map."
+      "questionHTML": "The old building was {{demolished::Demolished là V3 trong was demolished, phù hợp khi tòa nhà bị phá dỡ.}} (demolish) and no longer appears on the later map."
     },
     {
       "type": "mcq",

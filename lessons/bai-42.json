@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "From 2010 to 2020, the population {{rose::Rose là quá khứ của rise và diễn tả xu hướng tăng trong giai đoạn quá khứ; fell diễn tả giảm.}} (rose / rise / fell) steadily from 10 to 20 million."
+      "questionHTML": "From 2010 to 2020, the population {{rose::Rose là quá khứ của rise và diễn tả xu hướng tăng trong giai đoạn quá khứ; fell diễn tả giảm.}} (rise) steadily from 10 to 20 million."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "There was a rapid {{rise::Sau a rapid cần danh từ rise; rose là động từ quá khứ và rapidly là trạng từ.}} (rise / rose / rapidly) in the population."
+      "questionHTML": "There was a rapid {{rise::Sau a rapid cần danh từ rise; rose là động từ quá khứ và rapidly là trạng từ.}} [rapidly / rose / rise] in the population."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "The population {{experienced::The population experienced a sharp increase có chủ ngữ và động từ hoàn chỉnh ở quá khứ; không dùng There experienced.}} (experienced / was / experiencing) a sharp increase between 2010 and 2020."
+      "questionHTML": "The population {{experienced::The population experienced a sharp increase có chủ ngữ và động từ hoàn chỉnh ở quá khứ; không dùng There experienced.}} (experience) a sharp increase between 2010 and 2020."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "The number of visitors fell {{sharply::Sharply là trạng từ bổ nghĩa cho động từ fell; sharp là tính từ thường bổ nghĩa cho danh từ.}} (sharply / sharp / was) from 50 to 30."
+      "questionHTML": "The number of visitors fell {{sharply::Sharply là trạng từ bổ nghĩa cho động từ fell; sharp là tính từ thường bổ nghĩa cho danh từ.}} [was / sharp / sharply] from 50 to 30."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "The rate remained {{stable::Remained stable diễn tả tỷ lệ giữ ổn định; stable là tính từ sau động từ nối remained.}} (stable / rose / stability) at 20%."
+      "questionHTML": "The rate remained {{stable::Remained stable diễn tả tỷ lệ giữ ổn định; stable là tính từ sau động từ nối remained.}} [stability / rose / stable] at 20%."
     },
     {
       "type": "mcq",

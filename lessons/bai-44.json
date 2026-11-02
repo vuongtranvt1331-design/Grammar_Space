@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "In the example chart, A is 50%, B is 30% and C is 20%. A is the {{largest::A chiếm 50%, cao nhất trong ba nhóm, nên dùng largest.}} (largest / smallest / lower)."
+      "questionHTML": "In the example chart, A is 50%, B is 30% and C is 20%. A is the {{largest::A chiếm 50%, cao nhất trong ba nhóm, nên dùng largest.}} [lower / smallest / largest]."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "In the same data, C is the {{smallest::C ở mức 20%, thấp nhất trong ba nhóm, nên dùng smallest.}} (smallest / largest / higher) group at 20%."
+      "questionHTML": "In the same data, C is the {{smallest::C ở mức 20%, thấp nhất trong ba nhóm, nên dùng smallest.}} [higher / largest / smallest] group at 20%."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "In 2020, A {{accounted for::Accounted for diễn tả tỷ phần trong tổng thể tại năm 2020; increased to hàm ý thay đổi theo thời gian.}} (accounted for / increased to / caused) 50% of the total."
+      "questionHTML": "In 2020, A {{accounted for::Accounted for diễn tả tỷ phần trong tổng thể tại năm 2020; increased to hàm ý thay đổi theo thời gian.}} (account) [for] 50% of the total."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A accounted for 50%, {{while::While nối hai số liệu để đối chiếu; biểu đồ không cung cấp nguyên nhân nên không suy ra because.}} (while / because / unless) B made up 30%."
+      "questionHTML": "A accounted for 50%, {{while::While nối hai số liệu để đối chiếu; biểu đồ không cung cấp nguyên nhân nên không suy ra because.}} [unless / because / while] B made up 30%."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "For a chart with data from only one year, avoid inventing a {{trend::Một thời điểm đơn lẻ không cho thấy xu hướng theo thời gian; category và unit vẫn có thể xuất hiện trong biểu đồ.}} (trend / category / unit) over time."
+      "questionHTML": "For a chart with data from only one year, avoid inventing a {{trend::Một thời điểm đơn lẻ không cho thấy xu hướng theo thời gian; category và unit vẫn có thể xuất hiện trong biểu đồ.}} [unit / category / trend] over time."
     },
     {
       "type": "mcq",

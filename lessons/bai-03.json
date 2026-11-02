@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The review panel assessed the evidence {{carefully::Carefully là trạng từ bổ nghĩa cho hành động assessed, cho biết hội đồng đánh giá như thế nào.}} (careful) before reaching a decision."
+      "questionHTML": "The review panel assessed the evidence {{carefully::Carefully là trạng từ bổ nghĩa cho hành động assessed, cho biết hội đồng đánh giá như thế nào.}} [careful] before reaching a decision."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The proposed solution seems {{effective::Seems là động từ nối; theo sau dùng tính từ effective để miêu tả solution, không dùng effectively.}} (dạng tính từ của effect) in reducing waste."
+      "questionHTML": "The proposed solution seems {{effective::Seems là động từ nối; theo sau dùng tính từ effective để miêu tả solution, không dùng effectively.}} [effect] in reducing waste."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The initial findings were {{highly::Highly là trạng từ chỉ mức độ bổ nghĩa cho tính từ significant; high không dùng thay thế ở đây.}} (high) significant."
+      "questionHTML": "The initial findings were {{highly::Highly là trạng từ chỉ mức độ bổ nghĩa cho tính từ significant; high không dùng thay thế ở đây.}} [high] significant."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The research team worked {{hard::Hard là trạng từ nghĩa là chăm chỉ; hardly nghĩa là hầu như không và làm đổi nghĩa câu.}} (trạng từ nghĩa là chăm chỉ) throughout the winter."
+      "questionHTML": "The research team worked {{hard::Hard là trạng từ nghĩa là chăm chỉ; hardly nghĩa là hầu như không và làm đổi nghĩa câu.}} [chăm chỉ] throughout the winter."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The museum guide explained the historical context {{clearly::Clearly là trạng từ bổ nghĩa cho động từ explained; clear là tính từ.}} (clear) to visitors."
+      "questionHTML": "The museum guide explained the historical context {{clearly::Clearly là trạng từ bổ nghĩa cho động từ explained; clear là tính từ.}} [clear] to visitors."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The independent assessor examined the evidence {{carefully::Carefully là trạng từ bổ nghĩa cho examined, cho biết cách đánh giá.}} (careful; bổ nghĩa cho hành động)."
+      "questionHTML": "The independent assessor examined the evidence {{carefully::Carefully là trạng từ bổ nghĩa cho examined, cho biết cách đánh giá.}} [careful]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The updated strategy seems {{effective::Seems là động từ nối; effective mô tả strategy.}} (effect; tính từ sau động từ nối) after several successful trials."
+      "questionHTML": "The updated strategy seems {{effective::Seems là động từ nối; effective mô tả strategy.}} [effect] after several successful trials."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers delivered a {{clear::Clear là tính từ đứng trước danh từ presentation.}} (dạng tính từ của clarity) presentation of the findings."
+      "questionHTML": "The researchers delivered a {{clear::Clear là tính từ đứng trước danh từ presentation.}} [clarity] presentation of the findings."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The final results were {{highly::Highly là trạng từ chỉ mức độ, bổ nghĩa cho tính từ significant.}} (high; bổ nghĩa mức độ) significant."
+      "questionHTML": "The final results were {{highly::Highly là trạng từ chỉ mức độ, bổ nghĩa cho tính từ significant.}} [high] significant."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The analysts worked {{hard::Hard vừa là tính từ vừa là trạng từ nghĩa là chăm chỉ; hardly nghĩa là hầu như không.}} (trạng từ nghĩa là chăm chỉ) throughout the review."
+      "questionHTML": "The analysts worked {{hard::Hard vừa là tính từ vừa là trạng từ nghĩa là chăm chỉ; hardly nghĩa là hầu như không.}} [chăm chỉ] throughout the review."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Although the results initially looked {{uncertain::Looked ở đây là động từ nối; tính từ uncertain mô tả trạng thái của results.}} (tính từ mang nghĩa chưa chắc chắn), the later evidence was convincing."
+      "questionHTML": "Although the results initially looked {{uncertain::Looked ở đây là động từ nối; tính từ uncertain mô tả trạng thái của results.}} [không chắc chắn], the later evidence was convincing."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The committee listened {{carefully | attentively::Cả carefully và attentively đều là trạng từ chỉ cách lắng nghe, phù hợp với động từ listened.}} (trạng từ nghĩa là một cách chú ý) to every witness."
+      "questionHTML": "The committee listened {{carefully | attentively::Cả carefully và attentively đều là trạng từ chỉ cách lắng nghe, phù hợp với động từ listened.}} [một cách chú ý] to every witness."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The scientist gave a {{friendly::Friendly là tính từ đuôi -ly và đứng trước danh từ explanation; không tạo friendlyly.}} (friend) explanation of the complex process."
+      "questionHTML": "The scientist gave a {{friendly::Friendly là tính từ đuôi -ly và đứng trước danh từ explanation; không tạo friendlyly.}} [friend] explanation of the complex process."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The cost of the project increased {{dramatically::Dramatically là trạng từ bổ nghĩa cho increased; dramatically diễn tả mức tăng mạnh.}} (dramatic) after materials became scarce."
+      "questionHTML": "The cost of the project increased {{dramatically::Dramatically là trạng từ bổ nghĩa cho increased; dramatically diễn tả mức tăng mạnh.}} [dramatic] after materials became scarce."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team studied the effects of noise on concentration. The participants completed a {{difficult::Difficult là tính từ đứng trước danh từ test.}} (dạng tính từ của difficulty) test in two different rooms. Their performance was {{significantly::Significantly là trạng từ chỉ mức độ bổ nghĩa cho tính từ better.}} (significant) better in the quieter room. Although the first results seemed {{surprising::Seemed là động từ nối nên cần tính từ surprising mô tả results.}} (surprise), the team checked the measurements {{carefully::Carefully là trạng từ bổ nghĩa cho động từ checked, nói cách nhóm kiểm tra.}} (careful) before publishing them."
+      "questionHTML": "A research team studied the effects of noise on concentration. The participants completed a {{difficult::Difficult là tính từ đứng trước danh từ test.}} [difficulty] test in two different rooms. Their performance was {{significantly::Significantly là trạng từ chỉ mức độ bổ nghĩa cho tính từ better.}} [significant] better in the quieter room. Although the first results seemed {{surprising::Seemed là động từ nối nên cần tính từ surprising mô tả results.}} (surprise), the team checked the measurements {{carefully::Carefully là trạng từ bổ nghĩa cho động từ checked, nói cách nhóm kiểm tra.}} [careful] before publishing them."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The committee listened {{carefully | attentively::Carefully và attentively đều là trạng từ bổ nghĩa cho listened và phù hợp với ngữ cảnh.}} (trạng từ nghĩa là một cách chú ý) to the witnesses before reaching a decision."
+      "questionHTML": "The committee listened {{carefully | attentively::Carefully và attentively đều là trạng từ bổ nghĩa cho listened và phù hợp với ngữ cảnh.}} [một cách chú ý] to the witnesses before reaching a decision."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Despite the initial uncertainty, the evidence now looks {{convincing::Looks là động từ nối; convincing mô tả evidence.}} (tính từ chỉ mức độ thuyết phục)."
+      "questionHTML": "Despite the initial uncertainty, the evidence now looks {{convincing::Looks là động từ nối; convincing mô tả evidence.}} [thuyết phục]."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The new system performed {{well::Well là trạng từ bổ nghĩa cho performed; good thường là tính từ.}} (trạng từ của good) during independent testing."
+      "questionHTML": "The new system performed {{well::Well là trạng từ bổ nghĩa cho performed; good thường là tính từ.}} [good] during independent testing."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The organisation provided a {{friendly::Friendly là tính từ có đuôi -ly, đứng trước explanation.}} (friend; tính từ chỉ sự thân thiện) explanation of the new procedures."
+      "questionHTML": "The organisation provided a {{friendly::Friendly là tính từ có đuôi -ly, đứng trước explanation.}} [friend] explanation of the new procedures."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A team evaluated a community transport scheme. The initial proposal seemed {{promising::Seemed là động từ nối; promising mô tả proposal.}} (tính từ của promise) to local residents. Researchers then examined the data {{carefully::Carefully là trạng từ bổ nghĩa cho examined.}} (careful). The final results were {{highly::Highly là trạng từ chỉ mức độ, bổ nghĩa cho tính từ significant.}} (high; chỉ mức độ) significant."
+      "questionHTML": "A team evaluated a community transport scheme. The initial proposal seemed {{promising::Seemed là động từ nối; promising mô tả proposal.}} to local residents. Researchers then examined the data {{carefully::Carefully là trạng từ bổ nghĩa cho examined.}} [careful]. The final results were {{highly::Highly là trạng từ chỉ mức độ, bổ nghĩa cho tính từ significant.}} [high] significant."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university tested a new learning platform. Students described the instructions as {{clear::Clear là tính từ làm bổ ngữ, mô tả instructions.}} (tính từ của clarity). Most participants completed the tasks {{successfully::Successfully là trạng từ chỉ cách completed diễn ra.}} (successful), and the support team remained {{helpful::Remained là động từ nối; helpful mô tả support team.}} (help; tính từ) throughout the trial. The developers are now reviewing the feedback."
+      "questionHTML": "A university tested a new learning platform. Students described the instructions as {{clear::Clear là tính từ làm bổ ngữ, mô tả instructions.}} [clarity]. Most participants completed the tasks {{successfully::Successfully là trạng từ chỉ cách completed diễn ra.}} [successful], and the support team remained {{helpful::Remained là động từ nối; helpful mô tả support team.}} (help) throughout the trial. The developers are now reviewing the feedback."
     },
     {
       "tier": "apply",

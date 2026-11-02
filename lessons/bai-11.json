@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The {{larger::Mô hình the + comparative..., the + comparative...; large đổi thành larger.}} (so sánh hơn của large) the sample, the more reliable the estimate tends to be."
+      "questionHTML": "The {{larger::Mô hình the + comparative..., the + comparative...; large đổi thành larger.}} [large] the sample, the more reliable the estimate tends to be."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The more carefully the team checks the data, the {{fewer::Errors đếm được số nhiều; fewer diễn tả số lỗi ít hơn.}} (so sánh hơn của few) errors it makes."
+      "questionHTML": "The more carefully the team checks the data, the {{fewer::Errors đếm được số nhiều; fewer diễn tả số lỗi ít hơn.}} [few] errors it makes."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The earlier the panel meets, the {{sooner::Soon có dạng so sánh hơn sooner trong vế kết quả.}} (so sánh hơn của soon) it can publish its decision."
+      "questionHTML": "The earlier the panel meets, the {{sooner::Soon có dạng so sánh hơn sooner trong vế kết quả.}} [soon] it can publish its decision."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The more detailed the evidence, the {{clearer::Clear là tính từ ngắn; clearer dùng trong vế so sánh kép.}} (so sánh hơn của clear) the explanation becomes."
+      "questionHTML": "The more detailed the evidence, the {{clearer::Clear là tính từ ngắn; clearer dùng trong vế so sánh kép.}} [clear] the explanation becomes."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The {{more::The more + mệnh đề cho biết mức độ tập luyện tăng; vế sau dùng the better.}} (so sánh hơn diễn tả mức độ) the staff train, the better they perform."
+      "questionHTML": "The {{more::The more + mệnh đề cho biết mức độ tập luyện tăng; vế sau dùng the better.}} the staff train, the better they perform."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The {{larger::The larger..., the more... là cấu trúc so sánh kép.}} (so sánh hơn của large) the sample, the more reliable the estimate."
+      "questionHTML": "The {{larger::The larger..., the more... là cấu trúc so sánh kép.}} [large] the sample, the more reliable the estimate."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The earlier the team starts, the {{sooner::Sooner là dạng so sánh hơn của soon.}} (so sánh hơn của soon) it can finish."
+      "questionHTML": "The earlier the team starts, the {{sooner::Sooner là dạng so sánh hơn của soon.}} [soon] it can finish."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The more carefully the team checks the figures, the {{fewer::Errors đếm được số nhiều; fewer chỉ số lượng ít hơn.}} (so sánh hơn của few) errors it makes."
+      "questionHTML": "The more carefully the team checks the figures, the {{fewer::Errors đếm được số nhiều; fewer chỉ số lượng ít hơn.}} [few] errors it makes."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The clearer the instructions, the {{easier::Easy đổi y thành ier trong dạng easier.}} (so sánh hơn của easy) it is to complete the task."
+      "questionHTML": "The clearer the instructions, the {{easier::Easy đổi y thành ier trong dạng easier.}} it is to complete the task."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The more resources the project receives, the {{greater::Greater là dạng so sánh hơn của great.}} (so sánh hơn của great) its reach can become."
+      "questionHTML": "The more resources the project receives, the {{greater::Greater là dạng so sánh hơn của great.}} [great] its reach can become."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The {{shorter::Shorter là so sánh hơn của short, đi sau the trong cấu trúc tương quan.}} (so sánh hơn của short) the route, the less fuel the vehicles consume."
+      "questionHTML": "The {{shorter::Shorter là so sánh hơn của short, đi sau the trong cấu trúc tương quan.}} [short] the route, the less fuel the vehicles consume."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The more complex the task, the {{more::More bổ nghĩa cho time không đếm được khi thời gian cần tăng.}} (so sánh hơn cho lượng thời gian) time participants usually need."
+      "questionHTML": "The more complex the task, the {{more::More bổ nghĩa cho time không đếm được khi thời gian cần tăng.}} time participants usually need."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The less frequently the equipment is maintained, the {{more::More likely nghĩa là có khả năng cao hơn; đặt sau the ở vế kết quả.}} (so sánh hơn bổ nghĩa likely) likely it is to fail."
+      "questionHTML": "The less frequently the equipment is maintained, the {{more::More likely nghĩa là có khả năng cao hơn; đặt sau the ở vế kết quả.}} likely it is to fail."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The {{more::Evidence không đếm được; more evidence chỉ lượng bằng chứng tăng.}} (so sánh hơn bổ nghĩa evidence) evidence the team collects, the stronger its argument becomes."
+      "questionHTML": "The {{more::Evidence không đếm được; more evidence chỉ lượng bằng chứng tăng.}} evidence the team collects, the stronger its argument becomes."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A team is improving a recycling process. The {{more::More bổ nghĩa cho danh từ số nhiều materials để chỉ lượng tăng.}} (so sánh hơn chỉ lượng) materials it recovers, the less waste reaches landfill. The {{shorter::Shorter là dạng so sánh hơn của short trong vế đầu.}} (so sánh hơn của short) the transport route, the less fuel the collection vehicles use. The more residents participate, the {{better::Better là dạng so sánh hơn bất quy tắc của good.}} (so sánh hơn của good) the overall results become."
+      "questionHTML": "A team is improving a recycling process. The {{more::More bổ nghĩa cho danh từ số nhiều materials để chỉ lượng tăng.}} materials it recovers, the less waste reaches landfill. The {{shorter::Shorter là dạng so sánh hơn của short trong vế đầu.}} [short] the transport route, the less fuel the collection vehicles use. The more residents participate, the {{better::Better là dạng so sánh hơn bất quy tắc của good.}} [good] the overall results become."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The {{closer::The closer..., the more... diễn tả hai thay đổi tương ứng.}} (so sánh hơn của close) the deadline, the more urgent the work becomes."
+      "questionHTML": "The {{closer::The closer..., the more... diễn tả hai thay đổi tương ứng.}} [close] the deadline, the more urgent the work becomes."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The more complex the case, the {{more::More time chỉ lượng thời gian tăng; time không đếm được.}} (so sánh hơn chỉ lượng thời gian) time the panel needs."
+      "questionHTML": "The more complex the case, the {{more::More time chỉ lượng thời gian tăng; time không đếm được.}} time the panel needs."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The less frequently equipment is maintained, the {{more::More likely chỉ khả năng cao hơn.}} (trạng từ so sánh chỉ khả năng tăng) likely it is to fail."
+      "questionHTML": "The less frequently equipment is maintained, the {{more::More likely chỉ khả năng cao hơn.}} likely it is to fail."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The more questions participants ask, the {{richer::Rich là tính từ ngắn; richer mô tả cuộc thảo luận phong phú hơn.}} (so sánh hơn của rich) the discussion becomes."
+      "questionHTML": "The more questions participants ask, the {{richer::Rich là tính từ ngắn; richer mô tả cuộc thảo luận phong phú hơn.}} [rich] the discussion becomes."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A recycling team is improving its process. The {{more::More bổ nghĩa cho materials số nhiều và chỉ lượng tăng.}} (so sánh hơn chỉ lượng) materials it recovers, the less waste reaches landfill. The {{shorter::Shorter là dạng so sánh hơn của short.}} (so sánh hơn của short) the transport route, the less fuel the vehicles use. The more residents participate, the {{better::Better là dạng so sánh hơn bất quy tắc của good.}} (so sánh hơn của good) the overall results become."
+      "questionHTML": "A recycling team is improving its process. The {{more::More bổ nghĩa cho materials số nhiều và chỉ lượng tăng.}} materials it recovers, the less waste reaches landfill. The {{shorter::Shorter là dạng so sánh hơn của short.}} [short] the transport route, the less fuel the vehicles use. The more residents participate, the {{better::Better là dạng so sánh hơn bất quy tắc của good.}} [good] the overall results become."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research group is reviewing its methods. The {{larger::Larger là so sánh hơn của large.}} (so sánh hơn của large) the sample, the more precise the estimate tends to be. The more carefully the team checks the data, the {{fewer::Fewer đi với errors là danh từ đếm được số nhiều.}} (so sánh hơn chỉ số lượng đếm được) errors remain. The {{clearer::Clearer là so sánh hơn của clear.}} (so sánh hơn của clear) the explanation, the easier it is to evaluate the findings."
+      "questionHTML": "A research group is reviewing its methods. The {{larger::Larger là so sánh hơn của large.}} [large] the sample, the more precise the estimate tends to be. The more carefully the team checks the data, the {{fewer::Fewer đi với errors là danh từ đếm được số nhiều.}} errors remain. The {{clearer::Clearer là so sánh hơn của clear.}} [clear] the explanation, the easier it is to evaluate the findings."
     },
     {
       "tier": "apply",

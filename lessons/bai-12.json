@@ -23,27 +23,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The research institute usually {{publishes::Usually chỉ thói quen; institute là số ít nên dùng publishes.}} (publish; thói quen với chủ ngữ số ít) its findings online."
+      "questionHTML": "The research institute usually {{publishes::Usually chỉ thói quen; institute là số ít nên dùng publishes.}} (publish) its findings online."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "At present, the researchers {{are conducting::At present nêu hoạt động đang diễn ra; researchers số nhiều dùng are conducting.}} (conduct; hành động đang diễn ra) a new survey of local residents."
+      "questionHTML": "At present, the researchers {{are conducting::At present nêu hoạt động đang diễn ra; researchers số nhiều dùng are conducting.}} (conduct) a new survey of local residents."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Reliable evidence {{plays::Sự thật chung dùng hiện tại đơn; evidence không đếm được, đi với plays.}} (play; sự thật chung) a central role in policy decisions."
+      "questionHTML": "Reliable evidence {{plays::Sự thật chung dùng hiện tại đơn; evidence không đếm được, đi với plays.}} (play) a central role in policy decisions."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "This month, the library {{is extending::This month và bối cảnh sửa chữa chỉ tình huống tạm thời; library dùng is extending.}} (extend; thay đổi tạm thời) its opening hours while the building is renovated."
+      "questionHTML": "This month, the library {{is extending::This month và bối cảnh sửa chữa chỉ tình huống tạm thời; library dùng is extending.}} (extend) its opening hours while the building is renovated."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The survey results {{show::Results số nhiều và show diễn tả nhận định chung trong hiện tại, nên dùng show.}} (show; nhận định từ kết quả hiện có) that most respondents prefer public transport."
+      "questionHTML": "The survey results {{show::Results số nhiều và show diễn tả nhận định chung trong hiện tại, nên dùng show.}} [cho thấy] that most respondents prefer public transport."
     },
     {
       "tier": "practice",
@@ -73,27 +73,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The annual report usually {{contains::Usually chỉ điều thường lệ; report số ít dùng contains.}} (contain; thói quen hoặc đặc điểm thường lệ) a summary of the findings."
+      "questionHTML": "The annual report usually {{contains::Usually chỉ điều thường lệ; report số ít dùng contains.}} (contain) a summary of the findings."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The analysts {{are analysing | are analyzing::At the moment dùng hiện tại tiếp diễn; analysing và analyzing là hai cách viết hợp lệ.}} (analyse; hành động hiện đang diễn ra) the survey responses at the moment."
+      "questionHTML": "The analysts {{are analysing | are analyzing::At the moment dùng hiện tại tiếp diễn; analysing và analyzing là hai cách viết hợp lệ.}} (analyse) the survey responses at the moment."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Reliable data {{play::Data được dùng như danh từ số nhiều ở đây; nhận định chung dùng play.}} (play; nhận định chung với chủ ngữ số nhiều) an important role in public policy."
+      "questionHTML": "Reliable data {{play::Data được dùng như danh từ số nhiều ở đây; nhận định chung dùng play.}} [đóng] an important role in public policy."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "This semester, the university {{is testing::This semester nói về thử nghiệm tạm thời; university số ít dùng is testing.}} (test; hoạt động tạm thời) a new assessment method."
+      "questionHTML": "This semester, the university {{is testing::This semester nói về thử nghiệm tạm thời; university số ít dùng is testing.}} (test) a new assessment method."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The director {{believes::Believe chỉ trạng thái ý kiến; director số ít dùng believes.}} (believe; trạng thái ý kiến hiện tại) that the proposal is feasible."
+      "questionHTML": "The director {{believes::Believe chỉ trạng thái ý kiến; director số ít dùng believes.}} (believe) that the proposal is feasible."
     },
     {
       "tier": "practice",
@@ -123,22 +123,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The price of renewable energy {{is falling::This year và báo cáo hằng tháng nêu xu hướng đang diễn ra; dùng is falling.}} (fall; xu hướng đang diễn ra) this year, according to the latest monthly reports."
+      "questionHTML": "The price of renewable energy {{is falling::This year và báo cáo hằng tháng nêu xu hướng đang diễn ra; dùng is falling.}} (fall) this year, according to the latest monthly reports."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The committee {{believes::Believe chỉ trạng thái ý kiến ở đây; committee là đơn vị số ít nên dùng believes.}} (believe; trạng thái ý kiến hiện tại) the revised proposal is feasible."
+      "questionHTML": "The committee {{believes::Believe chỉ trạng thái ý kiến ở đây; committee là đơn vị số ít nên dùng believes.}} (believe) the revised proposal is feasible."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The field team normally {{travels::Normally chỉ thói quen; team số ít dùng travels, đối lập với chuyến đi hôm nay.}} (travel; thói quen thông thường) by train, but today it is using a shared car."
+      "questionHTML": "The field team normally {{travels::Normally chỉ thói quen; team số ít dùng travels, đối lập với chuyến đi hôm nay.}} (travel) by train, but today it is using a shared car."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Although the process looks simple, it {{involves::Mô tả đặc điểm chung của process số ít nên dùng hiện tại đơn involves.}} (involve; mô tả đặc điểm) several technical steps."
+      "questionHTML": "Although the process looks simple, it {{involves::Mô tả đặc điểm chung của process số ít nên dùng hiện tại đơn involves.}} (involve) several technical steps."
     },
     {
       "tier": "apply",
@@ -158,7 +158,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university examines commuting patterns. Most students usually {{travel::Usually chỉ thói quen; students số nhiều dùng travel nguyên mẫu.}} (travel; thói quen) by public transport. This semester, the university {{is testing::This semester nêu thử nghiệm tạm thời; university số ít dùng is testing.}} (test; hoạt động tạm thời) a bicycle-sharing scheme. The transport office {{believes::Believe chỉ quan điểm hiện tại; office số ít dùng believes.}} (believe; trạng thái ý kiến) that the scheme can reduce congestion."
+      "questionHTML": "A university examines commuting patterns. Most students usually {{travel::Usually chỉ thói quen; students số nhiều dùng travel nguyên mẫu.}} [đi lại] by public transport. This semester, the university {{is testing::This semester nêu thử nghiệm tạm thời; university số ít dùng is testing.}} (test) a bicycle-sharing scheme. The transport office {{believes::Believe chỉ quan điểm hiện tại; office số ít dùng believes.}} (believe) that the scheme can reduce congestion."
     },
     {
       "tier": "apply",
@@ -173,22 +173,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The level of investment {{is rising::This year và các báo cáo hằng tháng nêu xu hướng đang diễn ra; dùng is rising.}} (rise; xu hướng đang diễn ra) steadily this year, according to monthly reports."
+      "questionHTML": "The level of investment {{is rising::This year và các báo cáo hằng tháng nêu xu hướng đang diễn ra; dùng is rising.}} (rise) steadily this year, according to monthly reports."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The curator {{knows::Know chỉ trạng thái nhận thức; curator số ít dùng knows.}} (know; trạng thái nhận thức) the collection includes several rare documents."
+      "questionHTML": "The curator {{knows::Know chỉ trạng thái nhận thức; curator số ít dùng knows.}} (know) the collection includes several rare documents."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The department normally {{meets::Normally chỉ thói quen; department số ít dùng meets.}} (meet; thói quen thường lệ) in person, but this week it is working remotely."
+      "questionHTML": "The department normally {{meets::Normally chỉ thói quen; department số ít dùng meets.}} (meet) in person, but this week it is working remotely."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The ongoing study {{examines::Examines có thể dùng trong hiện tại đơn để mô tả nội dung của một nghiên cứu.}} (examine; mô tả nội dung nghiên cứu) how local residents travel to work."
+      "questionHTML": "The ongoing study {{examines::Examines có thể dùng trong hiện tại đơn để mô tả nội dung của một nghiên cứu.}} (examine) how local residents travel to work."
     },
     {
       "tier": "apply",
@@ -203,12 +203,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university monitors student travel. Most students usually {{use::Usually chỉ thói quen; students số nhiều dùng use.}} (use; thói quen) public transport. This term, the university {{is testing::Is testing mô tả thử nghiệm tạm thời với university số ít.}} (test; hoạt động tạm thời) a bicycle scheme. The transport office {{believes::Believes chỉ ý kiến hiện tại với office số ít.}} (believe; trạng thái ý kiến) the scheme will reduce congestion."
+      "questionHTML": "A university monitors student travel. Most students usually {{use::Usually chỉ thói quen; students số nhiều dùng use.}} [sử dụng] public transport. This term, the university {{is testing::Is testing mô tả thử nghiệm tạm thời với university số ít.}} (test) a bicycle scheme. The transport office {{believes::Believes chỉ ý kiến hiện tại với office số ít.}} (believe) the scheme will reduce congestion."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research institute studies air quality. Its monitoring stations normally {{collect::Normally chỉ hoạt động thường lệ; stations số nhiều dùng collect.}} (collect; thói quen) hourly data. This month, engineers {{are installing::Are installing diễn tả hoạt động tạm thời đang diễn ra với engineers số nhiều.}} (install; hành động đang diễn ra) additional sensors. The director {{knows::Know là động từ trạng thái ở đây; director số ít dùng knows.}} (know; trạng thái nhận thức) that further testing is necessary."
+      "questionHTML": "A research institute studies air quality. Its monitoring stations normally {{collect::Normally chỉ hoạt động thường lệ; stations số nhiều dùng collect.}} [thu thập] hourly data. This month, engineers {{are installing::Are installing diễn tả hoạt động tạm thời đang diễn ra với engineers số nhiều.}} (install) additional sensors. The director {{knows::Know là động từ trạng thái ở đây; director số ít dùng knows.}} (know) that further testing is necessary."
     },
     {
       "tier": "apply",

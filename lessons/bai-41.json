@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "The line graph {{illustrates::Illustrates có thể thay shows khi giới thiệu thông tin biểu đồ. Recommends và invents làm thay đổi mục đích của biểu đồ.}} (illustrates / recommends / invents) changes in household spending from 2010 to 2020."
+      "questionHTML": "The line graph {{illustrates::Illustrates có thể thay shows khi giới thiệu thông tin biểu đồ. Recommends và invents làm thay đổi mục đích của biểu đồ.}} (illustrate) changes in household spending from 2010 to 2020."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "The chart gives information about the {{percentage::Percentage là tỷ lệ phần trăm, phù hợp nếu đơn vị trong đề là phần trăm người trưởng thành.}} (percentage / kilometre / city) of adults using public transport."
+      "questionHTML": "The chart gives information about the {{percentage::Percentage là tỷ lệ phần trăm, phù hợp nếu đơn vị trong đề là phần trăm người trưởng thành.}} [city / kilometre / percentage] of adults using public transport."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "The table compares data {{between::Between đi với and để chỉ hai mốc được so sánh: between 2010 and 2020. From thường đi với to.}} (between / from / by) 2010 and 2020."
+      "questionHTML": "The table compares data {{between::Between đi với and để chỉ hai mốc được so sánh: between 2010 and 2020. From thường đi với to.}} [by / from / between] 2010 and 2020."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "The chart contains data for Viet Nam and Canada. It compares data for {{two::Viet Nam và Canada là hai quốc gia; khi paraphrase phải giữ nguyên số nhóm dữ liệu.}} (two / three / four) countries."
+      "questionHTML": "The chart contains data for Viet Nam and Canada. It compares data for {{two::Viet Nam và Canada là hai quốc gia; khi paraphrase phải giữ nguyên số nhóm dữ liệu.}} [four / three / two] countries."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A short summary of the main features is called an {{overview::Overview là phần tóm tắt đặc điểm chính của hình ảnh; axis và label là các thành phần trên biểu đồ.}} (overview / axis / label)."
+      "questionHTML": "A short summary of the main features is called an {{overview::Overview là phần tóm tắt đặc điểm chính của hình ảnh; axis và label là các thành phần trên biểu đồ.}} [label / axis / overview]."
     },
     {
       "type": "mcq",

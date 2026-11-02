@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "In the example, A is 40% and B is 20%. A is {{twice as high as::40% gấp đôi 20%, nên dùng twice as high as để diễn tả tỷ lệ gấp hai lần.}} (twice / as / high / as) B."
+      "questionHTML": "In the example, A is 40% and B is 20%. A is {{twice as high as::40% gấp đôi 20%, nên dùng twice as high as để diễn tả tỷ lệ gấp hai lần.}} [high / as / twice / as] B."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "In 2020, food {{accounted for::Mốc 2020 là quá khứ; accounted for diễn tả phần tỷ trọng food chiếm trong toàn bộ.}} (account / for) 40% of the total in the example chart."
+      "questionHTML": "In 2020, food {{accounted for::Mốc 2020 là quá khứ; accounted for diễn tả phần tỷ trọng food chiếm trong toàn bộ.}} (account) [for] 40% of the total in the example chart."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "In the example chart, A is 60%, B is 25% and C is 15%. A has {{the largest::A chiếm 60%, lớn nhất trong ba nhóm, nên dùng so sánh nhất the largest.}} (the / large) share."
+      "questionHTML": "In the example chart, A is 60%, B is 25% and C is 15%. A has {{the largest::A chiếm 60%, lớn nhất trong ba nhóm, nên dùng so sánh nhất the largest.}} [the] [large] share."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A is 45% and B is 30%; the difference is {{15 percentage points::45% trừ 30% bằng 15 điểm phần trăm; đây là hiệu tuyệt đối giữa hai tỷ lệ.}} (15 / percentage points) ."
+      "questionHTML": "A is 45% and B is 30%; the difference is {{15 percentage points::45% trừ 30% bằng 15 điểm phần trăm; đây là hiệu tuyệt đối giữa hai tỷ lệ.}} [điểm phần trăm] ."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A is 40% and B is 20%. A’s rate is {{higher than::40% lớn hơn 20%, nên dùng higher than. Lower than và the same as trái với số liệu.}} (higher than / lower than / the same as) B’s."
+      "questionHTML": "A is 40% and B is 20%. A’s rate is {{higher than::40% lớn hơn 20%, nên dùng higher than. Lower than và the same as trái với số liệu.}} [the same as / lower than / higher than] B’s."
     },
     {
       "type": "mcq",

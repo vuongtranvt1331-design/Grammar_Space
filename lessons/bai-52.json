@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "I {{used to::Used to + V mô tả trạng thái trong quá khứ khác với hiện tại.}} (used to / use to / am used) live near a park, but now I live in the city centre."
+      "questionHTML": "I {{used to::Used to + V mô tả trạng thái trong quá khứ khác với hiện tại.}} [am used / use to / used to] live near a park, but now I live in the city centre."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "When we were children, we {{would::Would + V có thể kể một hành động lặp lại trong quá khứ khi bối cảnh đã rõ.}} (would / would to / are would) visit our grandparents every summer."
+      "questionHTML": "When we were children, we {{would::Would + V có thể kể một hành động lặp lại trong quá khứ khi bối cảnh đã rõ.}} [are would / would to / would] visit our grandparents every summer."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "She is accustomed to {{waking::Sau giới từ to trong be accustomed to dùng V-ing: waking.}} (wake / to wake / waking) early for work."
+      "questionHTML": "She is accustomed to {{waking::Sau giới từ to trong be accustomed to dùng V-ing: waking.}} (wake) early for work."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "I {{visited::Last year là thời gian quá khứ đã kết thúc; visited là quá khứ đơn.}} (visit / visited / have visited) Hue last year and met an old friend."
+      "questionHTML": "I {{visited::Last year là thời gian quá khứ đã kết thúc; visited là quá khứ đơn.}} (visit) Hue last year and met an old friend."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "I {{have::Have + V3 visited nói về trải nghiệm tính đến hiện tại; không nêu một thời gian quá khứ kết thúc cụ thể.}} (have / did / am) visited Hue twice in my life."
+      "questionHTML": "I {{have::Have + V3 visited nói về trải nghiệm tính đến hiện tại; không nêu một thời gian quá khứ kết thúc cụ thể.}} visited Hue twice in my life."
     },
     {
       "type": "mcq",

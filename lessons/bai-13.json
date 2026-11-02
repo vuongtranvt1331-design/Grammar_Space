@@ -19,27 +19,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The panel {{rejected::Yesterday là mốc quá khứ đã kết thúc; dùng rejected.}} (reject; sự kiện đã hoàn tất) the proposal at its meeting yesterday."
+      "questionHTML": "The panel {{rejected::Yesterday là mốc quá khứ đã kết thúc; dùng rejected.}} (reject) the proposal at its meeting yesterday."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "At 10 a.m. yesterday, the team {{was analysing::Mốc cụ thể trong quá khứ và hành động đang diễn ra dùng was analysing với team số ít.}} (analyse; đang diễn ra tại thời điểm quá khứ) the survey data."
+      "questionHTML": "At 10 a.m. yesterday, the team {{was analysing::Mốc cụ thể trong quá khứ và hành động đang diễn ra dùng was analysing với team số ít.}} (analyse) the survey data."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "While the experts were reviewing the report, the power {{failed::Power failed là sự kiện quá khứ đơn xen vào hành động đang diễn ra.}} (fail; sự kiện xen ngang)."
+      "questionHTML": "While the experts were reviewing the report, the power {{failed::Power failed là sự kiện quá khứ đơn xen vào hành động đang diễn ra.}} (fail)."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{did not find | didn't find::Did not hoặc didn’t + find nguyên mẫu tạo phủ định quá khứ đơn.}} (not/find; phủ định quá khứ) the original documents last week."
+      "questionHTML": "The researchers {{did not find | didn't find::Did not hoặc didn’t + find nguyên mẫu tạo phủ định quá khứ đơn.}} [not] (find) the original documents last week."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "When the inspection began, several workers {{were testing::Were testing mô tả việc đang diễn ra khi cuộc kiểm tra bắt đầu; workers số nhiều dùng were.}} (test; bối cảnh đang diễn ra) the equipment."
+      "questionHTML": "When the inspection began, several workers {{were testing::Were testing mô tả việc đang diễn ra khi cuộc kiểm tra bắt đầu; workers số nhiều dùng were.}} (test) the equipment."
     },
     {
       "tier": "practice",
@@ -69,27 +69,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The committee {{rejected::Last Thursday là mốc quá khứ đã kết thúc; dùng rejected.}} (reject; sự kiện đã hoàn tất) the original proposal last Thursday."
+      "questionHTML": "The committee {{rejected::Last Thursday là mốc quá khứ đã kết thúc; dùng rejected.}} (reject) the original proposal last Thursday."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "At 9 a.m. yesterday, the team {{was inspecting::Was inspecting diễn tả hoạt động đang diễn ra tại thời điểm quá khứ.}} (inspect; đang diễn ra tại mốc quá khứ) the equipment."
+      "questionHTML": "At 9 a.m. yesterday, the team {{was inspecting::Was inspecting diễn tả hoạt động đang diễn ra tại thời điểm quá khứ.}} (inspect) the equipment."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "While the curator was speaking, the lights {{failed::Failed là sự kiện quá khứ đơn xen vào bối cảnh đang diễn ra.}} (fail; sự kiện xen ngang)."
+      "questionHTML": "While the curator was speaking, the lights {{failed::Failed là sự kiện quá khứ đơn xen vào bối cảnh đang diễn ra.}} (fail)."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{did not find | didn't find::Did not hoặc didn’t + find nguyên mẫu tạo phủ định quá khứ đơn.}} (not/find; phủ định quá khứ) the records during their visit last year."
+      "questionHTML": "The researchers {{did not find | didn't find::Did not hoặc didn’t + find nguyên mẫu tạo phủ định quá khứ đơn.}} [not] (find) the records during their visit last year."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "When the inspection began, the technicians {{were testing::Were testing mô tả hành động đang diễn ra khi inspection began.}} (test; bối cảnh đang diễn ra) the system."
+      "questionHTML": "When the inspection began, the technicians {{were testing::Were testing mô tả hành động đang diễn ra khi inspection began.}} (test) the system."
     },
     {
       "tier": "practice",
@@ -119,22 +119,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "While the committee {{was discussing::Was discussing tạo bối cảnh đang diễn ra; arose là sự kiện xen ngang.}} (discuss; hành động đang diễn ra) the recommendations, an unexpected objection arose."
+      "questionHTML": "While the committee {{was discussing::Was discussing tạo bối cảnh đang diễn ra; arose là sự kiện xen ngang.}} (discuss) the recommendations, an unexpected objection arose."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The university {{digitised | digitized::Mốc 2018 đã kết thúc nên dùng quá khứ đơn; cả hai cách viết Anh và Mỹ đều được chấp nhận.}} (digitise; sự kiện hoàn tất) its archive in 2018."
+      "questionHTML": "The university {{digitised | digitized::Mốc 2018 đã kết thúc nên dùng quá khứ đơn; cả hai cách viết Anh và Mỹ đều được chấp nhận.}} (digitise) its archive in 2018."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The engineer {{was checking::Was checking diễn tả hành động đang diễn ra khi shut down xảy ra.}} (check; bối cảnh lúc hệ thống ngừng) the warning signal when the system shut down."
+      "questionHTML": "The engineer {{was checking::Was checking diễn tả hành động đang diễn ra khi shut down xảy ra.}} (check) the warning signal when the system shut down."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{were surveying::Were surveying là hành động đang diễn ra khi sự kiện began xen vào.}} (survey; bối cảnh đang diễn ra) the site when the storm began."
+      "questionHTML": "The researchers {{were surveying::Were surveying là hành động đang diễn ra khi sự kiện began xen vào.}} (survey) the site when the storm began."
     },
     {
       "tier": "apply",
@@ -154,7 +154,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "The research team visited a coastal village last year. While the team {{was interviewing::Was interviewing diễn tả hành động đang diễn ra trong quá khứ; team được xem là số ít.}} (interview; bối cảnh đang diễn ra) residents, a storm {{began::Began là quá khứ đơn của begin, chỉ sự kiện xen ngang.}} (begin; sự kiện xen ngang). The researchers {{returned::Returned là sự kiện hoàn tất sau cơn bão, dùng quá khứ đơn.}} (return; sự kiện hoàn tất) to the site the next morning."
+      "questionHTML": "The research team visited a coastal village last year. While the team {{was interviewing::Was interviewing diễn tả hành động đang diễn ra trong quá khứ; team được xem là số ít.}} (interview) residents, a storm {{began::Began là quá khứ đơn của begin, chỉ sự kiện xen ngang.}} (begin). The researchers {{returned::Returned là sự kiện hoàn tất sau cơn bão, dùng quá khứ đơn.}} (return) to the site the next morning."
     },
     {
       "tier": "apply",
@@ -169,22 +169,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team {{was examining::Was examining là hành động đang diễn ra khi arrived xen vào.}} (examine; bối cảnh đang diễn ra) the documents when an unexpected visitor arrived."
+      "questionHTML": "The team {{was examining::Was examining là hành động đang diễn ra khi arrived xen vào.}} (examine) the documents when an unexpected visitor arrived."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The organisation {{established::Năm 2017 đã kết thúc; dùng quá khứ đơn established.}} (establish; sự kiện hoàn tất trong quá khứ) a new office in 2017."
+      "questionHTML": "The organisation {{established::Năm 2017 đã kết thúc; dùng quá khứ đơn established.}} (establish) a new office in 2017."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "While the staff {{were checking::Were checking dùng với staff số nhiều để tạo bối cảnh cho sự kiện sounded.}} (check; hành động đang diễn ra) the equipment, the fire alarm sounded."
+      "questionHTML": "While the staff {{were checking::Were checking dùng với staff số nhiều để tạo bối cảnh cho sự kiện sounded.}} (check) the equipment, the fire alarm sounded."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The investigators {{visited::Visited kể một hành động hoàn tất trong chuỗi sự kiện quá khứ.}} (visit; sự kiện đã kết thúc) the site immediately after the announcement."
+      "questionHTML": "The investigators {{visited::Visited kể một hành động hoàn tất trong chuỗi sự kiện quá khứ.}} (visit) the site immediately after the announcement."
     },
     {
       "tier": "apply",
@@ -199,12 +199,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A team visited a coastal village last year. While researchers {{were interviewing::Were interviewing mô tả hành động đang diễn ra với researchers số nhiều.}} (interview; bối cảnh quá khứ) residents, a storm {{began::Began là quá khứ đơn của begin, chỉ sự kiện xen ngang.}} (begin; sự kiện xen ngang). The team {{returned::Returned diễn tả sự việc hoàn tất trong quá khứ.}} (return; sự kiện đã hoàn tất) the following morning. The survey continued after the weather improved."
+      "questionHTML": "A team visited a coastal village last year. While researchers {{were interviewing::Were interviewing mô tả hành động đang diễn ra với researchers số nhiều.}} (interview) residents, a storm {{began::Began là quá khứ đơn của begin, chỉ sự kiện xen ngang.}} (begin). The team {{returned::Returned diễn tả sự việc hoàn tất trong quá khứ.}} (return) the following morning. The survey continued after the weather improved."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university held a public lecture last month. While the speaker {{was presenting::Was presenting mô tả hành động đang diễn ra khi sự kiện khác xảy ra.}} (present; bối cảnh đang diễn ra), the projector {{stopped::Stopped là quá khứ đơn, chỉ sự kiện xen ngang.}} (stop; sự kiện xen ngang). Technicians {{repaired::Repaired mô tả một hành động hoàn tất sau đó.}} (repair; hành động hoàn tất) the equipment, and the lecture continued."
+      "questionHTML": "A university held a public lecture last month. While the speaker {{was presenting::Was presenting mô tả hành động đang diễn ra khi sự kiện khác xảy ra.}} (present), the projector {{stopped::Stopped là quá khứ đơn, chỉ sự kiện xen ngang.}} (stop). Technicians {{repaired::Repaired mô tả một hành động hoàn tất sau đó.}} (repair) the equipment, and the lecture continued."
     },
     {
       "tier": "apply",

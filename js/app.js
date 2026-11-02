@@ -1,6 +1,6 @@
 import { parseFolderLesson } from './parser.js';
 import { hydrateProgressFromIndexedDB, STORAGE_KEY, loadLibrary as loadStoredLibrary, saveLibrary, ProgressManager, getProgressColor, getProgressColorClass, getApplyProgressColor, getApplyProgressColorClass } from './storage-decay.js';
-import { createNotebookUI } from './notebook-ui.js';
+import { createNotebookUI } from './notebook-ui.js?v=check_attempted_only1';
 import { initAnnotationLayer } from './annotation.js?v=vector_eraser';
 
 'use strict';

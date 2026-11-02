@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "By Friday, the panel {{will have completed::Will have + completed diễn tả việc hoàn tất trước hoặc vào mốc Friday trong tương lai.}} (complete; hoàn tất trước hạn tương lai) its review of the proposals."
+      "questionHTML": "By Friday, the panel {{will have completed::Will have + completed diễn tả việc hoàn tất trước hoặc vào mốc Friday trong tương lai.}} (complete) its review of the proposals."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "By 2030, the city {{will have built::Will have + built, phân từ của build, chỉ thành quả trước mốc 2030.}} (build; hoàn tất trước mốc tương lai) three new transport corridors."
+      "questionHTML": "By 2030, the city {{will have built::Will have + built, phân từ của build, chỉ thành quả trước mốc 2030.}} (build) three new transport corridors."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{will have analysed | will have analyzed::Will have + V3 diễn tả hoàn tất trước hội nghị; analysed và analyzed là hai cách viết hợp lệ.}} (analyse; hoàn tất trước hội nghị) the results by the time the conference begins."
+      "questionHTML": "The researchers {{will have analysed | will have analyzed::Will have + V3 diễn tả hoàn tất trước hội nghị; analysed và analyzed là hai cách viết hợp lệ.}} (analyse) the results by the time the conference begins."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "By next month, the museum {{will have published::By next month nêu hạn mốc tương lai; dùng will have published.}} (publish; hoàn tất trước hạn) the catalogue."
+      "questionHTML": "By next month, the museum {{will have published::By next month nêu hạn mốc tương lai; dùng will have published.}} (publish) the catalogue."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "By the end of the year, the collection {{will have grown::Will have grown diễn tả sự tăng trưởng tính đến cuối năm; grown là V3 của grow.}} (grow; thay đổi tính đến mốc tương lai) considerably."
+      "questionHTML": "By the end of the year, the collection {{will have grown::Will have grown diễn tả sự tăng trưởng tính đến cuối năm; grown là V3 của grow.}} (grow) considerably."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "By Friday, the panel {{will have completed::Will have + completed diễn tả việc hoàn tất trước hoặc vào mốc Friday.}} (complete; hoàn tất trước hạn tương lai) its review of the proposals."
+      "questionHTML": "By Friday, the panel {{will have completed::Will have + completed diễn tả việc hoàn tất trước hoặc vào mốc Friday.}} (complete) its review of the proposals."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "By 2030, the city {{will have built::Will have + built chỉ công việc hoàn tất tính đến năm 2030.}} (build; thành quả trước mốc tương lai) three new transport corridors."
+      "questionHTML": "By 2030, the city {{will have built::Will have + built chỉ công việc hoàn tất tính đến năm 2030.}} (build) three new transport corridors."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The team {{will have analysed | will have analyzed::Will have + V3 chỉ việc hoàn tất trước hội nghị; hai cách viết đều hợp lệ.}} (analyse; hoàn tất trước hội nghị) the results by the time the conference begins."
+      "questionHTML": "The team {{will have analysed | will have analyzed::Will have + V3 chỉ việc hoàn tất trước hội nghị; hai cách viết đều hợp lệ.}} (analyse) the results by the time the conference begins."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "By next month, the museum {{will have published::By next month nêu mốc tương lai; dùng will have published.}} (publish; hoàn tất trước hạn) its new catalogue."
+      "questionHTML": "By next month, the museum {{will have published::By next month nêu mốc tương lai; dùng will have published.}} (publish) its new catalogue."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "By the end of the year, the collection {{will have grown::Will have grown chỉ sự tăng trưởng tính đến cuối năm; grown là V3.}} (grow; thay đổi tính đến mốc tương lai) considerably."
+      "questionHTML": "By the end of the year, the collection {{will have grown::Will have grown chỉ sự tăng trưởng tính đến cuối năm; grown là V3.}} (grow) considerably."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "By the time the programme ends, the students {{will have completed::Will have completed nhấn mạnh bốn dự án hoàn tất trước khi chương trình kết thúc.}} (complete; thành quả trước mốc tương lai) four major projects."
+      "questionHTML": "By the time the programme ends, the students {{will have completed::Will have completed nhấn mạnh bốn dự án hoàn tất trước khi chương trình kết thúc.}} (complete) four major projects."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The final report {{will have been approved::Will have been approved là bị động tương lai hoàn thành: báo cáo được duyệt trước cuộc họp.}} (approve; bị động hoàn tất trước mốc) before the board meets next week."
+      "questionHTML": "The final report {{will have been approved::Will have been approved là bị động tương lai hoàn thành: báo cáo được duyệt trước cuộc họp.}} (approve) before the board meets next week."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "By 2035, the organisation {{will have operated | will have been operating::Tương lai hoàn thành đơn hoặc tiếp diễn đều có thể diễn tả khoảng thời gian hoạt động tính đến 2035.}} (operate; thời gian hoạt động tính đến mốc tương lai) in the region for twenty years."
+      "questionHTML": "By 2035, the organisation {{will have operated | will have been operating::Tương lai hoàn thành đơn hoặc tiếp diễn đều có thể diễn tả khoảng thời gian hoạt động tính đến 2035.}} (operate) in the region for twenty years."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "By the time the review is published, the team {{will have considered::Will have considered diễn tả việc xem xét hoàn tất trước khi review được công bố.}} (consider; hoàn tất trước mốc tương lai) all responses."
+      "questionHTML": "By the time the review is published, the team {{will have considered::Will have considered diễn tả việc xem xét hoàn tất trước khi review được công bố.}} (consider) all responses."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is expanding its research facilities. By next June, the engineers {{will have completed::Will have completed chỉ công trình hoàn tất trước hạn tương lai.}} (complete; trước hạn tương lai) the new laboratory. By the time it opens, the equipment {{will have been installed::Will have been installed là bị động tương lai hoàn thành với equipment.}} (install; bị động hoàn tất) and staff {{will have received::Will have received chỉ việc nhận đào tạo hoàn tất trước thời điểm mở cửa.}} (receive; hoàn tất trước mốc) safety training. The centre will then welcome its first researchers."
+      "questionHTML": "A university is expanding its research facilities. By next June, the engineers {{will have completed::Will have completed chỉ công trình hoàn tất trước hạn tương lai.}} (complete) the new laboratory. By the time it opens, the equipment {{will have been installed::Will have been installed là bị động tương lai hoàn thành với equipment.}} (install) and staff {{will have received::Will have received chỉ việc nhận đào tạo hoàn tất trước thời điểm mở cửa.}} (receive) safety training. The centre will then welcome its first researchers."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "By the time the programme ends, students {{will have completed::Will have completed chỉ bốn dự án hoàn tất trước khi chương trình kết thúc.}} (complete; thành quả trước mốc tương lai) four major projects."
+      "questionHTML": "By the time the programme ends, students {{will have completed::Will have completed chỉ bốn dự án hoàn tất trước khi chương trình kết thúc.}} (complete) four major projects."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The final report {{will have been approved::Will have been approved là bị động tương lai hoàn thành.}} (approve; bị động hoàn tất trước mốc) before the board meets next week."
+      "questionHTML": "The final report {{will have been approved::Will have been approved là bị động tương lai hoàn thành.}} (approve) before the board meets next week."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "By 2035, the organisation {{will have operated | will have been operating::Cả tương lai hoàn thành đơn và tiếp diễn đều có thể nói thời gian hoạt động tính đến 2035.}} (operate; thời gian hoạt động tính đến mốc) in the region for twenty years."
+      "questionHTML": "By 2035, the organisation {{will have operated | will have been operating::Cả tương lai hoàn thành đơn và tiếp diễn đều có thể nói thời gian hoạt động tính đến 2035.}} (operate) in the region for twenty years."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "By the time the conference begins, the institute {{will have compiled::Will have compiled diễn tả việc tổng hợp hoàn tất trước mốc hội nghị trong tương lai.}} (compile; hoàn tất trước mốc tương lai) the survey data."
+      "questionHTML": "By the time the conference begins, the institute {{will have compiled::Will have compiled diễn tả việc tổng hợp hoàn tất trước mốc hội nghị trong tương lai.}} (compile) the survey data."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is expanding its research facilities. By next June, engineers {{will have completed::Will have completed diễn tả việc hoàn tất trước hạn tương lai.}} (complete; trước hạn tương lai) the laboratory. By the time it opens, the equipment {{will have been installed::Will have been installed là bị động tương lai hoàn thành.}} (install; bị động hoàn tất) and staff {{will have received::Will have received diễn tả việc nhận đào tạo trước mốc mở cửa.}} (receive; trước mốc) safety training. The centre will then welcome researchers."
+      "questionHTML": "A university is expanding its research facilities. By next June, engineers {{will have completed::Will have completed diễn tả việc hoàn tất trước hạn tương lai.}} (complete) the laboratory. By the time it opens, the equipment {{will have been installed::Will have been installed là bị động tương lai hoàn thành.}} (install) and staff {{will have received::Will have received diễn tả việc nhận đào tạo trước mốc mở cửa.}} (receive) safety training. The centre will then welcome researchers."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A city is upgrading its transport network. By 2030, it {{will have built::Will have built chỉ công trình hoàn tất trước hoặc vào mốc 2030.}} (build; trước mốc tương lai) several stations. By the time the first line opens, engineers {{will have tested::Will have tested diễn tả việc kiểm tra hoàn tất trước khi tuyến mở.}} (test; hoàn tất trước mốc) the system. The timetable {{will have been published::Will have been published là bị động tương lai hoàn thành.}} (publish; bị động hoàn tất) before passengers begin using it."
+      "questionHTML": "A city is upgrading its transport network. By 2030, it {{will have built::Will have built chỉ công trình hoàn tất trước hoặc vào mốc 2030.}} (build) several stations. By the time the first line opens, engineers {{will have tested::Will have tested diễn tả việc kiểm tra hoàn tất trước khi tuyến mở.}} (test) the system. The timetable {{will have been published::Will have been published là bị động tương lai hoàn thành.}} (publish) before passengers begin using it."
     },
     {
       "tier": "apply",

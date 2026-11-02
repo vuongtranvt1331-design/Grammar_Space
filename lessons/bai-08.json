@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The research workshop begins {{at::At dùng trước giờ cụ thể như 9:30 a.m.}} (giới từ trước giờ cụ thể) 9:30 a.m. on Friday."
+      "questionHTML": "The research workshop begins {{at::At dùng trước giờ cụ thể như 9:30 a.m.}} 9:30 a.m. on Friday."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The first findings were published {{in::In dùng trước năm, tháng hoặc khoảng thời gian dài.}} (giới từ trước năm) 2022."
+      "questionHTML": "The first findings were published {{in::In dùng trước năm, tháng hoặc khoảng thời gian dài.}} 2022."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The review panel will meet {{on::On dùng với ngày cụ thể, kể cả Monday morning.}} (giới từ trước ngày kèm buổi) Monday morning."
+      "questionHTML": "The review panel will meet {{on::On dùng với ngày cụ thể, kể cả Monday morning.}} Monday morning."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The original documents are stored {{in::In chỉ vị trí bên trong một không gian hoặc tòa nhà.}} (giới từ chỉ bên trong) the archive building."
+      "questionHTML": "The original documents are stored {{in::In chỉ vị trí bên trong một không gian hoặc tòa nhà.}} the archive building."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The announcement was posted {{on::On dùng khi thông báo nằm trên bề mặt bảng tin.}} (giới từ chỉ tiếp xúc bề mặt) the noticeboard."
+      "questionHTML": "The announcement was posted {{on::On dùng khi thông báo nằm trên bề mặt bảng tin.}} the noticeboard."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The presentation begins {{at::At dùng trước giờ cụ thể như 10 a.m.}} (giới từ trước giờ cụ thể) 10 a.m. tomorrow."
+      "questionHTML": "The presentation begins {{at::At dùng trước giờ cụ thể như 10 a.m.}} 10 a.m. tomorrow."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The study was completed {{in::In dùng trước tháng hoặc tháng kèm năm.}} (giới từ trước tháng và năm) March 2024."
+      "questionHTML": "The study was completed {{in::In dùng trước tháng hoặc tháng kèm năm.}} March 2024."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The committee meets {{on::On dùng với ngày xác định như Tuesday afternoon.}} (giới từ trước thứ kèm buổi) Tuesday afternoon."
+      "questionHTML": "The committee meets {{on::On dùng với ngày xác định như Tuesday afternoon.}} Tuesday afternoon."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The documents are stored {{in::In chỉ vị trí bên trong tủ.}} (giới từ chỉ bên trong) the locked cabinet."
+      "questionHTML": "The documents are stored {{in::In chỉ vị trí bên trong tủ.}} the locked cabinet."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The schedule is displayed {{on::On chỉ vị trí trên bề mặt của bức tường.}} (giới từ chỉ bề mặt) the wall."
+      "questionHTML": "The schedule is displayed {{on::On chỉ vị trí trên bề mặt của bức tường.}} the wall."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Representatives will gather {{at::At chỉ một điểm cụ thể: the entrance.}} (giới từ chỉ điểm hẹn) the entrance before the tour begins."
+      "questionHTML": "Representatives will gather {{at::At chỉ một điểm cụ thể: the entrance.}} the entrance before the tour begins."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The survey was conducted {{in::In đi với mùa, kể cả khi mùa được xác định bằng năm.}} (giới từ trước mùa) the winter of 2023."
+      "questionHTML": "The survey was conducted {{in::In đi với mùa, kể cả khi mùa được xác định bằng năm.}} the winter of 2023."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The final debate is scheduled {{on::On dùng trước ngày cụ thể như 15 June.}} (giới từ trước ngày tháng) 15 June."
+      "questionHTML": "The final debate is scheduled {{on::On dùng trước ngày cụ thể như 15 June.}} 15 June."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researchers worked {{at::At night là cụm thông dụng; không dùng in night trong nghĩa này.}} (giới từ trong cụm thời gian cố định) night to finish the assessment."
+      "questionHTML": "The researchers worked {{at::At night là cụm thông dụng; không dùng in night trong nghĩa này.}} night to finish the assessment."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is hosting a conference {{in::In dùng trước năm.}} (giới từ trước năm) 2027. The first session begins {{at::At dùng trước giờ cụ thể.}} (giới từ trước giờ) 8:30 a.m. {{on::On dùng với ngày kèm buổi như Thursday morning.}} (giới từ trước ngày kèm buổi) Thursday morning. The programme is displayed {{on::On diễn tả thông báo nằm trên bề mặt của bảng.}} (giới từ chỉ bề mặt) the noticeboard near the entrance."
+      "questionHTML": "A university is hosting a conference {{in::In dùng trước năm.}} 2027. The first session begins {{at::At dùng trước giờ cụ thể.}} 8:30 a.m. {{on::On dùng với ngày kèm buổi như Thursday morning.}} Thursday morning. The programme is displayed {{on::On diễn tả thông báo nằm trên bề mặt của bảng.}} the noticeboard near the entrance."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researchers gathered {{at::At chỉ một điểm cụ thể như the entrance.}} (giới từ chỉ điểm gặp cụ thể) the entrance to the site."
+      "questionHTML": "The researchers gathered {{at::At chỉ một điểm cụ thể như the entrance.}} the entrance to the site."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The final interviews were conducted {{on::On dùng khi afternoon được xác định bằng một ngày cụ thể.}} (giới từ trước buổi gắn với ngày cụ thể) the afternoon of 15 June."
+      "questionHTML": "The final interviews were conducted {{on::On dùng khi afternoon được xác định bằng một ngày cụ thể.}} the afternoon of 15 June."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The equipment must remain {{in::In chỉ vị trí bên trong laboratory.}} (giới từ chỉ bên trong) the laboratory during testing."
+      "questionHTML": "The equipment must remain {{in::In chỉ vị trí bên trong laboratory.}} the laboratory during testing."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team continued its observations {{at::At night là cụm chỉ thời gian thông dụng.}} (giới từ trong cụm cố định) night."
+      "questionHTML": "The team continued its observations {{at::At night là cụm chỉ thời gian thông dụng.}} night."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A conference will be held {{in::In dùng trước tháng và năm.}} (giới từ trước tháng) September 2027. The first session begins {{at::At dùng trước giờ cụ thể.}} (giới từ trước giờ) 9:00 a.m. {{on::On dùng với thứ kèm buổi.}} (giới từ trước ngày kèm buổi) Monday morning. The full timetable is available online."
+      "questionHTML": "A conference will be held {{in::In dùng trước tháng và năm.}} September 2027. The first session begins {{at::At dùng trước giờ cụ thể.}} 9:00 a.m. {{on::On dùng với thứ kèm buổi.}} Monday morning. The full timetable is available online."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team visited a historic building. The original plans were stored {{in::In chỉ vị trí bên trong một chiếc hộp.}} (giới từ chỉ bên trong) a wooden box. A label lay {{on::On chỉ vị trí trên bề mặt của nắp hộp.}} (giới từ chỉ bề mặt) the lid, and a second note was displayed {{on::On chỉ vị trí trên bề mặt tường.}} (giới từ chỉ bề mặt) the wall. The team photographed both notes."
+      "questionHTML": "A research team visited a historic building. The original plans were stored {{in::In chỉ vị trí bên trong một chiếc hộp.}} a wooden box. A label lay {{on::On chỉ vị trí trên bề mặt của nắp hộp.}} the lid, and a second note was displayed {{on::On chỉ vị trí trên bề mặt tường.}} the wall. The team photographed both notes."
     },
     {
       "tier": "apply",

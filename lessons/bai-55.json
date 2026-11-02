@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "{{Compared::Compared with là cụm mở đầu phép so sánh với các thế hệ trước.}} (compared / comparing / compare) with previous generations, some people have more online options."
+      "questionHTML": "{{Compared::Compared with là cụm mở đầu phép so sánh với các thế hệ trước.}} (compare) with previous generations, some people have more online options."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "Some people {{tend::People là chủ ngữ số nhiều; tend to + V diễn tả khuynh hướng, không phải mọi người đều như vậy.}} (tend / tends / tending) to use digital tools for study."
+      "questionHTML": "Some people {{tend::People là chủ ngữ số nhiều; tend to + V diễn tả khuynh hướng, không phải mọi người đều như vậy.}} [có xu hướng] to use digital tools for study."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "There seems to be a growing shift {{towards::A shift towards + danh từ hoặc V-ing diễn tả sự chuyển dịch theo một hướng.}} (towards / because / of) online learning in some places."
+      "questionHTML": "There seems to be a growing shift {{towards::A shift towards + danh từ hoặc V-ing diễn tả sự chuyển dịch theo một hướng.}} [of / because / towards] online learning in some places."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "One possible {{benefit::Benefit là lợi ích; flexibility có thể được nêu như một lợi ích phù hợp ngữ cảnh.}} (benefit / axis / measurement) of online learning is flexibility."
+      "questionHTML": "One possible {{benefit::Benefit là lợi ích; flexibility có thể được nêu như một lợi ích phù hợp ngữ cảnh.}} [measurement / axis / benefit] of online learning is flexibility."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "Some learners {{may::May diễn tả khả năng thay vì khẳng định điều đó đúng với mọi người.}} (may / must always / are) find digital lessons useful, depending on their needs."
+      "questionHTML": "Some learners {{may::May diễn tả khả năng thay vì khẳng định điều đó đúng với mọi người.}} [are / must always / may] find digital lessons useful, depending on their needs."
     },
     {
       "type": "mcq",

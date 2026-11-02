@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{It is said that::It is said that là cấu trúc bị động tường thuật; said là V3 của say.}} (it / say / that) the library is open at night."
+      "questionHTML": "{{It is said that::It is said that là cấu trúc bị động tường thuật; said là V3 của say.}} [it] (say) [that] the library is open at night."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "He {{is believed to be::Chủ ngữ số ít + is believed to be diễn tả một niềm tin về trạng thái hiện tại.}} (believe / be) a doctor."
+      "questionHTML": "He {{is believed to be::Chủ ngữ số ít + is believed to be diễn tả một niềm tin về trạng thái hiện tại.}} (believe) (be) a doctor."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The athlete {{is believed to have won::To have won cho biết việc thắng xảy ra trước thời điểm niềm tin được thuật lại; won là V3 của win.}} (believe / win) the race in 2020."
+      "questionHTML": "The athlete {{is believed to have won::To have won cho biết việc thắng xảy ra trước thời điểm niềm tin được thuật lại; won là V3 của win.}} (believe) (win) the race in 2020."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Last year, {{it was reported that::Mốc yesterday hoặc last year dùng was reported cho hành động tường thuật ở quá khứ.}} (it / report / that) the bridge was closed."
+      "questionHTML": "Last year, {{it was reported that::Mốc yesterday hoặc last year dùng was reported cho hành động tường thuật ở quá khứ.}} (report) the bridge was closed."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Prices {{are expected to rise::Prices và costs là số nhiều, dùng are expected to + động từ nguyên mẫu rise.}} (expect / rise) next year."
+      "questionHTML": "Prices {{are expected to rise::Prices và costs là số nhiều, dùng are expected to + động từ nguyên mẫu rise.}} (expect) (rise) next year."
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{It is reported that::It is reported that + mệnh đề dùng để tường thuật thông tin một cách khách quan.}} (cấu trúc tường thuật khách quan ở hiện tại) the museum will reopen next month."
+      "questionHTML": "{{It is reported that::It is reported that + mệnh đề dùng để tường thuật thông tin một cách khách quan.}} (report) the museum will reopen next month."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The building {{is believed to be::Is believed to be dùng với chủ ngữ số ít để tường thuật niềm tin về trạng thái hiện tại.}} (tường thuật niềm tin về trạng thái hiện tại) safe."
+      "questionHTML": "The building {{is believed to be::Is believed to be dùng với chủ ngữ số ít để tường thuật niềm tin về trạng thái hiện tại.}} (believe) (be) safe."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Prices {{are expected to rise::Are expected to + nguyên mẫu diễn tả dự đoán về các chủ ngữ số nhiều.}} (tường thuật dự đoán với chủ ngữ số nhiều) next year."
+      "questionHTML": "Prices {{are expected to rise::Are expected to + nguyên mẫu diễn tả dự đoán về các chủ ngữ số nhiều.}} (expect) (rise) next year."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The director {{is thought to have left::Is thought to have + V3 đặt hành động rời đi trước thời điểm suy đoán.}} (tường thuật hiện tại về hành động xảy ra trước) before the inspection began."
+      "questionHTML": "The director {{is thought to have left::Is thought to have + V3 đặt hành động rời đi trước thời điểm suy đoán.}} (think) (leave) before the inspection began."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The bridge {{was reported to be::Was reported to be dùng với chủ ngữ số ít khi việc tường thuật xảy ra trong quá khứ.}} (tường thuật quá khứ về trạng thái) unsafe in the report published last year."
+      "questionHTML": "The bridge {{was reported to be::Was reported to be dùng với chủ ngữ số ít khi việc tường thuật xảy ra trong quá khứ.}} (report) (be) unsafe in the report published last year."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{It is reported that::It is reported that + mệnh đề dùng để tường thuật thông tin một cách khách quan.}} (cấu trúc tường thuật khách quan ở hiện tại) the new policy will reduce costs."
+      "questionHTML": "{{It is reported that::It is reported that + mệnh đề dùng để tường thuật thông tin một cách khách quan.}} (report) the new policy will reduce costs."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The manuscript {{is believed to be::Is believed to be dùng với chủ ngữ số ít để tường thuật niềm tin về trạng thái hiện tại.}} (tường thuật niềm tin về trạng thái hiện tại) authentic."
+      "questionHTML": "The manuscript {{is believed to be::Is believed to be dùng với chủ ngữ số ít để tường thuật niềm tin về trạng thái hiện tại.}} (believe) (be) authentic."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Costs {{are expected to rise::Are expected to + nguyên mẫu diễn tả dự đoán về các chủ ngữ số nhiều.}} (tường thuật dự đoán với chủ ngữ số nhiều) over the next decade."
+      "questionHTML": "Costs {{are expected to rise::Are expected to + nguyên mẫu diễn tả dự đoán về các chủ ngữ số nhiều.}} (expect) (rise) over the next decade."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The curator {{is thought to have left::Is thought to have + V3 đặt hành động rời đi trước thời điểm suy đoán.}} (tường thuật hiện tại về hành động xảy ra trước) before the visitors arrived."
+      "questionHTML": "The curator {{is thought to have left::Is thought to have + V3 đặt hành động rời đi trước thời điểm suy đoán.}} (think) (leave) before the visitors arrived."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The building {{was reported to be::Was reported to be dùng với chủ ngữ số ít khi việc tường thuật xảy ra trong quá khứ.}} (tường thuật quá khứ về trạng thái) unstable in the earlier survey."
+      "questionHTML": "The building {{was reported to be::Was reported to be dùng với chủ ngữ số ít khi việc tường thuật xảy ra trong quá khứ.}} (report) (be) unstable in the earlier survey."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{It was reported that::It was reported that + mệnh đề dùng để tường thuật thông tin ở quá khứ.}} (tường thuật khách quan ở quá khứ) the road was closed last night."
+      "questionHTML": "{{It was reported that::It was reported that + mệnh đề dùng để tường thuật thông tin ở quá khứ.}} (report) the road was closed last night."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The author {{is believed to have completed::Is believed to have + V3 diễn tả việc được cho là đã hoàn tất trước thời điểm hiện tại.}} (tường thuật hiện tại về hành động xảy ra trước) the manuscript before 1920."
+      "questionHTML": "The author {{is believed to have completed::Is believed to have + V3 diễn tả việc được cho là đã hoàn tất trước thời điểm hiện tại.}} (believe) (complete) the manuscript before 1920."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The costs {{are expected to increase::Are expected to + nguyên mẫu dùng với costs số nhiều để diễn tả dự đoán.}} (tường thuật dự đoán với chủ ngữ số nhiều) next year."
+      "questionHTML": "The costs {{are expected to increase::Are expected to + nguyên mẫu dùng với costs số nhiều để diễn tả dự đoán.}} (expect) (increase) next year."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is reviewing a historic building. {{It is reported that::It is reported that mở đầu lời tường thuật khách quan ở hiện tại.}} (cấu trúc tường thuật hiện tại) the building will reopen next year. The structure {{is believed to be::Is believed to be tường thuật niềm tin về trạng thái hiện tại.}} (tường thuật trạng thái hiện tại) safe. The costs {{are expected to rise::Are expected to rise tường thuật dự đoán với costs số nhiều.}} (tường thuật dự đoán số nhiều) during the restoration."
+      "questionHTML": "A university is reviewing a historic building. {{It is reported that::It is reported that mở đầu lời tường thuật khách quan ở hiện tại.}} (report) the building will reopen next year. The structure {{is believed to be::Is believed to be tường thuật niềm tin về trạng thái hiện tại.}} (believe) (be) safe. The costs {{are expected to rise::Are expected to rise tường thuật dự đoán với costs số nhiều.}} (expect) (rise) during the restoration."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "Researchers are examining an old manuscript. {{It is reported that::It is reported that mở đầu lời tường thuật khách quan.}} (cấu trúc tường thuật hiện tại) the document was found in a private archive. The manuscript {{is believed to be::Is believed to be nói về niềm tin hiện tại với manuscript số ít.}} (tường thuật trạng thái hiện tại) authentic. The author {{is believed to have completed::To have completed đặt hành động hoàn tất trước thời điểm niềm tin được thuật lại.}} (tường thuật hành động xảy ra trước) it before 1920."
+      "questionHTML": "Researchers are examining an old manuscript. {{It is reported that::It is reported that mở đầu lời tường thuật khách quan.}} (report) the document was found in a private archive. The manuscript {{is believed to be::Is believed to be nói về niềm tin hiện tại với manuscript số ít.}} (believe) (be) authentic. The author {{is believed to have completed::To have completed đặt hành động hoàn tất trước thời điểm niềm tin được thuật lại.}} (believe) (complete) it before 1920."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A town is planning a new transport route. {{It is reported that::It is reported that dùng để tường thuật thông tin khách quan.}} (cấu trúc tường thuật hiện tại) the route will open next year. Travel times {{are expected to decrease::Are expected to + nguyên mẫu tường thuật dự đoán với chủ ngữ số nhiều.}} (tường thuật dự đoán số nhiều) after the opening. The initial proposal {{was reported to be::Was reported to be tường thuật trạng thái trong một báo cáo quá khứ.}} (tường thuật quá khứ) too expensive."
+      "questionHTML": "A town is planning a new transport route. {{It is reported that::It is reported that dùng để tường thuật thông tin khách quan.}} (report) the route will open next year. Travel times {{are expected to decrease::Are expected to + nguyên mẫu tường thuật dự đoán với chủ ngữ số nhiều.}} (expect) (decrease) after the opening. The initial proposal {{was reported to be::Was reported to be tường thuật trạng thái trong một báo cáo quá khứ.}} (report) (be) too expensive."
     },
     {
       "tier": "apply",

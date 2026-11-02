@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "A thesis should state the writer’s {{position::Position là lập trường của người viết; axis và percentage không thay thế quan điểm Task 2.}} (position / axis / percentage) on the question."
+      "questionHTML": "A thesis should state the writer’s {{position::Position là lập trường của người viết; axis và percentage không thay thế quan điểm Task 2.}} [percentage / axis / position] on the question."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A topic sentence introduces the main {{idea::Topic sentence nêu ý chính của đoạn; các câu sau giải thích hoặc minh họa ý đó.}} (idea / graph / heading) of a body paragraph."
+      "questionHTML": "A topic sentence introduces the main {{idea::Topic sentence nêu ý chính của đoạn; các câu sau giải thích hoặc minh họa ý đó.}} [heading / graph / idea] of a body paragraph."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A relevant example should support the paragraph’s {{claim::Ví dụ cần liên quan và hỗ trợ luận điểm đang phát triển.}} (claim / chart title / date label)."
+      "questionHTML": "A relevant example should support the paragraph’s {{claim::Ví dụ cần liên quan và hỗ trợ luận điểm đang phát triển.}} [date label / chart title / claim]."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "To avoid an unsupported absolute claim, a writer can use {{can::Can có thể diễn đạt khả năng; always hoặc proves tạo khẳng định mạnh hơn cần bằng chứng.}} (can / always / proves) to show possibility."
+      "questionHTML": "To avoid an unsupported absolute claim, a writer can use {{can::Can có thể diễn đạt khả năng; always hoặc proves tạo khẳng định mạnh hơn cần bằng chứng.}} [proves / always / can] to show possibility."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A “To what extent” question asks how far you {{agree::To what extent do you agree yêu cầu mức độ đồng ý hoặc không đồng ý với nhận định.}} (agree / measure / graph)."
+      "questionHTML": "A “To what extent” question asks how far you {{agree::To what extent do you agree yêu cầu mức độ đồng ý hoặc không đồng ý với nhận định.}} [đồng ý]."
     },
     {
       "type": "mcq",

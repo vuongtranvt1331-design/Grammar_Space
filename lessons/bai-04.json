@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The results of the independent review {{are::Chủ ngữ chính results là số nhiều, nên dùng are trước tính từ available ở hiện tại.}} (be ở hiện tại) available online."
+      "questionHTML": "The results of the independent review {{are::Chủ ngữ chính results là số nhiều, nên dùng are trước tính từ available ở hiện tại.}} (be) available online."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Why {{did::Yesterday đặt câu hỏi ở quá khứ đơn; dùng trợ động từ did trước chủ ngữ và động từ nguyên mẫu reject.}} (trợ động từ hỏi ở quá khứ) the committee reject the proposal yesterday?"
+      "questionHTML": "Why {{did::Yesterday đặt câu hỏi ở quá khứ đơn; dùng trợ động từ did trước chủ ngữ và động từ nguyên mẫu reject.}} (do) the committee reject the proposal yesterday?"
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The local authority {{has::The local authority là chủ ngữ số ít; has đi với phân từ published để tạo hiện tại hoàn thành.}} (trợ động từ hoàn thành, chủ ngữ số ít) published its annual report."
+      "questionHTML": "The local authority {{has::The local authority là chủ ngữ số ít; has đi với phân từ published để tạo hiện tại hoàn thành.}} (have) published its annual report."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "At this time yesterday, the final draft {{was::At this time yesterday chỉ hành động đang diễn ra trong quá khứ; chủ ngữ số ít final draft đi với was + being reviewed.}} (be ở quá khứ, chủ ngữ số ít) being reviewed by experts."
+      "questionHTML": "At this time yesterday, the final draft {{was::At this time yesterday chỉ hành động đang diễn ra trong quá khứ; chủ ngữ số ít final draft đi với was + being reviewed.}} (be) being reviewed by experts."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The revised policy {{does not | doesn't::Chủ ngữ số ít policy dùng does not hoặc doesn't trong phủ định hiện tại đơn; động từ chính remain giữ nguyên mẫu.}} (trợ động từ phủ định hiện tại đơn) remain in effect after 2027."
+      "questionHTML": "The revised policy {{does not | doesn't::Chủ ngữ số ít policy dùng does not hoặc doesn't trong phủ định hiện tại đơn; động từ chính remain giữ nguyên mẫu.}} (do) [not] remain in effect after 2027."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The final recommendations {{are::Recommendations là chủ ngữ số nhiều, nên dùng are trước available.}} (be ở hiện tại; chủ ngữ số nhiều) available on the university website."
+      "questionHTML": "The final recommendations {{are::Recommendations là chủ ngữ số nhiều, nên dùng are trước available.}} (be) available on the university website."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Did::Yesterday chỉ quá khứ đơn; Did đứng trước chủ ngữ và động từ nguyên mẫu approve.}} (trợ động từ hỏi quá khứ) the committee approve the proposal yesterday?"
+      "questionHTML": "{{Did::Yesterday chỉ quá khứ đơn; Did đứng trước chủ ngữ và động từ nguyên mẫu approve.}} (do) the committee approve the proposal yesterday?"
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The director {{has::Has + released tạo hiện tại hoàn thành với director số ít.}} (trợ động từ hoàn thành; chủ ngữ số ít) released the report, so it is now public."
+      "questionHTML": "The director {{has::Has + released tạo hiện tại hoàn thành với director số ít.}} (have) released the report, so it is now public."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "At noon yesterday, the results {{were::Results là số nhiều; were being discussed là bị động quá khứ tiếp diễn.}} (be ở quá khứ; chủ ngữ số nhiều) being discussed."
+      "questionHTML": "At noon yesterday, the results {{were::Results là số nhiều; were being discussed là bị động quá khứ tiếp diễn.}} (be) being discussed."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The new policy {{does not | doesn't::Does not hoặc doesn’t đứng trước động từ nguyên mẫu apply với policy số ít.}} (phủ định hiện tại đơn; chủ ngữ số ít) apply to visitors."
+      "questionHTML": "The new policy {{does not | doesn't::Does not hoặc doesn’t đứng trước động từ nguyên mẫu apply với policy số ít.}} (do) [not] apply to visitors."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The proposed restrictions {{were not | weren't::The proposed restrictions là số nhiều; yesterday yêu cầu quá khứ, nên dùng were not hoặc weren't trước tính từ necessary.}} (be phủ định ở quá khứ, chủ ngữ số nhiều) necessary yesterday, according to the inspector."
+      "questionHTML": "The proposed restrictions {{were not | weren't::The proposed restrictions là số nhiều; yesterday yêu cầu quá khứ, nên dùng were not hoặc weren't trước tính từ necessary.}} (be) [not] necessary yesterday, according to the inspector."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Has::Chủ ngữ the university là số ít; câu hỏi hiện tại hoàn thành đảo has lên trước chủ ngữ và giữ phân từ published.}} (trợ động từ hoàn thành cho chủ ngữ số ít) the university published the revised timetable yet?"
+      "questionHTML": "{{Has::Chủ ngữ the university là số ít; câu hỏi hiện tại hoàn thành đảo has lên trước chủ ngữ và giữ phân từ published.}} (have) the university published the revised timetable yet?"
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{do::Do đứng trước động từ nguyên mẫu believe trong câu khẳng định để nhấn mạnh; chủ ngữ researchers là số nhiều.}} (trợ động từ nhấn mạnh ở hiện tại) believe further investigation is necessary."
+      "questionHTML": "The researchers {{do::Do đứng trước động từ nguyên mẫu believe trong câu khẳng định để nhấn mạnh; chủ ngữ researchers là số nhiều.}} [thực sự] believe further investigation is necessary."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Although the report was criticised, it {{did::Did nhấn mạnh động từ nguyên mẫu identify trong một câu khẳng định về quá khứ.}} (trợ động từ nhấn mạnh ở quá khứ) identify a significant risk."
+      "questionHTML": "Although the report was criticised, it {{did::Did nhấn mạnh động từ nguyên mẫu identify trong một câu khẳng định về quá khứ.}} (do) identify a significant risk."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A city council is reviewing a transport proposal. The initial draft {{was::Draft là chủ ngữ số ít; mốc last month cần was trong bị động quá khứ đơn.}} (be ở quá khứ, chủ ngữ số ít) circulated last month. Several residents {{did not | didn't::Last week chỉ quá khứ đơn; sau did not hoặc didn't, động từ support giữ nguyên mẫu.}} (trợ động từ phủ định ở quá khứ) support it at a meeting last week. The council {{has::Council được dùng như một đơn vị số ít ở đây; has + invited tạo hiện tại hoàn thành.}} (trợ động từ hoàn thành cho chủ ngữ số ít) invited experts to comment, and the revised figures {{are::Figures là chủ ngữ số nhiều; are + being checked tạo bị động hiện tại tiếp diễn.}} (be ở hiện tại, chủ ngữ số nhiều) being checked now."
+      "questionHTML": "A city council is reviewing a transport proposal. The initial draft {{was::Draft là chủ ngữ số ít; mốc last month cần was trong bị động quá khứ đơn.}} (be) circulated last month. Several residents {{did not | didn't::Last week chỉ quá khứ đơn; sau did not hoặc didn't, động từ support giữ nguyên mẫu.}} (do) [not] support it at a meeting last week. The council {{has::Council được dùng như một đơn vị số ít ở đây; has + invited tạo hiện tại hoàn thành.}} (have) invited experts to comment, and the revised figures {{are::Figures là chủ ngữ số nhiều; are + being checked tạo bị động hiện tại tiếp diễn.}} (be) being checked now."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The restrictions {{were not | weren't::Restrictions số nhiều ở quá khứ dùng were not hoặc weren’t trước necessary.}} (be phủ định quá khứ; chủ ngữ số nhiều) necessary when the inspector visited yesterday."
+      "questionHTML": "The restrictions {{were not | weren't::Restrictions số nhiều ở quá khứ dùng were not hoặc weren’t trước necessary.}} (be) [not] necessary when the inspector visited yesterday."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{do::Do đứng trước động từ nguyên mẫu believe để nhấn mạnh với researchers số nhiều.}} (trợ động từ nhấn mạnh ở hiện tại) believe the findings are reliable."
+      "questionHTML": "The researchers {{do::Do đứng trước động từ nguyên mẫu believe để nhấn mạnh với researchers số nhiều.}} [thực sự] believe the findings are reliable."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The applications {{were::Were being assessed là bị động quá khứ tiếp diễn với applications số nhiều.}} (be quá khứ; chủ ngữ số nhiều) being assessed when the director arrived."
+      "questionHTML": "The applications {{were::Were being assessed là bị động quá khứ tiếp diễn với applications số nhiều.}} (be) being assessed when the director arrived."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Has::Câu hỏi hiện tại hoàn thành đảo has trước university và dùng phân từ published.}} (trợ động từ hoàn thành cho chủ ngữ số ít) the university published the updated timetable yet?"
+      "questionHTML": "{{Has::Câu hỏi hiện tại hoàn thành đảo has trước university và dùng phân từ published.}} (have) the university published the updated timetable yet?"
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is reviewing its transport policy. The initial proposal {{was::Was + circulated là bị động quá khứ đơn với proposal số ít.}} (be quá khứ; chủ ngữ số ít) circulated last month. Several students {{did not | didn't::Did not hoặc didn’t đứng trước support nguyên mẫu trong phủ định quá khứ.}} (trợ động từ phủ định quá khứ) support it at the meeting. The committee {{has::Has + invited tạo hiện tại hoàn thành với committee số ít.}} (trợ động từ hoàn thành; chủ ngữ số ít) invited experts to comment."
+      "questionHTML": "A university is reviewing its transport policy. The initial proposal {{was::Was + circulated là bị động quá khứ đơn với proposal số ít.}} (be) circulated last month. Several students {{did not | didn't::Did not hoặc didn’t đứng trước support nguyên mẫu trong phủ định quá khứ.}} (do) [not] support it at the meeting. The committee {{has::Has + invited tạo hiện tại hoàn thành với committee số ít.}} (have) invited experts to comment."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "An archive recently discovered a collection of letters. The letters {{are::Letters số nhiều dùng are trong bị động hiện tại tiếp diễn.}} (be hiện tại; chủ ngữ số nhiều) being examined by specialists. The curator {{does not | doesn't::Does not hoặc doesn’t + believe nguyên mẫu tạo phủ định hiện tại đơn.}} (trợ động từ phủ định hiện tại; chủ ngữ số ít) believe the collection is complete. The team {{has::Has + requested là hiện tại hoàn thành với team số ít.}} (trợ động từ hoàn thành; chủ ngữ số ít) requested additional records."
+      "questionHTML": "An archive recently discovered a collection of letters. The letters {{are::Letters số nhiều dùng are trong bị động hiện tại tiếp diễn.}} (be) being examined by specialists. The curator {{does not | doesn't::Does not hoặc doesn’t + believe nguyên mẫu tạo phủ định hiện tại đơn.}} (do) [not] believe the collection is complete. The team {{has::Has + requested là hiện tại hoàn thành với team số ít.}} (have) requested additional records."
     },
     {
       "tier": "apply",

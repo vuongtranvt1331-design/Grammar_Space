@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The revised route is {{shorter::Short là tính từ ngắn; dùng shorter than khi so sánh hai tuyến đường.}} (dạng so sánh hơn của short) than the original route."
+      "questionHTML": "The revised route is {{shorter::Short là tính từ ngắn; dùng shorter than khi so sánh hai tuyến đường.}} [short] than the original route."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The second study was {{more comprehensive::Comprehensive là tính từ dài; dùng more comprehensive than.}} (dạng so sánh hơn của comprehensive) than the first."
+      "questionHTML": "The second study was {{more comprehensive::Comprehensive là tính từ dài; dùng more comprehensive than.}} [comprehensive] than the first."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The archive is {{as large as::Hai diện tích bằng nhau; dùng as + large + as.}} (so sánh bằng với large) the library next door; both occupy 500 square metres."
+      "questionHTML": "The archive is {{as large as::Hai diện tích bằng nhau; dùng as + large + as.}} [large] the library next door; both occupy 500 square metres."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "This is the {{best::Good có dạng so sánh nhất bất quy tắc best; among the three nêu nhóm so sánh.}} (dạng so sánh nhất của good) result among the three trials."
+      "questionHTML": "This is the {{best::Good có dạng so sánh nhất bất quy tắc best; among the three nêu nhóm so sánh.}} [good] result among the three trials."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The northern region recorded the {{least::Least là dạng so sánh nhất của little khi nói lượng mưa ít nhất.}} (so sánh nhất của little) rainfall of all five regions."
+      "questionHTML": "The northern region recorded the {{least::Least là dạng so sánh nhất của little khi nói lượng mưa ít nhất.}} [little] rainfall of all five regions."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The second route is {{shorter::Short là tính từ ngắn; dùng shorter than.}} (so sánh hơn của short) than the first."
+      "questionHTML": "The second route is {{shorter::Short là tính từ ngắn; dùng shorter than.}} [short] than the first."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The revised proposal is {{more practical::Practical là tính từ dài; dùng more practical than.}} (so sánh hơn của practical) than the original."
+      "questionHTML": "The revised proposal is {{more practical::Practical là tính từ dài; dùng more practical than.}} [practical] than the original."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Both samples weigh 50 grams; the first is {{as heavy as::As + tính từ gốc + as diễn tả hai khối lượng bằng nhau.}} (so sánh bằng với heavy) the second."
+      "questionHTML": "Both samples weigh 50 grams; the first is {{as heavy as::As + tính từ gốc + as diễn tả hai khối lượng bằng nhau.}} [heavy] the second."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "This was the {{best::Good có dạng so sánh nhất bất quy tắc best.}} (so sánh nhất của good) result among the four trials."
+      "questionHTML": "This was the {{best::Good có dạng so sánh nhất bất quy tắc best.}} [good] result among the four trials."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The western region received the {{least::Least chỉ lượng ít nhất trong nhóm.}} (so sánh nhất của little) rainfall of all five regions."
+      "questionHTML": "The western region received the {{least::Least chỉ lượng ít nhất trong nhóm.}} [little] rainfall of all five regions."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The new model is {{more efficient::Efficient là tính từ dài; dùng more efficient than.}} (dạng so sánh hơn của efficient) than the old one because it uses less electricity."
+      "questionHTML": "The new model is {{more efficient::Efficient là tính từ dài; dùng more efficient than.}} [efficient] than the old one because it uses less electricity."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The earlier survey was {{smaller::So sánh hai quy mô; tính từ ngắn small chuyển thành smaller.}} (dạng so sánh hơn của small) than the revised survey, with 80 rather than 200 participants."
+      "questionHTML": "The earlier survey was {{smaller::So sánh hai quy mô; tính từ ngắn small chuyển thành smaller.}} [small] than the revised survey, with 80 rather than 200 participants."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The last proposal was {{the most expensive::Trong nhóm ba phương án, dùng the most + tính từ dài expensive.}} (so sánh nhất của expensive) of the three."
+      "questionHTML": "The last proposal was {{the most expensive::Trong nhóm ba phương án, dùng the most + tính từ dài expensive.}} [expensive] of the three."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The result was {{as high as::As + high + as diễn tả giá trị đúng bằng mức đã dự kiến.}} (so sánh bằng với high) expected; both figures were identical."
+      "questionHTML": "The result was {{as high as::As + high + as diễn tả giá trị đúng bằng mức đã dự kiến.}} [high] expected; both figures were identical."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A team tested three water filters. Filter A was {{cheaper::Cheaper than là so sánh hơn của cheap khi so sánh hai bộ lọc.}} (dạng so sánh hơn của cheap) than Filter B. Filter C was {{the most effective::Trong ba bộ lọc, the most effective là dạng so sánh nhất của effective.}} (so sánh nhất của effective) of the three. Filter A was {{as reliable as::As + reliable + as diễn tả hai bộ lọc có cùng độ tin cậy.}} (so sánh bằng với reliable) Filter B; both passed every test."
+      "questionHTML": "A team tested three water filters. Filter A was {{cheaper::Cheaper than là so sánh hơn của cheap khi so sánh hai bộ lọc.}} than Filter B. Filter C was {{the most effective::Trong ba bộ lọc, the most effective là dạng so sánh nhất của effective.}} [effective] of the three. Filter A was {{as reliable as::As + reliable + as diễn tả hai bộ lọc có cùng độ tin cậy.}} [reliable] Filter B; both passed every test."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The final estimate was {{lower::Low là tính từ ngắn; so sánh hai ước lượng dùng lower than.}} (so sánh hơn của low) than the initial estimate."
+      "questionHTML": "The final estimate was {{lower::Low là tính từ ngắn; so sánh hai ước lượng dùng lower than.}} than the initial estimate."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The urban sample was {{as large as::Hai mẫu có cùng số người nên dùng as large as.}} (so sánh bằng với large) the rural sample; each had 200 participants."
+      "questionHTML": "The urban sample was {{as large as::Hai mẫu có cùng số người nên dùng as large as.}} [large] the rural sample; each had 200 participants."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The revised instrument was {{the most accurate::Trong nhóm ba mẫu, dùng the most + tính từ dài accurate.}} (so sánh nhất của accurate) of the three models tested."
+      "questionHTML": "The revised instrument was {{the most accurate::Trong nhóm ba mẫu, dùng the most + tính từ dài accurate.}} [accurate] of the three models tested."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The second approach is {{more economical::Economical là tính từ dài; dùng more economical than.}} (so sánh hơn của economical) than the first because it uses fewer resources."
+      "questionHTML": "The second approach is {{more economical::Economical là tính từ dài; dùng more economical than.}} [economical] than the first because it uses fewer resources."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A team tested three water filters. Filter A was {{cheaper::Cheap tạo so sánh hơn cheaper khi so sánh hai bộ lọc.}} (so sánh hơn của cheap) than Filter B. Filter C was {{the most effective::The most effective là so sánh nhất trong nhóm ba.}} (so sánh nhất của effective) of the three. Filter A was {{as reliable as::As reliable as diễn tả hai bộ lọc có cùng độ tin cậy.}} (so sánh bằng với reliable) Filter B; both passed every test."
+      "questionHTML": "A team tested three water filters. Filter A was {{cheaper::Cheap tạo so sánh hơn cheaper khi so sánh hai bộ lọc.}} than Filter B. Filter C was {{the most effective::The most effective là so sánh nhất trong nhóm ba.}} [effective] of the three. Filter A was {{as reliable as::As reliable as diễn tả hai bộ lọc có cùng độ tin cậy.}} [reliable] Filter B; both passed every test."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university compared three transport options. Cycling was {{faster::Faster là so sánh hơn của fast khi so sánh hai cách đi lại.}} (so sánh hơn của fast) than walking on the test route. The train was {{the most expensive::The most expensive là so sánh nhất của expensive trong nhóm ba.}} (so sánh nhất của expensive). Walking was {{as environmentally friendly as::As + tính từ + as diễn tả hai lựa chọn có mức thân thiện môi trường bằng nhau.}} (so sánh bằng với environmentally friendly) cycling according to the study."
+      "questionHTML": "A university compared three transport options. Cycling was {{faster::Faster là so sánh hơn của fast khi so sánh hai cách đi lại.}} [fast] than walking on the test route. The train was {{the most expensive::The most expensive là so sánh nhất của expensive trong nhóm ba.}} [expensive]. Walking was {{as environmentally friendly as::As + tính từ + as diễn tả hai lựa chọn có mức thân thiện môi trường bằng nhau.}} [environmentally friendly] cycling according to the study."
     },
     {
       "tier": "apply",

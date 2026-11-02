@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The lights are on and her car is outside; she {{must be::Must be diễn tả suy đoán mạnh dựa trên dấu hiệu hiện tại; sau must dùng be nguyên mẫu.}} (cụm động từ chỉ mức độ chắc chắn ở hiện tại) at home."
+      "questionHTML": "The lights are on and her car is outside; she {{must be::Must be diễn tả suy đoán mạnh dựa trên dấu hiệu hiện tại; sau must dùng be nguyên mẫu.}} (be) at home."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "He is standing beside me in Hanoi, so he {{can't be | cannot be::Can’t be và cannot be đều diễn tả suy đoán gần như không thể đúng.}} (cụm động từ chỉ mức độ chắc chắn ở hiện tại) in Tokyo right now."
+      "questionHTML": "He is standing beside me in Hanoi, so he {{can't be | cannot be::Can’t be và cannot be đều diễn tả suy đoán gần như không thể đúng.}} (be) [not] in Tokyo right now."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I am not sure; Lan {{might be | may be | could be::Might, may và could đều có thể diễn tả khả năng chưa chắc chắn ở hiện tại.}} (cụm động từ chỉ mức độ chắc chắn ở hiện tại) at the library."
+      "questionHTML": "I am not sure; Lan {{might be | may be | could be::Might, may và could đều có thể diễn tả khả năng chưa chắc chắn ở hiện tại.}} (be) at the library."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I am unsure, but Mai {{might know | may know | could know::Might, may và could + động từ nguyên mẫu đều diễn tả khả năng chưa chắc chắn.}} (cụm động từ chỉ mức độ chắc chắn ở hiện tại) the answer."
+      "questionHTML": "I am unsure, but Mai {{might know | may know | could know::Might, may và could + động từ nguyên mẫu đều diễn tả khả năng chưa chắc chắn.}} (know) the answer."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "His pockets are full of keys; he {{must have::Must have + danh từ ở đây suy đoán hiện tại về sự sở hữu; have là động từ nguyên mẫu, theo sau là danh từ.}} (cụm động từ chỉ mức độ chắc chắn ở hiện tại) several keys."
+      "questionHTML": "His pockets are full of keys; he {{must have::Must have + danh từ ở đây suy đoán hiện tại về sự sở hữu; have là động từ nguyên mẫu, theo sau là danh từ.}} (have) several keys."
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The lights are on and the key is inside; the curator {{must be::Must be diễn tả suy đoán mạnh về trạng thái hiện tại dựa trên dấu hiệu.}} (suy đoán rất chắc về trạng thái hiện tại) in the building."
+      "questionHTML": "The lights are on and the key is inside; the curator {{must be::Must be diễn tả suy đoán mạnh về trạng thái hiện tại dựa trên dấu hiệu.}} (be) [rất có thể] in the building."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The director is beside us in Hanoi, so she {{can't be | cannot be::Can’t be và cannot be đều diễn tả suy đoán gần như không thể đúng.}} (suy đoán gần như không thể đúng) in London right now."
+      "questionHTML": "The director is beside us in Hanoi, so she {{can't be | cannot be::Can’t be và cannot be đều diễn tả suy đoán gần như không thể đúng.}} (be) [not] [gần như không thể] in London right now."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The curator {{might be | may be | could be::Might, may và could be đều diễn tả khả năng chưa chắc chắn ở hiện tại.}} (khả năng chưa chắc chắn ở hiện tại) in the reading room; I am not sure."
+      "questionHTML": "The curator {{might be | may be | could be::Might, may và could be đều diễn tả khả năng chưa chắc chắn ở hiện tại.}} (be) [có thể] in the reading room; I am not sure."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The adviser {{might know | may know | could know::Might, may và could + know nguyên mẫu đều nêu khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn với know) the answer, but I am uncertain."
+      "questionHTML": "The adviser {{might know | may know | could know::Might, may và could + know nguyên mẫu đều nêu khả năng chưa chắc chắn.}} (know) [có thể] the answer, but I am uncertain."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The librarian is holding her library card; she {{must have::Must have ở đây là must + động từ have chỉ sở hữu hiện tại, không phải have + V3.}} (suy đoán mạnh về sự sở hữu hiện tại) a library card."
+      "questionHTML": "The librarian is holding her library card; she {{must have::Must have ở đây là must + động từ have chỉ sở hữu hiện tại, không phải have + V3.}} (have) [rất có thể] a library card."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The office lights and computer are on; the director {{must be::Must be diễn tả suy đoán mạnh về trạng thái hiện tại dựa trên dấu hiệu.}} (suy đoán rất chắc về trạng thái hiện tại) at work."
+      "questionHTML": "The office lights and computer are on; the director {{must be::Must be diễn tả suy đoán mạnh về trạng thái hiện tại dựa trên dấu hiệu.}} (be) [rất có thể] at work."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The exhibit is in our hands, so it {{can't be | cannot be::Can’t be và cannot be đều diễn tả suy đoán gần như không thể đúng.}} (suy đoán gần như không thể đúng) in the other museum now."
+      "questionHTML": "The exhibit is in our hands, so it {{can't be | cannot be::Can’t be và cannot be đều diễn tả suy đoán gần như không thể đúng.}} (be) [not] [gần như không thể] in the other museum now."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The new method {{might be | may be | could be::Might, may và could be đều diễn tả khả năng chưa chắc chắn ở hiện tại.}} (khả năng chưa chắc chắn ở hiện tại) useful, although it has not yet been tested."
+      "questionHTML": "The new method {{might be | may be | could be::Might, may và could be đều diễn tả khả năng chưa chắc chắn ở hiện tại.}} (be) [có thể] useful, although it has not yet been tested."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The curator {{might know | may know | could know::Might, may và could + know nguyên mẫu đều nêu khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn với know) where the original is, although we have not asked."
+      "questionHTML": "The curator {{might know | may know | could know::Might, may và could + know nguyên mẫu đều nêu khả năng chưa chắc chắn.}} (know) [có thể] where the original is, although we have not asked."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The curator is carrying a key; she {{must have::Must have ở đây là must + động từ have chỉ sở hữu hiện tại, không phải have + V3.}} (suy đoán mạnh về sự sở hữu hiện tại) access to the room."
+      "questionHTML": "The curator is carrying a key; she {{must have::Must have ở đây là must + động từ have chỉ sở hữu hiện tại, không phải have + V3.}} (have) [rất có thể] access to the room."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researcher is standing beside us, so she {{can't be | cannot be::Can’t/cannot be diễn tả điều gần như không thể đúng dựa trên bằng chứng.}} (suy đoán gần như không thể đúng) in another building now."
+      "questionHTML": "The researcher is standing beside us, so she {{can't be | cannot be::Can’t/cannot be diễn tả điều gần như không thể đúng dựa trên bằng chứng.}} (be) [not] [gần như không thể] in another building now."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The results are incomplete; the explanation {{might be | may be | could be::Might, may và could be đều nêu khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn) accurate, but we are unsure."
+      "questionHTML": "The results are incomplete; the explanation {{might be | may be | could be::Might, may và could be đều nêu khả năng chưa chắc chắn.}} (be) [có thể] accurate, but we are unsure."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The office lights are on and the computer is running; the analyst {{must be::Must be diễn tả một suy đoán mạnh về hiện tại.}} (suy đoán mạnh từ dấu hiệu) at work."
+      "questionHTML": "The office lights are on and the computer is running; the analyst {{must be::Must be diễn tả một suy đoán mạnh về hiện tại.}} (be) [rất có thể] at work."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A researcher is trying to find the curator. The curator's coat and keys are in the office, so she {{must be::Must be diễn tả suy đoán mạnh dựa trên dấu hiệu hiện tại.}} (suy đoán mạnh) nearby. She {{might be | may be | could be::Might, may và could be đều nêu một khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn) in the archive, but nobody is certain. She {{can't be | cannot be::Can’t/cannot be diễn tả điều gần như không thể đúng vì người đó đang ở cạnh người nói.}} (gần như không thể) in another city: a colleague can see her through the window."
+      "questionHTML": "A researcher is trying to find the curator. The curator's coat and keys are in the office, so she {{must be::Must be diễn tả suy đoán mạnh dựa trên dấu hiệu hiện tại.}} (be) [rất có thể] nearby. She {{might be | may be | could be::Might, may và could be đều nêu một khả năng chưa chắc chắn.}} (be) [có thể] in the archive, but nobody is certain. She {{can't be | cannot be::Can’t/cannot be diễn tả điều gần như không thể đúng vì người đó đang ở cạnh người nói.}} (be) [not] [gần như không thể] in another city: a colleague can see her through the window."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A team is discussing an unfamiliar result. The lead analyst {{might know | may know | could know::Might, may và could + know đều nêu khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn) the cause. The current explanation {{might be | may be | could be::Might, may và could be đều diễn tả khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn) incomplete. The original data are in the team's hands, so they {{must have::Must have ở đây chỉ suy đoán mạnh về sự sở hữu hiện tại.}} (suy đoán mạnh về sự sở hữu) a copy."
+      "questionHTML": "A team is discussing an unfamiliar result. The lead analyst {{might know | may know | could know::Might, may và could + know đều nêu khả năng chưa chắc chắn.}} (know) [có thể] the cause. The current explanation {{might be | may be | could be::Might, may và could be đều diễn tả khả năng chưa chắc chắn.}} (be) [có thể] incomplete. The original data are in the team's hands, so they {{must have::Must have ở đây chỉ suy đoán mạnh về sự sở hữu hiện tại.}} (have) [rất có thể] a copy."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A librarian is locating a manuscript. The catalogue is open on her desk, so she {{must have::Must have + danh từ chỉ suy đoán mạnh về sự sở hữu hiện tại.}} (suy đoán mạnh về sự sở hữu) access to the catalogue. The manuscript {{might be | may be | could be::Might, may và could be đều nêu khả năng chưa chắc chắn.}} (khả năng chưa chắc chắn) in the archive. It {{can't be | cannot be::Can’t/cannot be chỉ điều gần như không thể đúng vì nó đang ở đây.}} (gần như không thể) on a distant shelf because the librarian is holding it."
+      "questionHTML": "A librarian is locating a manuscript. The catalogue is open on her desk, so she {{must have::Must have + danh từ chỉ suy đoán mạnh về sự sở hữu hiện tại.}} (have) [rất có thể] access to the catalogue. The manuscript {{might be | may be | could be::Might, may và could be đều nêu khả năng chưa chắc chắn.}} (be) [có thể] in the archive. It {{can't be | cannot be::Can’t/cannot be chỉ điều gần như không thể đúng vì nó đang ở đây.}} (be) [not] [gần như không thể] on a distant shelf because the librarian is holding it."
     },
     {
       "tier": "apply",

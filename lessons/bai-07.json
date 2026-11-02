@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Only {{a few::A few đi với danh từ đếm được số nhiều participants và có nghĩa là có một vài người.}} (lượng nhỏ nhưng có tồn tại, danh từ đếm được) participants completed every section of the survey."
+      "questionHTML": "Only {{a few::A few đi với danh từ đếm được số nhiều participants và có nghĩa là có một vài người.}} [một vài] participants completed every section of the survey."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The research team had {{little::Little đi với time không đếm được và nhấn mạnh không đủ thời gian.}} (lượng rất ít, danh từ không đếm được) time to prepare, so it postponed the launch."
+      "questionHTML": "The research team had {{little::Little đi với time không đếm được và nhấn mạnh không đủ thời gian.}} [rất ít] time to prepare, so it postponed the launch."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The archive contains {{many::Documents là danh từ số nhiều đếm được; many phù hợp.}} (số lượng lớn với danh từ đếm được) documents from the nineteenth century."
+      "questionHTML": "The archive contains {{many::Documents là danh từ số nhiều đếm được; many phù hợp.}} [nhiều] documents from the nineteenth century."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The museum has received {{some::Advice không đếm được; some có thể bổ nghĩa cho danh từ không đếm được trong câu khẳng định.}} (một lượng không xác định) useful advice from its volunteers."
+      "questionHTML": "The museum has received {{some::Advice không đếm được; some có thể bổ nghĩa cho danh từ không đếm được trong câu khẳng định.}} [một ít] useful advice from its volunteers."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The survey did not reveal {{any::Any thường dùng trong câu phủ định; changes là danh từ số nhiều.}} (lượng không xác định trong câu phủ định) significant changes in spending."
+      "questionHTML": "The survey did not reveal {{any::Any thường dùng trong câu phủ định; changes là danh từ số nhiều.}} [bất kỳ] significant changes in spending."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The survey received {{many::Responses là danh từ đếm được số nhiều nên dùng many.}} (lượng lớn với danh từ đếm được số nhiều) responses from rural communities."
+      "questionHTML": "The survey received {{many::Responses là danh từ đếm được số nhiều nên dùng many.}} [nhiều] responses from rural communities."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The committee had {{little::Little + time nhấn mạnh lượng thời gian quá ít hoặc không đủ.}} (lượng không đủ với danh từ không đếm được) time, so it postponed the discussion."
+      "questionHTML": "The committee had {{little::Little + time nhấn mạnh lượng thời gian quá ít hoặc không đủ.}} [rất ít] time, so it postponed the discussion."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Only {{a few::A few đi với volunteers số nhiều và cho biết có vài người.}} (một số nhỏ nhưng có tồn tại) volunteers were available, but they completed the work."
+      "questionHTML": "Only {{a few::A few đi với volunteers số nhiều và cho biết có vài người.}} [một vài] volunteers were available, but they completed the work."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers did not find {{any::Any thường dùng trong câu phủ định với danh từ số nhiều.}} (lượng không xác định trong câu phủ định) significant differences."
+      "questionHTML": "The researchers did not find {{any::Any thường dùng trong câu phủ định với danh từ số nhiều.}} [bất kỳ] significant differences."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Each | Every::Each và every đều có thể bổ nghĩa cho participant số ít.}} (từ chỉ từng cá nhân; danh từ số ít) participant receives a separate identification number."
+      "questionHTML": "{{Each | Every::Each và every đều có thể bổ nghĩa cho participant số ít.}} [mỗi] participant receives a separate identification number."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "There are {{many | a lot of::Many và a lot of đều đi với opportunities số nhiều; hundreds cho biết số lượng lớn.}} (lượng lớn trước danh từ số nhiều) opportunities for independent study: the programme offers hundreds of optional projects."
+      "questionHTML": "There are {{many | a lot of::Many và a lot of đều đi với opportunities số nhiều; hundreds cho biết số lượng lớn.}} [nhiều] opportunities for independent study: the programme offers hundreds of optional projects."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Only {{a little::Information không đếm được; a little chỉ một lượng nhỏ thông tin đã có.}} (lượng nhỏ nhưng có tồn tại) information was available before the investigation began."
+      "questionHTML": "Only {{a little::Information không đếm được; a little chỉ một lượng nhỏ thông tin đã có.}} [một ít] information was available before the investigation began."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Each | Every::Each và every đều đứng trước danh từ đếm được số ít applicant; mỗi người phải nộp riêng.}} (từ chỉ từng người trong một nhóm) applicant must submit an individual statement."
+      "questionHTML": "{{Each | Every::Each và every đều đứng trước danh từ đếm được số ít applicant; mỗi người phải nộp riêng.}} [mỗi] applicant must submit an individual statement."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Neither proposal received {{much::Support ở đây không đếm được; much phù hợp trong câu mang nghĩa phủ định.}} (lượng lớn với danh từ không đếm được) support from the review panel."
+      "questionHTML": "Neither proposal received {{much::Support ở đây không đếm được; much phù hợp trong câu mang nghĩa phủ định.}} [nhiều] support from the review panel."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "The archive is preparing an exhibition. It has received {{many | several::Many và several đều đi với letters là danh từ đếm được số nhiều.}} (lượng nhiều với danh từ đếm được) letters from former residents. However, {{little::Little đi với information không đếm được và nhấn mạnh thông tin không đủ.}} (lượng không đủ với danh từ không đếm được) information survives about the earliest building. {{Each | Every::Each và every đều bổ nghĩa cho volunteer số ít, nhấn mạnh từng người.}} (từ chỉ từng người) volunteer will examine one part of the collection."
+      "questionHTML": "The archive is preparing an exhibition. It has received {{many | several::Many và several đều đi với letters là danh từ đếm được số nhiều.}} [nhiều] letters from former residents. However, {{little::Little đi với information không đếm được và nhấn mạnh thông tin không đủ.}} [rất ít] information survives about the earliest building. {{Each | Every::Each và every đều bổ nghĩa cho volunteer số ít, nhấn mạnh từng người.}} [mỗi] volunteer will examine one part of the collection."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team found {{no::No evidence nghĩa là không có bằng chứng; bối cảnh nói các phép đo không phát hiện gì.}} (từ chỉ lượng bằng không) evidence of contamination; its measurements showed none."
+      "questionHTML": "The team found {{no::No evidence nghĩa là không có bằng chứng; bối cảnh nói các phép đo không phát hiện gì.}} [không có] evidence of contamination; its measurements showed none."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The committee has {{several::Several đi với options số nhiều; bối cảnh đã có ba lựa chọn.}} (một số trước danh từ đếm được) options to consider: three have already been proposed."
+      "questionHTML": "The committee has {{several::Several đi với options số nhiều; bối cảnh đã có ba lựa chọn.}} [một số] options to consider: three have already been proposed."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The first report contained {{little::Little detail nhấn mạnh thông tin chi tiết không đủ.}} (lượng không đủ với danh từ không đếm được) detail, so a second investigation was necessary."
+      "questionHTML": "The first report contained {{little::Little detail nhấn mạnh thông tin chi tiết không đủ.}} [rất ít] detail, so a second investigation was necessary."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Only {{one::One of the two phù hợp khi ngân sách chỉ cho phép một phương án.}} (số lượng một trong hai) of the two proposals can be funded; the budget allows one."
+      "questionHTML": "Only {{one::One of the two phù hợp khi ngân sách chỉ cho phép một phương án.}} [một] of the two proposals can be funded; the budget allows one."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A city is evaluating a housing programme. It has received {{many | several::Many và several đều bổ nghĩa cho applications số nhiều.}} (một lượng lớn hoặc một số với danh từ đếm được) applications from residents. However, {{little::Little bổ nghĩa cho information không đếm được và nhấn mạnh thiếu thông tin.}} (lượng không đủ) information is available about long-term outcomes. {{Each | Every::Each và every đều đi với applicant số ít.}} (từ chỉ từng người) applicant will receive a response."
+      "questionHTML": "A city is evaluating a housing programme. It has received {{many | several::Many và several đều bổ nghĩa cho applications số nhiều.}} [nhiều] applications from residents. However, {{little::Little bổ nghĩa cho information không đếm được và nhấn mạnh thiếu thông tin.}} [rất ít] information is available about long-term outcomes. {{Each | Every::Each và every đều đi với applicant số ít.}} [mỗi] applicant will receive a response."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A team reviewed two transport proposals. {{Neither::Neither of the two nghĩa là không phương án nào trong hai.}} (không phương án nào trong hai) of them met every requirement. The panel requested {{more::More bổ nghĩa cho evidence không đếm được để chỉ cần thêm.}} (lượng bổ sung) evidence and invited {{a few::A few đi với experts số nhiều, chỉ một số nhỏ có tồn tại.}} (một số nhỏ với danh từ đếm được) experts to help. A revised decision will follow."
+      "questionHTML": "A team reviewed two transport proposals. {{Neither::Neither of the two nghĩa là không phương án nào trong hai.}} [không cái nào trong hai] of them met every requirement. The panel requested {{more::More bổ nghĩa cho evidence không đếm được để chỉ cần thêm.}} [thêm] evidence and invited {{a few::A few đi với experts số nhiều, chỉ một số nhỏ có tồn tại.}} [một vài] experts to help. A revised decision will follow."
     },
     {
       "tier": "apply",

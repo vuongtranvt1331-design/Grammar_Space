@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Fasten | Buckle | Secure::Fasten, buckle và secure đều có thể dùng trong mệnh lệnh yêu cầu thắt dây an toàn.}} (dạng câu mệnh lệnh hoặc đề nghị phù hợp) your seat belt before you drive."
+      "questionHTML": "{{Fasten | Buckle | Secure::Fasten, buckle và secure đều có thể dùng trong mệnh lệnh yêu cầu thắt dây an toàn.}} your seat belt before you drive."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Do not | Don't::Do not hoặc Don’t + động từ nguyên mẫu đều tạo mệnh lệnh phủ định.}} (dạng câu mệnh lệnh hoặc đề nghị phù hợp) touch the wire; it is dangerous."
+      "questionHTML": "{{Do not | Don't::Do not hoặc Don’t + động từ nguyên mẫu đều tạo mệnh lệnh phủ định.}} (do) [not] touch the wire; it is dangerous."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Could | Can | Would::Could, Can và Would đều có thể dùng để nhờ vả; Could và Would thường lịch sự hơn.}} (dạng câu mệnh lệnh hoặc đề nghị phù hợp) you open the window, please?"
+      "questionHTML": "{{Could | Can | Would::Could, Can và Would đều có thể dùng để nhờ vả; Could và Would thường lịch sự hơn.}} you open the window, please?"
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Let's::Let’s + V nguyên mẫu đề xuất một hành động người nói và người nghe cùng làm.}} (dạng câu mệnh lệnh hoặc đề nghị phù hợp) go to the museum together."
+      "questionHTML": "{{Let's::Let’s + V nguyên mẫu đề xuất một hành động người nói và người nghe cùng làm.}} go to the museum together."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Why::Why don’t we + V nguyên mẫu là cấu trúc đưa ra lời đề xuất cùng làm.}} (dạng câu mệnh lệnh hoặc đề nghị phù hợp) don’t we take a break?"
+      "questionHTML": "{{Why::Why don’t we + V nguyên mẫu là cấu trúc đưa ra lời đề xuất cùng làm.}} don’t we take a break?"
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Check | Inspect | Examine::Check, inspect và examine đều là động từ nguyên mẫu phù hợp với yêu cầu kiểm tra.}} (động từ nguyên mẫu mở đầu câu mệnh lệnh) the figures before submitting the report."
+      "questionHTML": "{{Check | Inspect | Examine::Check, inspect và examine đều là động từ nguyên mẫu phù hợp với yêu cầu kiểm tra.}} [kiểm tra] the figures before submitting the report."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Do not | Don't::Do not và Don’t + động từ nguyên mẫu đều tạo mệnh lệnh phủ định.}} (mệnh lệnh phủ định) touch the equipment without permission."
+      "questionHTML": "{{Do not | Don't::Do not và Don’t + động từ nguyên mẫu đều tạo mệnh lệnh phủ định.}} (do) [not] touch the equipment without permission."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Could | Can | Would::Could, Can và Would you đều có thể dùng để nhờ vả.}} (lời nhờ vả lịch sự) you review the final draft, please?"
+      "questionHTML": "{{Could | Can | Would::Could, Can và Would you đều có thể dùng để nhờ vả.}} you review the final draft, please?"
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Let's | Let us::Let’s và Let us + động từ nguyên mẫu đều đề nghị người nói và người nghe cùng làm.}} (đề nghị cùng thực hiện) review the evidence together."
+      "questionHTML": "{{Let's | Let us::Let’s và Let us + động từ nguyên mẫu đều đề nghị người nói và người nghe cùng làm.}} review the evidence together."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Why don't we::Why don’t we + động từ nguyên mẫu là một cách đề nghị cùng làm.}} (đề nghị cùng thực hiện ở dạng câu hỏi) take a short break?"
+      "questionHTML": "{{Why don't we::Why don’t we + động từ nguyên mẫu là một cách đề nghị cùng làm.}} take a short break?"
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Check | Inspect | Examine::Check, inspect và examine đều là động từ nguyên mẫu phù hợp với yêu cầu kiểm tra.}} (động từ nguyên mẫu mở đầu câu mệnh lệnh) the evidence before the panel reaches a decision."
+      "questionHTML": "{{Check | Inspect | Examine::Check, inspect và examine đều là động từ nguyên mẫu phù hợp với yêu cầu kiểm tra.}} [kiểm tra] the evidence before the panel reaches a decision."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Do not | Don't::Do not và Don’t + động từ nguyên mẫu đều tạo mệnh lệnh phủ định.}} (mệnh lệnh phủ định) disclose confidential information to the public."
+      "questionHTML": "{{Do not | Don't::Do not và Don’t + động từ nguyên mẫu đều tạo mệnh lệnh phủ định.}} (do) [not] disclose confidential information to the public."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Could | Can | Would::Could, Can và Would you đều có thể dùng để nhờ vả.}} (lời nhờ vả lịch sự) you explain the findings to the panel, please?"
+      "questionHTML": "{{Could | Can | Would::Could, Can và Would you đều có thể dùng để nhờ vả.}} you explain the findings to the panel, please?"
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Let's | Let us::Let’s và Let us + động từ nguyên mẫu đều đề nghị người nói và người nghe cùng làm.}} (đề nghị cùng thực hiện) discuss the limitations before making a decision."
+      "questionHTML": "{{Let's | Let us::Let’s và Let us + động từ nguyên mẫu đều đề nghị người nói và người nghe cùng làm.}} discuss the limitations before making a decision."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Why don't we::Why don’t we + động từ nguyên mẫu là một cách đề nghị cùng làm.}} (đề nghị cùng thực hiện ở dạng câu hỏi) compare the two proposals before voting?"
+      "questionHTML": "{{Why don't we::Why don’t we + động từ nguyên mẫu là một cách đề nghị cùng làm.}} compare the two proposals before voting?"
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Let's | Let us::Let’s và Let us + nguyên mẫu diễn tả lời đề nghị cùng thực hiện.}} (đề nghị cùng làm) keep the records in a secure place."
+      "questionHTML": "{{Let's | Let us::Let’s và Let us + nguyên mẫu diễn tả lời đề nghị cùng thực hiện.}} keep the records in a secure place."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Do not | Don't::Do not và Don’t + động từ nguyên mẫu đều tạo mệnh lệnh phủ định.}} (mệnh lệnh phủ định) enter the restricted area; access is prohibited."
+      "questionHTML": "{{Do not | Don't::Do not và Don’t + động từ nguyên mẫu đều tạo mệnh lệnh phủ định.}} (do) [not] enter the restricted area; access is prohibited."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Could | Can | Would::Could, Can và Would you đều có thể dùng để nhờ vả.}} (lời nhờ vả lịch sự) you check the references before publication, please?"
+      "questionHTML": "{{Could | Can | Would::Could, Can và Would you đều có thể dùng để nhờ vả.}} you check the references before publication, please?"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A supervisor is briefing the research team. “{{Check | Inspect | Examine::Các động từ nguyên mẫu này đều phù hợp với yêu cầu kiểm tra.}} (động từ mệnh lệnh nghĩa là kiểm tra) the equipment,” she says. “{{Do not | Don't::Do not và Don’t tạo mệnh lệnh phủ định trước touch.}} (mệnh lệnh phủ định) touch the samples without gloves.” She then asks, “{{Could | Can | Would::Could, Can và Would you đều có thể dùng để nhờ vả.}} (lời nhờ vả) you record the results?”"
+      "questionHTML": "A supervisor is briefing the research team. “{{Check | Inspect | Examine::Các động từ nguyên mẫu này đều phù hợp với yêu cầu kiểm tra.}} [kiểm tra] the equipment,” she says. “{{Do not | Don't::Do not và Don’t tạo mệnh lệnh phủ định trước touch.}} (do) [not] touch the samples without gloves.” She then asks, “{{Could | Can | Would::Could, Can và Would you đều có thể dùng để nhờ vả.}} you record the results?”"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A committee is preparing a report. The chair says, “{{Let's | Let us::Let’s và Let us đều mở đầu lời đề nghị cùng thực hiện.}} (đề nghị cùng làm) review the evidence.” She adds, “{{Do not | Don't::Do not và Don’t + động từ nguyên mẫu tạo mệnh lệnh phủ định.}} (mệnh lệnh phủ định) publish the draft yet.” Finally, she asks, “{{Could | Can | Would::Could, Can và Would you đều có thể dùng để nhờ vả.}} (lời nhờ vả) you check the references?”"
+      "questionHTML": "A committee is preparing a report. The chair says, “{{Let's | Let us::Let’s và Let us đều mở đầu lời đề nghị cùng thực hiện.}} review the evidence.” She adds, “{{Do not | Don't::Do not và Don’t + động từ nguyên mẫu tạo mệnh lệnh phủ định.}} (do) [not] publish the draft yet.” Finally, she asks, “{{Could | Can | Would::Could, Can và Would you đều có thể dùng để nhờ vả.}} you check the references?”"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A library is organising an event. The coordinator says, “{{Check | Inspect | Examine::Các động từ nguyên mẫu này đều phù hợp với yêu cầu kiểm tra.}} (động từ mệnh lệnh nghĩa là kiểm tra) the room first.” She continues, “{{Let's | Let us::Let’s và Let us diễn tả đề nghị cùng thực hiện.}} (đề nghị cùng làm) arrange the chairs.” She reminds the volunteers, “{{Do not | Don't::Do not và Don’t tạo mệnh lệnh phủ định.}} (mệnh lệnh phủ định) block the entrance.”"
+      "questionHTML": "A library is organising an event. The coordinator says, “{{Check | Inspect | Examine::Các động từ nguyên mẫu này đều phù hợp với yêu cầu kiểm tra.}} [kiểm tra] the room first.” She continues, “{{Let's | Let us::Let’s và Let us diễn tả đề nghị cùng thực hiện.}} arrange the chairs.” She reminds the volunteers, “{{Do not | Don't::Do not và Don’t tạo mệnh lệnh phủ định.}} (do) [not] block the entrance.”"
     },
     {
       "tier": "apply",

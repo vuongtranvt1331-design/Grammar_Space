@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "{{Although::Although nối với mệnh đề có chủ ngữ và động từ: the service is costly.}} (although / despite / because of) the service is costly, it may improve access."
+      "questionHTML": "{{Although::Although nối với mệnh đề có chủ ngữ và động từ: the service is costly.}} [because of / despite / although] the service is costly, it may improve access."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "{{Despite::Despite đứng trước cụm danh từ the high cost; although và because thường nối trực tiếp với mệnh đề.}} (despite / although / because) the high cost, the service may improve access."
+      "questionHTML": "{{Despite::Despite đứng trước cụm danh từ the high cost; although và because thường nối trực tiếp với mệnh đề.}} [because / although / despite] the high cost, the service may improve access."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "Some people prefer buses, {{whereas::Whereas nối hai mệnh đề thể hiện sự đối chiếu giữa hai lựa chọn.}} (whereas / because of / despite) others choose trains."
+      "questionHTML": "Some people prefer buses, {{whereas::Whereas nối hai mệnh đề thể hiện sự đối chiếu giữa hai lựa chọn.}} [despite / because of / whereas] others choose trains."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "Not only {{does::Not only đứng đầu vế nên đảo trợ động từ does trước chủ ngữ the scheme; save giữ nguyên mẫu.}} (does / is / has) the scheme save time, but it also reduces costs."
+      "questionHTML": "Not only {{does::Not only đứng đầu vế nên đảo trợ động từ does trước chủ ngữ the scheme; save giữ nguyên mẫu.}} (do) the scheme save time, but it also reduces costs."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "The policy can reduce delays {{because::Because nối với mệnh đề it provides more frequent services để nêu lý do.}} (because / despite / in spite of) it provides more frequent services."
+      "questionHTML": "The policy can reduce delays {{because::Because nối với mệnh đề it provides more frequent services để nêu lý do.}} [in spite of / despite / because] it provides more frequent services."
     },
     {
       "type": "mcq",

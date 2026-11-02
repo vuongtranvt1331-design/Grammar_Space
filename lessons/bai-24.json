@@ -42,7 +42,7 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Food {{is not allowed | isn't allowed::Is not hoặc isn’t + V3 allowed đều tạo bị động phủ định hiện tại đơn.}} (not / allow) in this laboratory."
+      "questionHTML": "Food {{is not allowed | isn't allowed::Is not hoặc isn’t + V3 allowed đều tạo bị động phủ định hiện tại đơn.}} [not] (allow) in this laboratory."
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The report {{is reviewed::Is + V3 reviewed tạo bị động hiện tại đơn với chủ ngữ số ít.}} (review; bị động hiện tại với chủ ngữ số ít) by the committee every year."
+      "questionHTML": "The report {{is reviewed::Is + V3 reviewed tạo bị động hiện tại đơn với chủ ngữ số ít.}} (review) by the committee every year."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The applications {{are inspected::Are + V3 inspected tạo bị động hiện tại đơn với chủ ngữ số nhiều.}} (inspect; bị động hiện tại với chủ ngữ số nhiều) by the panel every month."
+      "questionHTML": "The applications {{are inspected::Are + V3 inspected tạo bị động hiện tại đơn với chủ ngữ số nhiều.}} (inspect) by the panel every month."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The laboratory {{was completed::Was + V3 completed tạo bị động quá khứ đơn với chủ ngữ số ít.}} (complete; bị động quá khứ với chủ ngữ số ít) in 2018."
+      "questionHTML": "The laboratory {{was completed::Was + V3 completed tạo bị động quá khứ đơn với chủ ngữ số ít.}} (complete) in 2018."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The findings {{were published::Were + V3 published tạo bị động quá khứ đơn với chủ ngữ số nhiều.}} (publish; bị động quá khứ với chủ ngữ số nhiều) last week."
+      "questionHTML": "The findings {{were published::Were + V3 published tạo bị động quá khứ đơn với chủ ngữ số nhiều.}} (publish) last week."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The proposal {{will be reviewed::Will be + V3 reviewed tạo bị động tương lai đơn.}} (review; bị động tương lai) tomorrow."
+      "questionHTML": "The proposal {{will be reviewed::Will be + V3 reviewed tạo bị động tương lai đơn.}} (review) tomorrow."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The safety procedure {{is reviewed::Is + V3 reviewed tạo bị động hiện tại đơn với chủ ngữ số ít.}} (review; bị động hiện tại với chủ ngữ số ít) by an independent specialist each month."
+      "questionHTML": "The safety procedure {{is reviewed::Is + V3 reviewed tạo bị động hiện tại đơn với chủ ngữ số ít.}} (review) by an independent specialist each month."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The samples {{are inspected::Are + V3 inspected tạo bị động hiện tại đơn với chủ ngữ số nhiều.}} (inspect; bị động hiện tại với chủ ngữ số nhiều) by specialists before each report."
+      "questionHTML": "The samples {{are inspected::Are + V3 inspected tạo bị động hiện tại đơn với chủ ngữ số nhiều.}} (inspect) by specialists before each report."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The final report {{was completed::Was + V3 completed tạo bị động quá khứ đơn với chủ ngữ số ít.}} (complete; bị động quá khứ với chủ ngữ số ít) before the meeting yesterday."
+      "questionHTML": "The final report {{was completed::Was + V3 completed tạo bị động quá khứ đơn với chủ ngữ số ít.}} (complete) before the meeting yesterday."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The final results {{were published::Were + V3 published tạo bị động quá khứ đơn với chủ ngữ số nhiều.}} (publish; bị động quá khứ với chủ ngữ số nhiều) after the review yesterday."
+      "questionHTML": "The final results {{were published::Were + V3 published tạo bị động quá khứ đơn với chủ ngữ số nhiều.}} (publish) after the review yesterday."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The final report {{will be reviewed::Will be + V3 reviewed tạo bị động tương lai đơn.}} (review; bị động tương lai) next week."
+      "questionHTML": "The final report {{will be reviewed::Will be + V3 reviewed tạo bị động tương lai đơn.}} (review) next week."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The road {{is being repaired::Is being + V3 repaired diễn tả việc đang được thực hiện.}} (repair; bị động hiện tại tiếp diễn) right now."
+      "questionHTML": "The road {{is being repaired::Is being + V3 repaired diễn tả việc đang được thực hiện.}} (repair) right now."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The final results {{have been published::Have been + V3 published diễn tả kết quả bị động đã hoàn tất đến hiện tại.}} (publish; bị động hoàn thành hiện tại), so they are available online."
+      "questionHTML": "The final results {{have been published::Have been + V3 published diễn tả kết quả bị động đã hoàn tất đến hiện tại.}} (publish), so they are available online."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The samples {{were being examined::Were being + V3 examined diễn tả quá trình bị động đang diễn ra trong quá khứ.}} (examine; bị động quá khứ tiếp diễn) when the inspector arrived."
+      "questionHTML": "The samples {{were being examined::Were being + V3 examined diễn tả quá trình bị động đang diễn ra trong quá khứ.}} (examine) when the inspector arrived."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is reviewing its facilities. The safety policy {{is reviewed::Is reviewed là bị động hiện tại đơn với policy số ít.}} (review; bị động hiện tại) every year. The laboratory {{was completed::Was completed là bị động quá khứ đơn với laboratory số ít.}} (complete; bị động quá khứ) in 2022. A further proposal {{will be reviewed::Will be reviewed là bị động tương lai đơn.}} (review; bị động tương lai) next month."
+      "questionHTML": "A university is reviewing its facilities. The safety policy {{is reviewed::Is reviewed là bị động hiện tại đơn với policy số ít.}} (review) every year. The laboratory {{was completed::Was completed là bị động quá khứ đơn với laboratory số ít.}} (complete) in 2022. A further proposal {{will be reviewed::Will be reviewed là bị động tương lai đơn.}} (review) next month."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team has completed a study. The samples {{are inspected::Are inspected là bị động hiện tại đơn với samples số nhiều.}} (inspect; bị động hiện tại số nhiều) before every test. The final results {{were published::Were published là bị động quá khứ đơn với results số nhiều.}} (publish; bị động quá khứ số nhiều) last week. A revised report {{will be reviewed::Will be reviewed là bị động tương lai đơn.}} (review; bị động tương lai) tomorrow."
+      "questionHTML": "A research team has completed a study. The samples {{are inspected::Are inspected là bị động hiện tại đơn với samples số nhiều.}} (inspect) before every test. The final results {{were published::Were published là bị động quá khứ đơn với results số nhiều.}} (publish) last week. A revised report {{will be reviewed::Will be reviewed là bị động tương lai đơn.}} (review) tomorrow."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A museum is digitising its archive. The original documents {{are inspected::Are inspected là bị động hiện tại đơn với documents số nhiều.}} (inspect; bị động hiện tại số nhiều) before scanning. The first catalogue {{was completed::Was completed là bị động quá khứ đơn với catalogue số ít.}} (complete; bị động quá khứ số ít) last year. A new access policy {{will be reviewed::Will be reviewed là bị động tương lai đơn.}} (review; bị động tương lai) next week."
+      "questionHTML": "A museum is digitising its archive. The original documents {{are inspected::Are inspected là bị động hiện tại đơn với documents số nhiều.}} (inspect) before scanning. The first catalogue {{was completed::Was completed là bị động quá khứ đơn với catalogue số ít.}} (complete) last year. A new access policy {{will be reviewed::Will be reviewed là bị động tương lai đơn.}} (review) next week."
     },
     {
       "tier": "apply",

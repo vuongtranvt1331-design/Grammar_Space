@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researcher stopped {{reviewing::Stop + V-ing chỉ việc dừng chính hoạt động đang thực hiện.}} (dừng hẳn hoạt động review) the figures when the session ended."
+      "questionHTML": "The researcher stopped {{reviewing::Stop + V-ing chỉ việc dừng chính hoạt động đang thực hiện.}} (review) [ngừng việc] the figures when the session ended."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The analyst stopped {{to review::Stop to + nguyên mẫu chỉ việc dừng một hoạt động khác để làm việc mới.}} (dừng việc khác để thực hiện review) the report before continuing with another task."
+      "questionHTML": "The analyst stopped {{to review::Stop to + nguyên mẫu chỉ việc dừng một hoạt động khác để làm việc mới.}} (review) [dừng lại để] the report before continuing with another task."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researcher remembered {{to check::Remember to + nguyên mẫu nghĩa là nhớ thực hiện một việc cần làm.}} (nhớ thực hiện một việc cần làm) the data before submission."
+      "questionHTML": "The researcher remembered {{to check::Remember to + nguyên mẫu nghĩa là nhớ thực hiện một việc cần làm.}} (check) [nhớ làm] the data before submission."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researcher remembers {{checking::Remember + V-ing diễn tả ký ức về hành động đã xảy ra.}} (nhớ lại một hành động đã thực hiện) the data; she recalls doing it yesterday."
+      "questionHTML": "The researcher remembers {{checking::Remember + V-ing diễn tả ký ức về hành động đã xảy ra.}} (check) [nhớ đã làm] the data; she recalls doing it yesterday."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The author forgot {{to submit::Forget to + nguyên mẫu nghĩa là quên thực hiện việc cần làm.}} (quên thực hiện một việc) the form, so it was not sent."
+      "questionHTML": "The author forgot {{to submit::Forget to + nguyên mẫu nghĩa là quên thực hiện việc cần làm.}} (submit) [quên làm] the form, so it was not sent."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The committee stopped {{reviewing::Stop + V-ing chỉ việc dừng chính hoạt động đang thực hiện.}} (dừng hẳn hoạt động review) the draft after the review was complete."
+      "questionHTML": "The committee stopped {{reviewing::Stop + V-ing chỉ việc dừng chính hoạt động đang thực hiện.}} (review) [ngừng việc] the draft after the review was complete."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The manager stopped {{to review::Stop to + nguyên mẫu chỉ việc dừng một hoạt động khác để làm việc mới.}} (dừng việc khác để thực hiện review) the figures before resuming the meeting."
+      "questionHTML": "The manager stopped {{to review::Stop to + nguyên mẫu chỉ việc dừng một hoạt động khác để làm việc mới.}} (review) [dừng lại để] the figures before resuming the meeting."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The analyst remembered {{to check::Remember to + nguyên mẫu nghĩa là nhớ thực hiện một việc cần làm.}} (nhớ thực hiện một việc cần làm) the figures before sending the report."
+      "questionHTML": "The analyst remembered {{to check::Remember to + nguyên mẫu nghĩa là nhớ thực hiện một việc cần làm.}} (check) [nhớ làm] the figures before sending the report."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The analyst remembers {{checking::Remember + V-ing diễn tả ký ức về hành động đã xảy ra.}} (nhớ lại một hành động đã thực hiện) the figures because she did it yesterday."
+      "questionHTML": "The analyst remembers {{checking::Remember + V-ing diễn tả ký ức về hành động đã xảy ra.}} (check) [nhớ đã làm] the figures because she did it yesterday."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The assistant forgot {{to submit::Forget to + nguyên mẫu nghĩa là quên thực hiện việc cần làm.}} (quên thực hiện một việc) the application, so it remained in the folder."
+      "questionHTML": "The assistant forgot {{to submit::Forget to + nguyên mẫu nghĩa là quên thực hiện việc cần làm.}} (submit) [quên làm] the application, so it remained in the folder."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The curator stopped {{to observe::Stop to observe chỉ việc dừng hoạt động khác để quan sát.}} (observe; dừng việc khác để quan sát) the painting before continuing the tour."
+      "questionHTML": "The curator stopped {{to observe::Stop to observe chỉ việc dừng hoạt động khác để quan sát.}} (observe) [dừng lại để] the painting before continuing the tour."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researcher remembers {{reading::Remember + V-ing nói về ký ức của hành động đã xảy ra.}} (read; nhớ lại việc đã làm) the article last year."
+      "questionHTML": "The researcher remembers {{reading::Remember + V-ing nói về ký ức của hành động đã xảy ra.}} (read) [nhớ đã làm] the article last year."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The assistant forgot {{to check::Forget to + nguyên mẫu nghĩa là quên thực hiện việc cần làm.}} (check; quên thực hiện) the reference before publication."
+      "questionHTML": "The assistant forgot {{to check::Forget to + nguyên mẫu nghĩa là quên thực hiện việc cần làm.}} (check) [quên làm] the reference before publication."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A researcher is preparing a report. She remembered {{to check::Remember to + nguyên mẫu nghĩa là nhớ thực hiện việc cần làm.}} (check; nhớ thực hiện) the references before submission. She also remembers {{checking::Remember + V-ing chỉ ký ức về việc đã thực hiện.}} (check; nhớ lại việc đã làm) the original dataset last week. Later, she stopped {{to review::Stop to + nguyên mẫu chỉ việc dừng việc khác để xem lại.}} (review; dừng việc khác để thực hiện) the summary before continuing."
+      "questionHTML": "A researcher is preparing a report. She remembered {{to check::Remember to + nguyên mẫu nghĩa là nhớ thực hiện việc cần làm.}} (check) [nhớ làm] the references before submission. She also remembers {{checking::Remember + V-ing chỉ ký ức về việc đã thực hiện.}} (check) [nhớ đã làm] the original dataset last week. Later, she stopped {{to review::Stop to + nguyên mẫu chỉ việc dừng việc khác để xem lại.}} (review) [dừng lại để] the summary before continuing."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A committee has finished its review. The members stopped {{reviewing::Stop + V-ing nghĩa là dừng chính hoạt động đó.}} (review; dừng hoạt động) the draft when the meeting ended. The secretary remembered {{to check::Remember to + nguyên mẫu nghĩa là nhớ thực hiện.}} (check; nhớ thực hiện) the figures before sending the report. A colleague forgot {{to submit::Forget to + nguyên mẫu nghĩa là quên làm việc cần thiết.}} (submit; quên thực hiện) the form, so it remained in the folder."
+      "questionHTML": "A committee has finished its review. The members stopped {{reviewing::Stop + V-ing nghĩa là dừng chính hoạt động đó.}} (review) [ngừng việc] the draft when the meeting ended. The secretary remembered {{to check::Remember to + nguyên mẫu nghĩa là nhớ thực hiện.}} (check) [nhớ làm] the figures before sending the report. A colleague forgot {{to submit::Forget to + nguyên mẫu nghĩa là quên làm việc cần thiết.}} (submit) [quên làm] the form, so it remained in the folder."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A curator is leading a tour. She stopped {{to observe::Stop to + nguyên mẫu chỉ việc dừng hoạt động khác để quan sát.}} (observe; dừng việc khác để thực hiện) a painting. She remembers {{reading::Remember + V-ing nói về ký ức đã đọc.}} (read; nhớ lại việc đã làm) its history last year. She remembered {{to check::Remember to + nguyên mẫu nghĩa là nhớ thực hiện việc kiểm tra.}} (check; nhớ thực hiện) the catalogue before the visitors arrived."
+      "questionHTML": "A curator is leading a tour. She stopped {{to observe::Stop to + nguyên mẫu chỉ việc dừng hoạt động khác để quan sát.}} (observe) [dừng lại để] a painting. She remembers {{reading::Remember + V-ing nói về ký ức đã đọc.}} (read) [nhớ đã làm] its history last year. She remembered {{to check::Remember to + nguyên mẫu nghĩa là nhớ thực hiện việc kiểm tra.}} (check) [nhớ làm] the catalogue before the visitors arrived."
     },
     {
       "tier": "apply",

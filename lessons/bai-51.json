@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "In Part 2, candidates have {{one minute::Thí sinh có một phút chuẩn bị và có thể ghi chú trước khi bắt đầu nói.}} (one minute / ten minutes / no time) to prepare notes."
+      "questionHTML": "In Part 2, candidates have {{one minute::Thí sinh có một phút chuẩn bị và có thể ghi chú trước khi bắt đầu nói.}} [no time / ten minutes / one minute] to prepare notes."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A Part 2 long turn is typically {{one to two minutes::Phần nói cá nhân thường kéo dài một đến hai phút; giám khảo sẽ điều khiển thời gian.}} (one to two minutes / ten minutes / thirty seconds) of speaking."
+      "questionHTML": "A Part 2 long turn is typically {{one to two minutes::Phần nói cá nhân thường kéo dài một đến hai phút; giám khảo sẽ điều khiển thời gian.}} [thirty seconds / ten minutes / one to two minutes] of speaking."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "The question “{{Why::Why hỏi lý do, giúp mở rộng vì sao trải nghiệm quan trọng.}} (why / where / when) did you learn it?” can invite a reason."
+      "questionHTML": "The question “{{Why::Why hỏi lý do, giúp mở rộng vì sao trải nghiệm quan trọng.}} [when / where / why] did you learn it?” can invite a reason."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "The question “{{How::How hỏi cách hoặc quá trình thực hiện, chẳng hạn luyện tập vào cuối tuần.}} (how / who / where) did you practise?” can invite a method."
+      "questionHTML": "The question “{{How::How hỏi cách hoặc quá trình thực hiện, chẳng hạn luyện tập vào cuối tuần.}} [where / who / how] did you practise?” can invite a method."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "A personal {{feeling::Feeling giúp người nghe hiểu phản ứng cá nhân đối với câu chuyện.}} (feeling / chart axis / map scale) can explain how the experience affected you."
+      "questionHTML": "A personal {{feeling::Feeling giúp người nghe hiểu phản ứng cá nhân đối với câu chuyện.}} [map scale / chart axis / feeling] can explain how the experience affected you."
     },
     {
       "type": "mcq",

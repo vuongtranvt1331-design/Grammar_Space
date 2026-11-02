@@ -185,7 +185,7 @@
     }
 
     /* Borderless & Background-Free Typography Buttons */
-    button:not(.unscramble-chip):not([class*="annotation-"]):not(.color-swatch),
+    button:not(.unscramble-chip),
     .page-footer .page-button,
     .page-footer .previous-page,
     .page-footer .next-page,

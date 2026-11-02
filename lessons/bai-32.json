@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I will call you {{when | once | after | as soon as::Các liên từ này đều có thể chỉ thời điểm hoặc trình tự phù hợp với ngữ cảnh.}} (liên từ chỉ thời gian hoặc điều kiện) I arrive."
+      "questionHTML": "I will call you {{when | once | after | as soon as::Các liên từ này đều có thể chỉ thời điểm hoặc trình tự phù hợp với ngữ cảnh.}} I arrive."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{While | As::While và as đều có thể diễn tả các hoạt động xảy ra đồng thời.}} (liên từ chỉ thời gian hoặc điều kiện) she was studying, he was cooking."
+      "questionHTML": "{{While | As::While và as đều có thể diễn tả các hoạt động xảy ra đồng thời.}} she was studying, he was cooking."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Wash your hands {{before::Before giới thiệu việc diễn ra sau hành động chính: kiểm tra trước khi gửi.}} (liên từ chỉ thời gian hoặc điều kiện) you eat."
+      "questionHTML": "Wash your hands {{before::Before giới thiệu việc diễn ra sau hành động chính: kiểm tra trước khi gửi.}} you eat."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Wait here {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} (liên từ chỉ thời gian hoặc điều kiện) I return."
+      "questionHTML": "Wait here {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} I return."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{If::If giới thiệu điều kiện; mệnh đề chính nêu kết quả có thể xảy ra.}} (liên từ chỉ thời gian hoặc điều kiện) it rains, we will stay home."
+      "questionHTML": "{{If::If giới thiệu điều kiện; mệnh đề chính nêu kết quả có thể xảy ra.}} it rains, we will stay home."
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The team will publish the report {{when | once | after | as soon as::Các liên từ này đều có thể chỉ thời điểm hoặc trình tự phù hợp với ngữ cảnh.}} (liên từ chỉ thời điểm) the review is complete."
+      "questionHTML": "The team will publish the report {{when | once | after | as soon as::Các liên từ này đều có thể chỉ thời điểm hoặc trình tự phù hợp với ngữ cảnh.}} the review is complete."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The analysts checked the figures {{while | as::While và as đều có thể diễn tả các hoạt động xảy ra đồng thời.}} (liên từ chỉ hai hoạt động đồng thời) the director was presenting."
+      "questionHTML": "The analysts checked the figures {{while | as::While và as đều có thể diễn tả các hoạt động xảy ra đồng thời.}} the director was presenting."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The team will check the data {{before::Before giới thiệu mệnh đề nêu sự việc xảy ra sau hành động kiểm tra.}} (liên từ chỉ thời điểm trước) it sends the report."
+      "questionHTML": "The team will check the data {{before::Before giới thiệu mệnh đề nêu sự việc xảy ra sau hành động kiểm tra.}} it sends the report."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The team will wait {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} (liên từ chỉ mốc kết thúc) the panel returns."
+      "questionHTML": "The team will wait {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} the panel returns."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{If::If giới thiệu điều kiện; mệnh đề chính nêu kết quả tương lai.}} (liên từ chỉ điều kiện) the results are incomplete, the team will repeat the test."
+      "questionHTML": "{{If::If giới thiệu điều kiện; mệnh đề chính nêu kết quả tương lai.}} the results are incomplete, the team will repeat the test."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The university will announce the result {{when | once | after | as soon as::Các liên từ này đều có thể chỉ thời điểm hoặc trình tự phù hợp với ngữ cảnh.}} (liên từ chỉ thời điểm) the panel reaches a decision."
+      "questionHTML": "The university will announce the result {{when | once | after | as soon as::Các liên từ này đều có thể chỉ thời điểm hoặc trình tự phù hợp với ngữ cảnh.}} the panel reaches a decision."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The technicians worked {{while | as::While và as đều có thể diễn tả các hoạt động xảy ra đồng thời.}} (liên từ chỉ hai hoạt động đồng thời) the researchers were discussing the results."
+      "questionHTML": "The technicians worked {{while | as::While và as đều có thể diễn tả các hoạt động xảy ra đồng thời.}} the researchers were discussing the results."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The panel will read the evidence {{before::Before giới thiệu mệnh đề nêu sự việc xảy ra sau hành động kiểm tra.}} (liên từ chỉ thời điểm trước) it votes."
+      "questionHTML": "The panel will read the evidence {{before::Before giới thiệu mệnh đề nêu sự việc xảy ra sau hành động kiểm tra.}} it votes."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The archive will remain closed {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} (liên từ chỉ mốc kết thúc) the inspection ends."
+      "questionHTML": "The archive will remain closed {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} the inspection ends."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{If::If giới thiệu điều kiện; mệnh đề chính nêu kết quả tương lai.}} (liên từ chỉ điều kiện) the weather improves, the researchers will visit the site."
+      "questionHTML": "{{If::If giới thiệu điều kiện; mệnh đề chính nêu kết quả tương lai.}} the weather improves, the researchers will visit the site."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team will not publish the figures {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} (liên từ chỉ mốc kết thúc) they are verified."
+      "questionHTML": "The team will not publish the figures {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} they are verified."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{If::If giới thiệu điều kiện cho chuyến quay lại.}} (liên từ chỉ điều kiện) the weather improves, the field team will return."
+      "questionHTML": "{{If::If giới thiệu điều kiện cho chuyến quay lại.}} the weather improves, the field team will return."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The curator inspected the objects {{before::Before nói rằng việc kiểm tra diễn ra trước khi bảo tàng mở cửa.}} (liên từ chỉ trình tự trước) the museum opened."
+      "questionHTML": "The curator inspected the objects {{before::Before nói rằng việc kiểm tra diễn ra trước khi bảo tàng mở cửa.}} the museum opened."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team is preparing a report. It will check the figures {{before::Before chỉ trình tự: kiểm tra trước khi gửi.}} (liên từ chỉ trình tự trước) it submits the draft. The authors will wait {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} (liên từ chỉ mốc kết thúc) the review is complete. {{If::If giới thiệu điều kiện.}} (liên từ chỉ điều kiện) the panel approves it, the report will be published."
+      "questionHTML": "A research team is preparing a report. It will check the figures {{before::Before chỉ trình tự: kiểm tra trước khi gửi.}} it submits the draft. The authors will wait {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} the review is complete. {{If::If giới thiệu điều kiện.}} the panel approves it, the report will be published."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A museum is preparing an exhibition. The curator checked the labels {{while | as::While và as đều có thể diễn tả các hoạt động xảy ra đồng thời.}} (liên từ chỉ hoạt động đồng thời) the assistant arranged the display. The team will inspect the rooms {{before::Before chỉ việc kiểm tra trước khi cửa mở.}} (liên từ chỉ trình tự trước) the doors open. Visitors will enter {{when | once | after | as soon as::Các liên từ này đều có thể chỉ thời điểm hoặc trình tự phù hợp với ngữ cảnh.}} (liên từ chỉ thời điểm) the inspection is complete."
+      "questionHTML": "A museum is preparing an exhibition. The curator checked the labels {{while | as::While và as đều có thể diễn tả các hoạt động xảy ra đồng thời.}} the assistant arranged the display. The team will inspect the rooms {{before::Before chỉ việc kiểm tra trước khi cửa mở.}} the doors open. Visitors will enter {{when | once | after | as soon as::Các liên từ này đều có thể chỉ thời điểm hoặc trình tự phù hợp với ngữ cảnh.}} the inspection is complete."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is planning a field trip. {{If::If giới thiệu điều kiện cho hành động tương lai.}} (liên từ chỉ điều kiện) the weather improves, the team will travel tomorrow. Participants will wait {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} (liên từ chỉ mốc kết thúc) the organiser arrives. They will check their equipment {{before::Before chỉ việc kiểm tra trước chuyến đi.}} (liên từ chỉ trình tự trước) they leave."
+      "questionHTML": "A university is planning a field trip. {{If::If giới thiệu điều kiện cho hành động tương lai.}} the weather improves, the team will travel tomorrow. Participants will wait {{until | till::Until và till đều có thể chỉ mốc kết thúc của hành động hoặc trạng thái.}} the organiser arrives. They will check their equipment {{before::Before chỉ việc kiểm tra trước chuyến đi.}} they leave."
     },
     {
       "tier": "apply",

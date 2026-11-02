@@ -21,23 +21,23 @@
   "exercises": [
     {
       "type": "gap-fill",
-      "questionHTML": "{{Let::Let me think là cụm ngắn để xin thời gian suy nghĩ.}} (let / lets / letting) me think. I would probably choose the city centre."
+      "questionHTML": "{{Let::Let me think là cụm ngắn để xin thời gian suy nghĩ.}} [hãy] me think. I would probably choose the city centre."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "Off the top of my {{head::Off the top of my head nghĩa là dựa trên điều nhớ ra ngay, có thể chưa chính xác.}} (head / hand / foot), I think the trip took about an hour."
+      "questionHTML": "Off the top of my {{head::Off the top of my head nghĩa là dựa trên điều nhớ ra ngay, có thể chưa chính xác.}} [foot / hand / head], I think the trip took about an hour."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "{{Admittedly::Admittedly thừa nhận một điểm trước khi người nói nêu giới hạn.}} (admittedly / therefore / yesterday), the plan has advantages; however, it also has limits."
+      "questionHTML": "{{Admittedly::Admittedly thừa nhận một điểm trước khi người nói nêu giới hạn.}} [yesterday / therefore / admittedly], the plan has advantages; however, it also has limits."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "To put it another {{way::To put it another way dùng để diễn đạt lại ý trước bằng cách khác.}} (way / chart / hour), the service is easier to access."
+      "questionHTML": "To put it another {{way::To put it another way dùng để diễn đạt lại ý trước bằng cách khác.}} [hour / chart / way], the service is easier to access."
     },
     {
       "type": "gap-fill",
-      "questionHTML": "As a matter of {{fact::As a matter of fact có thể bổ sung hoặc điều chỉnh thông tin.}} (fact / time / place), I have already visited that museum."
+      "questionHTML": "As a matter of {{fact::As a matter of fact có thể bổ sung hoặc điều chỉnh thông tin.}} [place / time / fact], I have already visited that museum."
     },
     {
       "type": "mcq",

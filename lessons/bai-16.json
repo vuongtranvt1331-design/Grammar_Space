@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "By the time the inspection began, the laboratory {{had tested::Had tested diễn tả việc kiểm tra hoàn tất trước khi inspection began.}} (test; hoàn tất trước mốc quá khứ) the equipment."
+      "questionHTML": "By the time the inspection began, the laboratory {{had tested::Had tested diễn tả việc kiểm tra hoàn tất trước khi inspection began.}} (test) the equipment."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The report was rejected because the authors {{had not cited | hadn't cited::Had not hoặc hadn’t + cited chỉ việc không trích dẫn trước quyết định từ chối.}} (not/cite; trước sự kiện quá khứ) the source correctly."
+      "questionHTML": "The report was rejected because the authors {{had not cited | hadn't cited::Had not hoặc hadn’t + cited chỉ việc không trích dẫn trước quyết định từ chối.}} [not] (cite) the source correctly."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The visitors arrived after the exhibition {{had closed | closed::Sau after, cả had closed và closed đều có thể chỉ thứ tự trước sau rõ ràng.}} (close; việc xảy ra trước)."
+      "questionHTML": "The visitors arrived after the exhibition {{had closed | closed::Sau after, cả had closed và closed đều có thể chỉ thứ tự trước sau rõ ràng.}} [close]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researcher recognised the document because she {{had seen::Had seen cho biết đã nhìn thấy tài liệu trước lúc recognised trong quá khứ.}} (see; trải nghiệm trước mốc quá khứ) it before."
+      "questionHTML": "The researcher recognised the document because she {{had seen::Had seen cho biết đã nhìn thấy tài liệu trước lúc recognised trong quá khứ.}} (see) it before."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Before the meeting began, the committee {{had reviewed | reviewed::Before làm rõ thứ tự; had reviewed hoặc reviewed đều có thể diễn đạt việc đã kiểm tra trước đó.}} (review; hoàn tất trước cuộc họp) every application."
+      "questionHTML": "Before the meeting began, the committee {{had reviewed | reviewed::Before làm rõ thứ tự; had reviewed hoặc reviewed đều có thể diễn đạt việc đã kiểm tra trước đó.}} (review) every application."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "By the time the meeting began, the panel {{had reviewed::Had reviewed chỉ việc hoàn tất trước khi cuộc họp bắt đầu.}} (review; hoàn tất trước mốc quá khứ) every application."
+      "questionHTML": "By the time the meeting began, the panel {{had reviewed::Had reviewed chỉ việc hoàn tất trước khi cuộc họp bắt đầu.}} (review) every application."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The team could not enter because it {{had not obtained | hadn't obtained::Had not hoặc hadn’t + V3 đặt việc chưa có phép trước sự kiện không vào được.}} (not/obtain; thiếu trước thời điểm quá khứ) permission."
+      "questionHTML": "The team could not enter because it {{had not obtained | hadn't obtained::Had not hoặc hadn’t + V3 đặt việc chưa có phép trước sự kiện không vào được.}} [not] (obtain) permission."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The visitors arrived after the exhibition {{had closed | closed::After làm rõ thứ tự; had closed và closed đều có thể dùng.}} (close; việc xảy ra trước sau after)."
+      "questionHTML": "The visitors arrived after the exhibition {{had closed | closed::After làm rõ thứ tự; had closed và closed đều có thể dùng.}} [close]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The curator recognised the document because she {{had seen::Had seen đặt trải nghiệm trước lúc recognised trong quá khứ.}} (see; trải nghiệm trước mốc quá khứ) it before."
+      "questionHTML": "The curator recognised the document because she {{had seen::Had seen đặt trải nghiệm trước lúc recognised trong quá khứ.}} (see) it before."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Before the inspection began, the technicians {{had tested | tested::Before nêu rõ trình tự; had tested hoặc tested đều có thể diễn đạt.}} (test; hoàn tất trước cuộc kiểm tra) the system."
+      "questionHTML": "Before the inspection began, the technicians {{had tested | tested::Before nêu rõ trình tự; had tested hoặc tested đều có thể diễn đạt.}} (test) the system."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The survey had to be repeated because the original data {{had been::Had been đặt trạng thái dữ liệu ở thời điểm trước quyết định lặp lại khảo sát.}} (be; trạng thái trước quyết định) incomplete."
+      "questionHTML": "The survey had to be repeated because the original data {{had been::Had been đặt trạng thái dữ liệu ở thời điểm trước quyết định lặp lại khảo sát.}} (be) incomplete."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "By the end of 2021, the organisation {{had established::By the end of 2021 là mốc quá khứ; had established chỉ việc hoàn tất trước hoặc vào mốc đó.}} (establish; hoàn tất trước hạn quá khứ) two regional offices."
+      "questionHTML": "By the end of 2021, the organisation {{had established::By the end of 2021 là mốc quá khứ; had established chỉ việc hoàn tất trước hoặc vào mốc đó.}} (establish) two regional offices."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team could not enter because it {{had not obtained | hadn't obtained::Had not/hadn’t obtained diễn tả chưa có giấy phép trước lúc không vào được.}} (not/obtain; thiếu trước thời điểm quá khứ) the necessary permission."
+      "questionHTML": "The team could not enter because it {{had not obtained | hadn't obtained::Had not/hadn’t obtained diễn tả chưa có giấy phép trước lúc không vào được.}} [not] (obtain) the necessary permission."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The project started only after the funders {{had approved | approved::After đã làm rõ trình tự; had approved và approved đều có thể dùng.}} (approve; hành động trước sau after) the budget."
+      "questionHTML": "The project started only after the funders {{had approved | approved::After đã làm rõ trình tự; had approved và approved đều có thể dùng.}} (approve) the budget."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "An institution organised an exhibition in 2022. By opening day, the team {{had collected::Had collected diễn tả việc sưu tầm hoàn tất trước opening day trong quá khứ.}} (collect; trước mốc quá khứ) enough documents. The curator explained that a family {{had donated::Had donated đặt việc tặng trước lời giải thích trong quá khứ.}} (donate; trước lời giải thích) several rare letters. The exhibition was successful because the staff {{had prepared::Had prepared chỉ việc chuẩn bị trước thành công của triển lãm.}} (prepare; hoàn tất trước sự kiện quá khứ) the displays carefully."
+      "questionHTML": "An institution organised an exhibition in 2022. By opening day, the team {{had collected::Had collected diễn tả việc sưu tầm hoàn tất trước opening day trong quá khứ.}} (collect) enough documents. The curator explained that a family {{had donated::Had donated đặt việc tặng trước lời giải thích trong quá khứ.}} (donate) several rare letters. The exhibition was successful because the staff {{had prepared::Had prepared chỉ việc chuẩn bị trước thành công của triển lãm.}} (prepare) the displays carefully."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "By the time funding was confirmed, the researchers {{had prepared::Had prepared đặt việc chuẩn bị trước khi funding was confirmed.}} (prepare; hoàn tất trước mốc quá khứ) a detailed plan."
+      "questionHTML": "By the time funding was confirmed, the researchers {{had prepared::Had prepared đặt việc chuẩn bị trước khi funding was confirmed.}} (prepare) a detailed plan."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The project started after the funders {{had approved | approved::After cho thấy rõ thứ tự; had approved và approved đều có thể dùng.}} (approve; hành động trước sau after) the budget."
+      "questionHTML": "The project started after the funders {{had approved | approved::After cho thấy rõ thứ tự; had approved và approved đều có thể dùng.}} (approve) the budget."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The report was rejected because the authors {{had not cited | hadn't cited::Had not hoặc hadn’t cited đặt việc không trích dẫn trước quyết định rejected.}} (not/cite; thiếu trước quyết định quá khứ) the source correctly."
+      "questionHTML": "The report was rejected because the authors {{had not cited | hadn't cited::Had not hoặc hadn’t cited đặt việc không trích dẫn trước quyết định rejected.}} [not] (cite) the source correctly."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team repeated the survey because the first dataset {{had been::Had been đặt trạng thái incomplete trước quyết định repeated.}} (be; trạng thái trước quyết định) incomplete."
+      "questionHTML": "The team repeated the survey because the first dataset {{had been::Had been đặt trạng thái incomplete trước quyết định repeated.}} (be) incomplete."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "An institution organised an exhibition in 2022. By opening day, the team {{had collected::Had collected đặt việc sưu tầm trước opening day trong quá khứ.}} (collect; trước mốc quá khứ) enough documents. The curator explained that a family {{had donated::Had donated đặt việc tặng trước lời giải thích trong quá khứ.}} (donate; trước lời giải thích) several letters. The exhibition succeeded because staff {{had prepared::Had prepared chỉ việc chuẩn bị trước sự kiện succeeded.}} (prepare; hoàn tất trước sự kiện) the displays carefully."
+      "questionHTML": "An institution organised an exhibition in 2022. By opening day, the team {{had collected::Had collected đặt việc sưu tầm trước opening day trong quá khứ.}} (collect) enough documents. The curator explained that a family {{had donated::Had donated đặt việc tặng trước lời giải thích trong quá khứ.}} (donate) several letters. The exhibition succeeded because staff {{had prepared::Had prepared chỉ việc chuẩn bị trước sự kiện succeeded.}} (prepare) the displays carefully."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research project began in 2021. By its start date, the university {{had secured::Had secured diễn tả việc đảm bảo nguồn lực trước mốc quá khứ.}} (secure; trước mốc quá khứ) funding. The researchers {{had designed::Had designed đặt việc thiết kế trước khi thử nghiệm bắt đầu.}} (design; trước sự kiện quá khứ) the survey before testing began. The team then {{collected::Collected kể sự kiện đã hoàn tất sau đó bằng quá khứ đơn.}} (collect; sự kiện hoàn tất) the first responses."
+      "questionHTML": "A research project began in 2021. By its start date, the university {{had secured::Had secured diễn tả việc đảm bảo nguồn lực trước mốc quá khứ.}} (secure) funding. The researchers {{had designed::Had designed đặt việc thiết kế trước khi thử nghiệm bắt đầu.}} (design) the survey before testing began. The team then {{collected::Collected kể sự kiện đã hoàn tất sau đó bằng quá khứ đơn.}} (collect) the first responses."
     },
     {
       "tier": "apply",

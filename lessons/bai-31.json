@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "We stayed home {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} (liên từ phù hợp với quan hệ giữa hai ý) it was raining."
+      "questionHTML": "We stayed home {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} it was raining."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "She was tired, {{but::But nối hai mệnh đề có ý đối lập: mệt hoặc khó nhưng vẫn tiếp tục.}} (liên từ phù hợp với quan hệ giữa hai ý) she finished the task."
+      "questionHTML": "She was tired, {{but::But nối hai mệnh đề có ý đối lập: mệt hoặc khó nhưng vẫn tiếp tục.}} she finished the task."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} (liên từ phù hợp với quan hệ giữa hai ý) it was raining, they went for a walk."
+      "questionHTML": "{{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} it was raining, they went for a walk."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "It was late, {{so::So nối nguyên nhân với kết quả: vì đã muộn hoặc cửa hàng đóng nên chúng ta về nhà.}} (liên từ phù hợp với quan hệ giữa hai ý) we went home."
+      "questionHTML": "It was late, {{so::So nối nguyên nhân với kết quả: vì đã muộn hoặc cửa hàng đóng nên chúng ta về nhà.}} we went home."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Lan opened her notebook {{and::And nối hai hành động bổ sung do cùng một chủ ngữ thực hiện.}} (liên từ phù hợp với quan hệ giữa hai ý) started writing."
+      "questionHTML": "Lan opened her notebook {{and::And nối hai hành động bổ sung do cùng một chủ ngữ thực hiện.}} started writing."
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The report was revised {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} (liên từ chỉ nguyên nhân trước mệnh đề) the figures contained errors."
+      "questionHTML": "The report was revised {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} the figures contained errors."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} (liên từ nhượng bộ trước mệnh đề) the task was difficult, the team completed it."
+      "questionHTML": "{{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} the task was difficult, the team completed it."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The task was difficult, {{but::But nối hai mệnh đề có ý tương phản.}} (liên từ nối hai ý tương phản) the team continued."
+      "questionHTML": "The task was difficult, {{but::But nối hai mệnh đề có ý tương phản.}} the team continued."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The data were incomplete, {{so::So nối nguyên nhân với kết quả trong mệnh đề tiếp theo.}} (liên từ chỉ kết quả) the team repeated the survey."
+      "questionHTML": "The data were incomplete, {{so::So nối nguyên nhân với kết quả trong mệnh đề tiếp theo.}} the team repeated the survey."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers collected samples {{and::And nối các hành động bổ sung cùng chủ ngữ.}} (liên từ nối hành động bổ sung) analysed them."
+      "questionHTML": "The researchers collected samples {{and::And nối các hành động bổ sung cùng chủ ngữ.}} analysed them."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team repeated the study {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} (liên từ chỉ nguyên nhân trước mệnh đề) the first sample was too small."
+      "questionHTML": "The team repeated the study {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} the first sample was too small."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} (liên từ nhượng bộ trước mệnh đề) the evidence was limited, the panel reached a tentative conclusion."
+      "questionHTML": "{{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} the evidence was limited, the panel reached a tentative conclusion."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The sample was small, {{but::But nối hai mệnh đề có ý tương phản.}} (liên từ nối hai ý tương phản) the results were useful."
+      "questionHTML": "The sample was small, {{but::But nối hai mệnh đề có ý tương phản.}} the results were useful."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The road was closed, {{so::So nối nguyên nhân với kết quả trong mệnh đề tiếp theo.}} (liên từ chỉ kết quả) the team changed its route."
+      "questionHTML": "The road was closed, {{so::So nối nguyên nhân với kết quả trong mệnh đề tiếp theo.}} the team changed its route."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team reviewed the evidence {{and::And nối các hành động bổ sung cùng chủ ngữ.}} (liên từ nối hành động bổ sung) published its findings."
+      "questionHTML": "The team reviewed the evidence {{and::And nối các hành động bổ sung cùng chủ ngữ.}} published its findings."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "{{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} (liên từ nhượng bộ trước mệnh đề) the survey was limited, its findings were useful."
+      "questionHTML": "{{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} the survey was limited, its findings were useful."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The panel delayed the decision {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} (liên từ chỉ nguyên nhân trước mệnh đề) it needed more evidence."
+      "questionHTML": "The panel delayed the decision {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} it needed more evidence."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The findings were promising, {{but::But nối kết quả tích cực với sự cần thiết phải kiểm tra thêm.}} (liên từ nối hai ý tương phản) further testing was necessary."
+      "questionHTML": "The findings were promising, {{but::But nối kết quả tích cực với sự cần thiết phải kiểm tra thêm.}} further testing was necessary."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team evaluated a proposal. It repeated the survey {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} (liên từ chỉ nguyên nhân) the original sample was too small. {{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} (liên từ nhượng bộ) the second study took longer, its findings were useful. The team checked the figures {{and::And nối hai hành động bổ sung.}} (liên từ nối hành động bổ sung) published a summary."
+      "questionHTML": "A research team evaluated a proposal. It repeated the survey {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} the original sample was too small. {{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} the second study took longer, its findings were useful. The team checked the figures {{and::And nối hai hành động bổ sung.}} published a summary."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A museum planned an exhibition. The building required repairs, {{so::So nối nguyên nhân với kết quả.}} (liên từ chỉ kết quả) the opening was postponed. {{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} (liên từ nhượng bộ) the delay was inconvenient, the staff continued preparing. They catalogued the objects {{and::And nối hai hành động bổ sung.}} (liên từ nối hành động bổ sung) updated the guide."
+      "questionHTML": "A museum planned an exhibition. The building required repairs, {{so::So nối nguyên nhân với kết quả.}} the opening was postponed. {{Although | Though::Although và though đều có thể giới thiệu mệnh đề nhượng bộ.}} the delay was inconvenient, the staff continued preparing. They catalogued the objects {{and::And nối hai hành động bổ sung.}} updated the guide."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A committee reviewed a research application. The topic was promising, {{but::But nối hai ý tương phản.}} (liên từ tương phản) the method was incomplete. The panel requested revisions {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} (liên từ chỉ nguyên nhân) several details were missing. The authors revised the plan {{and::And nối hai hành động bổ sung.}} (liên từ nối hành động bổ sung) submitted it again."
+      "questionHTML": "A committee reviewed a research application. The topic was promising, {{but::But nối hai ý tương phản.}} the method was incomplete. The panel requested revisions {{because | since | as::Because, since và as đều có thể giới thiệu mệnh đề nêu nguyên nhân.}} several details were missing. The authors revised the plan {{and::And nối hai hành động bổ sung.}} submitted it again."
     },
     {
       "tier": "apply",

@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The ethics committee {{usually reviews::Usually thường đứng trước động từ thường reviews; committee được xem là một đơn vị số ít.}} (sắp xếp usually / reviews) proposals before the study begins."
+      "questionHTML": "The ethics committee {{usually reviews::Usually thường đứng trước động từ thường reviews; committee được xem là một đơn vị số ít.}} (review) [usually] proposals before the study begins."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The laboratory {{is often::Trạng từ tần suất often thường đứng sau động từ be: is often.}} (sắp xếp often / is) open to visiting scholars."
+      "questionHTML": "The laboratory {{is often::Trạng từ tần suất often thường đứng sau động từ be: is often.}} (be) [often] open to visiting scholars."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The research team {{has never published::Never thường đứng giữa trợ động từ has và phân từ published.}} (sắp xếp never / published / has) such a detailed report before."
+      "questionHTML": "The research team {{has never published::Never thường đứng giữa trợ động từ has và phân từ published.}} (publish) [never] such a detailed report before."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The reviewer explained {{the findings clearly::Tân ngữ the findings đứng ngay sau động từ explained; trạng từ clearly có thể theo sau tân ngữ.}} (sắp xếp clearly / the findings) to the audience."
+      "questionHTML": "The reviewer explained {{the findings clearly::Tân ngữ the findings đứng ngay sau động từ explained; trạng từ clearly có thể theo sau tân ngữ.}} [clearly / the findings] to the audience."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The panel found {{the proposal convincing | the proposal to be convincing::Sau found, cả tân ngữ + tính từ và tân ngữ + to be + tính từ đều mô tả proposal.}} (sắp xếp tân ngữ và bổ ngữ) after the presentation."
+      "questionHTML": "The panel found {{the proposal convincing | the proposal to be convincing::Sau found, cả tân ngữ + tính từ và tân ngữ + to be + tính từ đều mô tả proposal.}} [convincing / the proposal] after the presentation."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The committee {{usually reviews::Usually thường đứng trước động từ thường reviews.}} (sắp xếp trạng từ tần suất và động từ reviews) the final report before publication."
+      "questionHTML": "The committee {{usually reviews::Usually thường đứng trước động từ thường reviews.}} (review) [usually] the final report before publication."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The laboratory {{is often::Often thường đứng sau động từ be: is often.}} (sắp xếp be và trạng từ tần suất) open to visitors on Fridays."
+      "questionHTML": "The laboratory {{is often::Often thường đứng sau động từ be: is often.}} (be) [often] open to visitors on Fridays."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The director {{has never seen::Never thường đứng giữa trợ động từ has và phân từ seen.}} (sắp xếp trợ động từ, trạng từ và seen) such a detailed proposal before."
+      "questionHTML": "The director {{has never seen::Never thường đứng giữa trợ động từ has và phân từ seen.}} (see) [never] such a detailed proposal before."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The lecturer explained {{the findings clearly::Tân ngữ the findings đứng ngay sau explained; clearly có thể theo sau tân ngữ.}} (đặt tân ngữ trước trạng từ chỉ cách thức) to the audience."
+      "questionHTML": "The lecturer explained {{the findings clearly::Tân ngữ the findings đứng ngay sau explained; clearly có thể theo sau tân ngữ.}} [clearly / the findings] to the audience."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The panel found {{the evidence convincing | the evidence to be convincing::Cả tân ngữ + tính từ và tân ngữ + to be + tính từ đều có thể dùng sau found để mô tả evidence.}} (sắp xếp tân ngữ và bổ ngữ) after the independent assessment."
+      "questionHTML": "The panel found {{the evidence convincing | the evidence to be convincing::Cả tân ngữ + tính từ và tân ngữ + to be + tính từ đều có thể dùng sau found để mô tả evidence.}} [convincing / the evidence] after the independent assessment."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The campaign team {{rarely releases::Rarely thường đứng trước động từ thường releases; team được xem là một đơn vị số ít.}} (sắp xếp releases / rarely) incomplete figures."
+      "questionHTML": "The campaign team {{rarely releases::Rarely thường đứng trước động từ thường releases; team được xem là một đơn vị số ít.}} (release) [rarely] incomplete figures."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The study group {{has already submitted::Already có thể đứng giữa trợ động từ has và phân từ submitted trong hiện tại hoàn thành.}} (sắp xếp submitted / already / has) its ethics application."
+      "questionHTML": "The study group {{has already submitted::Already có thể đứng giữa trợ động từ has và phân từ submitted trong hiện tại hoàn thành.}} (submit) [already] its ethics application."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The lecturer presented {{the results clearly::The results là tân ngữ trực tiếp theo sau presented; clearly có thể đứng sau cụm tân ngữ.}} (sắp xếp clearly / the results) during the conference."
+      "questionHTML": "The lecturer presented {{the results clearly::The results là tân ngữ trực tiếp theo sau presented; clearly có thể đứng sau cụm tân ngữ.}} [clearly / the results] during the conference."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The board considers {{the proposal essential | the proposal to be essential::Consider có thể đi với tân ngữ + tính từ hoặc tân ngữ + to be + tính từ để mô tả proposal.}} (sắp xếp tân ngữ và bổ ngữ) for the next phase."
+      "questionHTML": "The board considers {{the proposal essential | the proposal to be essential::Consider có thể đi với tân ngữ + tính từ hoặc tân ngữ + to be + tính từ để mô tả proposal.}} [essential / the proposal] for the next phase."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "An environmental organisation conducts annual surveys. Its staff {{usually collect::Usually thường đứng trước động từ thường collect; staff ở đây chỉ nhiều nhân viên.}} (sắp xếp collect / usually) data from coastal communities. The latest report {{was carefully prepared::Carefully có thể đứng giữa trợ động từ was và phân từ prepared trong câu bị động.}} (sắp xếp prepared / carefully / was) by a small team. The director explained {{the main findings clearly::Tân ngữ the main findings theo sau explained; clearly có thể đứng sau tân ngữ.}} (sắp xếp clearly / the main findings) at the meeting, and the board considered {{the recommendations useful::Consider + tân ngữ + bổ ngữ: useful mô tả the recommendations.}} (sắp xếp useful / the recommendations)."
+      "questionHTML": "An environmental organisation conducts annual surveys. Its staff {{usually collect::Usually thường đứng trước động từ thường collect; staff ở đây chỉ nhiều nhân viên.}} (collect) [usually] data from coastal communities. The latest report {{was carefully prepared::Carefully có thể đứng giữa trợ động từ was và phân từ prepared trong câu bị động.}} (prepare) [carefully] by a small team. The director explained {{the main findings clearly::Tân ngữ the main findings theo sau explained; clearly có thể đứng sau tân ngữ.}} [clearly / the main findings] at the meeting, and the board considered {{the recommendations useful::Consider + tân ngữ + bổ ngữ: useful mô tả the recommendations.}} [useful / the recommendations]."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The institute {{rarely releases::Rarely thường đứng trước động từ thường releases.}} (đặt trạng từ tần suất trước động từ releases) incomplete data."
+      "questionHTML": "The institute {{rarely releases::Rarely thường đứng trước động từ thường releases.}} (release) [rarely] incomplete data."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The study group {{has already submitted::Already có thể đứng giữa has và submitted.}} (đặt already giữa trợ động từ và phân từ) its ethics application."
+      "questionHTML": "The study group {{has already submitted::Already có thể đứng giữa has và submitted.}} (submit) [already] its ethics application."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The consultant presented {{the results clearly::The results là tân ngữ theo ngay sau presented; clearly có thể đứng sau tân ngữ.}} (đặt tân ngữ trước trạng từ clearly) at the meeting."
+      "questionHTML": "The consultant presented {{the results clearly::The results là tân ngữ theo ngay sau presented; clearly có thể đứng sau tân ngữ.}} [clearly / the results] at the meeting."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The board considers {{independent oversight essential | independent oversight to be essential::Consider có thể đi với tân ngữ + tính từ hoặc tân ngữ + to be + tính từ để mô tả oversight.}} (sắp xếp tân ngữ và bổ ngữ) for the project."
+      "questionHTML": "The board considers {{independent oversight essential | independent oversight to be essential::Consider có thể đi với tân ngữ + tính từ hoặc tân ngữ + to be + tính từ để mô tả oversight.}} [essential / independent oversight] for the project."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research organisation surveys coastal communities. Its staff {{usually collect::Usually thường đứng trước động từ thường collect.}} (đặt trạng từ tần suất trước động từ) data every year. The latest report {{was carefully prepared::Carefully có thể đứng giữa trợ động từ was và phân từ prepared trong câu bị động.}} (đặt trạng từ giữa trợ động từ và phân từ) by a small team. The director explained {{the findings clearly::The findings là tân ngữ đứng sau explained; clearly theo sau tân ngữ.}} (tân ngữ trước trạng từ) at the meeting."
+      "questionHTML": "A research organisation surveys coastal communities. Its staff {{usually collect::Usually thường đứng trước động từ thường collect.}} (collect) [usually] data every year. The latest report {{was carefully prepared::Carefully có thể đứng giữa trợ động từ was và phân từ prepared trong câu bị động.}} (prepare) [carefully] by a small team. The director explained {{the findings clearly::The findings là tân ngữ đứng sau explained; clearly theo sau tân ngữ.}} [clearly / the findings] at the meeting."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "An ethics panel is evaluating a project. The members {{have already reviewed::Already có thể đứng giữa have và reviewed.}} (đặt already giữa trợ động từ và phân từ) the initial proposal. The panel {{is often::Often thường đứng sau be: is often.}} (đặt trạng từ sau be) cautious about privacy risks. The director considers {{the safeguards essential | the safeguards to be essential::Sau considers có thể dùng tân ngữ + tính từ hoặc tân ngữ + to be + tính từ.}} (tân ngữ trước bổ ngữ) for approval."
+      "questionHTML": "An ethics panel is evaluating a project. The members {{have already reviewed::Already có thể đứng giữa have và reviewed.}} (review) [already] the initial proposal. The panel {{is often::Often thường đứng sau be: is often.}} (be) [often] cautious about privacy risks. The director considers {{the safeguards essential | the safeguards to be essential::Sau considers có thể dùng tân ngữ + tính từ hoặc tân ngữ + to be + tính từ.}} [essential / the safeguards] for approval."
     },
     {
       "tier": "apply",

@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The report focuses {{on::Focus on là cụm cố định diễn tả tập trung vào một vấn đề.}} (giới từ sau động từ focus) the effects of urban development."
+      "questionHTML": "The report focuses {{on::Focus on là cụm cố định diễn tả tập trung vào một vấn đề.}} the effects of urban development."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers are responsible {{for::Responsible for + danh từ hoặc V-ing chỉ trách nhiệm đối với việc gì.}} (giới từ sau responsible) protecting participants’ privacy."
+      "questionHTML": "The researchers are responsible {{for::Responsible for + danh từ hoặc V-ing chỉ trách nhiệm đối với việc gì.}} protecting participants’ privacy."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The final outcome depends {{on::Depend on chỉ sự phụ thuộc vào điều gì.}} (giới từ sau depend) the quality of the evidence."
+      "questionHTML": "The final outcome depends {{on::Depend on chỉ sự phụ thuộc vào điều gì.}} the quality of the evidence."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The exhibition is dedicated {{to::Dedicated to + danh từ nêu chủ đề hoặc đối tượng được dành cho.}} (giới từ sau dedicated) the history of local communities."
+      "questionHTML": "The exhibition is dedicated {{to::Dedicated to + danh từ nêu chủ đề hoặc đối tượng được dành cho.}} the history of local communities."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The committee is interested {{in::Interested in + V-ing nói về sự quan tâm đối với một hoạt động.}} (giới từ sau interested) reducing energy consumption."
+      "questionHTML": "The committee is interested {{in::Interested in + V-ing nói về sự quan tâm đối với một hoạt động.}} reducing energy consumption."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The final decision depends {{on::Depend on nghĩa là phụ thuộc vào.}} (giới từ sau depend) the available evidence."
+      "questionHTML": "The final decision depends {{on::Depend on nghĩa là phụ thuộc vào.}} the available evidence."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The research team is responsible {{for::Responsible for chỉ trách nhiệm đối với một việc.}} (giới từ sau responsible) protecting personal data."
+      "questionHTML": "The research team is responsible {{for::Responsible for chỉ trách nhiệm đối với một việc.}} protecting personal data."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The programme focuses {{on::Focus on nghĩa là tập trung vào.}} (giới từ sau focus) renewable energy."
+      "questionHTML": "The programme focuses {{on::Focus on nghĩa là tập trung vào.}} renewable energy."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The findings are consistent {{with::Consistent with nghĩa là phù hợp với.}} (giới từ sau consistent) earlier studies."
+      "questionHTML": "The findings are consistent {{with::Consistent with nghĩa là phù hợp với.}} earlier studies."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The new process may contribute {{to::Contribute to + danh từ diễn tả đóng góp vào kết quả.}} (giới từ sau contribute) a reduction in waste."
+      "questionHTML": "The new process may contribute {{to::Contribute to + danh từ diễn tả đóng góp vào kết quả.}} a reduction in waste."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The findings are consistent {{with::Consistent with nghĩa là phù hợp với dữ liệu hoặc quan sát khác.}} (giới từ sau consistent) previous observations."
+      "questionHTML": "The findings are consistent {{with::Consistent with nghĩa là phù hợp với dữ liệu hoặc quan sát khác.}} previous observations."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The new policy may contribute {{to::Contribute to + danh từ chỉ đóng góp vào một kết quả.}} (giới từ sau contribute) a reduction in waste."
+      "questionHTML": "The new policy may contribute {{to::Contribute to + danh từ chỉ đóng góp vào một kết quả.}} a reduction in waste."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The application must comply {{with::Comply with là tuân thủ một quy định hoặc chính sách.}} (giới từ sau comply) the university’s privacy policy."
+      "questionHTML": "The application must comply {{with::Comply with là tuân thủ một quy định hoặc chính sách.}} the university’s privacy policy."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The region is known {{for::Known for chỉ đặc điểm khiến một địa điểm nổi tiếng.}} (giới từ nêu đặc điểm nổi tiếng) its extensive wetlands."
+      "questionHTML": "The region is known {{for::Known for chỉ đặc điểm khiến một địa điểm nổi tiếng.}} its extensive wetlands."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is examining energy use. Its new strategy focuses {{on::Focus on nghĩa là tập trung vào một vấn đề.}} (giới từ sau focus) reducing consumption across campus. The project depends {{on::Depend on chỉ sự phụ thuộc vào nguồn hỗ trợ.}} (giới từ sau depend) support from staff and students. The final recommendations must comply {{with::Comply with nghĩa là tuân thủ quy định.}} (giới từ sau comply) existing safety regulations."
+      "questionHTML": "A university is examining energy use. Its new strategy focuses {{on::Focus on nghĩa là tập trung vào một vấn đề.}} reducing consumption across campus. The project depends {{on::Depend on chỉ sự phụ thuộc vào nguồn hỗ trợ.}} support from staff and students. The final recommendations must comply {{with::Comply with nghĩa là tuân thủ quy định.}} existing safety regulations."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The investigators were aware {{of::Aware of nghĩa là nhận thức được.}} (giới từ sau aware) the limitations of their sample."
+      "questionHTML": "The investigators were aware {{of::Aware of nghĩa là nhận thức được.}} the limitations of their sample."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The approach is relevant {{to::Relevant to nghĩa là liên quan hoặc phù hợp với.}} (giới từ sau relevant) the needs of local communities."
+      "questionHTML": "The approach is relevant {{to::Relevant to nghĩa là liên quan hoặc phù hợp với.}} the needs of local communities."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The revised strategy differs {{from::Differ from là khác với.}} (giới từ sau differ) the original in several respects."
+      "questionHTML": "The revised strategy differs {{from::Differ from là khác với.}} the original in several respects."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The organisation benefits {{from::Benefit from nghĩa là hưởng lợi từ.}} (giới từ sau benefit) close cooperation with local schools."
+      "questionHTML": "The organisation benefits {{from::Benefit from nghĩa là hưởng lợi từ.}} close cooperation with local schools."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is revising its privacy policy. The review focuses {{on::Focus on nghĩa là tập trung vào.}} (giới từ sau focus) data storage. The team is responsible {{for::Responsible for chỉ trách nhiệm đối với việc gì.}} (giới từ sau responsible) protecting participants, and its recommendations must comply {{with::Comply with nghĩa là tuân thủ.}} (giới từ sau comply) existing regulations. The final report will be public."
+      "questionHTML": "A university is revising its privacy policy. The review focuses {{on::Focus on nghĩa là tập trung vào.}} data storage. The team is responsible {{for::Responsible for chỉ trách nhiệm đối với việc gì.}} protecting participants, and its recommendations must comply {{with::Comply with nghĩa là tuân thủ.}} existing regulations. The final report will be public."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A city is developing a transport strategy. Its success depends {{on::Depend on chỉ sự phụ thuộc vào.}} (giới từ sau depend) public support. The proposal is based {{on::Based on nêu cơ sở của đề xuất.}} (giới từ sau based) recent survey data. The authors are aware {{of::Aware of nghĩa là nhận thức được.}} (giới từ sau aware) the limitations of their sample."
+      "questionHTML": "A city is developing a transport strategy. Its success depends {{on::Depend on chỉ sự phụ thuộc vào.}} public support. The proposal is based {{on::Based on nêu cơ sở của đề xuất.}} recent survey data. The authors are aware {{of::Aware of nghĩa là nhận thức được.}} the limitations of their sample."
     },
     {
       "tier": "apply",

@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The students were {{interested::Interested in diễn tả người có sự quan tâm.}} (tính từ mô tả cảm xúc quan tâm của người) in the lecture."
+      "questionHTML": "The students were {{interested::Interested in diễn tả người có sự quan tâm.}} (interest) in the lecture."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The research report was {{interesting::Interesting mô tả sự vật hoặc nội dung gây hứng thú.}} (tính từ mô tả thứ gây hứng thú)."
+      "questionHTML": "The research report was {{interesting::Interesting mô tả sự vật hoặc nội dung gây hứng thú.}} (interest)."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The students were {{confused::Confused mô tả cảm giác bối rối của người.}} (tính từ mô tả cảm xúc của người) by the instructions."
+      "questionHTML": "The students were {{confused::Confused mô tả cảm giác bối rối của người.}} (confuse) by the instructions."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The instructions were {{confusing::Confusing mô tả thứ gây cảm giác bối rối.}} (tính từ mô tả thứ gây bối rối)."
+      "questionHTML": "The instructions were {{confusing::Confusing mô tả thứ gây cảm giác bối rối.}} (confuse)."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The students were {{surprised::Surprised mô tả cảm giác ngạc nhiên của người.}} (tính từ mô tả cảm xúc ngạc nhiên) by the unexpected result."
+      "questionHTML": "The students were {{surprised::Surprised mô tả cảm giác ngạc nhiên của người.}} (surprise) by the unexpected result."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The reviewers were {{interested::Interested in diễn tả người có sự quan tâm.}} (tính từ mô tả cảm xúc quan tâm của người) in the new findings."
+      "questionHTML": "The reviewers were {{interested::Interested in diễn tả người có sự quan tâm.}} (interest) in the new findings."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The museum exhibition was {{interesting::Interesting mô tả sự vật hoặc nội dung gây hứng thú.}} (tính từ mô tả thứ gây hứng thú)."
+      "questionHTML": "The museum exhibition was {{interesting::Interesting mô tả sự vật hoặc nội dung gây hứng thú.}} (interest)."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The readers were {{confused::Confused mô tả cảm giác bối rối của người.}} (tính từ mô tả cảm xúc của người) by the unclear explanation."
+      "questionHTML": "The readers were {{confused::Confused mô tả cảm giác bối rối của người.}} (confuse) by the unclear explanation."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The explanation was {{confusing::Confusing mô tả thứ gây cảm giác bối rối.}} (tính từ mô tả thứ gây bối rối)."
+      "questionHTML": "The explanation was {{confusing::Confusing mô tả thứ gây cảm giác bối rối.}} (confuse)."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researchers were {{surprised::Surprised mô tả cảm giác ngạc nhiên của người.}} (tính từ mô tả cảm xúc ngạc nhiên) by the sudden change."
+      "questionHTML": "The researchers were {{surprised::Surprised mô tả cảm giác ngạc nhiên của người.}} (surprise) by the sudden change."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The unexpected findings were {{surprising::Surprising mô tả findings gây ngạc nhiên.}} (surprise; tính từ chỉ nguyên nhân gây ngạc nhiên)."
+      "questionHTML": "The unexpected findings were {{surprising::Surprising mô tả findings gây ngạc nhiên.}} (surprise)."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "After the long field trip, the volunteers felt {{exhausted::Exhausted mô tả cảm giác kiệt sức của volunteers.}} (exhaust; tính từ chỉ cảm giác của người)."
+      "questionHTML": "After the long field trip, the volunteers felt {{exhausted::Exhausted mô tả cảm giác kiệt sức của volunteers.}} (exhaust)."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The fieldwork was physically {{exhausting::Exhausting mô tả hoạt động gây kiệt sức.}} (exhaust; tính từ mô tả hoạt động gây mệt)."
+      "questionHTML": "The fieldwork was physically {{exhausting::Exhausting mô tả hoạt động gây kiệt sức.}} (exhaust)."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university held a public lecture. The topic was {{interesting::Interesting mô tả nội dung gây hứng thú.}} (interest; mô tả nội dung gây hứng thú). The students were {{interested::Interested mô tả cảm xúc quan tâm của người.}} (interest; mô tả cảm xúc) in the findings. They were {{surprised::Surprised mô tả cảm xúc ngạc nhiên của người.}} (surprise; mô tả cảm xúc) by one unexpected result."
+      "questionHTML": "A university held a public lecture. The topic was {{interesting::Interesting mô tả nội dung gây hứng thú.}} (interest). The students were {{interested::Interested mô tả cảm xúc quan tâm của người.}} (interest) in the findings. They were {{surprised::Surprised mô tả cảm xúc ngạc nhiên của người.}} (surprise) by one unexpected result."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A team reviewed a technical manual. The instructions were {{confusing::Confusing mô tả nội dung gây bối rối.}} (confuse; mô tả nội dung gây bối rối). Several readers felt {{confused::Confused mô tả cảm giác bối rối của người.}} (confuse; mô tả cảm xúc). The reviewer suggested a clearer explanation because the result was {{surprising::Surprising mô tả kết quả gây ngạc nhiên.}} (surprise; mô tả điều gây ngạc nhiên)."
+      "questionHTML": "A team reviewed a technical manual. The instructions were {{confusing::Confusing mô tả nội dung gây bối rối.}} (confuse). Several readers felt {{confused::Confused mô tả cảm giác bối rối của người.}} (confuse). The reviewer suggested a clearer explanation because the result was {{surprising::Surprising mô tả kết quả gây ngạc nhiên.}} (surprise)."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A group completed a field project. The work was {{exhausting::Exhausting mô tả công việc gây mệt.}} (exhaust; mô tả công việc). The volunteers felt {{exhausted::Exhausted mô tả cảm giác kiệt sức của người.}} (exhaust; mô tả cảm xúc). Nevertheless, they remained {{interested::Interested mô tả sự quan tâm của người.}} (interest; mô tả cảm xúc) in the findings."
+      "questionHTML": "A group completed a field project. The work was {{exhausting::Exhausting mô tả công việc gây mệt.}} (exhaust). The volunteers felt {{exhausted::Exhausted mô tả cảm giác kiệt sức của người.}} (exhaust). Nevertheless, they remained {{interested::Interested mô tả sự quan tâm của người.}} (interest) in the findings."
     },
     {
       "tier": "apply",

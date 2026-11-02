@@ -37,7 +37,7 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I wish the neighbours {{would stop::Wish + người khác + would + V diễn tả mong muốn họ thay đổi hành vi trong tương lai.}} (stop; mong hành vi thay đổi) making noise at night."
+      "questionHTML": "I wish the neighbours {{would stop::Wish + người khác + would + V diễn tả mong muốn họ thay đổi hành vi trong tương lai.}} (stop) making noise at night."
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The team wishes it {{had::Wish + quá khứ đơn diễn tả mong muốn trái với hiện tại; had là dạng quá khứ của have.}} (ước trái với hiện tại của have) more time now."
+      "questionHTML": "The team wishes it {{had::Wish + quá khứ đơn diễn tả mong muốn trái với hiện tại; had là dạng quá khứ của have.}} (have) more time now."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "If only the deadline {{were | was::Were thường trang trọng hơn; was cũng được dùng trong văn nói thân mật.}} (ước trái với hiện tại của be) further away."
+      "questionHTML": "If only the deadline {{were | was::Were thường trang trọng hơn; was cũng được dùng trong văn nói thân mật.}} (be) further away."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The analyst wishes she {{had checked::Wish + had + V3 diễn tả tiếc nuối về một hành động trong quá khứ.}} (tiếc nuối về hành động trong quá khứ) the figures before the report was sent."
+      "questionHTML": "The analyst wishes she {{had checked::Wish + had + V3 diễn tả tiếc nuối về một hành động trong quá khứ.}} (check) the figures before the report was sent."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The residents wish the construction noise {{would stop::Wish + would + nguyên mẫu có thể diễn tả mong muốn một tình huống gây khó chịu thay đổi.}} (mong sự việc thay đổi trong tương lai) at night."
+      "questionHTML": "The residents wish the construction noise {{would stop::Wish + would + nguyên mẫu có thể diễn tả mong muốn một tình huống gây khó chịu thay đổi.}} (stop) at night."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researcher wishes she {{could attend::Wish + could + nguyên mẫu diễn tả mong muốn có khả năng thực hiện một việc.}} (ước có khả năng tham gia) the conference."
+      "questionHTML": "The researcher wishes she {{could attend::Wish + could + nguyên mẫu diễn tả mong muốn có khả năng thực hiện một việc.}} (attend) the conference."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The curator wishes she {{had::Wish + quá khứ đơn diễn tả mong muốn trái với hiện tại; had là dạng quá khứ của have.}} (ước trái với hiện tại của have) more time to review the archive now."
+      "questionHTML": "The curator wishes she {{had::Wish + quá khứ đơn diễn tả mong muốn trái với hiện tại; had là dạng quá khứ của have.}} (have) more time to review the archive now."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The director wishes the office {{were | was::Were thường trang trọng hơn; was cũng được dùng trong văn nói thân mật.}} (ước trái với hiện tại của be) closer to the archive."
+      "questionHTML": "The director wishes the office {{were | was::Were thường trang trọng hơn; was cũng được dùng trong văn nói thân mật.}} (be) closer to the archive."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team wishes it {{had checked::Wish + had + V3 diễn tả tiếc nuối về một hành động trong quá khứ.}} (tiếc nuối về hành động trong quá khứ) the data before the decision."
+      "questionHTML": "The team wishes it {{had checked::Wish + had + V3 diễn tả tiếc nuối về một hành động trong quá khứ.}} (check) the data before the decision."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The staff wish the noise outside {{would stop::Wish + would + nguyên mẫu có thể diễn tả mong muốn một tình huống gây khó chịu thay đổi.}} (mong sự việc thay đổi trong tương lai) during meetings."
+      "questionHTML": "The staff wish the noise outside {{would stop::Wish + would + nguyên mẫu có thể diễn tả mong muốn một tình huống gây khó chịu thay đổi.}} (stop) during meetings."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The director wishes she {{could attend::Wish + could + nguyên mẫu diễn tả mong muốn có khả năng thực hiện một việc.}} (ước có khả năng tham gia) the meeting tomorrow."
+      "questionHTML": "The director wishes she {{could attend::Wish + could + nguyên mẫu diễn tả mong muốn có khả năng thực hiện một việc.}} (attend) the meeting tomorrow."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The team wishes it {{had secured::Wish + had + V3 diễn tả tiếc nuối về quá khứ.}} (secure; tiếc nuối quá khứ) funding before the deadline last year."
+      "questionHTML": "The team wishes it {{had secured::Wish + had + V3 diễn tả tiếc nuối về quá khứ.}} (secure) funding before the deadline last year."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The students wish the university {{would provide::Wish + would + nguyên mẫu có thể diễn tả mong muốn sự thay đổi trong tương lai.}} (provide; mong thay đổi hành vi) clearer instructions next time."
+      "questionHTML": "The students wish the university {{would provide::Wish + would + nguyên mẫu có thể diễn tả mong muốn sự thay đổi trong tương lai.}} (provide) clearer instructions next time."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "If only the laboratory {{were | was::Were trang trọng; was cũng có thể dùng trong văn nói thân mật.}} (be; ước trái với hiện tại) larger now."
+      "questionHTML": "If only the laboratory {{were | was::Were trang trọng; was cũng có thể dùng trong văn nói thân mật.}} (be) larger now."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team is reviewing an unsuccessful project. The analysts wish they {{had checked::Wish + had + V3 diễn tả tiếc nuối về quá khứ.}} (check; tiếc nuối quá khứ) the figures before submission. They wish they {{had::Wish + quá khứ đơn diễn tả mong muốn trái với hiện tại.}} (have; ước hiện tại) more time now. They also wish the disruption {{would stop::Wish + would + nguyên mẫu diễn tả mong sự việc thay đổi.}} (stop; mong thay đổi) soon."
+      "questionHTML": "A research team is reviewing an unsuccessful project. The analysts wish they {{had checked::Wish + had + V3 diễn tả tiếc nuối về quá khứ.}} (check) the figures before submission. They wish they {{had::Wish + quá khứ đơn diễn tả mong muốn trái với hiện tại.}} (have) more time now. They also wish the disruption {{would stop::Wish + would + nguyên mẫu diễn tả mong sự việc thay đổi.}} (stop) soon."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A museum is planning an exhibition. The curator wishes the gallery {{were | was::Were thường trang trọng; was cũng được dùng trong văn nói thân mật.}} (be; ước trái với hiện tại) larger. She wishes she {{could attend::Wish + could + nguyên mẫu diễn tả mong có khả năng tham gia.}} (attend; ước có khả năng) an exhibition abroad. She also wishes the staff {{had checked::Wish + had + V3 diễn tả tiếc nuối quá khứ.}} (check; tiếc nuối quá khứ) the catalogue earlier."
+      "questionHTML": "A museum is planning an exhibition. The curator wishes the gallery {{were | was::Were thường trang trọng; was cũng được dùng trong văn nói thân mật.}} (be) larger. She wishes she {{could attend::Wish + could + nguyên mẫu diễn tả mong có khả năng tham gia.}} (attend) an exhibition abroad. She also wishes the staff {{had checked::Wish + had + V3 diễn tả tiếc nuối quá khứ.}} (check) the catalogue earlier."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is reviewing its application process. Students wish they {{had::Wish + quá khứ đơn nêu mong muốn trái với hiện tại.}} (have; ước hiện tại) more information now. They wish the university {{would provide::Wish + would + nguyên mẫu có thể diễn tả mong muốn một hành vi thay đổi.}} (provide; mong thay đổi) clearer guidance next time. The administrators wish they {{had checked::Wish + had + V3 diễn tả tiếc nuối về việc chưa làm trong quá khứ.}} (check; tiếc nuối quá khứ) the instructions earlier."
+      "questionHTML": "A university is reviewing its application process. Students wish they {{had::Wish + quá khứ đơn nêu mong muốn trái với hiện tại.}} (have) more information now. They wish the university {{would provide::Wish + would + nguyên mẫu có thể diễn tả mong muốn một hành vi thay đổi.}} (provide) clearer guidance next time. The administrators wish they {{had checked::Wish + had + V3 diễn tả tiếc nuối về việc chưa làm trong quá khứ.}} (check) the instructions earlier."
     },
     {
       "tier": "apply",

@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The research team {{has been monitoring | has monitored::Cả hiện tại hoàn thành tiếp diễn và đơn đều có thể nói việc theo dõi kéo dài; tiếp diễn nhấn mạnh quá trình.}} (monitor; hoạt động kéo dài đến nay) air quality continuously since January."
+      "questionHTML": "The research team {{has been monitoring | has monitored::Cả hiện tại hoàn thành tiếp diễn và đơn đều có thể nói việc theo dõi kéo dài; tiếp diễn nhấn mạnh quá trình.}} (monitor) air quality continuously since January."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The volunteers {{have been conducting::All morning và still working nhấn mạnh quá trình kéo dài; volunteers dùng have been conducting.}} (conduct; quá trình còn tiếp diễn) interviews all morning and are still working."
+      "questionHTML": "The volunteers {{have been conducting::All morning và still working nhấn mạnh quá trình kéo dài; volunteers dùng have been conducting.}} (conduct) interviews all morning and are still working."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The laboratory equipment is warm because it {{has been operating::Thiết bị còn nóng là dấu hiệu hiện tại của quá trình vận hành kéo dài; dùng has been operating.}} (operate; quá trình gây kết quả hiện tại) all night."
+      "questionHTML": "The laboratory equipment is warm because it {{has been operating::Thiết bị còn nóng là dấu hiệu hiện tại của quá trình vận hành kéo dài; dùng has been operating.}} (operate) all night."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The town {{has been expanding | has expanded::Cả hai dạng đều có thể diễn tả sự mở rộng trong khoảng thời gian đến hiện tại; tiếp diễn nhấn mạnh xu hướng.}} (expand; xu hướng kéo dài) rapidly over the past decade and continues to grow."
+      "questionHTML": "The town {{has been expanding | has expanded::Cả hai dạng đều có thể diễn tả sự mở rộng trong khoảng thời gian đến hiện tại; tiếp diễn nhấn mạnh xu hướng.}} (expand) rapidly over the past decade and continues to grow."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Researchers {{have been investigating | have investigated::Cả hai dạng đều có thể dùng với for several months; tiếp diễn nhấn mạnh quá trình đang nghiên cứu.}} (investigate; hoạt động kéo dài) possible solutions for several months."
+      "questionHTML": "Researchers {{have been investigating | have investigated::Cả hai dạng đều có thể dùng với for several months; tiếp diễn nhấn mạnh quá trình đang nghiên cứu.}} (investigate) possible solutions for several months."
     },
     {
       "tier": "practice",
@@ -72,27 +72,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The team {{has been monitoring | has monitored::Cả hai dạng hoàn thành đều có thể diễn tả hoạt động kéo dài; tiếp diễn nhấn mạnh quá trình.}} (monitor; hoạt động kéo dài đến nay) air quality since January and continues its work."
+      "questionHTML": "The team {{has been monitoring | has monitored::Cả hai dạng hoàn thành đều có thể diễn tả hoạt động kéo dài; tiếp diễn nhấn mạnh quá trình.}} (monitor) air quality since January and continues its work."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The volunteers {{have been interviewing::All morning và still working nhấn mạnh quá trình kéo dài; volunteers dùng have been interviewing.}} (interview; quá trình đang tiếp diễn) participants all morning and are still working."
+      "questionHTML": "The volunteers {{have been interviewing::All morning và still working nhấn mạnh quá trình kéo dài; volunteers dùng have been interviewing.}} (interview) participants all morning and are still working."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The equipment is warm because it {{has been operating::Has been operating diễn tả quá trình vận hành gây ra tình trạng còn nóng.}} (operate; nguyên nhân của dấu hiệu hiện tại) all night."
+      "questionHTML": "The equipment is warm because it {{has been operating::Has been operating diễn tả quá trình vận hành gây ra tình trạng còn nóng.}} (operate) all night."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The city {{has been expanding | has expanded::Cả hai dạng có thể diễn tả thay đổi trong giai đoạn đến nay; tiếp diễn nhấn mạnh xu hướng.}} (expand; sự thay đổi kéo dài) rapidly over the past decade."
+      "questionHTML": "The city {{has been expanding | has expanded::Cả hai dạng có thể diễn tả thay đổi trong giai đoạn đến nay; tiếp diễn nhấn mạnh xu hướng.}} (expand) rapidly over the past decade."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The analysts {{have been investigating | have investigated::Cả hiện tại hoàn thành đơn và tiếp diễn đều có thể dùng với for several months.}} (investigate; hoạt động kéo dài) potential solutions for several months."
+      "questionHTML": "The analysts {{have been investigating | have investigated::Cả hiện tại hoàn thành đơn và tiếp diễn đều có thể dùng với for several months.}} (investigate) potential solutions for several months."
     },
     {
       "tier": "practice",
@@ -122,22 +122,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The council {{has been working::Since April và long-term cho thấy quá trình còn tiếp tục; council số ít dùng has been working.}} (work; hoạt động đang tiếp diễn) on a long-term transport plan since April."
+      "questionHTML": "The council {{has been working::Since April và long-term cho thấy quá trình còn tiếp tục; council số ít dùng has been working.}} (work) on a long-term transport plan since April."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The research assistants look exhausted because they {{have been sorting::Tình trạng mệt hiện tại là dấu hiệu của quá trình phân loại kéo dài; assistants số nhiều dùng have been sorting.}} (sort; nguyên nhân của dấu hiệu hiện tại) samples all day."
+      "questionHTML": "The research assistants look exhausted because they {{have been sorting::Tình trạng mệt hiện tại là dấu hiệu của quá trình phân loại kéo dài; assistants số nhiều dùng have been sorting.}} (sort) samples all day."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The river level {{has been rising::Still rising nhấn mạnh diễn biến đang tiếp tục; level số ít dùng has been rising.}} (rise; xu hướng vẫn tiếp tục) steadily in recent weeks and is still rising."
+      "questionHTML": "The river level {{has been rising::Still rising nhấn mạnh diễn biến đang tiếp tục; level số ít dùng has been rising.}} (rise) steadily in recent weeks and is still rising."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The organisation {{has been campaigning | has campaigned::Cả hai dạng hoàn thành đều có thể nói chiến dịch kéo dài nhiều năm; tiếp diễn nhấn mạnh quá trình.}} (campaign; hoạt động kéo dài) for improved access to education for years."
+      "questionHTML": "The organisation {{has been campaigning | has campaigned::Cả hai dạng hoàn thành đều có thể nói chiến dịch kéo dài nhiều năm; tiếp diễn nhấn mạnh quá trình.}} (campaign) for improved access to education for years."
     },
     {
       "tier": "apply",
@@ -157,7 +157,7 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A local charity runs an education project. Volunteers {{have been teaching::Have been teaching nhấn mạnh quá trình giảng dạy của nhóm số nhiều, kéo dài đến nay.}} (teach; quá trình kéo dài) evening classes since February. The programme {{has been attracting::Has been attracting diễn tả xu hướng đang tăng với chủ ngữ số ít programme.}} (attract; xu hướng tiếp diễn) more learners each month. The coordinators are tired because they {{have been preparing::Have been preparing nêu quá trình chuẩn bị kéo dài gây dấu hiệu mệt hiện tại.}} (prepare; nguyên nhân dấu hiệu hiện tại) materials all day."
+      "questionHTML": "A local charity runs an education project. Volunteers {{have been teaching::Have been teaching nhấn mạnh quá trình giảng dạy của nhóm số nhiều, kéo dài đến nay.}} (teach) evening classes since February. The programme {{has been attracting::Has been attracting diễn tả xu hướng đang tăng với chủ ngữ số ít programme.}} (attract) more learners each month. The coordinators are tired because they {{have been preparing::Have been preparing nêu quá trình chuẩn bị kéo dài gây dấu hiệu mệt hiện tại.}} (prepare) materials all day."
     },
     {
       "tier": "apply",
@@ -172,22 +172,22 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The council {{has been working::Has been working nhấn mạnh quá trình làm việc từ April đến nay.}} (work; quá trình đang tiếp diễn) on a long-term strategy since April."
+      "questionHTML": "The council {{has been working::Has been working nhấn mạnh quá trình làm việc từ April đến nay.}} (work) on a long-term strategy since April."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The assistants are exhausted because they {{have been sorting::Have been sorting nêu quá trình phân loại gây mệt hiện tại.}} (sort; nguyên nhân của dấu hiệu hiện tại) samples all day."
+      "questionHTML": "The assistants are exhausted because they {{have been sorting::Have been sorting nêu quá trình phân loại gây mệt hiện tại.}} (sort) samples all day."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The river level {{has been rising::Has been rising nhấn mạnh xu hướng vẫn tiếp tục.}} (rise; xu hướng tiếp diễn) steadily and is still rising."
+      "questionHTML": "The river level {{has been rising::Has been rising nhấn mạnh xu hướng vẫn tiếp tục.}} (rise) steadily and is still rising."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The charity {{has been campaigning | has campaigned::Cả hai dạng đều có thể diễn tả hoạt động kéo dài nhiều năm; tiếp diễn nhấn mạnh quá trình.}} (campaign; hoạt động kéo dài) for equal access to education for years."
+      "questionHTML": "The charity {{has been campaigning | has campaigned::Cả hai dạng đều có thể diễn tả hoạt động kéo dài nhiều năm; tiếp diễn nhấn mạnh quá trình.}} (campaign) for equal access to education for years."
     },
     {
       "tier": "apply",
@@ -202,12 +202,12 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A local charity runs evening classes. Volunteers {{have been teaching::Have been teaching nhấn mạnh quá trình kéo dài đến nay với volunteers số nhiều.}} (teach; quá trình kéo dài) since February. The programme {{has been attracting::Has been attracting diễn tả xu hướng tiếp diễn với programme số ít.}} (attract; xu hướng tiếp diễn) more learners. The coordinators are tired because they {{have been preparing::Have been preparing nêu quá trình gây dấu hiệu mệt hiện tại.}} (prepare; quá trình gây kết quả hiện tại) materials all day."
+      "questionHTML": "A local charity runs evening classes. Volunteers {{have been teaching::Have been teaching nhấn mạnh quá trình kéo dài đến nay với volunteers số nhiều.}} (teach) since February. The programme {{has been attracting::Has been attracting diễn tả xu hướng tiếp diễn với programme số ít.}} (attract) more learners. The coordinators are tired because they {{have been preparing::Have been preparing nêu quá trình gây dấu hiệu mệt hiện tại.}} (prepare) materials all day."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is studying river pollution. Researchers {{have been collecting::Have been collecting diễn tả quá trình thu thập từ tháng trước đến hiện tại.}} (collect; quá trình kéo dài) samples since last month. The water level {{has been changing::Has been changing mô tả xu hướng biến đổi kéo dài với level số ít.}} (change; xu hướng tiếp diễn) rapidly. The team looks tired because it {{has been working::Has been working giải thích dấu hiệu hiện tại của team số ít.}} (work; nguyên nhân dấu hiệu hiện tại) through the night."
+      "questionHTML": "A university is studying river pollution. Researchers {{have been collecting::Have been collecting diễn tả quá trình thu thập từ tháng trước đến hiện tại.}} (collect) samples since last month. The water level {{has been changing::Has been changing mô tả xu hướng biến đổi kéo dài với level số ít.}} (change) rapidly. The team looks tired because it {{has been working::Has been working giải thích dấu hiệu hiện tại của team số ít.}} (work) through the night."
     },
     {
       "tier": "apply",

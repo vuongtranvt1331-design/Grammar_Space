@@ -22,27 +22,27 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I {{must | have to::Must và have to đều có thể diễn tả sự cần thiết trong ngữ cảnh này.}} (trợ động từ diễn tả nghĩa vụ, lời khuyên hoặc sự cấm đoán) finish this report today; I promised to send it tonight."
+      "questionHTML": "I {{must | have to::Must và have to đều có thể diễn tả sự cần thiết trong ngữ cảnh này.}} [bị cấm] finish this report today; I promised to send it tonight."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "According to the company rules, we {{have to | must::Have to và must đều có thể diễn tả nghĩa vụ theo quy định.}} (trợ động từ diễn tả nghĩa vụ, lời khuyên hoặc sự cấm đoán) wear an identity badge."
+      "questionHTML": "According to the company rules, we {{have to | must::Have to và must đều có thể diễn tả nghĩa vụ theo quy định.}} (have) [bị cấm] wear an identity badge."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "You look tired; you {{should | ought to::Should và ought to đều có thể đưa ra lời khuyên.}} (trợ động từ diễn tả nghĩa vụ, lời khuyên hoặc sự cấm đoán) get some rest."
+      "questionHTML": "You look tired; you {{should | ought to::Should và ought to đều có thể đưa ra lời khuyên.}} [bị cấm] get some rest."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The sign says entry is forbidden; you {{must not | mustn't::Must not và mustn’t đều diễn tả sự cấm đoán.}} (trợ động từ diễn tả nghĩa vụ, lời khuyên hoặc sự cấm đoán) enter."
+      "questionHTML": "The sign says entry is forbidden; you {{must not | mustn't::Must not và mustn’t đều diễn tả sự cấm đoán.}} [bị cấm] enter."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The meeting is optional; we {{do not have to | don't have to | need not::Các dạng này đều diễn tả điều không bắt buộc, không có nghĩa là bị cấm.}} (trợ động từ diễn tả nghĩa vụ, lời khuyên hoặc sự cấm đoán) attend."
+      "questionHTML": "The meeting is optional; we {{do not have to | don't have to | need not::Các dạng này đều diễn tả điều không bắt buộc, không có nghĩa là bị cấm.}} (have) [not] [bị cấm] attend."
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The researchers {{must | have to::Must và have to đều diễn tả nghĩa vụ; have to phù hợp với chủ ngữ số nhiều.}} (nghĩa vụ với chủ ngữ số nhiều) follow the safety rules."
+      "questionHTML": "The researchers {{must | have to::Must và have to đều diễn tả nghĩa vụ; have to phù hợp với chủ ngữ số nhiều.}} [cần phải] follow the safety rules."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Visitors {{must not | mustn't::Must not và mustn’t diễn tả việc bị cấm, không phải không bắt buộc.}} (sự cấm đoán) enter the restricted area; entry is forbidden."
+      "questionHTML": "Visitors {{must not | mustn't::Must not và mustn’t diễn tả việc bị cấm, không phải không bắt buộc.}} [bị cấm] enter the restricted area; entry is forbidden."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Attendance is optional, so participants {{do not have to | don't have to | need not::Do not have to, don’t have to và need not đều nói rằng việc đó không bắt buộc.}} (không bắt buộc với chủ ngữ số nhiều) register."
+      "questionHTML": "Attendance is optional, so participants {{do not have to | don't have to | need not::Do not have to, don’t have to và need not đều nói rằng việc đó không bắt buộc.}} (have) [not] [không bắt buộc] register."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The analyst {{should | ought to::Should và ought to đều có thể đưa ra lời khuyên.}} (lời khuyên) check the source before citing it."
+      "questionHTML": "The analyst {{should | ought to::Should và ought to đều có thể đưa ra lời khuyên.}} [nên] check the source before citing it."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The curator {{has to | must::Has to và must đều diễn tả nghĩa vụ; has to phù hợp với chủ ngữ số ít.}} (nghĩa vụ với chủ ngữ số ít) submit the form under the museum policy."
+      "questionHTML": "The curator {{has to | must::Has to và must đều diễn tả nghĩa vụ; has to phù hợp với chủ ngữ số ít.}} (have) [cần phải] submit the form under the museum policy."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "All laboratory staff {{must | have to::Must và have to đều diễn tả nghĩa vụ; have to phù hợp với chủ ngữ số nhiều.}} (nghĩa vụ với chủ ngữ số nhiều) wear protective equipment under the policy."
+      "questionHTML": "All laboratory staff {{must | have to::Must và have to đều diễn tả nghĩa vụ; have to phù hợp với chủ ngữ số nhiều.}} [cần phải] wear protective equipment under the policy."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The staff {{must not | mustn't::Must not và mustn’t diễn tả việc bị cấm, không phải không bắt buộc.}} (sự cấm đoán) disclose confidential data; the policy prohibits it."
+      "questionHTML": "The staff {{must not | mustn't::Must not và mustn’t diễn tả việc bị cấm, không phải không bắt buộc.}} [bị cấm] disclose confidential data; the policy prohibits it."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The seminar is optional; the researchers {{do not have to | don't have to | need not::Do not have to, don’t have to và need not đều nói rằng việc đó không bắt buộc.}} (không bắt buộc với chủ ngữ số nhiều) attend."
+      "questionHTML": "The seminar is optional; the researchers {{do not have to | don't have to | need not::Do not have to, don’t have to và need not đều nói rằng việc đó không bắt buộc.}} (have) [not] [không bắt buộc] attend."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The committee {{should | ought to::Should và ought to đều có thể đưa ra lời khuyên.}} (lời khuyên) review the limitations before publication."
+      "questionHTML": "The committee {{should | ought to::Should và ought to đều có thể đưa ra lời khuyên.}} [nên] review the limitations before publication."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The laboratory director {{has to | must::Has to và must đều diễn tả nghĩa vụ; has to phù hợp với chủ ngữ số ít.}} (nghĩa vụ với chủ ngữ số ít) approve the changes under the rules."
+      "questionHTML": "The laboratory director {{has to | must::Has to và must đều diễn tả nghĩa vụ; has to phù hợp với chủ ngữ số ít.}} (have) [cần phải] approve the changes under the rules."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The exhibition is optional, so visitors {{do not have to | don't have to | need not::Các dạng này đều nói việc tham dự không bắt buộc; không có nghĩa là bị cấm.}} (không bắt buộc) attend."
+      "questionHTML": "The exhibition is optional, so visitors {{do not have to | don't have to | need not::Các dạng này đều nói việc tham dự không bắt buộc; không có nghĩa là bị cấm.}} (have) [not] [không bắt buộc] attend."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The sign prohibits food; visitors {{must not | mustn't::Must not hoặc mustn’t diễn tả việc bị cấm.}} (sự cấm đoán) eat inside."
+      "questionHTML": "The sign prohibits food; visitors {{must not | mustn't::Must not hoặc mustn’t diễn tả việc bị cấm.}} [bị cấm] eat inside."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The proposal is unclear, so the author {{should | ought to::Should và ought to đều có thể diễn tả lời khuyên.}} (lời khuyên) explain the method."
+      "questionHTML": "The proposal is unclear, so the author {{should | ought to::Should và ought to đều có thể diễn tả lời khuyên.}} [nên] explain the method."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A laboratory has strict safety rules. Staff {{must | have to::Must và have to đều diễn tả nghĩa vụ với chủ ngữ số nhiều.}} (nghĩa vụ) wear protective equipment. They {{must not | mustn't::Must not và mustn’t diễn tả sự cấm đoán.}} (sự cấm đoán) bring food into the laboratory. The optional seminar is open to them, but they {{do not have to | don't have to | need not::Các dạng này diễn tả việc không bắt buộc tham dự.}} (không bắt buộc) attend it."
+      "questionHTML": "A laboratory has strict safety rules. Staff {{must | have to::Must và have to đều diễn tả nghĩa vụ với chủ ngữ số nhiều.}} [cần phải] wear protective equipment. They {{must not | mustn't::Must not và mustn’t diễn tả sự cấm đoán.}} [bị cấm] bring food into the laboratory. The optional seminar is open to them, but they {{do not have to | don't have to | need not::Các dạng này diễn tả việc không bắt buộc tham dự.}} (have) [not] [không bắt buộc] attend it."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is preparing a conference. Under the rules, every speaker {{has to | must::Has to và must diễn tả nghĩa vụ với chủ ngữ số ít.}} (nghĩa vụ của chủ ngữ số ít) register before Friday. Speakers {{should | ought to::Should và ought to đều diễn tả lời khuyên.}} (lời khuyên) check their slides beforehand. They {{must not | mustn't::Must not và mustn’t chỉ việc bị cấm theo quy định.}} (sự cấm đoán) share confidential participant data."
+      "questionHTML": "A university is preparing a conference. Under the rules, every speaker {{has to | must::Has to và must diễn tả nghĩa vụ với chủ ngữ số ít.}} (have) [cần phải] register before Friday. Speakers {{should | ought to::Should và ought to đều diễn tả lời khuyên.}} [nên] check their slides beforehand. They {{must not | mustn't::Must not và mustn’t chỉ việc bị cấm theo quy định.}} [bị cấm] share confidential participant data."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A project team is organising an optional workshop. Participants {{do not have to | don't have to | need not::Các dạng này chỉ việc không bắt buộc.}} (không bắt buộc) attend. The organisers {{should | ought to::Should và ought to đều dùng để khuyên nên gửi thông tin.}} (lời khuyên) send the schedule early. They {{must not | mustn't::Must not và mustn’t diễn tả hành động bị cấm.}} (sự cấm đoán) disclose private contact details."
+      "questionHTML": "A project team is organising an optional workshop. Participants {{do not have to | don't have to | need not::Các dạng này chỉ việc không bắt buộc.}} (have) [not] [không bắt buộc] attend. The organisers {{should | ought to::Should và ought to đều dùng để khuyên nên gửi thông tin.}} [nên] send the schedule early. They {{must not | mustn't::Must not và mustn’t diễn tả hành động bị cấm.}} [bị cấm] disclose private contact details."
     },
     {
       "tier": "apply",

@@ -27,22 +27,22 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "A certificate was given {{to::Với give hoặc send, dùng to trước người nhận khi vật là chủ ngữ bị động.}} (dạng bị động hoặc giới từ phù hợp với người nhận) the winner, who received it."
+      "questionHTML": "A certificate was given {{to::Với give hoặc send, dùng to trước người nhận khi vật là chủ ngữ bị động.}} the winner, who received it."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "A gift was bought {{for::Buy hoặc make something for someone dùng for trước người hưởng lợi.}} (dạng bị động hoặc giới từ phù hợp với người nhận) Lan as a present."
+      "questionHTML": "A gift was bought {{for::Buy hoặc make something for someone dùng for trước người hưởng lợi.}} Lan as a present."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The report {{can be sent::Bị động với can có dạng can be + V3; sent là V3 của send.}} (can / send) today if it is ready."
+      "questionHTML": "The report {{can be sent::Bị động với can có dạng can be + V3; sent là V3 của send.}} [can] (send) today if it is ready."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The report {{should be checked::Bị động với should dùng should be + V3 checked.}} (should / check) before it is submitted."
+      "questionHTML": "The report {{should be checked::Bị động với should dùng should be + V3 checked.}} [should] (check) before it is submitted."
     },
     {
       "tier": "practice",
@@ -97,32 +97,32 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The winner {{was given::Was given là bị động quá khứ đơn với người nhận số ít.}} (give; bị động quá khứ với người nhận số ít) a certificate at the ceremony yesterday."
+      "questionHTML": "The winner {{was given::Was given là bị động quá khứ đơn với người nhận số ít.}} (give) a certificate at the ceremony yesterday."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The students {{were given::Were given là bị động quá khứ đơn với chủ ngữ số nhiều.}} (give; bị động quá khứ với người nhận số nhiều) access to the archive last month."
+      "questionHTML": "The students {{were given::Were given là bị động quá khứ đơn với chủ ngữ số nhiều.}} (give) access to the archive last month."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "A certificate was given {{to::Given, sent hoặc presented to + người nhận là cấu trúc phù hợp.}} (giới từ trước người nhận sau give/send/present) the winner."
+      "questionHTML": "A certificate was given {{to::Given, sent hoặc presented to + người nhận là cấu trúc phù hợp.}} the winner."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "A book was bought {{for::Bought, made hoặc purchased for + người hưởng lợi là cấu trúc phù hợp.}} (giới từ chỉ người hoặc tổ chức hưởng lợi) the student."
+      "questionHTML": "A book was bought {{for::Bought, made hoặc purchased for + người hưởng lợi là cấu trúc phù hợp.}} the student."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The report {{should be checked | ought to be checked::Should be checked và ought to be checked đều diễn tả lời khuyên ở bị động.}} (check; lời khuyên ở dạng bị động) before submission."
+      "questionHTML": "The report {{should be checked | ought to be checked::Should be checked và ought to be checked đều diễn tả lời khuyên ở bị động.}} (check) before submission."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The researcher {{was given::Was given là bị động quá khứ đơn với người nhận số ít.}} (give; bị động quá khứ với người nhận số ít) a grant by the university last year."
+      "questionHTML": "The researcher {{was given::Was given là bị động quá khứ đơn với người nhận số ít.}} (give) a grant by the university last year."
     },
     {
       "tier": "apply",
@@ -132,7 +132,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The volunteers {{were given::Were given là bị động quá khứ đơn với chủ ngữ số nhiều.}} (give; bị động quá khứ với người nhận số nhiều) instructions before the event yesterday."
+      "questionHTML": "The volunteers {{were given::Were given là bị động quá khứ đơn với chủ ngữ số nhiều.}} (give) instructions before the event yesterday."
     },
     {
       "tier": "apply",
@@ -142,7 +142,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The final report was sent {{to::Given, sent hoặc presented to + người nhận là cấu trúc phù hợp.}} (giới từ trước người nhận sau give/send/present) the researchers."
+      "questionHTML": "The final report was sent {{to::Given, sent hoặc presented to + người nhận là cấu trúc phù hợp.}} the researchers."
     },
     {
       "tier": "apply",
@@ -152,7 +152,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "A new display was made {{for::Bought, made hoặc purchased for + người hưởng lợi là cấu trúc phù hợp.}} (giới từ chỉ người hoặc tổ chức hưởng lợi) the museum."
+      "questionHTML": "A new display was made {{for::Bought, made hoặc purchased for + người hưởng lợi là cấu trúc phù hợp.}} the museum."
     },
     {
       "tier": "apply",
@@ -162,7 +162,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The proposal {{should be checked | ought to be checked::Should be checked và ought to be checked đều diễn tả lời khuyên ở bị động.}} (check; lời khuyên ở dạng bị động) before the committee votes."
+      "questionHTML": "The proposal {{should be checked | ought to be checked::Should be checked và ought to be checked đều diễn tả lời khuyên ở bị động.}} (check) before the committee votes."
     },
     {
       "tier": "apply",
@@ -172,32 +172,32 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The documents {{can be sent::Can be + V3 sent là bị động với động từ khuyết thiếu.}} (send; bị động với can) today if they are ready."
+      "questionHTML": "The documents {{can be sent::Can be + V3 sent là bị động với động từ khuyết thiếu.}} (send) today if they are ready."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The form {{must be completed::Must be completed diễn tả nghĩa vụ dưới dạng bị động.}} (complete; nghĩa vụ ở dạng bị động) before the deadline; the rules require it."
+      "questionHTML": "The form {{must be completed::Must be completed diễn tả nghĩa vụ dưới dạng bị động.}} (complete) before the deadline; the rules require it."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The students {{were given::Were given là bị động quá khứ đơn với students số nhiều.}} (give; bị động quá khứ với người nhận số nhiều) an opportunity to ask questions yesterday."
+      "questionHTML": "The students {{were given::Were given là bị động quá khứ đơn với students số nhiều.}} (give) an opportunity to ask questions yesterday."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university held an awards ceremony. The winner {{was given::Was given là bị động quá khứ đơn với winner số ít.}} (give; bị động quá khứ) a certificate. The same award was presented {{to::Presented to dùng trước người nhận.}} (giới từ trước người nhận) the winner by the director. All certificates {{should be checked | ought to be checked::Cả hai dạng đều diễn tả lời khuyên ở bị động.}} (check; lời khuyên bị động) before distribution."
+      "questionHTML": "A university held an awards ceremony. The winner {{was given::Was given là bị động quá khứ đơn với winner số ít.}} (give) a certificate. The same award was presented {{to::Presented to dùng trước người nhận.}} the winner by the director. All certificates {{should be checked | ought to be checked::Cả hai dạng đều diễn tả lời khuyên ở bị động.}} (check) before distribution."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research group is preparing a report. The researchers {{were given::Were given là bị động quá khứ đơn với researchers số nhiều.}} (give; bị động quá khứ số nhiều) extra time last week. A summary was sent {{to::Sent to dùng trước người nhận.}} (giới từ trước người nhận) the panel. The final results {{should be checked | ought to be checked::Cả hai cấu trúc đều diễn tả lời khuyên ở bị động.}} (check; lời khuyên bị động) before publication."
+      "questionHTML": "A research group is preparing a report. The researchers {{were given::Were given là bị động quá khứ đơn với researchers số nhiều.}} (give) extra time last week. A summary was sent {{to::Sent to dùng trước người nhận.}} the panel. The final results {{should be checked | ought to be checked::Cả hai cấu trúc đều diễn tả lời khuyên ở bị động.}} (check) before publication."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A library is updating its collection. New books were purchased {{for::Purchased for dùng trước tổ chức hưởng lợi.}} (giới từ chỉ bên hưởng lợi) the library. A catalogue was sent {{to::Sent to dùng trước người nhận.}} (giới từ trước người nhận) the curator. The entries {{should be checked | ought to be checked::Should/ought to be checked diễn tả lời khuyên ở bị động.}} (check; lời khuyên bị động) before release."
+      "questionHTML": "A library is updating its collection. New books were purchased {{for::Purchased for dùng trước tổ chức hưởng lợi.}} the library. A catalogue was sent {{to::Sent to dùng trước người nhận.}} the curator. The entries {{should be checked | ought to be checked::Should/ought to be checked diễn tả lời khuyên ở bị động.}} (check) before release."
     },
     {
       "tier": "apply",

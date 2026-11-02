@@ -4,6 +4,7 @@
   { "id": "g1-03", "group": "Từ loại", "title": "03. Tính từ & Trạng từ", "filename": "bai-03.json" },
   { "id": "g1-04", "group": "Từ loại", "title": "04. Động từ Be & Trợ động từ", "filename": "bai-04.json" },
   { "id": "g1-05", "group": "Từ loại", "title": "05. Trật tự từ trong câu", "filename": "bai-05.json" },
+  { "id": "review-tu-loai", "group": "Từ loại", "title": "06. Ôn tập tổng hợp: Từ loại", "filename": "on-tap-tu-loai.json", "lessonNumber": 6 },
 
   { "id": "g2-06", "group": "Mạo từ & Giới từ", "title": "06. Mạo từ A, An, The", "filename": "bai-06.json" },
   { "id": "g2-07", "group": "Mạo từ & Giới từ", "title": "07. Từ chỉ số lượng", "filename": "bai-07.json" },
