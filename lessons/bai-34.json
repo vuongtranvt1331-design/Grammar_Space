@@ -1,223 +1,224 @@
 {
-  "id": "g7-34",
-  "title": "34. Rút gọn mệnh đề quan hệ",
+  "id": "40",
+  "title": "40. Rút gọn mệnh đề quan hệ",
   "pages": [
     {
       "pageNumber": 1,
-      "pageTitle": "Rút gọn chủ động",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · RÚT GỌN CHỦ ĐỘNG</span></h2><p>Khi đại từ quan hệ làm chủ ngữ và mệnh đề mang nghĩa chủ động, có thể dùng V-ing trong một số trường hợp.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>students who are studying → students studying<br>people who work here → people working here</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The students studying in the library are quiet. → Các học sinh đang học trong thư viện rất yên lặng.<br>People waiting outside can come in. → Những người đang chờ bên ngoài có thể vào.</p><p><span class=\"highlight\">Lưu ý:</span> Mệnh đề rút gọn phải bổ nghĩa rõ ràng cho danh từ đứng trước; không phải mệnh đề quan hệ nào cũng rút gọn tự nhiên.</p>"
+      "pageTitle": "Mệnh đề quan hệ chủ động",
+      "contentHTML": "<p>Mệnh đề quan hệ xác định chủ động có thể rút gọn thành V-ing trong ngữ cảnh phù hợp: Researchers who are examining the data → researchers examining the data. Việc rút gọn có thể thay đổi sắc thái thời gian nên cần kiểm tra ngữ cảnh.</p>"
     },
     {
       "pageNumber": 2,
-      "pageTitle": "Rút gọn bị động",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · RÚT GỌN BỊ ĐỘNG</span></h2><p>Với mệnh đề mang nghĩa bị động, có thể lược đại từ quan hệ và be, giữ lại V3.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>the bridge which was built in 1990 → the bridge built in 1990<br>the building that was designed by Mai → the building designed by Mai</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The bridge built in 1990 is still open. → Cây cầu xây năm 1990 vẫn mở.<br>The building designed by Mai won a prize. → Tòa nhà do Mai thiết kế đã đoạt giải.</p><p><span class=\"highlight\">Lưu ý:</span> V3 thể hiện danh từ nhận tác động: bridge built, không phải bridge building trong nghĩa cây cầu được xây.</p>"
+      "pageTitle": "Mệnh đề quan hệ bị động",
+      "contentHTML": "<p>Mệnh đề quan hệ bị động có thể rút thành V3: documents that were submitted → documents submitted. Dạng being + V3 nhấn mạnh việc đang diễn ra: proposals being considered. Không áp dụng tự động cho mọi mệnh đề.</p>"
     },
     {
       "pageNumber": 3,
-      "pageTitle": "To-V sau từ chỉ thứ tự",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · TO-V SAU TỪ CHỈ THỨ TỰ</span></h2><p>Một số mệnh đề quan hệ sau the first, the last hoặc the only có thể rút gọn bằng to-V.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>the first student who finishes → the first student to finish<br>the last person who leaves → the last person to leave</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>She was the first person to arrive. → Cô ấy là người đầu tiên đến.<br>He was the last runner to finish. → Anh ấy là người chạy cuối cùng về đích.</p><p><span class=\"highlight\">Lưu ý:</span> Chọn dạng theo ý nghĩa chủ động hay bị động; không bỏ từ nếu câu trở nên mơ hồ.</p>"
+      "pageTitle": "Mệnh đề phân từ và chủ thể",
+      "contentHTML": "<p>Mệnh đề phân từ mở đầu phải có chủ thể hợp lý, thường trùng chủ ngữ mệnh đề chính: Having reviewed the evidence, the panel issued its decision. Having been notified of the risk, the panel postponed the vote. Tránh cấu trúc khiến hành động bị gán cho sai chủ thể.</p>"
     }
   ],
   "exercises": [
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The students {{studying::Studying rút gọn mệnh đề chủ động who are studying và bổ nghĩa cho students hoặc learners.}} (study) in the library are preparing for exams."
+      "questionHTML": "The researchers {{examining::Examining là phân từ hiện tại bổ nghĩa chủ động cho researchers.}} (examine) the data have identified an inconsistency."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The bridge {{built::Built là V3 trong mệnh đề bị động rút gọn: which was built in 1990.}} (build) in 1990 is still open."
+      "questionHTML": "The evidence {{submitted::Submitted là V3 bổ nghĩa bị động cho evidence.}} (submit) to the panel remains confidential."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "She was the first student {{to finish::Sau the first, to finish có thể rút gọn mệnh đề quan hệ chỉ người đầu tiên hoàn thành.}} (finish) the test."
+      "questionHTML": "The applications {{being reviewed::Being reviewed chỉ các đơn đang được xem xét; ngữ cảnh xác nhận quá trình vẫn diễn ra.}} (review) at present will be discussed tomorrow."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The building {{designed::Designed by Mai rút gọn mệnh đề bị động that was designed by Mai.}} (design) by Mai won a prize."
+      "questionHTML": "The consultant {{advising::Advising bổ nghĩa chủ động cho consultant: người đang tư vấn cho hội đồng.}} (advise) the board has requested further information."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The people {{waiting::Waiting rút gọn mệnh đề chủ động who are waiting; những người đó đang chờ.}} (wait) at the bus stop are my friends."
+      "questionHTML": "The documents {{prepared::Prepared là V3 bổ nghĩa bị động cho documents.}} (prepare) by the legal team were circulated yesterday."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "{{Having assessed::Having assessed chỉ việc đánh giá hoàn tất trước khi panel đưa ra quyết định; panel là chủ thể đánh giá.}} (assess) the risks, the panel issued its decision."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "{{Having been notified::Having been notified diễn tả việc panel được thông báo trước hành động ở mệnh đề chính.}} (notify) of the delay, the panel postponed the vote."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The staff {{working::Working bổ nghĩa chủ động cho staff trong ngữ cảnh đang làm việc tại địa điểm.}} (work) at the site must complete the training."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The proposal {{published::Published là V3 bổ nghĩa bị động cho proposal.}} (publish) last month has attracted criticism."
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The learners ___ in the library are preparing for exams. (( studied | **studying** | to studying :: Studying rút gọn mệnh đề chủ động who are studying và bổ nghĩa cho students hoặc learners. ))"
+      "questionHTML": "The experts ___ the investigation will publish their conclusions next month. (( **conducting** | conducted by | conduct yesterday :: Conducting bổ nghĩa chủ động cho experts. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The road ___ in 1990 is still open. (( building | **built** | build :: Built là V3 trong mệnh đề bị động rút gọn: which was built in 1990. ))"
+      "questionHTML": "The findings ___ in the briefing were later independently verified. (( **presented** | presenting by | present yesterday :: Presented bổ nghĩa bị động cho findings. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "He was the first runner ___ the race. (( finishing | **to finish** | to finished :: Sau the first, to finish có thể rút gọn mệnh đề quan hệ chỉ người đầu tiên hoàn thành. ))"
+      "questionHTML": "The contract ___ at present will be signed once both parties agree. (( **being negotiated** | negotiated yesterday by | being negotiate :: Being + V3 nhấn mạnh quá trình bị động đang diễn ra. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The house ___ by Mai won a prize. (( designing | **designed** | design :: Designed by Mai rút gọn mệnh đề bị động that was designed by Mai. ))"
+      "questionHTML": "___ the evidence, the committee issued a statement. (( **Having evaluated** | Having evaluate | Having been evaluate :: Committee là chủ thể đánh giá trước khi đưa ra tuyên bố. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The children ___ at the bus stop are my friends. (( **waiting** | waited | to waiting :: Waiting rút gọn mệnh đề chủ động who are waiting; những người đó đang chờ. ))"
+      "questionHTML": "___ of the changes, the applicants revised their submissions. (( **Having been advised** | Having advised by | Having been advise :: Applicants được thông báo trước, nên dùng having been + V3. ))"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | students | studying | in | the | library | are | quiet. ~~"
+      "questionHTML": "~~ The | researchers | examining | the | data | identified | an | inconsistency. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | bridge | built | in | 1990 | is | still | open. ~~"
+      "questionHTML": "~~ The | evidence | submitted | to | the | panel | remains | confidential. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ She | was | the | first | student | to | finish | the | test. ~~"
+      "questionHTML": "~~ The | applications | being | reviewed | will | be | discussed | tomorrow. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | building | designed | by | Mai | won | a | prize. ~~"
+      "questionHTML": "~~ Having | assessed | the | risks, | the | panel | issued | its | decision. ~~"
     },
     {
       "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The staff {{preparing::Preparing bổ nghĩa chủ động cho staff.}} (prepare) the report requested a deadline extension."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The minutes {{approved::Approved là V3 bổ nghĩa bị động cho minutes.}} (approve) by the committee are now available."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The measures {{being considered::Being considered diễn tả các biện pháp đang được xem xét.}} (consider) now are intended to address the shortage."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The analyst {{leading::Leading bổ nghĩa chủ động cho analyst: người dẫn dắt cuộc điều tra.}} (lead) the inquiry will brief the board."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The report {{commissioned::Commissioned là V3 bổ nghĩa bị động cho report.}} (commission) by the regulator is now available."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{Having examined::Having examined nói panel đã xem xét trước khi kết luận; panel là chủ thể thực hiện.}} (examine) the records, the panel requested further clarification."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{Having been informed::Having been informed diễn tả việc committee được thông báo trước quyết định.}} (inform) of the risk, the committee revised the plan."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The witnesses {{awaiting::Awaiting bổ nghĩa chủ động cho witnesses đang chờ.}} (await) the hearing were offered assistance."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The conclusions {{outlined::Outlined là V3 bổ nghĩa bị động cho conclusions.}} (outline) in the report require further discussion."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The draft {{being revised::Being revised nhấn mạnh bản dự thảo đang được sửa.}} (revise) at present will be circulated next week."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{Not having received::Not having received nói board chưa nhận được bằng chứng trước khi hoãn quyết định.}} (receive) the evidence, the board deferred its decision."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The participants ___ the questionnaire will receive a summary. (( **completing** | completed by | complete yesterday :: Completing bổ nghĩa chủ động cho participants. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The data ___ by the laboratory have been independently checked. (( **analysed** | analysing by | analyse yesterday :: Analysed bổ nghĩa bị động cho data. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The policy ___ now will take effect next year. (( **being drafted** | being draft | drafted yesterday by :: Being drafted nhấn mạnh chính sách đang được soạn. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "___ the objections, the board amended the proposal. (( **Having considered** | Having consider | Having been consider :: Board là chủ thể xem xét trước khi sửa đề xuất. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "___ the preliminary results, the chair deferred a conclusion. (( **Not having obtained** | Not having obtain | Not have obtaining :: Not having + V3 diễn tả việc chưa có được thông tin trước hành động chính. ))"
+    },
+    {
+      "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | people | waiting | at | the | bus | stop | are | my | friends. ~~"
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The analysts {{reviewing::Reviewing rút gọn mệnh đề chủ động who are reviewing.}} (review) the report are preparing a summary."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The report {{published::Published rút gọn mệnh đề bị động which was published.}} (publish) in 2020 is available online."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The first researcher {{to complete::Sau the first, to + nguyên mẫu có thể rút gọn mệnh đề quan hệ.}} (complete) the project received an award."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The building {{designed::Designed by rút gọn mệnh đề bị động which was designed by.}} (design) by an architect won a prize."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The researchers {{working::Working rút gọn mệnh đề chủ động who are working.}} (work) in the laboratory are testing samples."
+      "questionHTML": "~~ Having | been | notified | of | the | delay, | the | panel | postponed | the | vote. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The researchers {{reviewing::Reviewing rút gọn mệnh đề chủ động who are reviewing.}} (review) the data will present their conclusions."
+      "type": "unscramble",
+      "questionHTML": "~~ The | report | commissioned | by | the | regulator | is | available. ~~"
     },
     {
       "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The specialists ___ the proposal are meeting today. (( reviewed by | **reviewing** | review to :: Reviewing rút gọn mệnh đề chủ động who are reviewing. ))"
+      "type": "unscramble",
+      "questionHTML": "~~ The | analyst | leading | the | inquiry | will | brief | the | board. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The catalogue {{published::Published rút gọn mệnh đề bị động which was published.}} (publish) in 2018 contains rare photographs."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The article ___ last year is available in the archive. (( publishing by | **published** | publish to :: Published rút gọn mệnh đề bị động which was published. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The first student {{to complete::Sau the first, to + nguyên mẫu có thể rút gọn mệnh đề quan hệ.}} (complete) the assignment presented the findings."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The first applicant ___ the assessment will be notified. (( to completing | **to complete** | completed to :: Sau the first, to + nguyên mẫu có thể rút gọn mệnh đề quan hệ. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The display {{designed::Designed by rút gọn mệnh đề bị động which was designed by.}} (design) by the curator attracted visitors."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The exhibition ___ by the team received an award. (( designing by | **designed** | design to :: Designed by rút gọn mệnh đề bị động which was designed by. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The technicians {{working::Working rút gọn mệnh đề chủ động who are working.}} (work) at the site need additional equipment."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The students ___ on the project will present tomorrow. (( worked by | **working** | work to :: Working rút gọn mệnh đề chủ động who are working. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The document {{approved::Approved by rút gọn which was approved by.}} (approve) by the committee is available online."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The first applicant {{to submit::Sau the first, dùng to + nguyên mẫu để rút gọn mệnh đề quan hệ.}} (submit) the form will be contacted."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The volunteers {{working::Working rút gọn who are working.}} (work) at the museum are preparing the exhibition."
+      "type": "unscramble",
+      "questionHTML": "~~ Not | having | received | the | evidence, | the | board | deferred | its | decision. ~~"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is preparing a report. The researchers {{reviewing::Reviewing rút gọn mệnh đề chủ động who are reviewing.}} (review) the data will present tomorrow. The report {{published::Published rút gọn mệnh đề bị động which was published.}} (publish) last year provides background. The first student {{to complete::Sau the first có thể dùng to + nguyên mẫu.}} (complete) the analysis will explain the method."
+      "questionHTML": "The researchers {{examining::Examining bổ nghĩa chủ động cho researchers.}} (examine) the data found an inconsistency. The documents {{submitted::Submitted bổ nghĩa bị động cho documents.}} (submit) to the panel were incomplete. {{Having been informed::Having been informed diễn tả việc panel được thông báo trước quyết định.}} (inform) of the issue, the panel postponed the vote."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A museum is planning an exhibition. The curator selected a display {{designed::Designed by rút gọn mệnh đề bị động.}} (design) by a local artist. The volunteers {{working::Working rút gọn mệnh đề chủ động who are working.}} (work) at the museum will guide visitors. The first guest {{to complete::Sau the first có thể dùng to + nguyên mẫu.}} (complete) the tour will provide feedback."
-    },
-    {
-      "tier": "apply",
-      "type": "paragraph-gap-fill",
-      "questionHTML": "A committee is reviewing an application. The specialists {{reviewing::Reviewing rút gọn mệnh đề chủ động.}} (review) the proposal will report today. The document {{approved::Approved by rút gọn mệnh đề bị động.}} (approve) by the panel will be published. The first researcher {{to complete::Sau the first có thể dùng to + nguyên mẫu.}} (complete) the work will receive a certificate."
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | researchers | reviewing | the | data | will | present | their | conclusions. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | article | published | last | year | is | available | in | the | archive. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | first | student | to | complete | the | assignment | received | an | award. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | exhibition | designed | by | the | team | attracted | many | visitors. ~~"
+      "questionHTML": "The applications {{being reviewed::Being reviewed chỉ quá trình xem xét đang diễn ra.}} (review) at present will be discussed tomorrow. The staff {{handling::Handling bổ nghĩa chủ động cho staff.}} (handle) the files requested additional guidance. {{Having assessed::Having assessed chỉ việc committee đánh giá trước khi hành động.}} (assess) the risks, the committee issued an interim statement."
     }
-  ]
+  ],
+  "lessonNumber": 4
 }

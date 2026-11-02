@@ -1,223 +1,224 @@
 {
-  "id": "g7-33",
-  "title": "33. Mệnh đề quan hệ Who, Which, That",
+  "id": "39",
+  "title": "39. Mệnh đề quan hệ Who, Which, That",
   "pages": [
     {
       "pageNumber": 1,
-      "pageTitle": "Who và Which",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · WHO VÀ WHICH</span></h2><p>Mệnh đề quan hệ bổ sung thông tin về một danh từ đứng trước nó.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>who thường chỉ người; which thường chỉ vật hoặc sự việc.<br>that có thể thay who hoặc which trong nhiều mệnh đề xác định.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The teacher who helped me is kind. → Giáo viên đã giúp tôi rất tốt bụng.<br>The book which is on the table is mine. → Quyển sách trên bàn là của tôi.</p><p><span class=\"highlight\">Lưu ý:</span> Mệnh đề xác định giúp nhận biết danh từ đang nói tới; không đặt dấu phẩy quanh mệnh đề này.</p>"
+      "pageTitle": "Mệnh đề xác định và không xác định",
+      "contentHTML": "<p>Mệnh đề xác định giới hạn đối tượng: The analyst who prepared the report is absent. Mệnh đề không xác định bổ sung thông tin và được ngăn bằng dấu phẩy: The analyst, who prepared the report, is absent. Không dùng that trong mệnh đề không xác định.</p>"
     },
     {
       "pageNumber": 2,
-      "pageTitle": "Whose và Where",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · WHOSE VÀ WHERE</span></h2><p>Whose chỉ quan hệ sở hữu; where thường giới thiệu một địa điểm.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>whose + danh từ: của người hoặc vật được nhắc tới.<br>where + mệnh đề: nơi mà một việc xảy ra.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The student whose bag is red is Lan. → Học sinh có túi màu đỏ là Lan.<br>Hanoi is the city where I was born. → Hà Nội là thành phố tôi sinh ra.</p><p><span class=\"highlight\">Lưu ý:</span> Trong một số cấu trúc có giới từ, which cũng có thể thay where: the city in which I was born.</p>"
+      "pageTitle": "Đại từ quan hệ và sở hữu",
+      "contentHTML": "<p>Who thường chỉ người; which chỉ vật; that có thể dùng trong nhiều mệnh đề xác định. Whose chỉ sở hữu cho người hoặc vật. Khi đại từ quan hệ làm tân ngữ trong mệnh đề xác định, đôi khi có thể lược bỏ, nhưng không lược bỏ khi làm chủ ngữ.</p>"
     },
     {
       "pageNumber": 3,
-      "pageTitle": "Mệnh đề không xác định",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · MỆNH ĐỀ KHÔNG XÁC ĐỊNH</span></h2><p>Mệnh đề không xác định thêm thông tin về một đối tượng đã được xác định.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Đặt dấu phẩy trước và sau mệnh đề không xác định khi nó nằm giữa câu.<br>Dùng who / which, không dùng that trong mệnh đề không xác định.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>My sister, who lives in Hue, is a teacher. → Chị tôi, người sống ở Huế, là giáo viên.<br>The museum, which opened in 1920, is popular. → Bảo tàng, mở cửa năm 1920, rất được yêu thích.</p><p><span class=\"highlight\">Lưu ý:</span> Việc dùng dấu phẩy phụ thuộc ý nghĩa: bỏ dấu phẩy có thể thay đổi thông tin nào là cần thiết để xác định danh từ.</p>"
+      "pageTitle": "Giới từ, địa điểm và thời gian",
+      "contentHTML": "<p>Sau giới từ đứng trước đại từ quan hệ, dùng whom cho người hoặc which cho vật: the adviser to whom I spoke; the framework within which the team operates. Where có thể tương đương in which trong ngữ cảnh địa điểm thích hợp; when có thể tương đương giới từ + which trong ngữ cảnh thời gian thích hợp.</p>"
     }
   ],
   "exercises": [
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The teacher {{who | that::Who và that đều có thể thay người làm chủ ngữ trong mệnh đề quan hệ xác định.}} helped me is very kind."
+      "questionHTML": "The analyst {{who | that::Trong mệnh đề xác định, who và that đều có thể làm chủ ngữ chỉ người.}} prepared the forecast will brief the board."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The book {{which | that::Which và that đều có thể thay vật làm chủ ngữ trong mệnh đề quan hệ xác định.}} is on the table is mine."
+      "questionHTML": "The protocol {{which | that::Trong mệnh đề xác định, which và that đều có thể làm chủ ngữ chỉ vật.}} governs data access was revised last month."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The student {{whose::Whose đứng trước bag hoặc bicycle để diễn tả quan hệ sở hữu.}} bag is red is Lan."
+      "questionHTML": "The lead researcher, {{who::Mệnh đề không xác định chỉ người dùng who làm chủ ngữ, không dùng that sau dấu phẩy.}} has extensive field experience, will chair the meeting."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "This is the town {{where | in which::Where và in which đều có thể chỉ địa điểm trong mệnh đề này.}} I was born."
+      "questionHTML": "The figures, {{which::Mệnh đề không xác định chỉ vật dùng which, không dùng that sau dấu phẩy.}} were independently verified, are available online."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The museum, {{which::Mệnh đề không xác định được ngăn bằng dấu phẩy và nói về vật, nên dùng which thay vì that hoặc who.}} opened in 1920, is popular."
+      "questionHTML": "The consultant {{whose::Whose chỉ quan hệ sở hữu giữa consultant và recommendations.}} recommendations were adopted will join the panel."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The archive {{where | in which::Where và in which đều có thể chỉ nơi lưu trữ trong ngữ cảnh này.}} the records were stored has been renovated."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The adviser {{to whom::Sau giới từ to đứng trước đại từ quan hệ chỉ người, dùng whom.}} the committee addressed its concerns responded promptly."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The framework {{within which::Within which chỉ phạm vi mà nhóm hoạt động; giới từ đứng trước which.}} the team operates is subject to annual review."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The date {{when | on which | that::When, on which và that đều có thể chỉ ngày diễn ra cuộc họp trong ngữ cảnh này.}} the hearing took place was published in advance."
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The nurse ___ helped us was very kind. (( whose | **who** | where :: Who thay cho người và làm chủ ngữ của helped trong mệnh đề quan hệ. ))"
+      "questionHTML": "The expert ___ advised the panel has published a response. (( **who** | whose has | whom did :: Who làm chủ ngữ chỉ người trong mệnh đề xác định. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The phone ___ is on the desk is mine. (( who | whose | **which** :: Which thay cho vật và làm chủ ngữ của is trong mệnh đề quan hệ. ))"
+      "questionHTML": "The report, ___ was published in June, is available online. (( **which** | that | whose is :: Trong mệnh đề không xác định sau dấu phẩy dùng which cho vật, không dùng that. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The child ___ bicycle is blue is Nam. (( **whose** | who | where :: Whose đứng trước bag hoặc bicycle để diễn tả quan hệ sở hữu. ))"
+      "questionHTML": "The researcher ___ findings prompted the inquiry will testify. (( **whose** | who his | which has :: Whose nối researcher với danh từ findings để chỉ sở hữu. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "This is the village ___ she grew up. (( who | **where** | whose :: Where thay cho địa điểm và giới thiệu mệnh đề nói việc xảy ra ở đó. ))"
+      "questionHTML": "The colleague to ___ the letter was addressed has retired. (( **whom** | who is | that did :: Sau giới từ to đứng trước đại từ quan hệ chỉ người, dùng whom. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The library, ___ opened in 1950, is popular. (( that | who | **which** :: Mệnh đề không xác định được ngăn bằng dấu phẩy và nói về vật, nên dùng which thay vì that hoặc who. ))"
+      "questionHTML": "The institution in ___ the records were held has closed. (( **which** | where is | that did :: Sau giới từ in đứng trước đại từ quan hệ chỉ vật hoặc nơi, dùng which. ))"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | teacher | who | helped | me | is | very | kind. ~~"
+      "questionHTML": "~~ The | analyst | who | prepared | the | forecast | will | brief | the | board. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | book | which | is | on | the | table | is | mine. ~~"
+      "questionHTML": "~~ The | protocol | that | governs | access | was | revised. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | student | whose | bag | is | red | is | Lan. ~~"
+      "questionHTML": "~~ The | lead | researcher, | who | has | extensive | experience, | will | chair | the | meeting. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ This | is | the | town | where | I | was | born. ~~"
+      "questionHTML": "~~ The | figures, | which | were | verified, | are | available | online. ~~"
     },
     {
       "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The scientist {{who | that::Who hoặc that có thể làm chủ ngữ chỉ người trong mệnh đề xác định.}} led the review has retired."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The briefing, {{which::Mệnh đề không xác định chỉ vật dùng which, không dùng that.}} began at noon, has concluded."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The witnesses {{who | that::Who hoặc that đều có thể làm chủ ngữ chỉ người trong mệnh đề xác định.}} provided written statements were later interviewed."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The proposal, {{which::Mệnh đề không xác định chỉ vật dùng which, không dùng that.}} was submitted in June, requires further revision."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The organisation {{whose::Whose chỉ quan hệ sở hữu giữa organisation và funding.}} funding was withdrawn has appealed the decision."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The colleague {{with whom::Sau giới từ with đứng trước đại từ chỉ người, dùng whom.}} the chair discussed the findings requested anonymity."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The laboratory {{where | in which::Where hoặc in which đều có thể chỉ địa điểm tiến hành các phép kiểm tra.}} the tests were conducted has closed."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The agreement {{which | that::Trong mệnh đề xác định, which hoặc that đều có thể làm chủ ngữ chỉ vật.}} regulates data sharing expires next year."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The adviser, {{who::Mệnh đề không xác định chỉ người dùng who làm chủ ngữ, không dùng that.}} has since retired, drafted the original terms."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The period {{when | during which | in which::When, during which và in which đều có thể chỉ khoảng thời gian cuộc điều tra diễn ra.}} the inquiry took place was unusually short."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The standard {{under which::Under which chỉ tiêu chuẩn làm căn cứ; giới từ đứng trước which.}} the application was assessed has changed."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The analyst, ___ has since resigned, prepared the forecast. (( **who** | that | whom has :: Mệnh đề không xác định chỉ người dùng who làm chủ ngữ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The standard under ___ the application was assessed has changed. (( **which** | that | where is :: Sau giới từ under đứng trước đại từ quan hệ, dùng which. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The applicant ___ qualifications impressed the panel was shortlisted. (( **whose** | who their | which has :: Whose chỉ quan hệ sở hữu với qualifications. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The building ___ houses the archive will be renovated. (( **that** | whom is | whose has :: That có thể làm chủ ngữ chỉ vật trong mệnh đề xác định. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The adviser with ___ the chair consulted requested anonymity. (( **whom** | that | who is :: Sau giới từ with đứng trước đại từ chỉ người, dùng whom. ))"
+    },
+    {
+      "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | museum, | which | opened | in | 1920, | is | popular. ~~"
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The researcher {{who | that::Who và that đều có thể thay người làm chủ ngữ trong mệnh đề quan hệ xác định.}} led the survey presented the findings."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The report {{which | that::Which và that đều có thể thay vật làm chủ ngữ trong mệnh đề quan hệ xác định.}} contains the results is online."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The researcher {{whose::Whose đứng trước danh từ để diễn tả quan hệ sở hữu.}} project received funding presented the results."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The library {{where | in which::Where và in which đều có thể chỉ địa điểm trong các mệnh đề này.}} the records are stored is open."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The archive, {{which::Sau dấu phẩy, mệnh đề không xác định chỉ vật dùng which; không dùng that.}} opened in 1920, is now digital."
+      "questionHTML": "~~ The | consultant | whose | recommendations | were | adopted | joined | the | panel. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The specialist {{who | that::Who và that đều có thể thay người làm chủ ngữ trong mệnh đề quan hệ xác định.}} designed the study explained its limitations."
+      "type": "unscramble",
+      "questionHTML": "~~ The | archive | where | the | records | were | stored | has | been | renovated. ~~"
     },
     {
       "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The lecturer ___ supervises the project will attend. (( whose | **who** | where :: Who và that đều có thể thay người làm chủ ngữ trong mệnh đề quan hệ xác định. ))"
+      "type": "unscramble",
+      "questionHTML": "~~ The | adviser | to | whom | the | committee | wrote | responded | promptly. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The instrument {{which | that::Which và that đều có thể thay vật làm chủ ngữ trong mệnh đề quan hệ xác định.}} measures pressure was inspected."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The document ___ explains the method is available. (( who | **which** | whose :: Which và that đều có thể thay vật làm chủ ngữ trong mệnh đề quan hệ xác định. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The student {{whose::Whose đứng trước danh từ để diễn tả quan hệ sở hữu.}} article won the prize gave a lecture."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The curator ___ collection was donated spoke at the event. (( who | **whose** | where :: Whose đứng trước danh từ để diễn tả quan hệ sở hữu. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The university {{where | in which::Where và in which đều có thể chỉ địa điểm trong các mệnh đề này.}} the research was conducted published the report."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The city ___ the conference was held has a new museum. (( who | **where** | whose :: Where và in which đều có thể chỉ địa điểm trong các mệnh đề này. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The report, {{which::Sau dấu phẩy, mệnh đề không xác định chỉ vật dùng which; không dùng that.}} was published yesterday, is available online."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The museum, ___ opened last year, has a new collection. (( that | **which** | who :: Sau dấu phẩy, mệnh đề không xác định chỉ vật dùng which; không dùng that. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The researcher {{who | whom | that::Who, whom và that đều có thể thay người làm tân ngữ trong mệnh đề quan hệ xác định.}} the panel appointed will lead the survey."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The method {{which | that::Which và that đều có thể thay vật làm tân ngữ trong mệnh đề quan hệ xác định.}} the team selected reduced costs."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The report, {{which::Mệnh đề không xác định sau dấu phẩy dùng which để chỉ vật; không dùng that.}} was revised yesterday, is available online."
+      "type": "unscramble",
+      "questionHTML": "~~ The | agreement | that | regulates | data | sharing | expires | next | year. ~~"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university published a new study. The researcher {{who | that::Who và that đều có thể làm chủ ngữ chỉ người trong mệnh đề xác định.}} led the project thanked the team. The report {{which | that::Which và that đều có thể làm chủ ngữ chỉ vật trong mệnh đề xác định.}} contains the results is available online. The laboratory, {{which::Mệnh đề không xác định sau dấu phẩy dùng which để chỉ vật.}} opened in 2018, supported the work."
+      "questionHTML": "The analyst {{who | that::Who hoặc that đều làm chủ ngữ chỉ người trong mệnh đề xác định.}} prepared the forecast has joined the review. Her report, {{which::Mệnh đề không xác định chỉ vật dùng which, không dùng that.}} was published in June, contains revised estimates. The organisation {{whose::Whose chỉ quan hệ sở hữu với funding.}} funding was withdrawn has requested a meeting."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A library is digitising a collection. The curator {{whose::Whose đứng trước danh từ collection để chỉ sự sở hữu.}} collection was donated explained its history. The archive {{where | in which::Where và in which đều có thể chỉ địa điểm trong mệnh đề này.}} the documents are stored is being renovated. The catalogue {{which | that::Which và that đều thay vật làm chủ ngữ trong mệnh đề xác định.}} lists the letters is online."
-    },
-    {
-      "tier": "apply",
-      "type": "paragraph-gap-fill",
-      "questionHTML": "A committee appointed an adviser. The specialist {{who | whom | that::Who, whom và that đều có thể làm tân ngữ chỉ người trong mệnh đề xác định.}} the panel selected will review the project. The proposal {{which | that::Which và that đều có thể làm tân ngữ chỉ vật trong mệnh đề xác định.}} the team submitted is detailed. The university, {{which::Mệnh đề không xác định sau dấu phẩy dùng which để chỉ tổ chức.}} funded the project, will publish the report."
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | researcher | who | led | the | survey | presented | the | findings. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | document | that | explains | the | method | is | available | online. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | curator | whose | collection | was | donated | spoke | at | the | event. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | museum, | which | opened | last | year, | has | a | new | collection. ~~"
+      "questionHTML": "The archive {{where | in which::Where và in which đều có thể chỉ nơi lưu trữ.}} the records were held has closed. The adviser {{to whom::Sau giới từ to đứng trước đại từ chỉ người dùng whom.}} the committee wrote has responded. The records, {{which::Mệnh đề không xác định chỉ vật dùng which.}} were independently verified, remain available."
     }
-  ]
+  ],
+  "lessonNumber": 3
 }

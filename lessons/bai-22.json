@@ -1,223 +1,224 @@
 {
-  "id": "g4-22",
-  "title": "22. Suy đoán ở quá khứ",
+  "id": "25",
+  "title": "25. Suy đoán ở quá khứ",
   "pages": [
     {
       "pageNumber": 1,
       "pageTitle": "Suy đoán mạnh về quá khứ",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · SUY ĐOÁN MẠNH VỀ QUÁ KHỨ</span></h2><p>Dùng modal + have + phân từ quá khứ để nhìn lại một sự việc chưa được xác nhận.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>must have + V3: người nói suy đoán mạnh rằng việc đã xảy ra.<br>can’t / cannot have + V3: người nói cho rằng việc gần như không thể xảy ra.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The road is wet; it must have rained last night. → Chắc hẳn trời đã mưa.<br>She was with us all day; she can’t have attended the meeting. → Cô ấy không thể đã dự họp.</p><p><span class=\"highlight\">Lưu ý:</span> Must have là suy đoán theo bằng chứng, không tự nó chứng minh sự việc.</p>"
+      "contentHTML": "<p>Must have + V3 diễn tả suy đoán mạnh về điều đã xảy ra: The lights are off; they must have left. Người nói suy luận từ bằng chứng chứ không xác nhận sự thật.</p>"
     },
     {
       "pageNumber": 2,
-      "pageTitle": "Khả năng trong quá khứ",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · KHẢ NĂNG TRONG QUÁ KHỨ</span></h2><p>Might, may và could + have + V3 nêu điều có thể đã xảy ra.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>might / may / could have + V3: có thể đã xảy ra.<br>V3 có thể bất quy tắc: leave → left, forget → forgotten, take → taken.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>She might have missed the bus. → Có thể cô ấy đã lỡ xe buýt.<br>They could have taken another route. → Có thể họ đã đi tuyến khác.</p><p><span class=\"highlight\">Lưu ý:</span> Các cấu trúc này đôi khi còn diễn tả khả năng đã có nhưng không được thực hiện; cần đọc ngữ cảnh.</p>"
+      "pageTitle": "Khả năng và sự bác bỏ",
+      "contentHTML": "<p>May / might / could have + V3 chỉ một khả năng trong quá khứ. Can’t / cannot have + V3 nói điều gần như không thể đã xảy ra theo bằng chứng.</p>"
     },
     {
       "pageNumber": 3,
-      "pageTitle": "Phân biệt hiện tại và quá khứ",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · PHÂN BIỆT HIỆN TẠI VÀ QUÁ KHỨ</span></h2><p>Hãy chọn mốc thời gian trước, rồi chọn modal theo mức độ chắc chắn.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Hiện tại: She must be tired.<br>Suy đoán về sự việc trước đó: She must have worked late.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>He might be at home now. → Có thể bây giờ anh ấy ở nhà.<br>He might have left earlier. → Có thể anh ấy đã rời đi trước đó.</p><p><span class=\"highlight\">Lưu ý:</span> Sau have dùng V3, không dùng V nguyên mẫu khi dạng phân từ khác: might have gone, không phải might have go.</p>"
+      "pageTitle": "Phân biệt kết luận với sự thật",
+      "contentHTML": "<p>Có thể có nhiều cách diễn đạt phù hợp khi mức độ chắc chắn không được xác định. Với could have, cần chú ý ngữ cảnh vì cấu trúc này còn có thể nói về khả năng không được thực hiện.</p>"
     }
   ],
   "exercises": [
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The lights are off and nobody is here; they {{must have left::Must have + V3 diễn tả suy đoán mạnh về việc đã xảy ra; left là V3 của leave.}} [must] (leave) already."
+      "questionHTML": "The empty car park suggests they {{must have left::Must have + V3 nêu suy đoán mạnh về việc đã xảy ra.}} (leave) [rất có thể] already."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Perhaps Lan {{might have forgotten | may have forgotten | could have forgotten::Might, may hoặc could have + V3 đều có thể nêu khả năng trong quá khứ.}} [might] (forget) her keys; I am not certain."
+      "questionHTML": "Perhaps Nina {{may have forgotten | might have forgotten | could have forgotten::Ba dạng này đều nêu một khả năng trong quá khứ chưa xác nhận.}} (forget) the appointment; we do not know."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "She was with us all day, so she {{can't have been | cannot have been::Can’t/cannot have been diễn tả suy đoán gần như không thể xảy ra trong quá khứ.}} [cannot] (be) at the conference."
+      "questionHTML": "She was beside us all morning, so she {{cannot have been | can't have been | can’t have been::Cannot / can’t have + V3 loại trừ khả năng trong quá khứ dựa trên bằng chứng.}} (be) [không thể] at the airport then."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Perhaps they {{could have missed | might have missed | may have missed::Could, might hoặc may have + V3 đều có thể nêu khả năng trong quá khứ.}} [could] (miss) the earlier bus; we do not know."
+      "questionHTML": "Perhaps the driver {{may have missed | might have missed | could have missed::Các modal này đều có thể nêu khả năng chưa chắc chắn trong quá khứ.}} (miss) the turning; no one knows."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Perhaps he {{may have taken | might have taken | could have taken::May, might hoặc could have + V3 đều có thể nêu khả năng trong quá khứ.}} [may] (take) the wrong bag by mistake."
+      "questionHTML": "The signed receipt shows the customer {{must have received::Must have received nêu suy đoán mạnh về hành động đã xảy ra.}} (receive) [rất có thể] the parcel."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The file was locked in our safe all night, so it {{cannot have been | can't have been | can’t have been::Bằng chứng vật ở trong két loại trừ việc nó ở nơi khác cùng lúc.}} (be) [không thể] in the other office then."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Perhaps the visitor {{may have taken | might have taken | could have taken::Ba dạng đều nêu khả năng chưa xác nhận trong quá khứ.}} (take) the wrong coat; the mistake has not been explained."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The project is complete and the team sent confirmation, so they {{must have finished::Must have + V3 nêu kết luận mạnh dựa trên bằng chứng.}} (finish) [rất có thể] the work."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Perhaps the speaker {{may have misunderstood | might have misunderstood | could have misunderstood::Các dạng này nêu khả năng trong quá khứ chứ không xác nhận nguyên nhân.}} (misunderstand) the question; we are not certain."
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "Her desk is empty and her coat is gone; she ___ already. (( **must have left** | must has left | must have leave :: Must have + V3 diễn tả suy đoán mạnh về việc đã xảy ra; left là V3 của leave. ))"
+      "questionHTML": "The door is locked and her coat is gone; she ___ already. (( **must have gone** | must has gone | must have go :: Must have + V3 diễn tả suy đoán mạnh về quá khứ. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "Perhaps he ___ the password, but I do not know. (( might have forget | **might have forgotten** | must has forgotten :: Might have + V3 nêu một khả năng trong quá khứ; forgotten là V3 của forget. ))"
+      "questionHTML": "He was beside us all day, so he ___ the in-person meeting abroad. (( **cannot have attended** | cannot has attended | must have attend :: Cannot have + V3 loại trừ việc đó dựa trên bằng chứng. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "He was with us all day, so he ___ at the conference. (( must have been | **can't have been** | can't has been :: Can’t have been diễn tả sự việc trong quá khứ bị loại trừ bởi bằng chứng người đó ở cùng chúng ta. ))"
+      "questionHTML": "Perhaps she ___ the email; nobody knows. (( **might have deleted** | might has deleted | might have delete :: Might have + V3 nêu khả năng chưa chắc chắn. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "Perhaps she ___ the earlier train; nobody is sure. (( **could have missed** | could has missed | could have miss :: Could have + V3 ở đây nêu một khả năng đã xảy ra, còn missed là V3 của miss. ))"
+      "questionHTML": "The project team sent the signed form, so they ___ it. (( **must have approved** | must has approved | must have approve :: Must have + V3 nêu suy đoán mạnh về việc đã xảy ra. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "Perhaps she ___ the wrong train; we are not certain. (( may have took | **may have taken** | may has taken :: May have + V3 nêu khả năng trong quá khứ; taken là V3 của take. ))"
+      "questionHTML": "The machine stayed switched off, so it ___ the data that night. (( **cannot have recorded** | cannot has recorded | must have record :: Cannot have + V3 loại trừ hành động theo bằng chứng. ))"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ They | must | have | left | already. ~~"
+      "questionHTML": "~~ They | must | have | left | already. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ She | might | have | forgotten | the | keys. ~~"
+      "questionHTML": "~~ She | might | have | forgotten | the | appointment. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ She | cannot | have | been | at | the | conference. ~~"
+      "questionHTML": "~~ He | cannot | have | been | at | the | airport. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ They | could | have | missed | the | bus. ~~"
+      "questionHTML": "~~ The | visitor | could | have | taken | the | wrong | coat. ~~"
     },
     {
       "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Perhaps the assistant {{might have lost | may have lost | could have lost::Các modal này đều nêu khả năng quá khứ chưa xác nhận.}} (lose) the key; we do not know."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The guard was with us throughout the meeting, so he {{cannot have entered | can't have entered | can’t have entered::Bằng chứng về vị trí loại trừ việc đi vào phòng khác cùng lúc.}} (enter) [không thể] the other room during it."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The technician was with me all afternoon, so he {{cannot have repaired | can't have repaired | can’t have repaired::Sự có mặt liên tục ở nơi khác loại trừ việc sửa máy trong khoảng thời gian đó.}} (repair) [không thể] the machine across town in person during that time."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The packed bags and empty room suggest the guests {{must have departed::Must have + V3 nêu suy đoán mạnh về sự việc đã xảy ra.}} (depart) [rất có thể] already."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Perhaps she {{may have overlooked | might have overlooked | could have overlooked::Các dạng này nêu khả năng chưa được xác nhận.}} (overlook) the detail; we have not asked her."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The painting remained in our sight all day, so it {{cannot have disappeared | can't have disappeared | can’t have disappeared::Bằng chứng quan sát loại trừ sự biến mất trong thời gian đó.}} (disappear) [không thể] during that time."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The wet footprints suggest someone {{must have entered::Must have entered diễn tả suy đoán mạnh từ dấu hiệu để lại.}} (enter) [rất có thể] the room."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Perhaps the courier {{may have chosen | might have chosen | could have chosen::Các dạng này đều nêu một khả năng trong quá khứ.}} (choose) a different route; we lack confirmation."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The author was abroad all week, so she {{cannot have attended | can't have attended | can’t have attended::Bằng chứng về vị trí loại trừ việc tham dự trực tiếp.}} (attend) [không thể] the in-person meeting here that week."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The attached photograph and signed note suggest they {{must have completed::Must have completed nêu kết luận mạnh về việc hoàn tất trước hiện tại.}} (complete) [rất có thể] the task."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Perhaps the assistant {{may have confused | might have confused | could have confused::Các dạng này nêu khả năng, không khẳng định nguyên nhân.}} (confuse) the dates; we have not verified it."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Perhaps the guest ___ the invitation; we cannot be sure. (( **may have overlooked** | may has overlooked | may have overlook :: May have + V3 nêu khả năng chưa xác nhận. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The empty desk suggests he ___ the office. (( **must have vacated** | must has vacated | must have vacate :: Must have + V3 nêu suy đoán mạnh về quá khứ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The package never left our office, so it ___ at the venue yesterday. (( **cannot have arrived** | cannot has arrived | cannot have arrive :: Cannot have + V3 chỉ điều bị loại trừ bởi bằng chứng. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Perhaps the guide ___ a different route; we have no confirmation. (( **could have selected** | could has selected | could have select :: Could have + V3 có thể diễn tả khả năng trong quá khứ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The signed confirmation suggests the director ___ the proposal. (( **must have accepted** | must has accepted | must have accept :: Must have + V3 nêu suy đoán mạnh dựa trên bằng chứng. ))"
+    },
+    {
+      "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ He | may | have | taken | the | wrong | bag. ~~"
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The office is empty; the staff {{must have left::Must have + V3 diễn tả suy đoán mạnh về một hành động đã xảy ra.}} (leave) [rất có thể] already."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The director was with us all day, so she {{can't have been | cannot have been::Can’t/cannot have + V3 diễn tả việc gần như không thể đã xảy ra.}} (be) [not] [gần như không thể] at the conference."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "Perhaps the assistant {{may have forgotten | might have forgotten | could have forgotten::May, might hoặc could have + V3 đều có thể diễn tả một khả năng trong quá khứ.}} (forget) [có thể] the appointment; we are not sure."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The visitors {{may have missed | might have missed | could have missed::May, might và could have missed đều nêu một khả năng chưa chắc chắn trong quá khứ.}} (miss) [có thể] the earlier train; we have no confirmation."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The completed report is on the desk; the team {{must have completed::Must have completed diễn tả suy đoán mạnh rằng hành động đã hoàn tất.}} (complete) [rất có thể] it."
+      "questionHTML": "~~ They | must | have | finished | the | work. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The meeting room is locked and everyone has gone; the panel {{must have left::Must have + V3 diễn tả suy đoán mạnh về một hành động đã xảy ra.}} (leave) [rất có thể] already."
+      "type": "unscramble",
+      "questionHTML": "~~ The | assistant | may | have | confused | the | dates. ~~"
     },
     {
       "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "All the equipment is packed; the technicians ___ already. (( must has left | **must have left** | must having left :: Must have + V3 diễn tả suy đoán mạnh về một hành động đã xảy ra. ))"
+      "type": "unscramble",
+      "questionHTML": "~~ The | courier | might | have | chosen | another | route. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The document was in the archive throughout the day, so it {{can't have been | cannot have been::Can’t/cannot have + V3 diễn tả việc gần như không thể đã xảy ra.}} (be) [not] [gần như không thể] at the exhibition."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The researcher was in Hanoi all day, so she ___ in London at noon. (( can't has been | **can't have been** | cannot have be :: Can’t/cannot have + V3 diễn tả việc gần như không thể đã xảy ra. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The curator {{may have forgotten | might have forgotten | could have forgotten::May, might hoặc could have + V3 đều có thể diễn tả một khả năng trong quá khứ.}} (forget) [có thể] the request, although no one knows."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The analyst ___ the email; this is only a possibility. (( may has forgotten | **may have forgotten** | might have forget :: May, might hoặc could have + V3 đều có thể diễn tả một khả năng trong quá khứ. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The team {{may have missed | might have missed | could have missed::May, might và could have missed đều nêu một khả năng chưa chắc chắn trong quá khứ.}} (miss) [có thể] the first announcement, but the reason is unknown."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The assistant ___ the deadline; nobody knows. (( may has missed | **may have missed** | might have miss :: May, might và could have missed đều nêu một khả năng chưa chắc chắn trong quá khứ. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The results are published; the researchers {{must have completed::Must have completed diễn tả suy đoán mạnh rằng hành động đã hoàn tất.}} (complete) [rất có thể] their review."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The final document is signed; the director ___ the approval. (( must has completed | **must have completed** | must have complete :: Must have completed diễn tả suy đoán mạnh rằng hành động đã hoàn tất. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "Perhaps the curator {{may have forgotten | might have forgotten | could have forgotten::May, might hoặc could have + V3 đều có thể nêu khả năng trong quá khứ.}} (forget) [có thể] the email; no one is sure."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The researcher was with us all day, so she {{can't have been | cannot have been::Can’t/cannot have been diễn tả việc gần như không thể đã xảy ra.}} (be) [not] [gần như không thể] in another city at noon."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The report is complete and signed; the panel {{must have completed::Must have completed diễn tả suy đoán mạnh về một hành động đã hoàn tất.}} (complete) [rất có thể] its review."
+      "type": "unscramble",
+      "questionHTML": "~~ The | author | cannot | have | attended | the | meeting. ~~"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A curator is checking a missed appointment. The assistant {{may have forgotten | might have forgotten | could have forgotten::May, might và could have + V3 đều nêu khả năng chưa chắc chắn trong quá khứ.}} (forget) [có thể] the time, but nobody knows. The curator {{can't have been | cannot have been::Can’t/cannot have been chỉ việc gần như không thể xảy ra trong quá khứ.}} (be) [not] [gần như không thể] elsewhere at noon because she was with us. The signed documents indicate that the panel {{must have completed::Must have completed diễn tả suy đoán mạnh rằng việc đã hoàn tất.}} (complete) [rất có thể] its review."
+      "questionHTML": "The organiser is investigating a delay. The courier {{may have missed | might have missed | could have missed::Các dạng này nêu khả năng quá khứ chưa xác nhận.}} (miss) the train. The parcel stayed in the office, so it {{cannot have been | can't have been | can’t have been::Bằng chứng cho thấy kiện hàng không thể ở nơi khác cùng lúc.}} (be) [không thể] at the venue yesterday. A signed receipt suggests the team {{must have received::Must have + V3 nêu suy đoán mạnh dựa trên bằng chứng.}} (receive) [rất có thể] a different parcel."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team is investigating a delay. The courier {{may have missed | might have missed | could have missed::May, might và could have missed đều nêu một khả năng chưa chắc chắn.}} (miss) [có thể] the train. The package {{can't have been | cannot have been::Can’t/cannot have been nêu điều gần như không thể vì nó đã được giữ tại văn phòng.}} (be) [not] [gần như không thể] at the venue yesterday because it stayed in the office. The finished report suggests the team {{must have completed::Must have completed diễn tả suy đoán mạnh về việc đã hoàn tất.}} (complete) [rất có thể] its analysis."
-    },
-    {
-      "tier": "apply",
-      "type": "paragraph-gap-fill",
-      "questionHTML": "An organiser found an empty meeting room. The participants {{must have left::Must have left là suy đoán mạnh về hành động đã xảy ra.}} (leave) [rất có thể] already. One speaker {{may have missed | might have missed | could have missed::Các dạng này đều nêu khả năng chưa chắc chắn trong quá khứ.}} (miss) [có thể] the announcement. She {{can't have been | cannot have been::Can’t/cannot have been chỉ việc gần như không thể vì người đó đã ở bên người nói.}} (be) [not] [gần như không thể] in another city because she was with us all morning."
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | staff | must | have | left | before | the | building | was | locked. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | curator | cannot | have | been | elsewhere | because | she | was | with | us. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | courier | might | have | missed | the | earlier | train. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | signed | document | suggests | the | team | must | have | completed | its | review. ~~"
+      "questionHTML": "An empty office raises questions. The packed bags suggest the staff {{must have left::Must have + V3 diễn tả suy đoán mạnh về quá khứ.}} (leave) [rất có thể] already. Perhaps the assistant {{may have forgotten | might have forgotten | could have forgotten::Các dạng này chỉ khả năng, không xác nhận nguyên nhân.}} (forget) the meeting. The manager was with us all morning, so she {{cannot have been | can't have been | can’t have been::Bằng chứng loại trừ việc cô ấy ở nơi khác cùng lúc.}} (be) [không thể] in another city then."
     }
-  ]
+  ],
+  "lessonNumber": 4
 }

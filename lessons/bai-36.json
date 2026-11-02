@@ -1,223 +1,224 @@
 {
-  "id": "g8-36",
-  "title": "36. Câu điều kiện loại 2, 3 & Hỗn hợp",
+  "id": "43",
+  "title": "43. Câu điều kiện loại 2, 3 & Hỗn hợp",
   "pages": [
     {
       "pageNumber": 1,
       "pageTitle": "Điều kiện loại 2",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · ĐIỀU KIỆN LOẠI 2</span></h2><p>Loại 2 thường nói về tình huống giả định hoặc ít có thật ở hiện tại hay tương lai.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>If + quá khứ đơn, would + V nguyên mẫu.<br>If I had more time, I would travel.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>If I were you, I would ask for help. → Nếu là bạn, tôi sẽ nhờ giúp.<br>If she lived closer, she would walk to work. → Nếu cô ấy sống gần hơn, cô ấy sẽ đi bộ.</p><p><span class=\"highlight\">Lưu ý:</span> Were thường được dùng với mọi chủ ngữ trong cách diễn đạt giả định trang trọng; was cũng xuất hiện trong giao tiếp thân mật.</p>"
+      "contentHTML": "<p>Điều kiện loại 2 thường dùng if + quá khứ đơn và would/could/might + nguyên mẫu để nói về tình huống giả định ở hiện tại hoặc tương lai: If the funds were available, the team could expand. Were thường dùng trong văn phong trang trọng với các chủ ngữ.</p>"
     },
     {
       "pageNumber": 2,
       "pageTitle": "Điều kiện loại 3",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · ĐIỀU KIỆN LOẠI 3</span></h2><p>Loại 3 giả định điều trái với sự việc đã xảy ra trong quá khứ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>If + had + V3, would have + V3.<br>If I had studied, I would have passed.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>If we had left earlier, we would have caught the train. → Nếu đi sớm hơn, chúng tôi đã bắt được tàu.<br>If she had called, I would have answered. → Nếu cô ấy đã gọi, tôi đã trả lời.</p><p><span class=\"highlight\">Lưu ý:</span> Mệnh đề if dùng had + V3; mệnh đề kết quả dùng would have + V3.</p>"
+      "contentHTML": "<p>Điều kiện loại 3 thường dùng if + had + V3 và would/could/might have + V3 để nói về quá khứ trái với thực tế: If the team had checked the figures, it might have found the error.</p>"
     },
     {
       "pageNumber": 3,
-      "pageTitle": "Điều kiện hỗn hợp",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · ĐIỀU KIỆN HỖN HỢP</span></h2><p>Điều kiện trong quá khứ có thể tạo ra một kết quả giả định ở hiện tại.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>If + had + V3, would + V nguyên mẫu + now.<br>Chọn thì theo thời điểm của điều kiện và thời điểm của kết quả.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>If I had saved more, I would have enough money now. → Nếu trước đây tiết kiệm hơn, giờ tôi đã có đủ tiền.<br>If she had slept earlier, she would feel better now. → Nếu ngủ sớm hơn, giờ cô ấy sẽ thấy khỏe hơn.</p><p><span class=\"highlight\">Lưu ý:</span> Trong would have enough money now, have là động từ mang nghĩa có; cấu trúc này không phải would have + V3.</p>"
+      "pageTitle": "Điều kiện hỗn hợp và sắc thái",
+      "contentHTML": "<p>Điều kiện hỗn hợp liên kết thời gian khác nhau: If she had accepted the post, she would work here now (giả định quá khứ, kết quả hiện tại). If he were more organised, he might have met yesterday’s deadline (đặc điểm hiện tại, kết quả quá khứ). Modal khác nhau thể hiện mức độ hoặc loại kết quả khác nhau.</p>"
     }
   ],
   "exercises": [
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "If I had more time, I {{would travel::Điều kiện loại 2 dùng would + V nguyên mẫu cho kết quả giả định ở hiện tại hoặc tương lai.}} (travel) more often."
+      "questionHTML": "If the organisation {{had::Had trong mệnh đề if diễn tả giả định trái với hiện tại; thực tế tổ chức không có đủ kinh phí.}} (have) sufficient funding now, it could expand the programme; in fact, funding is insufficient."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "If I {{were | was::Were là dạng giả định trang trọng; was cũng được dùng trong văn nói thân mật.}} (be) you, I would ask for help."
+      "questionHTML": "If the analyst {{were | was::Were và was đều có thể dùng trong điều kiện loại 2; were thường trang trọng hơn.}} (be) available now, we would ask her to review the report, but she is unavailable."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "If we had left earlier, we {{would have caught::Loại 3 dùng would have + V3; caught là V3 của catch.}} [would] (catch) the train."
+      "questionHTML": "If the team {{had checked::Had + V3 diễn tả giả định trái với quá khứ; nhóm đã không kiểm tra.}} (check) the figures yesterday, it might have noticed the discrepancy; in fact, it did not check them."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "If I {{had studied::Điều kiện loại 3 dùng had + V3 trong mệnh đề if để giả định trái với quá khứ.}} (study) harder, I would have passed the test."
+      "questionHTML": "If the applicant had submitted the form on time, the panel {{would have considered | might have considered | could have considered::Các modal này đều có thể diễn tả kết quả giả định trong quá khứ, với mức độ chắc chắn khác nhau.}} (consider) it; in fact, the form was late."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "If I had saved more last year, I {{would have::Điều kiện quá khứ dẫn đến kết quả giả định ở hiện tại: would have nghĩa là sẽ có đủ tiền bây giờ.}} (have) enough money now."
+      "questionHTML": "If the contract {{were | was::Were và was đều có thể dùng trong mệnh đề điều kiện giả định về hiện tại.}} (be) more flexible, the parties might reach an agreement; it is currently inflexible."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If the committee had consulted residents before the vote, it {{would have understood | might have understood | could have understood::Các modal này diễn tả kết quả giả định quá khứ với sắc thái khác nhau.}} (understand) their concerns; it did not consult them."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If the director {{had accepted::Had accepted nói về hành động quá khứ trái thực tế; bà đã không nhận vị trí.}} (accept) the role last year, she would be working here now; she declined it."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If the manager {{were | was::Were hoặc was có thể nêu đặc điểm giả định ở hiện tại dẫn đến kết quả giả định trong quá khứ.}} (be) more organised, he might have met yesterday’s deadline; he is currently disorganised."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If the laboratory {{had maintained::Had maintained nói về hành động quá khứ trái thực tế trước sự cố.}} (maintain) the equipment properly, the breakdown might have been avoided; maintenance was neglected."
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "If we had more time, we ___ more often. (( will travel | **would travel** | would have travelled :: Điều kiện loại 2 dùng would + V nguyên mẫu cho kết quả giả định ở hiện tại hoặc tương lai. ))"
+      "questionHTML": "If the institution ___ more resources now, it could support additional research; it currently lacks them. (( **had** | has yesterday | will had :: Had trong if nêu giả định trái với hiện tại. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "If I ___ the manager, I would review the plan. (( am | **were** | had been :: If I were là dạng giả định thường dùng trong lời khuyên hoặc tình huống không có thật ở hiện tại. ))"
+      "questionHTML": "If the records ___ before the inspection yesterday, the error might have been detected; they were not reviewed. (( **had been reviewed** | have been review | are reviewing yesterday :: Had been + V3 nêu giả định bị động trái với quá khứ. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "If they had left earlier, they ___ the train. (( would catch | **would have caught** | will catch :: Loại 3 dùng would have + V3; caught là V3 của catch. ))"
+      "questionHTML": "If he ___ the appointment last year, he would be working here now; he declined it. (( **had accepted** | accepts yesterday | has accept yesterday :: Had accepted nêu điều kiện quá khứ trái thực tế với kết quả giả định hiện tại. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "If she ___ harder, she would have passed the test. (( studied | **had studied** | would study :: Điều kiện loại 3 dùng had + V3 trong mệnh đề if để giả định trái với quá khứ. ))"
+      "questionHTML": "If the coordinator ___ more methodical, she might have spotted the omission yesterday; she is generally careless. (( **were** | will was | had be yesterday :: Were nêu đặc điểm hiện tại giả định dẫn đến kết quả quá khứ giả định. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "If we had saved more last year, we ___ enough money now. (( would have had | **would have** | had had :: Điều kiện quá khứ dẫn đến kết quả giả định ở hiện tại: would have nghĩa là sẽ có đủ tiền bây giờ. ))"
+      "questionHTML": "If the archives ___ accessible now, researchers could consult the originals; they are closed. (( **were** | are yesterday | will were :: Were nêu trạng thái giả định trái với hiện tại. ))"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ If | I | had | more | time, | I | would | travel. ~~"
+      "questionHTML": "~~ If | the | funds | were | available, | the | team | could | expand. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ If | I | were | you, | I | would | ask | for | help. ~~"
+      "questionHTML": "~~ If | the | analyst | were | available, | we | would | ask | her. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ If | we | had | left | earlier, | we | would | have | caught | the | train. ~~"
+      "questionHTML": "~~ If | the | team | had | checked | the | figures, | it | might | have | noticed | the | discrepancy. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ If | I | had | studied | harder, | I | would | have | passed. ~~"
+      "questionHTML": "~~ If | the | contract | were | flexible, | the | parties | might | agree. ~~"
     },
     {
       "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If the board {{had::Had nêu giả định trái với thực tế hiện tại là không đủ thời gian.}} (have) more time now, it could consider further evidence; it has no time."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "If the report {{had been submitted::Had been + V3 nêu giả định bị động trái với thực tế quá khứ.}} (submit) yesterday, the panel could have read it; it was not submitted."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If the team {{knew::Knew trong mệnh đề if nêu giả định trái với việc nhóm hiện không biết câu trả lời.}} (know) the answer now, it would respond immediately; it does not know it."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If she had taken the earlier train yesterday, she {{would have arrived | might have arrived | could have arrived::Các modal này đều có thể diễn tả kết quả giả định quá khứ với sắc thái khác nhau.}} (arrive) before the meeting; she missed that train."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If the researchers {{had retained::Had retained nêu giả định trái với việc các nhà nghiên cứu không giữ dữ liệu.}} (retain) the original data, they could have repeated the analysis; the data were discarded."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If the policy {{were | was::Were hoặc was có thể dùng trong giả định loại 2 về hiện tại.}} (be) less restrictive now, more applicants might qualify; it is currently restrictive."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If he had studied law at university, he {{would be | might be | could be::Kết quả giả định ở hiện tại theo một điều kiện quá khứ có thể dùng các modal này.}} (be) a lawyer now; in fact he studied engineering."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If the staff {{had received::Had received nêu giả định trái với việc nhân viên chưa được hướng dẫn trước sự cố.}} (receive) adequate training before the incident, they might have responded differently."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If the supplier {{delivered::Quá khứ đơn trong if diễn tả giả định về hiện tại hoặc tương lai, không nhất thiết là quá khứ thực.}} (deliver) locally, we would order from it; it does not offer local delivery."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If the evidence had been preserved, the investigators {{would have examined | might have examined | could have examined::Các dạng này diễn tả kết quả giả định trong quá khứ với sắc thái khác nhau.}} (examine) it; the evidence was destroyed."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "If the chair {{were | was::Were hoặc was có thể nêu trạng thái hiện tại giả định dẫn đến kết quả quá khứ giả định.}} (be) more cautious, she might not have signed yesterday; she is generally impulsive."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "If the analyst ___ the source yesterday, she might have identified the error; she did not verify it. (( **had verified** | verifies yesterday | has verify :: Had + V3 nêu giả định trái với quá khứ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "If she had moved abroad then, she ___ in Paris now; she stayed here. (( **would live** | would have live | had lives :: Would + nguyên mẫu diễn tả kết quả giả định ở hiện tại từ điều kiện quá khứ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "If the director ___ more patient, he might have listened to the objections yesterday; he is generally impatient. (( **were** | will was | had be :: Were nêu trạng thái hiện tại giả định dẫn đến kết quả quá khứ giả định. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "If the firm ___ a local office now, clients could meet advisers in person; it has no local office. (( **had** | will had | has yesterday :: Had nêu điều kiện giả định trái với hiện tại. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "If the delegation ___ earlier yesterday, it could have attended the briefing; it arrived late. (( **had arrived** | arrives yesterday | has arrive :: Had arrived chỉ điều kiện quá khứ trái thực tế. ))"
+    },
+    {
+      "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ If | I | had | saved | more, | I | would | have | enough | money | now. ~~"
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "If the panel had more time now, it {{would review::Điều kiện loại 2 thường dùng would + nguyên mẫu cho kết quả giả định hiện tại.}} (review) the plan."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "If I {{were | was::Were thường được ưu tiên trong văn phong trang trọng; was cũng dùng trong văn nói thân mật.}} (be) the director, I would consult an expert."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "If the team had received funding, it {{would have completed::Điều kiện loại 3 dùng would have + V3 cho kết quả giả định trong quá khứ.}} (complete) the project last year."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "If the analyst {{had checked::Điều kiện loại 3 dùng had + V3 trong mệnh đề if.}} (check) the figures, the error would have been detected."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "If the organisation had saved more last year, it {{would have::Điều kiện hỗn hợp đặt điều kiện trong quá khứ và kết quả would have ở hiện tại.}} (have) sufficient funds now."
+      "questionHTML": "~~ If | she | had | accepted | the | role, | she | would | be | working | here | now. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "If the director had more time, she {{would review::Điều kiện loại 2 thường dùng would + nguyên mẫu cho kết quả giả định hiện tại.}} (review) the proposal."
+      "type": "unscramble",
+      "questionHTML": "~~ If | the | manager | were | organised, | he | might | have | met | the | deadline. ~~"
     },
     {
       "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "If the committee had additional resources, it ___ the project. (( would reviewing | **would review** | would to review :: Điều kiện loại 2 thường dùng would + nguyên mẫu cho kết quả giả định hiện tại. ))"
+      "type": "unscramble",
+      "questionHTML": "~~ If | the | policy | were | less | restrictive, | more | applicants | might | qualify. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "If I {{were | was::Were thường được ưu tiên trong văn phong trang trọng; was cũng dùng trong văn nói thân mật.}} (be) the curator, I would review the records."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "If I ___ the manager, I would ask for more evidence. (( is | **were** | are :: Were thường được ưu tiên trong văn phong trang trọng; was cũng dùng trong văn nói thân mật. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "If the committee had approved the budget, it {{would have completed::Điều kiện loại 3 dùng would have + V3 cho kết quả giả định trong quá khứ.}} (complete) the review last month."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "If the researchers had had more time, they ___ the survey. (( would has completed | **would have completed** | would have complete :: Điều kiện loại 3 dùng would have + V3 cho kết quả giả định trong quá khứ. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "If the team {{had checked::Điều kiện loại 3 dùng had + V3 trong mệnh đề if.}} (check) the data, the mistake would have been found."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "If the editor ___ the references, the problem would have been noticed. (( had checking | **had checked** | had check :: Điều kiện loại 3 dùng had + V3 trong mệnh đề if. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "If the team had secured the grant last year, it {{would have::Điều kiện hỗn hợp đặt điều kiện trong quá khứ và kết quả would have ở hiện tại.}} (have) enough resources now."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "If the charity had received more funding last year, it ___ enough money now. (( would has | **would have** | would having :: Điều kiện hỗn hợp đặt điều kiện trong quá khứ và kết quả would have ở hiện tại. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "If the study had included more participants, its results {{would be::Điều kiện hỗn hợp dùng would be cho kết quả giả định hiện tại.}} (be) more reliable now."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "If the committee had reviewed the data, it {{would have found::Điều kiện loại 3 dùng would have + V3 found.}} (find) the error last week."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "If the university had more funding now, it {{would expand::Điều kiện loại 2 dùng would + nguyên mẫu cho kết quả giả định hiện tại.}} (expand) the programme."
+      "type": "unscramble",
+      "questionHTML": "~~ If | the | data | had | been | preserved, | the | team | could | have | examined | them. ~~"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is evaluating a cancelled project. If the team {{had checked::Had checked đặt điều kiện giả định trái với quá khứ.}} (check) the figures, it would have found the error. If the panel had received the grant, it {{would have completed::Would have completed là kết quả giả định trong quá khứ.}} (complete) the work. If it had secured funding last year, it {{would have::Would have là kết quả giả định ở hiện tại của điều kiện quá khứ.}} (have) sufficient resources now."
+      "questionHTML": "The team did not preserve its original data. If it {{had retained::Had retained diễn tả điều kiện quá khứ trái thực tế.}} (retain) them, it could have repeated the analysis. The lead researcher is currently unavailable; if she {{were | was::Were hoặc was diễn tả giả định trái với hiện tại.}} (be) available, the panel would consult her. If the original records {{were::Records là chủ ngữ số nhiều nên trong giả định dùng were.}} (be) accessible now, the inquiry could proceed."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A researcher is considering alternative decisions. If she {{were | was::Were thường trang trọng hơn; was cũng dùng trong văn nói thân mật.}} (be) the director, she would consult an expert. If the team {{had checked::Had checked chỉ điều kiện giả định trái với quá khứ.}} (check) the figures, the issue would have been noticed. If the study had included more participants, the results {{would be::Would be chỉ kết quả giả định ở hiện tại từ điều kiện quá khứ.}} (be) more reliable now."
-    },
-    {
-      "tier": "apply",
-      "type": "paragraph-gap-fill",
-      "questionHTML": "An organisation is reviewing its budget. If it had more funding now, it {{would review::Would + nguyên mẫu diễn tả kết quả giả định hiện tại.}} (review) the proposal. If it had secured the grant last year, it {{would have::Would have diễn tả kết quả hiện tại của điều kiện quá khứ.}} (have) sufficient resources now. If the earlier team {{had checked::Had checked đặt điều kiện trái với quá khứ.}} (check) the data, the error would have been detected."
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ If | the | panel | had | more | time, | it | would | review | the | proposal. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ If | the | team | had | checked | the | figures, | the | error | would | have | been | detected. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ If | the | project | had | received | funding, | it | would | have | been | completed. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ If | the | study | had | included | more | participants, | its | results | would | be | more | reliable | now. ~~"
+      "questionHTML": "The applicant declined the post last year. If she {{had accepted::Had accepted nêu điều kiện quá khứ trái thực tế.}} (accept) it, she would work here now. The manager is generally disorganised; if he {{were | was::Were hoặc was diễn tả đặc điểm hiện tại giả định.}} (be) more organised, he might have met yesterday’s deadline. If the team {{had prepared::Had prepared nêu giả định quá khứ trái thực tế.}} (prepare) earlier, it could have avoided the delay; it did not prepare."
     }
-  ]
+  ],
+  "lessonNumber": 2
 }

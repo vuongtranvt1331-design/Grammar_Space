@@ -1,223 +1,224 @@
 {
-  "id": "g6-30",
-  "title": "30. Phân từ làm tính từ",
+  "id": "35",
+  "title": "35. Phân từ làm tính từ",
   "pages": [
     {
       "pageNumber": 1,
-      "pageTitle": "Tính từ đuôi -ing",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · TÍNH TỪ ĐUÔI -ING</span></h2><p>Nhiều tính từ -ing miêu tả đặc điểm của người, vật hoặc trải nghiệm gây ra cảm xúc.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>interesting: thú vị; boring: gây chán; exciting: gây hào hứng.<br>Danh từ hoặc trải nghiệm có thể đứng trước hoặc sau tính từ tùy cấu trúc câu.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The lecture is interesting. → Bài giảng thú vị.<br>It was an exciting match. → Đó là một trận đấu hào hứng.</p><p><span class=\"highlight\">Lưu ý:</span> Không thêm -ing vào mọi động từ một cách máy móc; hãy học từ vựng trong câu thực tế.</p>"
+      "pageTitle": "Tính từ tận cùng -ing và -ed",
+      "contentHTML": "<p>Tính từ -ing thường mô tả đặc điểm gây ra cảm xúc: an intriguing proposal. Tính từ -ed thường mô tả cảm xúc hoặc trạng thái của người hay đối tượng: an intrigued audience. Không áp dụng máy móc nếu từ không có cả hai dạng tính từ thông dụng.</p>"
     },
     {
       "pageNumber": 2,
-      "pageTitle": "Tính từ đuôi -ed",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · TÍNH TỪ ĐUÔI -ED</span></h2><p>Nhiều tính từ -ed mô tả cảm xúc hoặc trạng thái của người hoặc con vật.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>interested in: quan tâm đến; bored: cảm thấy chán.<br>excited about: hào hứng về; surprised by: ngạc nhiên vì.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>She is interested in art. → Cô ấy quan tâm đến nghệ thuật.<br>They were surprised by the news. → Họ ngạc nhiên vì tin đó.</p><p><span class=\"highlight\">Lưu ý:</span> Không phải mọi từ -ed đều chỉ cảm xúc: a broken window mô tả trạng thái bị vỡ của cửa sổ.</p>"
+      "pageTitle": "Phân từ bổ nghĩa cho danh từ",
+      "contentHTML": "<p>V-ing có thể chỉ hành động chủ động: researchers examining the data. V3 có thể chỉ nghĩa bị động: evidence presented to the panel. Cần phân biệt hành động và trạng thái theo ngữ cảnh.</p>"
     },
     {
       "pageNumber": 3,
-      "pageTitle": "Phân biệt bằng ý nghĩa",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · PHÂN BIỆT BẰNG Ý NGHĨA</span></h2><p>Hãy hỏi chủ ngữ gây ra cảm xúc hay đang trải nghiệm cảm xúc.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>The film is boring. → Bộ phim gây chán.<br>The audience is bored. → Khán giả cảm thấy chán.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The news was surprising. → Tin đó gây ngạc nhiên.<br>We were surprised by the news. → Chúng tôi ngạc nhiên vì tin đó.</p><p><span class=\"highlight\">Lưu ý:</span> Chủ ngữ chỉ người có thể đi với -ing nếu người đó gây ra cảm xúc, ví dụ an interesting teacher.</p>"
+      "pageTitle": "Mệnh đề phân từ và chủ ngữ",
+      "contentHTML": "<p>Mệnh đề phân từ cần có chủ thể hợp lý, thường trùng với chủ ngữ mệnh đề chính: Having reviewed the data, the committee issued its report. Having been informed of the risk, the committee revised the plan nhấn mạnh quan hệ bị động và trình tự.</p>"
     }
   ],
   "exercises": [
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The match was {{exciting::Exciting mô tả trận đấu hoặc bộ phim gây hào hứng; excited thường mô tả người cảm thấy hào hứng.}} (excite); everyone enjoyed watching it."
+      "questionHTML": "The audience found the evidence {{compelling | convincing | persuasive::Các tính từ này đều có thể mô tả sức thuyết phục của bằng chứng.}} [thuyết phục], prompting a lengthy debate."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "She is {{interested::Interested in diễn tả người có sự quan tâm; interesting mô tả điều gây hứng thú.}} (interest) in art and visits galleries often."
+      "questionHTML": "The reviewers were {{intrigued::Intrigued mô tả cảm xúc của người đánh giá.}} [tò mò] by the unexpected pattern in the data."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The lecture was {{boring::Boring mô tả bài giảng gây chán; bored mô tả người cảm thấy chán.}} (bore), so several listeners lost attention."
+      "questionHTML": "The proposal was {{concerning | worrying | alarming::Các tính từ này đều có thể mô tả đặc điểm gây lo ngại của đề xuất.}} [đáng lo ngại] to several members of the board."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "They were {{surprised::Surprised mô tả cảm xúc của người nghe trước tin bất ngờ; surprising mô tả tin gây ngạc nhiên.}} (surprise) by the unexpected news."
+      "questionHTML": "The residents remained {{concerned | worried::Concerned và worried đều có thể mô tả cảm giác lo ngại của cư dân.}} [lo ngại] about the proposed development."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The audience felt {{bored::Felt bored mô tả cảm giác chán của người nghe; boring thường mô tả bài nói gây chán.}} (bore) during the long speech."
+      "questionHTML": "The documents {{submitted::Submitted bổ nghĩa bị động cho documents: những tài liệu đã được nộp.}} (submit) to the panel were incomplete."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The analysts {{examining::Examining bổ nghĩa chủ động cho analysts: những người đang xem xét dữ liệu.}} (examine) the figures identified a discrepancy."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "{{Having reviewed::Having + V3 có thể chỉ hành động hoàn tất trước mệnh đề chính; committee là chủ thể xem xét.}} (review) the evidence, the committee issued its decision."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "{{Having been informed::Having been + V3 chỉ hành động bị động xảy ra trước; committee là bên được thông báo.}} (inform) of the risk, the committee revised its plan."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The findings were {{surprising | astonishing | unexpected::Các tính từ này đều có thể mô tả đặc điểm gây ngạc nhiên của kết quả.}} [đáng ngạc nhiên] even to experienced researchers."
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The film was ___; the audience loved the action. (( excited | **exciting** | excite :: Exciting mô tả trận đấu hoặc bộ phim gây hào hứng; excited thường mô tả người cảm thấy hào hứng. ))"
+      "questionHTML": "The complexity of the case was ___ to the public, making the explanation hard to follow. (( **confusing** | confused | confusingly :: Confusing mô tả điều gây bối rối; confused thường mô tả người cảm thấy bối rối. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "He is ___ in history and reads about it often. (( **interested** | interesting | interest :: Interested in diễn tả người có sự quan tâm; interesting mô tả điều gây hứng thú. ))"
+      "questionHTML": "The visitors were ___ by the contradictory directions. (( **confused** | confusing | confusion :: Confused mô tả cảm xúc bối rối của visitors. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The lesson was ___, and many students lost attention. (( bored | **boring** | bore :: Boring mô tả bài giảng gây chán; bored mô tả người cảm thấy chán. ))"
+      "questionHTML": "The evidence ___ during the inspection was later reviewed. (( **collected** | collecting by | collect yesterday :: Collected bổ nghĩa bị động cho evidence. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "We were ___ by the unexpected announcement. (( surprising | surprise | **surprised** :: Surprised mô tả cảm xúc của người nghe trước tin bất ngờ; surprising mô tả tin gây ngạc nhiên. ))"
+      "questionHTML": "The specialists ___ the inquiry recommended a further review. (( **conducting** | conducted by | conduct yesterday :: Conducting bổ nghĩa chủ động cho specialists. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The students felt ___ during the long presentation. (( boring | **bored** | bore :: Felt bored mô tả cảm giác chán của người nghe; boring thường mô tả bài nói gây chán. ))"
+      "questionHTML": "___ the results, the panel requested a second opinion. (( **Having analysed** | Having analyse | Having been analysing by :: Panel là chủ thể phân tích và hành động xảy ra trước yêu cầu. ))"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | match | was | exciting. ~~"
+      "questionHTML": "~~ The | audience | found | the | evidence | compelling. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ She | is | interested | in | art. ~~"
+      "questionHTML": "~~ The | reviewers | were | intrigued | by | the | pattern. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | lecture | was | boring. ~~"
+      "questionHTML": "~~ The | documents | submitted | to | the | panel | were | incomplete. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ We | were | surprised | by | the | news. ~~"
+      "questionHTML": "~~ The | analysts | examining | the | figures | identified | a | discrepancy. ~~"
     },
     {
       "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers were {{surprised::Surprised mô tả cảm xúc của researchers.}} [ngạc nhiên] by the outcome."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The report {{prepared::Prepared là V3 bổ nghĩa bị động cho report.}} (prepare) by the team was published yesterday."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Several participants were {{disappointed::Disappointed mô tả cảm xúc thất vọng của người tham gia.}} [thất vọng] by the absence of feedback."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The policy {{introduced::Introduced là phân từ quá khứ bổ nghĩa bị động cho policy.}} (introduce) last year has attracted criticism."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The experts {{advising::Advising bổ nghĩa chủ động cho experts: những người tư vấn cho hội đồng.}} (advise) the board requested further evidence."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{Having considered::Having considered chỉ việc xem xét đã hoàn tất trước quyết định; board là chủ thể thực hiện.}} (consider) the objections, the board amended the proposal."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{Having been warned::Having been warned diễn tả việc được cảnh báo trước hành động của chủ ngữ.}} (warn) about the delay, the clients adjusted their plans."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The conclusion was {{convincing | compelling | persuasive::Các tính từ này đều có thể mô tả đặc điểm thuyết phục của kết luận.}} [thuyết phục] to most members of the panel."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The committee remained {{unconvinced | unpersuaded | not convinced | not persuaded::Các dạng này đều mô tả trạng thái chưa bị thuyết phục của ủy ban.}} [chưa bị thuyết phục] by the proposed explanation."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The recommendations {{outlined::Outlined là V3 bổ nghĩa bị động cho recommendations.}} (outline) in the report require further discussion."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The scientist {{leading::Leading bổ nghĩa chủ động cho scientist: người đang dẫn dắt nghiên cứu.}} (lead) the study presented the results."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The lengthy delay was ___ to the applicants. (( **frustrating** | frustrated | frustration :: Frustrating mô tả điều gây thất vọng hoặc bực bội. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The applicants were ___ by the repeated postponements. (( **frustrated** | frustrating | frustrate :: Frustrated mô tả cảm xúc của applicants. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The proposals ___ at the meeting will be circulated tomorrow. (( **discussed** | discussing by | discuss yesterday :: Discussed bổ nghĩa bị động cho proposals. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "___ of the change, the committee amended the timetable. (( **Having been notified** | Having notified by | Having been notify :: Committee được thông báo trước; dùng having been + V3. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The staff ___ the event must follow the revised guidelines. (( **organising** | organised by | organise yesterday :: Organising bổ nghĩa chủ động cho staff. ))"
+    },
+    {
+      "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | audience | felt | bored. ~~"
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The students were {{interested::Interested in diễn tả người có sự quan tâm.}} (interest) in the lecture."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The research report was {{interesting::Interesting mô tả sự vật hoặc nội dung gây hứng thú.}} (interest)."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The students were {{confused::Confused mô tả cảm giác bối rối của người.}} (confuse) by the instructions."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The instructions were {{confusing::Confusing mô tả thứ gây cảm giác bối rối.}} (confuse)."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The students were {{surprised::Surprised mô tả cảm giác ngạc nhiên của người.}} (surprise) by the unexpected result."
+      "questionHTML": "~~ Having | reviewed | the | evidence, | the | committee | issued | its | decision. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The reviewers were {{interested::Interested in diễn tả người có sự quan tâm.}} (interest) in the new findings."
+      "type": "unscramble",
+      "questionHTML": "~~ Having | been | informed | of | the | risk, | the | committee | revised | its | plan. ~~"
     },
     {
       "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The participants were ___ in the proposed method. (( interesting | **interested** | interest :: Interested in diễn tả người có sự quan tâm. ))"
+      "type": "unscramble",
+      "questionHTML": "~~ The | conclusion | was | convincing | to | the | panel. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The museum exhibition was {{interesting::Interesting mô tả sự vật hoặc nội dung gây hứng thú.}} (interest)."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The new study was ___. (( interested | **interesting** | interestingly :: Interesting mô tả sự vật hoặc nội dung gây hứng thú. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The readers were {{confused::Confused mô tả cảm giác bối rối của người.}} (confuse) by the unclear explanation."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The participants were ___ by the complex wording. (( confusing | **confused** | confuse :: Confused mô tả cảm giác bối rối của người. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The explanation was {{confusing::Confusing mô tả thứ gây cảm giác bối rối.}} (confuse)."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The wording of the question was ___. (( confusingly | **confusing** | confusion :: Confusing mô tả thứ gây cảm giác bối rối. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The researchers were {{surprised::Surprised mô tả cảm giác ngạc nhiên của người.}} (surprise) by the sudden change."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The audience was ___ by the announcement. (( surprising | **surprised** | surprise :: Surprised mô tả cảm giác ngạc nhiên của người. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The unexpected findings were {{surprising::Surprising mô tả findings gây ngạc nhiên.}} (surprise)."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "After the long field trip, the volunteers felt {{exhausted::Exhausted mô tả cảm giác kiệt sức của volunteers.}} (exhaust)."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The fieldwork was physically {{exhausting::Exhausting mô tả hoạt động gây kiệt sức.}} (exhaust)."
+      "type": "unscramble",
+      "questionHTML": "~~ The | committee | remained | unconvinced | by | the | explanation. ~~"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university held a public lecture. The topic was {{interesting::Interesting mô tả nội dung gây hứng thú.}} (interest). The students were {{interested::Interested mô tả cảm xúc quan tâm của người.}} (interest) in the findings. They were {{surprised::Surprised mô tả cảm xúc ngạc nhiên của người.}} (surprise) by one unexpected result."
+      "questionHTML": "The evidence {{presented::Presented là V3 bổ nghĩa bị động cho evidence.}} (present) to the board was {{concerning | worrying | alarming::Các tính từ này đều có thể mô tả đặc điểm gây lo ngại của bằng chứng.}} [đáng lo ngại]. The members were {{concerned | worried::Concerned và worried mô tả cảm xúc lo ngại của các thành viên.}} [lo ngại] about its implications. They requested a further review."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A team reviewed a technical manual. The instructions were {{confusing::Confusing mô tả nội dung gây bối rối.}} (confuse). Several readers felt {{confused::Confused mô tả cảm giác bối rối của người.}} (confuse). The reviewer suggested a clearer explanation because the result was {{surprising::Surprising mô tả kết quả gây ngạc nhiên.}} (surprise)."
-    },
-    {
-      "tier": "apply",
-      "type": "paragraph-gap-fill",
-      "questionHTML": "A group completed a field project. The work was {{exhausting::Exhausting mô tả công việc gây mệt.}} (exhaust). The volunteers felt {{exhausted::Exhausted mô tả cảm giác kiệt sức của người.}} (exhaust). Nevertheless, they remained {{interested::Interested mô tả sự quan tâm của người.}} (interest) in the findings."
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | students | were | interested | in | the | findings | of | the | study. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | explanation | was | confusing | for | several | readers. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | volunteers | felt | exhausted | after | the | long | field | trip. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | audience | was | surprised | by | the | unexpected | announcement. ~~"
+      "questionHTML": "The analysts {{examining::Examining bổ nghĩa chủ động cho analysts.}} (examine) the data identified an inconsistency. {{Having been informed::Having been informed chỉ việc được thông báo trước; board là bên nhận thông tin.}} (inform) of the issue, the board postponed its decision. It found the explanation {{unconvincing::Unconvincing mô tả đặc điểm chưa thuyết phục của lời giải thích.}} [không thuyết phục]."
     }
-  ]
+  ],
+  "lessonNumber": 3
 }

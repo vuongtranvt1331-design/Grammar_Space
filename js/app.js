@@ -1,6 +1,6 @@
 import { parseFolderLesson } from './parser.js';
 import { hydrateProgressFromIndexedDB, STORAGE_KEY, loadLibrary as loadStoredLibrary, saveLibrary, ProgressManager, getProgressColor, getProgressColorClass, getApplyProgressColor, getApplyProgressColorClass } from './storage-decay.js';
-import { createNotebookUI } from './notebook-ui.js?v=check_attempted_only1';
+import { createNotebookUI } from './notebook-ui.js?v=hide_filename1';
 import { initAnnotationLayer } from './annotation.js?v=vector_eraser';
 
 'use strict';
@@ -238,7 +238,7 @@ async function openGeneralLesson(id) {
       id: entry.id,
       ...data,
       origin: 'general',
-      sourceName: entry.filename,
+      sourceName: '',
       addedAt: new Date().toISOString(),
       score: null,
       lastCompletedDate: null,
@@ -663,7 +663,7 @@ const { renderLesson, syncBookHeight, updateLessonProgress, finishPageTurn } = n
 refreshLibrary();
 loadGeneralCatalog();
 showView('library', { focus: false });
-hydrateProgressFromIndexedDB().then(() => { renderLibrary(); updateLessonProgress(); }).catch(error => console.warn('Progress restore unavailable:', error));
 
-// Initialize Holographic Canvas Annotation Layer & AssistiveTouch UI
+// Restore saved progress and initialise existing annotation tools.
+hydrateProgressFromIndexedDB().then(() => { renderLibrary(); updateLessonProgress(); }).catch(error => console.warn('Progress restore unavailable:', error));
 initAnnotationLayer();

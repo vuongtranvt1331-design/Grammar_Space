@@ -286,12 +286,6 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
       const unansweredMessage = document.createElement('p'); unansweredMessage.id = prefix + '-unanswered'; unansweredMessage.className = 'unanswered-message'; unansweredMessage.lang = 'vi'; unansweredMessage.textContent = 'Vui lòng hoàn thành câu này'; unansweredMessage.hidden = true;
       const record = { data, part, card, hints, success, unansweredMessage, checked: false, isCorrect: null, isUnanswered: null, inputs: [] };
       card.dataset.tier = data.tier || 'practice';
-      if (data.type === 'multiple-choice') {
-        const kind = document.createElement('span');
-        kind.className = 'question-kind';
-        kind.textContent = 'Choose one answer';
-        body.append(kind);
-      }
       if (data.type !== 'unscramble') {
         body.append(prompt);
       }
@@ -329,10 +323,10 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
         shuffle(data.options).forEach((text, optionIndex) => {
           const label = document.createElement('label'); label.className = 'option-label mcq-label';
           const input = document.createElement('input'); input.type = 'radio'; input.name = name; input.className = 'radio-input mcq-radio'; input.value = text; input.id = prefix + '-option-' + optionIndex;
-          const letter = document.createElement('span'); letter.className = 'option-letter mcq-letter color-' + (optionIndex % 4); letter.textContent = (optionIndex < 26 ? String.fromCharCode(65 + optionIndex) : optionIndex + 1); letter.setAttribute('aria-hidden', 'true');
-          const dot = document.createElement('span'); dot.className = 'mcq-dot'; dot.textContent = '.'; dot.setAttribute('aria-hidden', 'true');
+          const letterChar = (optionIndex < 26 ? String.fromCharCode(65 + optionIndex) : optionIndex + 1);
+          const letter = document.createElement('span'); letter.className = 'option-letter mcq-letter color-' + (optionIndex % 4); letter.textContent = `${letterChar}.`; letter.setAttribute('aria-hidden', 'true');
           const caption = document.createElement('span'); caption.className = 'option-caption mcq-text'; caption.textContent = text;
-          label.append(input, letter, dot, caption); options.append(label); record.inputs.push(input);
+          label.append(input, letter, caption); options.append(label); record.inputs.push(input);
           input.addEventListener('change', () => {
             record.inputs.forEach(radio => {
               radio.parentElement.classList.toggle('is-selected', radio.checked);
@@ -773,8 +767,7 @@ export function createNotebookUI({ byId, student, book, lessonProgress, reducedM
         heading.className = 'notebook-title'; heading.textContent = lesson.title;
         const header = document.createElement('header'); header.className = 'page-header';
         const partTitle = document.createElement('p'); partTitle.className = 'page-part'; partTitle.textContent = `Part ${partIndex + 1} / ${lesson.parts.length} · ${part.title}`;
-        const meta = document.createElement('p'); meta.className = 'paper-meta'; meta.textContent = lesson.sourceName || '';
-        header.append(topNav, heading, partTitle, meta); body.append(header);
+        header.append(topNav, heading, partTitle); body.append(header);
       } else {
         // Page > 1: Subsequent pages keep the top area clean and uncluttered with only the Library button
         element.classList.add('page-continued');

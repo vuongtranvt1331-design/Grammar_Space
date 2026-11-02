@@ -1,223 +1,224 @@
 {
-  "id": "g5-26",
-  "title": "26. Bị động khách quan",
+  "id": "30",
+  "title": "30. Bị động khách quan",
   "pages": [
     {
       "pageNumber": 1,
-      "pageTitle": "It is said that",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · IT IS SAID THAT</span></h2><p>Bị động tường thuật giúp trình bày thông tin được báo cáo mà không nêu rõ người nói.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>People say that... → It is said that...<br>Các động từ thường gặp: say, believe, report, think, expect.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>People say that the museum is free. → It is said that the museum is free.<br>People believe that the plan is useful. → It is believed that the plan is useful.</p><p><span class=\"highlight\">Lưu ý:</span> Trong văn viết, hãy nêu nguồn khi cần: cách diễn đạt bị động không thay thế cho bằng chứng.</p>"
+      "pageTitle": "Bị động tường thuật với it",
+      "contentHTML": "<p>Dùng It + be + V3 + that-clause để tường thuật thông tin mà không nêu nguồn cụ thể: It is reported that the bridge is unsafe. Chọn thì của động từ tường thuật theo ngữ cảnh.</p>"
     },
     {
       "pageNumber": 2,
-      "pageTitle": "Chủ ngữ + be + reported verb",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · CHỦ NGỮ + BE + REPORTED VERB</span></h2><p>Có thể đưa người hoặc vật được nhắc tới lên đầu câu.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>S + is/are believed / said / thought + to + V nguyên mẫu.<br>Khi hành động xảy ra trước thời điểm tường thuật: to have + V3.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>People believe that she is a doctor. → She is believed to be a doctor.<br>People believe that he won in 2020. → He is believed to have won in 2020.</p><p><span class=\"highlight\">Lưu ý:</span> To be thường nói về trạng thái cùng thời điểm; to have won nhấn mạnh việc thắng xảy ra trước lúc người ta tin.</p>"
+      "pageTitle": "Chủ ngữ + be + V3 + to-infinitive",
+      "contentHTML": "<p>Có thể đưa chủ ngữ của mệnh đề lên trước: The bridge is reported to be unsafe. Dùng to + nguyên mẫu cho sự việc cùng thời điểm hoặc sau thời điểm tường thuật; dùng to have + V3 cho sự việc xảy ra trước.</p>"
     },
     {
       "pageNumber": 3,
-      "pageTitle": "Quá khứ và kỳ vọng",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · QUÁ KHỨ VÀ KỲ VỌNG</span></h2><p>Thì của be cho biết thời điểm tường thuật, còn động từ nguyên mẫu cho biết nội dung được báo cáo.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Quá khứ: It was reported that...<br>Kỳ vọng: S + is/are expected + to + V.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>It was reported that the bridge had closed. → Có báo cáo rằng cầu đã đóng.<br>Prices are expected to rise next year. → Giá được dự đoán sẽ tăng năm sau.</p><p><span class=\"highlight\">Lưu ý:</span> Điều được kỳ vọng chưa chắc sẽ xảy ra; tránh diễn đạt như một sự thật đã được xác nhận.</p>"
+      "pageTitle": "Thận trọng khi diễn đạt",
+      "contentHTML": "<p>It is believed / said / reported that thể hiện thông tin được tường thuật, không tự xác nhận tính đúng đắn hay nêu rõ nguồn. Với hành động đang diễn ra, có thể dùng to be + V-ing: The team is reported to be negotiating.</p>"
     }
   ],
   "exercises": [
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{It is said that::It is said that là cấu trúc bị động tường thuật; said là V3 của say.}} [it] (say) [that] the library is open at night."
+      "questionHTML": "The manuscript {{is believed to be::Is believed to be tường thuật niềm tin hiện tại về trạng thái hiện tại.}} (believe) (be) an early copy, according to several specialists."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "He {{is believed to be::Chủ ngữ số ít + is believed to be diễn tả một niềm tin về trạng thái hiện tại.}} (believe) (be) a doctor."
+      "questionHTML": "The company {{is reported to have reduced::Is reported to have + V3 diễn tả việc giảm xảy ra trước thời điểm tường thuật hiện tại.}} (report) (reduce) its workforce last year, according to the press."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The athlete {{is believed to have won::To have won cho biết việc thắng xảy ra trước thời điểm niềm tin được thuật lại; won là V3 của win.}} (believe) (win) the race in 2020."
+      "questionHTML": "The committee {{is said to be considering::Is said to be + V-ing diễn tả hoạt động được cho là đang diễn ra.}} (say) (consider) a revised proposal at present, according to several members."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Last year, {{it was reported that::Mốc yesterday hoặc last year dùng was reported cho hành động tường thuật ở quá khứ.}} (report) the bridge was closed."
+      "questionHTML": "{{It is reported that::It is reported that mở đầu cấu trúc tường thuật khách quan.}} (report) the talks will resume next week, according to the press."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Prices {{are expected to rise::Prices và costs là số nhiều, dùng are expected to + động từ nguyên mẫu rise.}} (expect) (rise) next year."
+      "questionHTML": "The original document {{is thought to have disappeared::To have + V3 chỉ việc biến mất trước thời điểm suy đoán hiện tại.}} (think) (disappear) during the move, according to investigators."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The building {{is believed to be::Is believed to be tường thuật niềm tin hiện tại về trạng thái.}} (believe) (be) structurally unsafe, according to the survey."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The researchers {{are reported to be examining::Are reported to be + V-ing chỉ hoạt động được cho là đang diễn ra; researchers số nhiều.}} (report) (examine) the samples now, according to the news report."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The witness {{was said to have left::Was said to have + V3 đặt hành động rời đi trước thời điểm tường thuật trong quá khứ.}} (say) (leave) before the interview, according to an earlier account."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "{{It is believed that::It is believed that mở đầu mệnh đề tường thuật về niềm tin hiện tại.}} (believe) the findings are reliable, according to several reviewers."
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "___ the museum is free on Sundays. (( **It is said that** | It said that | It is say that :: It is said that là cấu trúc bị động tường thuật; said là V3 của say. ))"
+      "questionHTML": "The artefact ___ an imitation, according to confirmed laboratory records. (( **is known to be** | is know be | known is to :: Is known to be tường thuật thông tin đã được xác định. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The woman ___ a doctor. (( **is believed to be** | is believed be | believes to be :: Chủ ngữ số ít + is believed to be diễn tả một niềm tin về trạng thái hiện tại. ))"
+      "questionHTML": "The team ___ the issue now, according to the report. (( **is said to be investigating** | is said to investigated | said is investigating :: To be + V-ing diễn tả hoạt động được tường thuật là đang diễn ra. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The player ___ the competition in 2020. (( is believed to win | **is believed to have won** | is believed to has won :: To have won cho biết việc thắng xảy ra trước thời điểm niềm tin được thuật lại; won là V3 của win. ))"
+      "questionHTML": "The company ___ the premises last year, according to the newspaper. (( **is reported to have sold** | is reported to sold | is reported have sell :: To have + V3 diễn tả hành động trước thời điểm tường thuật hiện tại. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "Yesterday, ___ the road was closed. (( it is reported that | it was report that | **it was reported that** :: Mốc yesterday hoặc last year dùng was reported cho hành động tường thuật ở quá khứ. ))"
+      "questionHTML": "___ the agreement will be revised, according to the press. (( **It is expected that** | It expected is to | Is it expected to that :: It is expected that mở đầu một mệnh đề tường thuật. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "Costs ___ next year. (( **are expected to rise** | are expected rise | is expected to rise :: Prices và costs là số nhiều, dùng are expected to + động từ nguyên mẫu rise. ))"
+      "questionHTML": "The documents ___ before the inspection, according to investigators. (( **are believed to have been altered** | are believe to altered | are believed have alter :: To have been + V3 tường thuật một hành động bị động xảy ra trước hiện tại. ))"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ It | is | said | that | the | museum | is | free. ~~"
+      "questionHTML": "~~ The | manuscript | is | believed | to | be | an | early | copy. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ She | is | believed | to | be | a | doctor. ~~"
+      "questionHTML": "~~ The | company | is | reported | to | have | reduced | its | workforce. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | athlete | is | believed | to | have | won | the | race. ~~"
+      "questionHTML": "~~ The | committee | is | said | to | be | considering | a | proposal. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ It | was | reported | that | the | bridge | was | closed. ~~"
+      "questionHTML": "~~ It | is | reported | that | the | talks | will | resume. ~~"
     },
     {
       "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The exhibition {{is expected to open::Is expected to + nguyên mẫu diễn tả kỳ vọng tương lai.}} (expect) (open) in June, according to the organisers."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The author {{is said to have revised::To have + V3 diễn tả sự việc được tường thuật đã xảy ra trước hiện tại.}} (say) (revise) the text last year, according to the publisher."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The proposal {{is expected to be::Is expected to be tường thuật kỳ vọng về tương lai.}} (expect) (be) ready next month, according to the team."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The ship {{is thought to have sunk::To have sunk nói sự việc được cho là xảy ra trước thời điểm suy đoán hiện tại.}} (think) (sink) near the coast, according to historians."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The participants {{are said to be awaiting::Are said to be + V-ing tường thuật hoạt động đang diễn ra của chủ ngữ số nhiều.}} (say) (await) a decision now, according to the organisers."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The policy {{was reported to have changed::Was reported to have + V3 chỉ thay đổi trước một thời điểm tường thuật quá khứ.}} (report) (change) before the meeting, according to an earlier report."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{It is said that::It is said that tường thuật một thông tin được truyền đạt mà không khẳng định nguồn cụ thể.}} (say) the site is privately owned, according to local accounts."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The population {{is expected to increase::Is expected to + nguyên mẫu có thể chỉ kỳ vọng về tương lai.}} (expect) (increase) over the next decade, according to the projection."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The missing files {{are believed to have been removed::Are believed to have been + V3 tường thuật hành động bị động xảy ra trước hiện tại.}} (believe) (remove) before the audit, according to investigators."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The minister {{is reported to be meeting::Is reported to be + V-ing có thể tường thuật một hoạt động đang diễn ra.}} (report) (meet) advisers now, according to the press."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The contract {{is said to have been signed::To have been + V3 tường thuật một hành động bị động trước thời điểm hiện tại.}} (say) (sign) last week, according to the newspaper."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The council ___ a decision next week, according to officials. (( **is expected to announce** | is expect announce | expected is announcing :: Is expected to + nguyên mẫu tường thuật kỳ vọng tương lai. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The artwork ___ in the nineteenth century, according to specialists. (( **is thought to have been created** | is thought to creating | is think have create :: To have been + V3 tường thuật hành động bị động trước hiện tại. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The delegates ___ a compromise now, according to the press. (( **are reported to be negotiating** | are report negotiate | reported are negotiated :: Are reported to be + V-ing tường thuật hoạt động đang diễn ra. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "___ the road was closed earlier, according to the broadcaster. (( **It was reported that** | It was report to | It reported was to :: It was reported that mở đầu mệnh đề tường thuật trong quá khứ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The firm ___ its operations before the audit, according to the earlier report. (( **was said to have expanded** | was said to expand yesterday | said was expanding before :: To have + V3 nhấn mạnh việc xảy ra trước thời điểm tường thuật quá khứ. ))"
+    },
+    {
+      "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ Prices | are | expected | to | rise | next | year. ~~"
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "{{It is reported that::It is reported that + mệnh đề dùng để tường thuật thông tin một cách khách quan.}} (report) the museum will reopen next month."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The building {{is believed to be::Is believed to be dùng với chủ ngữ số ít để tường thuật niềm tin về trạng thái hiện tại.}} (believe) (be) safe."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "Prices {{are expected to rise::Are expected to + nguyên mẫu diễn tả dự đoán về các chủ ngữ số nhiều.}} (expect) (rise) next year."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The director {{is thought to have left::Is thought to have + V3 đặt hành động rời đi trước thời điểm suy đoán.}} (think) (leave) before the inspection began."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The bridge {{was reported to be::Was reported to be dùng với chủ ngữ số ít khi việc tường thuật xảy ra trong quá khứ.}} (report) (be) unsafe in the report published last year."
+      "questionHTML": "~~ The | ship | is | thought | to | have | sunk | near | the | coast. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "{{It is reported that::It is reported that + mệnh đề dùng để tường thuật thông tin một cách khách quan.}} (report) the new policy will reduce costs."
+      "type": "unscramble",
+      "questionHTML": "~~ The | participants | are | said | to | be | awaiting | a | decision. ~~"
     },
     {
       "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "___ the university plans to expand. (( It reported that | **It is reported that** | It is report that :: It is reported that + mệnh đề dùng để tường thuật thông tin một cách khách quan. ))"
+      "type": "unscramble",
+      "questionHTML": "~~ The | missing | files | are | believed | to | have | been | removed. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The manuscript {{is believed to be::Is believed to be dùng với chủ ngữ số ít để tường thuật niềm tin về trạng thái hiện tại.}} (believe) (be) authentic."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The proposed method ___ reliable. (( is believed be | **is believed to be** | is believe to be :: Is believed to be dùng với chủ ngữ số ít để tường thuật niềm tin về trạng thái hiện tại. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "Costs {{are expected to rise::Are expected to + nguyên mẫu diễn tả dự đoán về các chủ ngữ số nhiều.}} (expect) (rise) over the next decade."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "Application numbers ___ next year. (( is expected to rise | **are expected to rise** | are expected rise :: Are expected to + nguyên mẫu diễn tả dự đoán về các chủ ngữ số nhiều. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The curator {{is thought to have left::Is thought to have + V3 đặt hành động rời đi trước thời điểm suy đoán.}} (think) (leave) before the visitors arrived."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The analyst ___ before the meeting started. (( is thought to leave yesterday | **is thought to have left** | is thought to have leave :: Is thought to have + V3 đặt hành động rời đi trước thời điểm suy đoán. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The building {{was reported to be::Was reported to be dùng với chủ ngữ số ít khi việc tường thuật xảy ra trong quá khứ.}} (report) (be) unstable in the earlier survey."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The structure ___ damaged in the assessment last year. (( was report to be | **was reported to be** | were reported to be :: Was reported to be dùng với chủ ngữ số ít khi việc tường thuật xảy ra trong quá khứ. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "{{It was reported that::It was reported that + mệnh đề dùng để tường thuật thông tin ở quá khứ.}} (report) the road was closed last night."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The author {{is believed to have completed::Is believed to have + V3 diễn tả việc được cho là đã hoàn tất trước thời điểm hiện tại.}} (believe) (complete) the manuscript before 1920."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The costs {{are expected to increase::Are expected to + nguyên mẫu dùng với costs số nhiều để diễn tả dự đoán.}} (expect) (increase) next year."
+      "type": "unscramble",
+      "questionHTML": "~~ The | contract | is | said | to | have | been | signed. ~~"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is reviewing a historic building. {{It is reported that::It is reported that mở đầu lời tường thuật khách quan ở hiện tại.}} (report) the building will reopen next year. The structure {{is believed to be::Is believed to be tường thuật niềm tin về trạng thái hiện tại.}} (believe) (be) safe. The costs {{are expected to rise::Are expected to rise tường thuật dự đoán với costs số nhiều.}} (expect) (rise) during the restoration."
+      "questionHTML": "Several accounts describe the site. {{It is reported that::It is reported that mở đầu mệnh đề tường thuật.}} (report) the building is unsafe, according to the press. The structure {{is believed to have been damaged::To have been + V3 tường thuật hành động bị động xảy ra trước hiện tại.}} (believe) (damage) during the storm, according to engineers. Repairs {{are expected to begin::Are expected to + nguyên mẫu tường thuật kỳ vọng trong tương lai.}} (expect) (begin) next month, according to the council."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "Researchers are examining an old manuscript. {{It is reported that::It is reported that mở đầu lời tường thuật khách quan.}} (report) the document was found in a private archive. The manuscript {{is believed to be::Is believed to be nói về niềm tin hiện tại với manuscript số ít.}} (believe) (be) authentic. The author {{is believed to have completed::To have completed đặt hành động hoàn tất trước thời điểm niềm tin được thuật lại.}} (believe) (complete) it before 1920."
-    },
-    {
-      "tier": "apply",
-      "type": "paragraph-gap-fill",
-      "questionHTML": "A town is planning a new transport route. {{It is reported that::It is reported that dùng để tường thuật thông tin khách quan.}} (report) the route will open next year. Travel times {{are expected to decrease::Are expected to + nguyên mẫu tường thuật dự đoán với chủ ngữ số nhiều.}} (expect) (decrease) after the opening. The initial proposal {{was reported to be::Was reported to be tường thuật trạng thái trong một báo cáo quá khứ.}} (report) (be) too expensive."
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ It | is | reported | that | the | museum | will | reopen | next | month. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | manuscript | is | believed | to | be | authentic. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | costs | are | expected | to | rise | over | the | next | decade. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | director | is | thought | to | have | left | before | the | meeting | began. ~~"
+      "questionHTML": "The inquiry is ongoing. The researchers {{are said to be examining::Are said to be + V-ing tường thuật một hoạt động đang diễn ra.}} (say) (examine) the records now, according to the report. The files {{are thought to have been moved::To have been + V3 nói hành động bị động trước hiện tại.}} (think) (move) earlier, according to investigators. {{It is expected that::It is expected that mở đầu mệnh đề diễn tả kỳ vọng được tường thuật.}} (expect) a statement will follow, according to officials."
     }
-  ]
+  ],
+  "lessonNumber": 3
 }

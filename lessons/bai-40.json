@@ -1,223 +1,224 @@
 {
-  "id": "g8-40",
-  "title": "40. Đảo ngữ & Câu chẻ",
+  "id": "47",
+  "title": "47. Đảo ngữ & Câu chẻ",
   "pages": [
     {
       "pageNumber": 1,
-      "pageTitle": "Đảo ngữ với trạng từ phủ định",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · ĐẢO NGỮ VỚI TRẠNG TỪ PHỦ ĐỊNH</span></h2><p>Khi một số trạng từ phủ định đứng đầu câu để nhấn mạnh, trợ động từ thường đứng trước chủ ngữ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Never / rarely / seldom + trợ động từ + S + V.<br>Nếu câu không có trợ động từ phù hợp, có thể dùng do / does / did.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>Never have I seen such a view. → Tôi chưa từng thấy cảnh như vậy.<br>Rarely does she arrive late. → Hiếm khi cô ấy đến muộn.</p><p><span class=\"highlight\">Lưu ý:</span> Đảo ngữ thường mang sắc thái trang trọng hoặc nhấn mạnh; không cần dùng trong mọi câu.</p>"
+      "pageTitle": "Đảo ngữ sau trạng ngữ giới hạn",
+      "contentHTML": "<p>Khi trạng ngữ phủ định hoặc giới hạn đứng đầu câu, thường đảo trợ động từ và chủ ngữ trong mệnh đề chính: Rarely has the board faced such scrutiny. Nếu không có trợ động từ, dùng do/does/did: Only after the review did the board respond.</p>"
     },
     {
       "pageNumber": 2,
-      "pageTitle": "Hardly và No sooner",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · HARDLY VÀ NO SOONER</span></h2><p>Hai cấu trúc nhấn mạnh một việc vừa xảy ra thì việc khác xảy ra ngay sau đó.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Hardly / Scarcely + had + S + V3 + when + quá khứ đơn.<br>No sooner + had + S + V3 + than + quá khứ đơn.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>Hardly had we arrived when it began to rain. → Chúng tôi vừa đến thì trời mưa.<br>No sooner had she left than the phone rang. → Cô ấy vừa đi thì điện thoại reo.</p><p><span class=\"highlight\">Lưu ý:</span> Ghi nhớ cặp hardly...when và no sooner...than; had được đảo trước chủ ngữ.</p>"
+      "pageTitle": "No sooner, hardly và điều kiện đảo",
+      "contentHTML": "<p>No sooner + had + chủ ngữ + V3 + than và Hardly + had + chủ ngữ + V3 + when có thể diễn tả hai hành động quá khứ liên tiếp. Đảo ngữ điều kiện trang trọng có thể bỏ if: Had the evidence been available, the inquiry might have continued.</p>"
     },
     {
       "pageNumber": 3,
-      "pageTitle": "Câu chẻ It is / It was",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · CÂU CHẺ IT IS / IT WAS</span></h2><p>Câu chẻ đặt thành phần cần nhấn mạnh sau It is hoặc It was.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>It is / was + thành phần nhấn mạnh + who / that + phần còn lại.<br>Who thường dùng khi nhấn mạnh người; that có thể dùng trong nhiều trường hợp.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>It was Lan who called me. → Chính Lan đã gọi cho tôi.<br>It was at noon that the meeting began. → Cuộc họp bắt đầu chính vào buổi trưa.</p><p><span class=\"highlight\">Lưu ý:</span> Giữ thì và nghĩa của câu gốc; câu chẻ thay đổi trọng tâm thông tin, không nhất thiết thay đổi sự kiện.</p>"
+      "pageTitle": "Câu chẻ để nhấn mạnh",
+      "contentHTML": "<p>Câu chẻ it-cleft nhấn mạnh một thành phần: It was the auditor who / that identified the error. Wh-cleft dùng mệnh đề what: What the panel needs is reliable evidence. Giữ thì và hòa hợp chủ ngữ–động từ phù hợp với ngữ cảnh.</p>"
     }
   ],
   "exercises": [
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Never {{have I seen::Never đứng đầu câu tạo đảo ngữ: have đứng trước chủ ngữ I và seen là V3 của see.}} [I] (have) (see) such a beautiful view before."
+      "questionHTML": "Rarely {{has the committee faced::Rarely đứng đầu câu kích hoạt đảo trợ động từ has trước chủ ngữ trong hiện tại hoàn thành.}} (face) such sustained scrutiny as it has this year."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Hardly {{had we arrived::Hardly đứng đầu câu dùng had + chủ ngữ + V3 và đi với when.}} [we] (arrive) when it began to rain."
+      "questionHTML": "Only after the audit {{did the board respond::Only after đứng đầu câu kích hoạt did + chủ ngữ + nguyên mẫu trong mệnh đề chính quá khứ.}} (respond); the board had remained silent until then."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "No sooner {{had we reached the station::No sooner đứng đầu câu dùng had + S + V3 và nối với mệnh đề sau bằng than.}} [we] [reach the station] than the train left."
+      "questionHTML": "Under no circumstances {{should staff disclose::Trạng ngữ phủ định đứng đầu câu khiến modal should đứng trước chủ ngữ; disclose là nguyên mẫu.}} (disclose) confidential data, according to the policy."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{It was Lan who | It was Lan that::Cả who và that đều có thể giới thiệu phần còn lại của câu chẻ nhấn mạnh người.}} [Lan] (be) called me yesterday."
+      "questionHTML": "Not until the report was published {{did the public learn::Not until đứng đầu câu dẫn đến did + chủ ngữ + nguyên mẫu trong mệnh đề chính quá khứ.}} (learn) the scale of the problem."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "{{It was at noon that::Câu chẻ It was + at noon + that nhấn mạnh thời điểm sự việc xảy ra.}} [at noon] (be) the meeting began."
+      "questionHTML": "No sooner {{had the hearing begun::No sooner đứng đầu dùng had + chủ ngữ + V3, theo sau bởi than.}} (begin) than the chair requested an adjournment."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Hardly {{had the announcement ended::Hardly đứng đầu dùng had + chủ ngữ + V3, theo sau bởi when.}} (end) when objections were raised."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "{{Had the data been::Đảo ngữ điều kiện trang trọng dùng Had + chủ ngữ + V3 thay cho If the data had been.}} (be) available earlier, the panel might have reached a different conclusion."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "It was the auditor {{who | that::Trong it-cleft nhấn mạnh người làm chủ ngữ, who hoặc that đều có thể dùng.}} identified the discrepancy."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "It was the revised estimate {{that::That nối thành phần được nhấn mạnh với phần còn lại của câu chẻ.}} prompted the review."
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "Never ___ such an interesting book before. (( I have seen | **have I seen** | have I saw :: Never đứng đầu câu tạo đảo ngữ: have đứng trước chủ ngữ I và seen là V3 của see. ))"
+      "questionHTML": "Rarely ___ such a detailed account. (( **has the panel received** | the panel has received | has received the panel :: Rarely đứng đầu câu kích hoạt đảo trợ động từ và chủ ngữ. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "Hardly ___ when the meeting began. (( we had arrived | **had we arrived** | did we arrived :: Hardly đứng đầu câu dùng had + chủ ngữ + V3 và đi với when. ))"
+      "questionHTML": "Only after the hearing ___ its decision. (( **did the board announce** | the board did announce | did announce the board :: Only after đứng đầu câu dẫn tới did + chủ ngữ + nguyên mẫu. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "No sooner ___ than the bus departed. (( we had reached the station | **had we reached the station** | had we reach the station :: No sooner đứng đầu câu dùng had + S + V3 và nối với mệnh đề sau bằng than. ))"
+      "questionHTML": "No sooner had the meeting begun ___ the alarm sounded. (( **than** | when did | then did :: No sooner ... than là cặp liên kết thông dụng. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "___ helped me yesterday. (( Lan was it who | **It was Lan who** | It Lan was who :: Câu chẻ It was + Lan + who nhấn mạnh người thực hiện hành động trong quá khứ. ))"
+      "questionHTML": "Hardly had the report been released ___ criticism emerged. (( **when** | than did | then had :: Hardly ... when là cặp liên kết thông dụng. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "___ the class started. (( **It was at noon that** | It at noon was that | It was that at noon :: Câu chẻ It was + at noon + that nhấn mạnh thời điểm sự việc xảy ra. ))"
+      "questionHTML": "It was the analyst ___ identified the error. (( **who** | whose did | whom was :: Trong it-cleft nhấn mạnh người làm chủ ngữ, who có thể được dùng. ))"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ Never | have | I | seen | such | a | view. ~~"
+      "questionHTML": "~~ Rarely | has | the | committee | faced | such | sustained | scrutiny. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ Hardly | had | we | arrived | when | it | began | to | rain. ~~"
+      "questionHTML": "~~ Only | after | the | audit | did | the | board | respond. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ No | sooner | had | we | arrived | than | the | train | left. ~~"
+      "questionHTML": "~~ Under | no | circumstances | should | staff | disclose | confidential | data. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ It | was | Lan | who | called | me | yesterday. ~~"
+      "questionHTML": "~~ Not | until | the | report | was | published | did | the | public | learn | the | truth. ~~"
     },
     {
       "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "Only after the review {{did the committee act::Only after đứng đầu câu kích hoạt did + chủ ngữ + nguyên mẫu.}} (act); it had taken no action before then."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "It was the adviser {{who | that::Who hoặc that có thể dùng khi nhấn mạnh người làm chủ ngữ.}} proposed the amendment."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Only when the investigation concluded {{did the agency release::Only when đứng đầu câu kích hoạt đảo did trong mệnh đề chính.}} (release) its findings."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Seldom {{have the witnesses agreed::Seldom đứng đầu câu kích hoạt đảo have trước chủ ngữ số nhiều.}} (agree) so readily as they have today."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "On no account {{must visitors remove::On no account đứng đầu câu kích hoạt đảo modal must trước chủ ngữ.}} (remove) original documents, according to the rules."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "No sooner {{had the contract been signed::No sooner đứng đầu dùng had + chủ ngữ + V3; been signed là dạng bị động.}} (sign) than the dispute resurfaced."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Hardly {{had the meeting started::Hardly đứng đầu dùng had + chủ ngữ + V3 trước when.}} (start) when the power failed."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "{{Had the firm disclosed::Had + chủ ngữ + V3 là dạng đảo của điều kiện quá khứ với if.}} (disclose) the risk earlier, investors might have responded differently."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "It was the witnesses {{who | that::Trong it-cleft nhấn mạnh người làm chủ ngữ, who hoặc that đều có thể dùng.}} raised the concern."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "Only after the deadline {{did the applicant submit::Only after đứng đầu câu kích hoạt did + chủ ngữ + nguyên mẫu trong mệnh đề chính.}} (submit) the form; it arrived late."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "What the inquiry needs {{is::Trong wh-cleft này, mệnh đề what được xem như một đơn vị số ít và theo sau bởi is.}} (be) a complete set of records."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Seldom ___ such consensus. (( **have the members reached** | the members have reached | have reached the members :: Seldom đứng đầu câu kích hoạt đảo have trước chủ ngữ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Under no circumstances ___ the documents leave the archive. (( **may** | visitors may | may to :: Trạng ngữ phủ định đứng đầu câu kích hoạt đảo modal trước chủ ngữ. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "Only when the figures were checked ___ the discrepancy. (( **did the team notice** | the team did notice | did notice the team :: Only when đứng đầu dẫn tới did + chủ ngữ + nguyên mẫu. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "___ the evidence been available, the panel might have decided differently. (( **Had** | Have yesterday | Had been the :: Had + chủ ngữ + V3 tạo điều kiện đảo trang trọng. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "It was the revised policy ___ prompted the objection. (( **that** | whose did | whom was :: That nối thành phần được nhấn mạnh với phần còn lại của it-cleft. ))"
+    },
+    {
+      "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ It | was | at | noon | that | the | meeting | began. ~~"
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "Never {{have the researchers seen::Never ở đầu câu yêu cầu đảo trợ động từ have trước chủ ngữ; seen là V3.}} [the researchers] (see) such a complex case before."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "Hardly {{had the team arrived::Hardly ở đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} [the team] (arrive) when the meeting began."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "No sooner {{had the panel finished::No sooner ở đầu câu thường dùng had + chủ ngữ + V3, rồi than.}} [the panel] (finish) than the lights went out."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "Only after the review {{did the committee announce::Only + trạng ngữ đầu câu yêu cầu đảo did trước chủ ngữ; động từ chính dùng nguyên mẫu.}} [the committee] (announce) its decision."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "{{It was the curator who | It was the curator that::It was + người + who/that đều có thể tạo câu chẻ nhấn mạnh người.}} [the curator] (be) approved the final proposal."
+      "questionHTML": "~~ No | sooner | had | the | hearing | begun | than | the | chair | requested | an | adjournment. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "Never {{have the researchers seen::Never ở đầu câu yêu cầu đảo trợ động từ have trước chủ ngữ; seen là V3.}} [the researchers] (see) such detailed evidence before."
+      "type": "unscramble",
+      "questionHTML": "~~ Hardly | had | the | meeting | started | when | the | power | failed. ~~"
     },
     {
       "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "Never ___ such an unusual pattern before. (( the researchers have seen | **have the researchers seen** | have the researchers saw :: Never ở đầu câu yêu cầu đảo trợ động từ have trước chủ ngữ; seen là V3. ))"
+      "type": "unscramble",
+      "questionHTML": "~~ Had | the | data | been | available, | the | panel | might | have | decided | differently. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "Hardly {{had the team arrived::Hardly ở đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} [the team] (arrive) when the presentation started."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "Hardly ___ when the director entered. (( the team had arrived | **had the team arrived** | had the team arrive :: Hardly ở đầu câu thường dùng had + chủ ngữ + V3, rồi when. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "No sooner {{had the panel finished::No sooner ở đầu câu thường dùng had + chủ ngữ + V3, rồi than.}} [the panel] (finish) than the director entered."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "No sooner ___ than the meeting ended. (( the panel had finished | **had the panel finished** | had the panel finish :: No sooner ở đầu câu thường dùng had + chủ ngữ + V3, rồi than. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "Only after checking the figures {{did the committee announce::Only + trạng ngữ đầu câu yêu cầu đảo did trước chủ ngữ; động từ chính dùng nguyên mẫu.}} [the committee] (announce) the outcome."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "Only after the final meeting ___ the result. (( the committee did announce | **did the committee announce** | did the committee announced :: Only + trạng ngữ đầu câu yêu cầu đảo did trước chủ ngữ; động từ chính dùng nguyên mẫu. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "{{It was the curator who | It was the curator that::It was + người + who/that đều có thể tạo câu chẻ nhấn mạnh người.}} [the curator] (be) presented the original manuscript."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "___ organised the exhibition. (( The curator was it who | **It was the curator who** | It the curator was who :: It was + người + who/that đều có thể tạo câu chẻ nhấn mạnh người. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "Only then {{did the panel notice::Only then ở đầu câu yêu cầu đảo did trước chủ ngữ và dùng động từ nguyên mẫu.}} [the panel] (notice) the error."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "{{It was on Monday that::It was + trạng ngữ thời gian + that tạo câu chẻ nhấn mạnh thời điểm.}} [on Monday] (be) the report was published."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "Hardly {{had the team arrived::Hardly ở đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} [the team] (arrive) when the session began."
+      "type": "unscramble",
+      "questionHTML": "~~ It | was | the | auditor | who | identified | the | discrepancy. ~~"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A committee reviewed a difficult case. Never {{have the researchers seen::Never đầu câu yêu cầu đảo have trước chủ ngữ; seen là V3.}} [the researchers] (see) such detailed evidence before. Only after the review {{did the committee announce::Only + trạng ngữ đầu câu yêu cầu đảo did trước chủ ngữ và dùng nguyên mẫu.}} [the committee] (announce) its decision. {{It was the curator who | It was the curator that::Who và that đều có thể dùng trong câu chẻ nhấn mạnh người.}} [the curator] (be) presented the original manuscript."
+      "questionHTML": "Only after the audit {{did the board respond::Only after đứng đầu câu dẫn tới did + chủ ngữ + nguyên mẫu.}} (respond). Not until the report was published {{did the public learn::Not until đứng đầu câu kích hoạt đảo did trong mệnh đề chính.}} (learn) the details. It was the auditor {{who | that::Who hoặc that có thể nối thành phần nhấn mạnh chỉ người với mệnh đề.}} identified the discrepancy."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team attended a meeting. Hardly {{had the team arrived::Hardly đầu câu thường dùng had + chủ ngữ + V3, rồi when.}} [the team] (arrive) when the presentation began. No sooner {{had the panel finished::No sooner đầu câu thường dùng had + chủ ngữ + V3, rồi than.}} [the panel] (finish) than the director entered. Only then {{did the panel notice::Only then đầu câu yêu cầu đảo did trước chủ ngữ.}} [the panel] (notice) the error."
-    },
-    {
-      "tier": "apply",
-      "type": "paragraph-gap-fill",
-      "questionHTML": "A museum organised an exhibition. {{It was the curator who | It was the curator that::Who và that đều có thể dùng trong câu chẻ nhấn mạnh người.}} [the curator] (be) designed the display. {{It was on Monday that::Câu chẻ It was + thời gian + that nhấn mạnh thời điểm.}} [on Monday] (be) the exhibition opened. Never {{have the researchers seen::Never đầu câu yêu cầu đảo have trước chủ ngữ.}} [the researchers] (see) such an unusual collection before."
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ Never | have | the | researchers | seen | such | detailed | evidence | before. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ Hardly | had | the | team | arrived | when | the | presentation | began. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ Only | after | the | review | did | the | committee | announce | its | decision. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ It | was | the | curator | who | organised | the | exhibition. ~~"
+      "questionHTML": "No sooner {{had the meeting started::No sooner đứng đầu dùng had + chủ ngữ + V3.}} (start) than an objection was raised. Hardly {{had the chair replied::Hardly đứng đầu dùng had + chủ ngữ + V3 trước when.}} (reply) when another question followed. {{Had the evidence been::Had + chủ ngữ + V3 là điều kiện đảo trang trọng.}} (be) available earlier, the discussion might have been shorter."
     }
-  ]
+  ],
+  "lessonNumber": 6
 }

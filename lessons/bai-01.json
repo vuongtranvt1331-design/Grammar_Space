@@ -1,138 +1,138 @@
 {
-  "id": "g1-01",
+  "id": "1",
   "title": "01. Danh từ & Số ít / Số nhiều",
   "pages": [
     {
       "pageNumber": 1,
-      "pageTitle": "Phần 1: Danh từ Đếm được vs. Không đếm được",
-      "contentHTML": "<p><strong>Danh từ (Noun)</strong> là từ chỉ người, vật, địa điểm hoặc khái niệm.</p><div class=\"rule-box\" style=\"background: rgba(52, 152, 219, 0.1); border-left: 4px solid #3498db; padding: 10px; margin: 10px 0;\"><strong style=\"color: #3498db;\">Phân loại cốt lõi:</strong><br>• <strong>Đếm được (Countable):</strong> Đếm trực tiếp bằng số (1, 2, 3...). Có dạng số ít (a book) và số nhiều (two books).<br>• <strong>Không đếm được (Uncountable):</strong> Chất lỏng, chất khí, khái niệm trừu tượng (water, money, information, advice). <em>Ở nghĩa không đếm được, không dùng a/an trực tiếp và thường không có số nhiều.</em> Có thể đếm theo đơn vị: <strong>a piece of advice</strong>, <strong>two pieces of information</strong>.</div><p><strong>Lưu ý theo ngữ cảnh:</strong> <em>paper</em> là chất liệu không đếm được, nhưng <em>a paper / papers</em> có thể chỉ một hoặc nhiều bài báo nghiên cứu.</p>"
+      "pageTitle": "Danh từ số ít và số nhiều",
+      "contentHTML": "<p>Danh từ gọi tên người, con vật hoặc đồ vật: <strong>girl, cat, book</strong>.</p><div class=\"rule-box\">Một vật: <strong>a book</strong>. Nhiều vật: thường thêm <strong>-s</strong>: two books.</div><p>Ví dụ: one apple → two apples.</p><div class=\"rule-box\"><strong>Giải thích từng bước:</strong><p>Trước hết, xác định em đang nói về một vật hay nhiều vật. Một vật đếm được thường cần a hoặc an; từ hai vật trở lên, dùng dạng số nhiều. Không đếm trực tiếp water hoặc information: hãy dùng đơn vị như a glass hoặc a piece.</p><p>I have a book. → Tôi có một quyển sách.<br>I have two books. → Tôi có hai quyển sách.<br>She drinks a glass of water. → Cô ấy uống một cốc nước.</p></div><h3>Mở rộng: Phần 1: Danh từ Đếm được vs. Không đếm được</h3><p><strong>Danh từ (Noun)</strong> là từ chỉ người, vật, địa điểm hoặc khái niệm.</p><div class=\"rule-box\" style=\"background: rgba(52, 152, 219, 0.1); border-left: 4px solid #3498db; padding: 10px; margin: 10px 0;\"><strong style=\"color: #3498db;\">Phân loại cốt lõi:</strong><br>• <strong>Đếm được (Countable):</strong> Đếm trực tiếp bằng số (1, 2, 3...). Có dạng số ít (a book) và số nhiều (two books).<br>• <strong>Không đếm được (Uncountable):</strong> Chất lỏng, chất khí, khái niệm trừu tượng (water, money, information, advice). <em>Ở nghĩa không đếm được, không dùng a/an trực tiếp và thường không có số nhiều.</em> Có thể đếm theo đơn vị: <strong>a piece of advice</strong>, <strong>two pieces of information</strong>.</div><p><strong>Lưu ý theo ngữ cảnh:</strong> <em>paper</em> là chất liệu không đếm được, nhưng <em>a paper / papers</em> có thể chỉ một hoặc nhiều bài báo nghiên cứu.</p>"
     },
     {
       "pageNumber": 2,
-      "pageTitle": "Phần 2: Quy tắc chuyển Số ít sang Số nhiều",
-      "contentHTML": "<p>Hầu hết danh từ đếm được thêm <strong>-s</strong> ở số nhiều, trừ các quy tắc đặc biệt:</p><div class=\"rule-box\" style=\"background: rgba(46, 204, 113, 0.1); border-left: 4px solid #2ecc71; padding: 10px; margin: 10px 0;\"><strong style=\"color: #2ecc71;\">Quy tắc biến đổi đuôi:</strong><br>• Tận cùng <em>-s, -ss, -sh, -ch, -x, -z</em>: Thêm <strong>-es</strong> (bus → buses, watch → watches).<br>• Tận cùng <em>phụ âm + y</em>: Đổi thành <strong>-ies</strong> (city → cities).<br>• Một số từ tận cùng <em>-f / -fe</em> đổi thành <strong>-ves</strong> (leaf → leaves, knife → knives); một số từ khác thêm <strong>-s</strong> (roof → roofs, chef → chefs).</div>"
+      "pageTitle": "Một số dạng số nhiều",
+      "contentHTML": "<p>Thêm <strong>-es</strong> sau -s, -sh, -ch hoặc -x: one box → two boxes.</p><div class=\"rule-box\">Phụ âm + y: đổi y thành <strong>ies</strong>: baby → babies. Nguyên âm + y: thêm s: boy → boys.</div><p>Một số dạng cần nhớ: child → children; man → men; woman → women.</p><div class=\"rule-box\"><strong>Giải thích từng bước:</strong><p>Bắt đầu từ danh từ số ít. Thường thêm -s; thêm -es sau các âm cuối như s, sh, ch, x. Với phụ âm + y, đổi y thành ies; với nguyên âm + y, chỉ thêm s.</p><p>one box → two boxes: một hộp → hai hộp.<br>one baby → two babies: một em bé → hai em bé.<br>one boy → two boys: một bé trai → hai bé trai.</p></div><h3>Mở rộng: Phần 2: Quy tắc chuyển Số ít sang Số nhiều</h3><p>Hầu hết danh từ đếm được thêm <strong>-s</strong> ở số nhiều, trừ các quy tắc đặc biệt:</p><div class=\"rule-box\" style=\"background: rgba(46, 204, 113, 0.1); border-left: 4px solid #2ecc71; padding: 10px; margin: 10px 0;\"><strong style=\"color: #2ecc71;\">Quy tắc biến đổi đuôi:</strong><br>• Tận cùng <em>-s, -ss, -sh, -ch, -x, -z</em>: Thêm <strong>-es</strong> (bus → buses, watch → watches).<br>• Tận cùng <em>phụ âm + y</em>: Đổi thành <strong>-ies</strong> (city → cities).<br>• Một số từ tận cùng <em>-f / -fe</em> đổi thành <strong>-ves</strong> (leaf → leaves, knife → knives); một số từ khác thêm <strong>-s</strong> (roof → roofs, chef → chefs).</div>"
     },
     {
       "pageNumber": 3,
-      "pageTitle": "Phần 3: Danh từ Bất quy tắc & Bẫy thường gặp",
-      "contentHTML": "<p>Các danh từ biến đổi nguyên âm hoặc giữ nguyên khi sang số nhiều:</p><div class=\"rule-box\" style=\"background: rgba(231, 76, 60, 0.1); border-left: 4px solid #e74c3c; padding: 10px; margin: 10px 0;\"><strong style=\"color: #e74c3c;\">Cần ghi nhớ:</strong><br>• <strong>Bất quy tắc:</strong> man → men, woman → women, child → children, person → people / persons, tooth → teeth, foot → feet, mouse → mice; analysis → analyses, hypothesis → hypotheses, phenomenon → phenomena, criterion → criteria. <em>Persons</em> thường gặp trong văn phong pháp lý hoặc rất trang trọng.<br>• <strong>Bẫy không đếm được:</strong> <em>information, advice, news, furniture, luggage, homework</em> thường không đếm được; trong các nghĩa thông dụng này, không thêm -s và dùng động từ số ít.</div><p><strong>Giữ nguyên:</strong> <em>one species → three species</em>; dạng số ít và số nhiều của <em>species</em> giống nhau.</p>"
+      "pageTitle": "Danh từ đếm được và không đếm được",
+      "contentHTML": "<p>Danh từ đếm được có thể đi với số: <strong>one egg, two eggs</strong>.</p><div class=\"rule-box\">Milk và water thường không đếm trực tiếp. Nói <strong>some milk</strong>, <strong>a glass of water</strong>.</div><p>Ví dụ: I have two apples. / I drink some water.</p><div class=\"rule-box\"><strong>Giải thích từng bước:</strong><p>Một số danh từ không theo quy tắc thêm -s: hãy học cả cặp số ít và số nhiều. Với danh từ không đếm được, dùng lượng từ hoặc đơn vị thay vì tự thêm -s.</p><p>one child → two children: một đứa trẻ → hai đứa trẻ.<br>one woman → two women: một phụ nữ → hai phụ nữ.<br>a piece of advice: một lời khuyên; không nói an advice.</p></div><h3>Mở rộng: Phần 3: Danh từ Bất quy tắc & Bẫy thường gặp</h3><p>Các danh từ biến đổi nguyên âm hoặc giữ nguyên khi sang số nhiều:</p><div class=\"rule-box\" style=\"background: rgba(231, 76, 60, 0.1); border-left: 4px solid #e74c3c; padding: 10px; margin: 10px 0;\"><strong style=\"color: #e74c3c;\">Cần ghi nhớ:</strong><br>• <strong>Bất quy tắc:</strong> man → men, woman → women, child → children, person → people / persons, tooth → teeth, foot → feet, mouse → mice; analysis → analyses, hypothesis → hypotheses, phenomenon → phenomena, criterion → criteria. <em>Persons</em> thường gặp trong văn phong pháp lý hoặc rất trang trọng.<br>• <strong>Bẫy không đếm được:</strong> <em>information, advice, news, furniture, luggage, homework</em> thường không đếm được; trong các nghĩa thông dụng này, không thêm -s và dùng động từ số ít.</div><p><strong>Giữ nguyên:</strong> <em>one species → three species</em>; dạng số ít và số nhiều của <em>species</em> giống nhau.</p>"
     }
   ],
   "exercises": [
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The museum has digitised several rare {{manuscripts::Several đi với danh từ đếm được số nhiều; manuscript thêm -s.}} [manuscript] for public access."
+      "questionHTML": "I have two {{books::Two đi với danh từ số nhiều; thêm s vào book.}} [quyển sách]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Researchers compared the migration patterns of three {{species::Species có cùng hình thức ở số ít và số nhiều; three cho biết ở đây là số nhiều.}} [loài]."
+      "questionHTML": "There is one {{cat::One đi với danh từ số ít.}} [con mèo]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The final report contains valuable {{information::Information là danh từ không đếm được; không dùng informations hay an information.}} [thông tin] about local air quality."
+      "questionHTML": "We see three {{dogs::Three đi với số nhiều; dog thêm s.}} [con chó]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "Several {{analyses::Analysis có số nhiều bất quy tắc là analyses; several yêu cầu danh từ số nhiều.}} [analysis] were conducted before the findings were published."
+      "questionHTML": "She has two {{apples::Two đi với số nhiều; apple thêm s.}} [quả táo]."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The charity provided school meals for hundreds of {{children::Sau hundreds of cần danh từ số nhiều; child đổi bất quy tắc thành children.}} [child] in rural areas."
+      "questionHTML": "He has one {{pen::One đi với danh từ số ít.}} [bút]."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "I see two {{boxes::Box kết thúc bằng x nên thêm es.}} [cái hộp]."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "There are three {{buses::Bus kết thúc bằng s nên thêm es.}} [xe buýt]."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The two {{babies::Baby kết thúc bằng phụ âm + y: đổi y thành ies.}} [em bé] are happy."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The two {{boys::Boy kết thúc bằng nguyên âm + y: thêm s.}} [bé trai] run."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "We have some {{milk::Milk thường là danh từ không đếm được; dùng some milk.}} [sữa]."
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The environmental agency issued two ___ about coastal flooding. (( advice | **pieces of advice** | advices :: Advice không đếm được; để đếm từng lời khuyên, dùng piece(s) of advice. ))"
+      "questionHTML": "There are four ___. (( **chairs** | chair | chaires :: Four đi với chairs, dạng số nhiều của chair. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The ___ collected during the inspection is confidential. (( **evidence** | evidences | an evidence :: Evidence là danh từ không đếm được trong nghĩa bằng chứng và thường đi với động từ số ít. ))"
+      "questionHTML": "He has one ___. (( hats | **hat** | hates :: One đi với danh từ số ít hat. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "Several historical ___ were displayed in the gallery. (( **photographs** | photograph | photographies :: Several yêu cầu danh từ đếm được số nhiều; photographs là các bức ảnh. ))"
+      "questionHTML": "I see five ___. (( bird | **birds** | birdes :: Five đi với birds, dạng số nhiều của bird. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The latest ___ from the research centre was unexpected. (( **news** | newses | a news :: News là danh từ không đếm được dù tận cùng bằng s; dùng với was ở đây. ))"
+      "questionHTML": "We have two ___. (( foxs | **foxes** | fox :: Fox kết thúc bằng x nên thêm es. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The conservation team examined the ___ of the ancient trees. (( leafs | **leaves** | leafes :: Leaf là danh từ có dạng số nhiều bất quy tắc leaves trong ngữ cảnh này. ))"
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The report compares air quality in six {{cities::Six yêu cầu danh từ đếm được số nhiều; city kết thúc bằng phụ âm + y nên đổi y thành ies.}} [city] across the region."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The board examined several proposed {{policies::Sau several cần danh từ số nhiều; policy đổi phụ âm + y thành ies.}} [policy] before the vote."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "Two {{women::Two yêu cầu số nhiều; woman có dạng số nhiều bất quy tắc women.}} [woman] led the field investigation."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The university made these {{theses::These đi với danh từ số nhiều; thesis đổi -is thành -es, tạo theses.}} [thesis] available online."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The conservation team repaired the {{roofs::Roof là ngoại lệ không đổi f thành ves; số nhiều thông dụng là roofs.}} [roof] of several historic buildings."
-    },
-    {
-      "tier": "practice",
-      "type": "mcq",
-      "questionHTML": "The researchers observed several unusual ___ during the experiment. (( phenomenons | **phenomena** | phenomenon :: Several cần danh từ đếm được số nhiều; phenomenon có số nhiều bất quy tắc phenomena. ))"
-    },
-    {
-      "tier": "practice",
-      "type": "mcq",
-      "questionHTML": "During the inspection, ___ was found to be damaged. (( an equipment | **a piece of equipment** | two equipments :: Equipment không đếm được; a piece of equipment là một đơn vị thiết bị và đi với was. ))"
-    },
-    {
-      "tier": "practice",
-      "type": "mcq",
-      "questionHTML": "The laboratory recorded the behaviour of three ___. (( mouses | **mice** | mouse :: Three cần danh từ số nhiều; mouse có số nhiều bất quy tắc mice. ))"
+      "questionHTML": "There is some ___. (( rices | **rice** | a rice :: Rice thường là danh từ không đếm được. ))"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "~~ Several | museums | have | preserved | rare | manuscripts | for | future | generations. ~~"
+      "questionHTML": "~~ I | have | two | books. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "~~ The | latest | news | was | shared | with | the | research | team. ~~"
+      "questionHTML": "~~ She | has | one | cat. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ We | see | three | dogs. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ He | has | two | apples. ~~"
+    },
+    {
+      "tier": "practice",
+      "type": "unscramble",
+      "questionHTML": "~~ I | drink | some | milk. ~~"
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "A series of public {{campaigns::A series of theo sau bởi danh từ số nhiều chỉ nhiều chiến dịch; campaign thêm -s.}} [campaign] was launched across the region."
+      "questionHTML": "A series of public {{campaigns::A series of theo sau bởi danh từ số nhiều chỉ nhiều chiến dịch; campaign thêm -s.}} [chiến dịch] was launched across the region."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The laboratory purchased several precision {{instruments::Several yêu cầu danh từ đếm được số nhiều; instrument thêm -s.}} [instrument] for measuring noise levels."
+      "questionHTML": "The laboratory purchased several precision {{instruments::Several yêu cầu danh từ đếm được số nhiều; instrument thêm -s.}} [dụng cụ] for measuring noise levels."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Each applicant must submit two {{copies::Copy kết thúc bằng phụ âm + y; đổi y thành ies để tạo số nhiều sau two.}} [copy] of the signed agreement."
+      "questionHTML": "Each applicant must submit two {{copies::Copy kết thúc bằng phụ âm + y; đổi y thành ies để tạo số nhiều sau two.}} [bản sao] of the signed agreement."
     },
     {
       "tier": "apply",
@@ -157,67 +157,68 @@
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university archive is preparing a public exhibition. Several {{families::Several yêu cầu số nhiều; family đổi phụ âm + y thành ies.}} [family] have donated personal letters to the project. The curators are examining the {{information::Information không đếm được; không thêm -s khi nói về thông tin trong các bức thư.}} [thông tin] in those letters, while specialists compare the {{photographs::The photographs chỉ nhiều bức ảnh được gửi cùng các lá thư; photograph thêm -s.}} [photograph] submitted with them. Two {{women::Two yêu cầu số nhiều; woman đổi bất quy tắc thành women.}} [woman] will explain the collection at the opening."
+      "questionHTML": "A university archive is preparing a public exhibition. Several {{families::Several yêu cầu số nhiều; family đổi phụ âm + y thành ies.}} [gia đình] have donated personal letters to the project. The curators are examining the {{information::Information không đếm được; không thêm -s khi nói về thông tin trong các bức thư.}} [thông tin] in those letters, while specialists compare the {{photographs::The photographs chỉ nhiều bức ảnh được gửi cùng các lá thư; photograph thêm -s.}} [bức ảnh] submitted with them. Two {{women::Two yêu cầu số nhiều; woman đổi bất quy tắc thành women.}} [phụ nữ] will explain the collection at the opening."
     },
     {
       "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "~~ The | committee | considered | several | pieces | of | evidence | before | voting. ~~"
+      "questionHTML": "~~ The | committee | compared | several | independent | analyses | before | endorsing | the | proposed | environmental | policy. ~~"
     },
     {
       "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "~~ The | researchers | compared | three | hypotheses | about | the | observed | changes. ~~"
+      "questionHTML": "~~ The | archive | preserved | rare | manuscripts | and | classified | the | materials | according | to | their | historical | significance. ~~"
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The legal notice refers to {{people | persons::People và persons đều là số nhiều của person; persons thường mang sắc thái pháp lý hoặc rất trang trọng.}} [person] with disabilities."
+      "questionHTML": "The report compares air quality in six {{cities::Six yêu cầu danh từ đếm được số nhiều; city kết thúc bằng phụ âm + y nên đổi y thành ies.}} [thành phố] across the region."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "Each researcher submitted {{a piece of evidence | an item of evidence | one piece of evidence | one item of evidence::Evidence không đếm được; a hoặc one piece/item of evidence đều chỉ một đơn vị bằng chứng.}} [một đơn vị bằng chứng] to the panel."
+      "questionHTML": "The board examined several proposed {{policies::Sau several cần danh từ số nhiều; policy đổi phụ âm + y thành ies.}} [chính sách] before the vote."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The investigators identified several {{phenomena::Several yêu cầu số nhiều; phenomenon có dạng số nhiều bất quy tắc phenomena.}} [phenomenon] that could influence the results."
+      "questionHTML": "Two {{women::Two yêu cầu số nhiều; woman có dạng số nhiều bất quy tắc women.}} [phụ nữ] led the field investigation."
     },
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The reviewers agreed on three assessment {{criteria::Three yêu cầu số nhiều; criterion có dạng số nhiều bất quy tắc criteria.}} [criterion] before examining the applications."
+      "questionHTML": "The university made these {{theses::These đi với danh từ số nhiều; thesis đổi -is thành -es, tạo theses.}} [luận văn] available online."
     },
     {
       "tier": "apply",
       "type": "mcq",
-      "questionHTML": "After the workshop, participants submitted three research ___. (( paper | **papers** | a paper :: Ở đây paper chỉ bài báo nghiên cứu, là danh từ đếm được; three yêu cầu số nhiều papers. ))"
+      "questionHTML": "The researchers observed several unusual ___ during the experiment. (( phenomenons | **phenomena** | phenomenon :: Several cần danh từ đếm được số nhiều; phenomenon có số nhiều bất quy tắc phenomena. ))"
     },
     {
       "tier": "apply",
       "type": "mcq",
-      "questionHTML": "The field team needs ___ to confirm the observation. (( a further evidence | further evidences | **further evidence** :: Evidence là danh từ không đếm được; further evidence nghĩa là thêm bằng chứng, không dùng a hay thêm -s. ))"
+      "questionHTML": "During the inspection, ___ was found to be damaged. (( an equipment | **a piece of equipment** | two equipments :: Equipment không đếm được; a piece of equipment là một đơn vị thiết bị và đi với was. ))"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research institute is preparing a study of coastal erosion. The team compared three {{analyses::Three yêu cầu danh từ số nhiều; analysis đổi thành analyses.}} [analysis] from different regions. Several {{women::Women là dạng số nhiều bất quy tắc của woman, phù hợp sau several.}} [woman] on the team examined the historical records. They found {{a piece of evidence | an item of evidence | one piece of evidence | one item of evidence::Evidence không đếm được; có thể dùng a/one piece hoặc item of evidence để nói về một đơn vị bằng chứng.}} [một đơn vị bằng chứng] that supported the oldest account."
+      "questionHTML": "A museum is documenting its scientific collection. Two {{species::Species giữ nguyên hình thức ở số ít và số nhiều; two cho biết đang nói tới hai loài.}} [loài] are now featured in a public exhibition. The curators have written several research {{papers::Paper ở đây chỉ bài báo nghiên cứu đếm được; several yêu cầu số nhiều papers.}} [bài báo] about the collection. The display also presents {{information::Information là danh từ không đếm được trong nghĩa thông tin, nên không thêm -s.}} [thông tin] about the animals’ habitats."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A museum is documenting its scientific collection. Two {{species::Species giữ nguyên hình thức ở số ít và số nhiều; two cho biết đang nói tới hai loài.}} [loài] are now featured in a public exhibition. The curators have written several research {{papers::Paper ở đây chỉ bài báo nghiên cứu đếm được; several yêu cầu số nhiều papers.}} [paper] about the collection. The display also presents {{information::Information là danh từ không đếm được trong nghĩa thông tin, nên không thêm -s.}} [thông tin] about the animals’ habitats."
+      "questionHTML": "A research institute is cataloguing historical materials. Its team has examined several {{manuscripts::Several cần danh từ đếm được số nhiều; manuscript thêm s.}} [bản thảo] from the collection. Three {{analyses::Three cần số nhiều; analysis có dạng số nhiều analyses.}} [phân tích] describe their origins. The team also gathered {{information::Information thường không đếm được, không thêm s trong nghĩa này.}} [thông tin] from local archives."
     },
     {
       "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "~~ The | archive | contains | several | rare | manuscripts | from | different | centuries. ~~"
+      "questionHTML": "~~ The | researchers | identified | unusual | phenomena | during | the | investigation | and | documented | their | observations | in | detail. ~~"
     },
     {
       "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "~~ The | researchers | presented | their | analyses | and | supporting | evidence | to | the | panel. ~~"
+      "questionHTML": "~~ The | assessment | relied | on | several | pieces | of | evidence | rather | than | a | single | unverified | account. ~~"
     }
-  ]
+  ],
+  "lessonNumber": 1
 }

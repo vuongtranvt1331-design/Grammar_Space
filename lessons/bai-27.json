@@ -1,223 +1,224 @@
 {
-  "id": "g5-27",
-  "title": "27. Thể nhờ vả Have/Get",
+  "id": "31",
+  "title": "31. Thể nhờ vả Have/Get",
   "pages": [
     {
       "pageNumber": 1,
-      "pageTitle": "Have something done",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · HAVE SOMETHING DONE</span></h2><p>Cấu trúc nhờ vả thường cho biết ai đó sắp xếp để một người khác thực hiện dịch vụ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>S + have / has + object + V3/ed.<br>V3 mô tả việc được thực hiện trên đối tượng, không phải hành động tự làm.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>I have my hair cut at that salon. → Tôi cắt tóc ở tiệm, nhờ thợ cắt.<br>She has her bike repaired there. → Cô ấy nhờ sửa xe ở đó.</p><p><span class=\"highlight\">Lưu ý:</span> Cấu trúc này cũng có thể mô tả trải nghiệm không mong muốn trong ngữ cảnh khác, như bị lấy mất đồ.</p>"
+      "pageTitle": "Have/get something done",
+      "contentHTML": "<p>Dùng have/get + tân ngữ + V3 khi sắp xếp để ai đó làm việc cho mình: The firm had the accounts audited. Hành động được thực hiện đối với tân ngữ; thì nằm ở have/get.</p>"
     },
     {
       "pageNumber": 2,
-      "pageTitle": "Thì và câu hỏi",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · THÌ VÀ CÂU HỎI</span></h2><p>Thay đổi dạng của have theo thời gian; giữ V3 sau tân ngữ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>Quá khứ: had + object + V3.<br>Tương lai: will have + object + V3.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>I had my car repaired yesterday. → Tôi đã nhờ sửa xe hôm qua.<br>We will have the house painted next month. → Chúng tôi sẽ nhờ sơn nhà tháng sau.</p><p><span class=\"highlight\">Lưu ý:</span> Trong câu hỏi quá khứ dùng did + have: Did you have your car repaired?</p>"
+      "pageTitle": "Nêu người thực hiện",
+      "contentHTML": "<p>Có thể thêm by + người thực hiện: She had the contract reviewed by a lawyer. Không nhầm have somebody do something với get somebody to do something: They had the technician inspect it; They got the technician to inspect it.</p>"
     },
     {
       "pageNumber": 3,
-      "pageTitle": "Get something done",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · GET SOMETHING DONE</span></h2><p>Get something done có nghĩa gần với have something done trong nhiều ngữ cảnh dịch vụ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>get / got + object + V3<br>Nếu cần nêu người thực hiện, có thể thêm by + người thực hiện.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>I got my phone fixed at the shop. → Tôi nhờ sửa điện thoại tại cửa hàng.<br>We had the documents printed by a local shop. → Chúng tôi nhờ một cửa hàng in tài liệu.</p><p><span class=\"highlight\">Lưu ý:</span> Đừng nhầm have something done với have someone do something: cấu trúc sau nêu trực tiếp người thực hiện.</p>"
+      "pageTitle": "Sự cố và ý nghĩa",
+      "contentHTML": "<p>Have something done cũng có thể diễn tả một sự cố ngoài ý muốn: She had her phone stolen. Không phải mọi trường hợp đều là dịch vụ được sắp xếp; đọc ngữ cảnh trước khi quyết định.</p>"
     }
   ],
   "exercises": [
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I {{had my hair cut::Had + tân ngữ my hair + V3 cut diễn tả việc nhờ cắt tóc trong quá khứ.}} [my hair] (cut) at the salon yesterday."
+      "questionHTML": "The company {{had the accounts audited | got the accounts audited::Had/got + tân ngữ + V3 diễn tả việc công ty sắp xếp kiểm toán trong quá khứ.}} [sổ sách] (audit) by an independent firm last year."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I {{had my car repaired::Had my car repaired nghĩa là nhờ sửa xe; repaired là V3 sau tân ngữ.}} [my car] (repair) at the garage yesterday."
+      "questionHTML": "The editor {{had the article revised | got the article revised::Had/got + tân ngữ + V3 có thể diễn tả việc sắp xếp chỉnh sửa trong quá khứ.}} [bài viết] (revise) by a specialist yesterday."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "We {{will have the house painted::Will have + tân ngữ + painted diễn tả việc sẽ nhờ sơn ngôi nhà.}} [the house] (paint) next month through a painting company."
+      "questionHTML": "We {{will have the equipment inspected | will get the equipment inspected::Will have/get + tân ngữ + V3 diễn tả việc sẽ sắp xếp kiểm tra.}} [thiết bị] (inspect) by an engineer next week."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I {{got my phone fixed::Got + my phone + V3 fixed có thể diễn tả việc nhờ cửa hàng sửa điện thoại.}} [my phone] (fix) at the shop yesterday."
+      "questionHTML": "She {{has had the contract reviewed | has got the contract reviewed | has gotten the contract reviewed::Hiện tại hoàn thành của have/get something done là has had/got/gotten + tân ngữ + V3.}} [hợp đồng] (review) by a lawyer and can now sign it."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "We need to {{have the documents printed::Sau need to hoặc want to dùng have nguyên mẫu, rồi tân ngữ và V3 printed.}} [the documents] (print) at the print shop."
+      "questionHTML": "The director {{had the technician examine | got the technician to examine::Had + người + nguyên mẫu hoặc got + người + to-infinitive đều đúng.}} [kỹ thuật viên] (examine) the device yesterday; the technician did the examination."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The team {{got the consultant to analyse | got the consultant to analyze | had the consultant analyse | had the consultant analyze::Got + người + to-infinitive hoặc had + người + nguyên mẫu đều đúng; analyse/analyze là hai cách viết.}} [chuyên gia] (analyse) the data last month; the consultant did the analysis."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The visitor {{had her bag stolen::Had + tân ngữ + V3 có thể diễn tả sự cố ngoài ý muốn.}} [túi của cô ấy] (steal) on the train yesterday; it was not a service she arranged."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The museum {{had the painting restored | got the painting restored::Had/got + tân ngữ + V3 diễn tả việc sắp xếp phục hồi trong quá khứ.}} [bức tranh] (restore) by a conservator last year."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "They {{are having the documents translated | are getting the documents translated::Are having/getting + tân ngữ + V3 có thể nói việc đang sắp xếp thực hiện.}} [tài liệu] (translate) by a professional at present."
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "I ___ at the salon last week. (( **had my hair cut** | had my hair cutting | had cut my hair by :: Had + tân ngữ my hair + V3 cut diễn tả việc nhờ cắt tóc trong quá khứ. ))"
+      "questionHTML": "The company ___ by an external expert last week. (( **had the figures checked** | had checked the figures by | had the figures check by :: Had + tân ngữ + V3 diễn tả việc sắp xếp kiểm tra. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "I ___ at the garage last week. (( **had my car repaired** | had my car repairing | had repair my car :: Had my car repaired nghĩa là nhờ sửa xe; repaired là V3 sau tân ngữ. ))"
+      "questionHTML": "She ___ the complaint yesterday; the adviser did the drafting. (( **had the adviser draft** | had the adviser to draft | had the adviser drafted :: Have + người + nguyên mẫu không to. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "We ___ next week through a painting company. (( **will have the house painted** | will have painted the house by | will have the house painting :: Will have + tân ngữ + painted diễn tả việc sẽ nhờ sơn ngôi nhà. ))"
+      "questionHTML": "The museum ___ the artwork last year; the conservator did the restoration. (( **got the conservator to restore** | got the conservator restore | got the conservator restoring to :: Get + người + to-infinitive. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "I ___ at the repair shop last week. (( **got my phone fixed** | got my phone fixing | got fixing my phone :: Got + my phone + V3 fixed có thể diễn tả việc nhờ cửa hàng sửa điện thoại. ))"
+      "questionHTML": "A passenger ___ on the bus yesterday; the loss was not arranged. (( **had his wallet stolen** | had his wallet steal | had stolen his wallet by :: Had + tân ngữ + V3 có thể chỉ sự cố ngoài ý muốn. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "We want to ___ at the print shop. (( **have the documents printed** | have the documents printing | have printed the documents by :: Sau need to hoặc want to dùng have nguyên mẫu, rồi tân ngữ và V3 printed. ))"
+      "questionHTML": "They ___ by a professional right now. (( **are having the proposal assessed** | are having assess the proposal | are have the proposal assess :: Are having + tân ngữ + V3 diễn tả công việc đang được sắp xếp. ))"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ I | had | my | hair | cut | yesterday. ~~"
+      "questionHTML": "~~ The | company | had | the | accounts | audited. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ I | had | my | car | repaired | yesterday. ~~"
+      "questionHTML": "~~ She | had | the | contract | reviewed | by | a | lawyer. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ We | will | have | the | house | painted | next | month. ~~"
+      "questionHTML": "~~ We | will | have | the | equipment | inspected. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ I | got | my | phone | fixed | yesterday. ~~"
+      "questionHTML": "~~ The | team | got | the | consultant | to | analyse | the | data. ~~"
     },
     {
       "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The committee {{had the minutes typed | got the minutes typed::Had/got + tân ngữ + V3 diễn tả việc sắp xếp đánh máy.}} [biên bản] (type) by an assistant yesterday."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "She {{got the adviser to explain::Got + người thực hiện + to-infinitive.}} [cố vấn] (explain) the procedure last week; the adviser explained it."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The organisation {{had its website redesigned | got its website redesigned::Had/got + tân ngữ + V3 diễn tả việc nhờ thiết kế lại trong quá khứ.}} [trang web] (redesign) by an agency in 2023."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "We {{will have the results verified | will get the results verified::Will have/get + tân ngữ + V3 diễn tả kế hoạch sắp xếp kiểm chứng.}} [kết quả] (verify) by an external reviewer next week."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The researcher {{had her laptop repaired | got her laptop repaired::Had/got + tân ngữ + V3 diễn tả việc sắp xếp sửa chữa trong quá khứ.}} [máy tính của cô ấy] (repair) by a technician yesterday."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The firm {{had the assistant prepare | got the assistant to prepare::Had + người + nguyên mẫu hoặc got + người + to-infinitive đều đúng.}} [trợ lý] (prepare) the briefing yesterday; the assistant prepared it."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The manager {{got the team to update | had the team update::Got + người + to-infinitive hoặc had + người + nguyên mẫu đều đúng.}} [nhóm] (update) the schedule last week; the team updated it."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The author {{has had the manuscript edited | has got the manuscript edited | has gotten the manuscript edited::Has had/got/gotten + tân ngữ + V3 diễn tả việc đã sắp xếp chỉnh sửa.}} [bản thảo] (edit) by a professional and can now submit it."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The traveller {{had his passport stolen::Had + tân ngữ + V3 có thể diễn tả một sự cố không mong muốn.}} [hộ chiếu của anh ấy] (steal) during the journey yesterday; it was not arranged."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "They {{had the survey translated | got the survey translated::Had/got + tân ngữ + V3 diễn tả việc sắp xếp dịch trong quá khứ.}} [bản khảo sát] (translate) by a specialist last month."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "We {{are having the files digitised | are having the files digitized | are getting the files digitised | are getting the files digitized::Are having/getting + tân ngữ + V3 nói về công việc đang được sắp xếp; cả hai cách viết đều đúng.}} [tệp] (digitise) by an outside firm at present."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The library ___ by a contractor next month. (( **will have the roof repaired** | will have repair the roof | will has the roof repairing :: Will have + tân ngữ + V3 diễn đạt kế hoạch nhờ sửa. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The director ___ the figures yesterday; the analyst did the checking. (( **had the analyst check** | had the analyst to check | had the analyst checked by :: Had + người thực hiện + nguyên mẫu. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The firm ___ the policy last week; the lawyer did the rewriting. (( **got the lawyer to rewrite** | got the lawyer rewrite | got the lawyer rewriting to :: Got + người thực hiện + to-infinitive. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "He ___ on the trip yesterday; it was an unwanted incident. (( **had his camera damaged** | had his camera damage | had damaged his camera by :: Had + tân ngữ + V3 có thể diễn tả sự cố ngoài ý muốn. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "They ___ by a specialist and the report is now ready. (( **have had the report reviewed** | have had review the report | have have the report reviewing :: Have had + tân ngữ + V3 là dạng hiện tại hoàn thành. ))"
+    },
+    {
+      "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ We | need | to | have | the | documents | printed. ~~"
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The team {{had the equipment repaired | got the equipment repaired::Had/got + tân ngữ + V3 diễn tả việc nhờ sửa thiết bị trong quá khứ.}} [the equipment] (repair) by a specialist yesterday."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The director {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra; chủ ngữ số ít dùng has hoặc gets.}} [the reports] (check) by an editor every month."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The team {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc sẽ nhờ in tài liệu.}} [the documents] (print) at a print shop next week."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The team needs to {{have the equipment checked | get the equipment checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3 checked.}} [the equipment] (check) by a specialist."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The committee {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ người khác xem xét báo cáo.}} [the report] (review) by an editor last week."
+      "questionHTML": "~~ The | visitor | had | her | bag | stolen. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The laboratory {{had the equipment repaired | got the equipment repaired::Had/got + tân ngữ + V3 diễn tả việc nhờ sửa thiết bị trong quá khứ.}} [the equipment] (repair) by an engineer last week."
+      "type": "unscramble",
+      "questionHTML": "~~ The | museum | had | the | painting | restored. ~~"
     },
     {
       "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The museum ___ by a technician yesterday. (( had the equipment repair | **had the equipment repaired** | had repaired the equipment by :: Had/got + tân ngữ + V3 diễn tả việc nhờ sửa thiết bị trong quá khứ. ))"
+      "type": "unscramble",
+      "questionHTML": "~~ The | director | had | the | technician | examine | the | device. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The curator {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra; chủ ngữ số ít dùng has hoặc gets.}} [the reports] (check) by an editor before each exhibition."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The manager ___ by an editor every quarter. (( has the reports check | **has the reports checked** | have the reports checked :: Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra; chủ ngữ số ít dùng has hoặc gets. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The organisation {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc sẽ nhờ in tài liệu.}} [the documents] (print) at the print shop tomorrow."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The committee ___ professionally next month. (( will have the documents print | **will have the documents printed** | will has the documents printed :: Will have/get + tân ngữ + V3 diễn tả việc sẽ nhờ in tài liệu. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The organisation wants to {{have the equipment checked | get the equipment checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3 checked.}} [the equipment] (check) before the event."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The director needs to ___ before the presentation. (( have the equipment check | **have the equipment checked** | has the equipment checked :: Sau to dùng have/get nguyên mẫu + tân ngữ + V3 checked. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The university {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ người khác xem xét báo cáo.}} [the report] (review) by a specialist before publication yesterday."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The team ___ by a reviewer last month. (( had the report review | **had the report reviewed** | had reviewed the report by :: Had/got + tân ngữ + V3 diễn tả việc nhờ người khác xem xét báo cáo. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The library will {{have the manuscript restored | get the manuscript restored::Will have/get + tân ngữ + V3 restored chỉ việc nhờ phục chế.}} [the manuscript] (restore) by a conservator next month."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The director needs to {{have the presentation checked | get the presentation checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3 checked.}} [the presentation] (check) before the conference."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The organisation {{had the system repaired | got the system repaired::Had/got + tân ngữ + V3 repaired diễn tả việc nhờ sửa trong quá khứ.}} [the system] (repair) by a technician yesterday."
+      "type": "unscramble",
+      "questionHTML": "~~ They | are | having | the | documents | translated. ~~"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A laboratory is preparing for an inspection. Yesterday, the team {{had the equipment repaired | got the equipment repaired::Had/got + tân ngữ + V3 diễn tả việc nhờ sửa trong quá khứ.}} [the equipment] (repair) by a technician. The director {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra thường xuyên.}} [the reports] (check) every month. Next week, the team {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc nhờ in trong tương lai.}} [the documents] (print) at a print shop."
+      "questionHTML": "The organisation is preparing its annual report. It {{had the accounts audited | got the accounts audited::Had/got + tân ngữ + V3 diễn tả việc sắp xếp kiểm toán trong quá khứ.}} [sổ sách] (audit) by an external firm last month. The director {{had the analyst verify::Had + người thực hiện + nguyên mẫu không to.}} [chuyên viên phân tích] (verify) the figures yesterday. Next week, the team {{will have the report translated | will get the report translated::Will have/get + tân ngữ + V3 diễn tả việc sẽ sắp xếp thực hiện.}} [bản báo cáo] (translate) by a professional."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A museum is preparing an exhibition. The staff {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ xem xét trong quá khứ.}} [the report] (review) by an expert last week. The curator needs to {{have the equipment checked | get the equipment checked::Sau to dùng have/get nguyên mẫu + tân ngữ + V3.}} [the equipment] (check) before opening. The museum {{will have the documents printed | will get the documents printed::Will have/get + tân ngữ + V3 diễn tả việc nhờ in trong tương lai.}} [the documents] (print) next month."
-    },
-    {
-      "tier": "apply",
-      "type": "paragraph-gap-fill",
-      "questionHTML": "A university is updating its archive. Yesterday, the team {{had the report reviewed | got the report reviewed::Had/got + tân ngữ + V3 diễn tả việc nhờ xem xét quá khứ.}} [the report] (review) by an editor. The director {{has the reports checked | gets the reports checked::Has/gets + tân ngữ + V3 diễn tả việc nhờ kiểm tra định kỳ.}} [the reports] (check) every month. Staff will {{have the documents printed | get the documents printed::Sau will dùng have/get nguyên mẫu + tân ngữ + V3.}} [the documents] (print) at a local print shop."
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | team | had | the | equipment | repaired | by | a | technician | yesterday. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | director | has | the | reports | checked | by | an | editor | every | month. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | committee | will | have | the | documents | printed | at | a | local | shop. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | museum | needs | to | have | the | equipment | checked | before | opening. ~~"
+      "questionHTML": "A traveller experienced an unwanted incident. She {{had her bag stolen::Had + tân ngữ + V3 có thể diễn tả sự cố ngoài ý muốn.}} [túi của cô ấy] (steal) on the train yesterday. Later, she {{got the clerk to replace::Got + người thực hiện + to-infinitive.}} [nhân viên] (replace) her travel card; the clerk did the replacement. She {{had her phone repaired | got her phone repaired::Had/got + tân ngữ + V3 diễn tả việc sắp xếp sửa trong quá khứ.}} [điện thoại của cô ấy] (repair) by a technician before leaving."
     }
-  ]
+  ],
+  "lessonNumber": 4
 }

@@ -1,223 +1,224 @@
 {
-  "id": "g8-38",
-  "title": "38. Giả định thức Subjunctive",
+  "id": "45",
+  "title": "45. Giả định thức Subjunctive",
   "pages": [
     {
       "pageNumber": 1,
-      "pageTitle": "Giả định thức sau động từ đề xuất",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 1/3 · GIẢ ĐỊNH THỨC SAU ĐỘNG TỪ ĐỀ XUẤT</span></h2><p>Sau một số động từ như suggest, recommend, insist và demand, tiếng Anh có thể dùng dạng nguyên mẫu trong mệnh đề that.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>S + suggest / recommend / demand + that + S + V nguyên mẫu.<br>Dạng này không thêm -s với he, she hoặc danh từ số ít.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>The doctor recommends that she take a rest. → Bác sĩ khuyến nghị cô ấy nghỉ ngơi.<br>They suggest that he arrive early. → Họ đề xuất anh ấy đến sớm.</p><p><span class=\"highlight\">Lưu ý:</span> Trong một số cách dùng, đặc biệt Anh-Anh, should + V cũng có thể xuất hiện sau that.</p>"
+      "pageTitle": "Giả định thức trong mệnh đề yêu cầu",
+      "contentHTML": "<p>Sau các động từ hoặc tính từ chỉ đề nghị, yêu cầu hay sự cần thiết, tiếng Anh trang trọng có thể dùng that + chủ ngữ + động từ nguyên mẫu: The board recommended that she submit the report. Dạng này không thêm -s ở ngôi thứ ba số ít.</p>"
     },
     {
       "pageNumber": 2,
-      "pageTitle": "Be và phủ định",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 2/3 · BE VÀ PHỦ ĐỊNH</span></h2><p>Giả định thức dùng be nguyên mẫu với mọi chủ ngữ.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>It is essential that + S + be...<br>Phủ định: that + S + not + V nguyên mẫu.</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>It is essential that every student be on time. → Điều cần thiết là mọi học sinh đến đúng giờ.<br>They demand that he not use his phone. → Họ yêu cầu anh ấy không dùng điện thoại.</p><p><span class=\"highlight\">Lưu ý:</span> Cấu trúc này thường mang sắc thái trang trọng; trong Anh-Anh, should be hoặc should not use cũng có thể phù hợp.</p>"
+      "pageTitle": "Dạng với should và phủ định",
+      "contentHTML": "<p>Với be, dạng giả định là be cho mọi chủ ngữ: It is essential that he be present. Cấu trúc should + nguyên mẫu cũng được dùng, đặc biệt trong nhiều biến thể Anh-Anh. Phủ định có thể là not + nguyên mẫu hoặc should not + nguyên mẫu.</p>"
     },
     {
       "pageNumber": 3,
-      "pageTitle": "Bị động giả định",
-      "contentHTML": "<h2><span style=\"color:#3498db\">TRANG 3/3 · BỊ ĐỘNG GIẢ ĐỊNH</span></h2><p>Khi chủ ngữ nhận tác động, dùng be + V3 trong mệnh đề giả định.</p><blockquote><p><strong><span style=\"color:#2e9c70\">KHUNG GHI NHỚ</span></strong><br>insist that + S + be + V3<br>necessary / important / essential that + S + V nguyên mẫu</p></blockquote><h3><span style=\"color:#3498db\">Ví dụ trong ngữ cảnh</span></h3><p>We insist that the form be signed. → Chúng tôi yêu cầu biểu mẫu được ký.<br>It is important that the report be checked. → Việc báo cáo được kiểm tra là quan trọng.</p><p><span class=\"highlight\">Lưu ý:</span> Đừng thêm is vào sau that trong mẫu giả định này: that the form be signed.</p>"
+      "pageTitle": "Biểu thức cố định và sắc thái",
+      "contentHTML": "<p>Lest có thể đi với nguyên mẫu hoặc should + nguyên mẫu trong văn phong trang trọng: They acted discreetly lest the information leak / should leak. Không nhầm cấu trúc bắt buộc với mọi mệnh đề sau that; ngữ cảnh và loại vị ngữ quyết định lựa chọn.</p>"
     }
   ],
   "exercises": [
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The doctor recommends that she {{take | should take::Take nguyên mẫu và should take đều có thể dùng trong mệnh đề khuyến nghị.}} [uống] the medicine."
+      "questionHTML": "The board recommended that she {{submit | should submit::Giả định thức dùng nguyên mẫu submit; should submit cũng có thể dùng.}} (submit) the report before the meeting."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "It is essential that every student {{be | should be::Be nguyên mẫu và should be đều có thể dùng trong mệnh đề yêu cầu.}} [có mặt] on time."
+      "questionHTML": "It is essential that the analyst {{be | should be::Giả định thức dùng be cho mọi chủ ngữ; should be là biến thể có thể dùng.}} (be) present at the hearing."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "They suggest that we {{leave | should leave::Leave nguyên mẫu và should leave đều có thể dùng trong mệnh đề đề xuất.}} [rời đi] early."
+      "questionHTML": "The director insisted that the records {{remain | should remain::Sau insisted trong nghĩa yêu cầu, nguyên mẫu remain hoặc should remain đều phù hợp.}} (remain) confidential."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "They demand that he {{not use | should not use::Not use và should not use đều là cấu trúc phủ định phù hợp.}} (use) [not] his phone during the test."
+      "questionHTML": "The committee proposed that the firm {{revise | should revise::Mệnh đề đề nghị có thể dùng nguyên mẫu revise hoặc should revise.}} (revise) its policy."
     },
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "We insist that the form {{be signed | should be signed::Be signed và should be signed đều là dạng bị động phù hợp trong mệnh đề yêu cầu.}} (sign) by the manager."
+      "questionHTML": "It is vital that the application {{include | should include::Include là nguyên mẫu; should include cũng có thể dùng.}} (include) the supporting evidence."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The adviser requested that he {{not disclose | should not disclose | shouldn't disclose | shouldn’t disclose::Phủ định có thể là not + nguyên mẫu hoặc should not + nguyên mẫu.}} (disclose) the confidential details."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The regulation requires that each applicant {{provide | should provide::Mệnh đề yêu cầu có thể dùng nguyên mẫu provide hoặc should provide.}} (provide) proof of identity."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The panel suggested that an independent expert {{review | should review::Trong mệnh đề đề xuất, review hoặc should review đều phù hợp.}} (review) the findings."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "It is important that the documents {{be | should be::Giả định thức dùng be; should be cũng có thể dùng trong mệnh đề yêu cầu.}} (be) available to the panel."
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The doctor recommends that he ___ the medicine. (( taking | **take** | took :: Sau recommends that, giả định thức dùng động từ nguyên mẫu take, kể cả với he hoặc she. ))"
+      "questionHTML": "The committee recommended that he ___ the figures. (( **recheck** | rechecks yesterday | rechecking to :: Trong mệnh đề khuyến nghị, giả định thức dùng nguyên mẫu recheck. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "It is essential that each worker ___ on time. (( are | **be** | was :: Giả định thức sau essential that dùng be nguyên mẫu với chủ ngữ số ít. ))"
+      "questionHTML": "It is vital that the chair ___ the hearing. (( **attend** | attends yesterday | attending to :: Giả định thức dùng nguyên mẫu attend. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The teachers suggest that we ___ early. (( leaves | left | **leave** :: Sau suggest that, dùng động từ nguyên mẫu leave trong cấu trúc giả định. ))"
+      "questionHTML": "The director requested that she ___ the draft. (( **not circulate** | not circulates | does not circulated :: Phủ định giả định thức có thể dùng not + nguyên mẫu. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The teachers demand that she ___ her phone during the test. (( not uses | **not use** | does not uses :: Phủ định giả định thức đặt not trước động từ nguyên mẫu: not use. ))"
+      "questionHTML": "The regulator required that the firm ___ a written response. (( **supply** | supplies yesterday | supplying to :: Mệnh đề yêu cầu có thể dùng nguyên mẫu supply. ))"
     },
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "They insist that the form ___ by the manager. (( are signed | **be signed** | be sign :: Bị động giả định dùng be + V3 signed sau insist that. ))"
+      "questionHTML": "They spoke quietly lest the audience ___ their discussion. (( **overhear** | overhears yesterday | overhearing to :: Lest có thể đi với nguyên mẫu trong văn phong trang trọng. ))"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ The | doctor | recommends | that | she | take | a | rest. ~~"
+      "questionHTML": "~~ The | board | recommended | that | she | submit | the | report. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ It | is | essential | that | every | student | be | on | time. ~~"
+      "questionHTML": "~~ It | is | essential | that | the | analyst | be | present. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ They | suggest | that | we | leave | early. ~~"
+      "questionHTML": "~~ The | director | insisted | that | the | records | remain | confidential. ~~"
     },
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ They | demand | that | he | not | use | his | phone. ~~"
+      "questionHTML": "~~ The | committee | proposed | that | the | firm | revise | its | policy. ~~"
     },
     {
       "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "The adviser recommended that the panel {{seek | should seek::Seek hoặc should seek đều có thể dùng trong mệnh đề khuyến nghị.}} (seek) independent advice."
+    },
+    {
+      "tier": "practice",
+      "type": "gap-fill",
+      "questionHTML": "It is important that the applicant {{be | should be::Be hoặc should be đều phù hợp trong mệnh đề chỉ sự cần thiết.}} (be) informed promptly."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The chair demanded that the supplier {{explain | should explain::Mệnh đề yêu cầu có thể dùng nguyên mẫu explain hoặc should explain.}} (explain) the delay."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "It is crucial that the decision {{not depend | should not depend | shouldn't depend | shouldn’t depend::Phủ định dùng not + nguyên mẫu hoặc should not + nguyên mẫu.}} (depend) on unverified claims."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The editor advised that the report {{contain | should contain::Trong mệnh đề khuyến nghị, contain hoặc should contain đều phù hợp.}} (contain) a clear summary."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The regulator ordered that the firm {{cease | should cease::Mệnh đề mệnh lệnh có thể dùng nguyên mẫu cease hoặc should cease.}} (cease) the disputed practice."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "It is imperative that each member {{have | should have::Giả định thức dùng nguyên mẫu have; should have cũng có thể dùng.}} (have) access to the evidence."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "They acted discreetly lest the information {{leak | should leak::Lest có thể đi với nguyên mẫu leak hoặc should leak trong văn phong trang trọng.}} (leak)."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The board recommended that the chair {{not postpone | should not postpone | shouldn't postpone | shouldn’t postpone::Phủ định có thể dùng not + nguyên mẫu hoặc should not + nguyên mẫu.}} (postpone) the vote."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "It is essential that the figures {{be | should be::Be là dạng giả định cho mọi chủ ngữ; should be cũng có thể dùng.}} (be) independently verified."
+    },
+    {
+      "tier": "apply",
+      "type": "gap-fill",
+      "questionHTML": "The supervisor requested that the assistant {{retain | should retain::Nguyên mẫu retain hoặc should retain phù hợp trong mệnh đề yêu cầu.}} (retain) a copy."
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The chair proposed that each member ___ the revised terms. (( **examine** | examines yesterday | examining to :: Giả định thức dùng nguyên mẫu examine. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "It is imperative that the evidence ___ preserved. (( **be** | being yesterday | has been yesterday :: Be là dạng giả định thức. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The panel insisted that the adviser ___ the client’s identity. (( **not reveal** | not reveals | does not revealed :: Phủ định có thể dùng not + nguyên mẫu. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The board suggested that an expert ___ the plan. (( **evaluate** | evaluates yesterday | evaluating to :: Mệnh đề đề xuất có thể dùng nguyên mẫu evaluate. ))"
+    },
+    {
+      "tier": "apply",
+      "type": "mcq",
+      "questionHTML": "The committee acted promptly lest the situation ___ further. (( **deteriorate** | deteriorates yesterday | deteriorating to :: Lest có thể đi với nguyên mẫu. ))"
+    },
+    {
+      "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "Sắp xếp thành câu đúng: ~~ We | insist | that | the | form | be | signed. ~~"
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The panel recommends that the director {{be | should be::Be nguyên mẫu hoặc should be đều có thể dùng sau cấu trúc yêu cầu hoặc khuyến nghị.}} [có mặt] present."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The adviser recommends that the director {{review | should review::Động từ nguyên mẫu review hoặc should review đều có thể dùng trong mệnh đề yêu cầu.}} [xem xét] the plan."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The policy demands that the researcher {{not disclose | should not disclose::Not + nguyên mẫu hoặc should not + nguyên mẫu đều tạo ý phủ định trong mệnh đề yêu cầu.}} (disclose) [not] private data."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The board insists that the report {{be approved | should be approved::Be + V3 hoặc should be + V3 đều có thể diễn đạt yêu cầu ở bị động.}} (approve) before publication."
-    },
-    {
-      "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The university requires that each applicant {{submit | should submit::Submit nguyên mẫu hoặc should submit đều có thể dùng trong mệnh đề yêu cầu.}} [nộp] the form."
+      "questionHTML": "~~ It | is | vital | that | the | application | include | evidence. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The policy requires that the curator {{be | should be::Be nguyên mẫu hoặc should be đều có thể dùng sau cấu trúc yêu cầu hoặc khuyến nghị.}} [có mặt] available."
+      "type": "unscramble",
+      "questionHTML": "~~ The | adviser | requested | that | he | not | disclose | the | details. ~~"
     },
     {
       "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "It is essential that the analyst ___ available. (( being | **be** | be to :: Be nguyên mẫu hoặc should be đều có thể dùng sau cấu trúc yêu cầu hoặc khuyến nghị. ))"
+      "type": "unscramble",
+      "questionHTML": "~~ The | panel | suggested | that | an | expert | review | the | findings. ~~"
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The committee requests that the curator {{review | should review::Động từ nguyên mẫu review hoặc should review đều có thể dùng trong mệnh đề yêu cầu.}} [xem xét] the report."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The panel recommends that the analyst ___ the evidence. (( reviewing | **review** | review to :: Động từ nguyên mẫu review hoặc should review đều có thể dùng trong mệnh đề yêu cầu. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The committee insists that the curator {{not disclose | should not disclose::Not + nguyên mẫu hoặc should not + nguyên mẫu đều tạo ý phủ định trong mệnh đề yêu cầu.}} (disclose) [not] confidential details."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The board requires that the director ___ personal information. (( not discloses | **not disclose** | not to disclose :: Not + nguyên mẫu hoặc should not + nguyên mẫu đều tạo ý phủ định trong mệnh đề yêu cầu. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The policy requires that the proposal {{be approved | should be approved::Be + V3 hoặc should be + V3 đều có thể diễn đạt yêu cầu ở bị động.}} (approve) before release."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The committee recommends that the document ___ by the director. (( be approve | **be approved** | approved be :: Be + V3 hoặc should be + V3 đều có thể diễn đạt yêu cầu ở bị động. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The panel requests that the researcher {{submit | should submit::Submit nguyên mẫu hoặc should submit đều có thể dùng trong mệnh đề yêu cầu.}} [nộp] a statement."
-    },
-    {
-      "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The committee recommends that the director ___ a report. (( submiting | **submit** | submit to :: Submit nguyên mẫu hoặc should submit đều có thể dùng trong mệnh đề yêu cầu. ))"
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The panel insists that every participant {{be | should be::Be hoặc should be đều có thể dùng sau insist that để đưa ra yêu cầu.}} [được] informed."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The committee demands that the documents {{be reviewed | should be reviewed::Be reviewed và should be reviewed đều diễn tả yêu cầu ở dạng bị động.}} (review) before publication."
-    },
-    {
-      "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The rules require that the analyst {{not disclose | should not disclose::Not disclose hoặc should not disclose đều là cách phủ định phù hợp.}} (disclose) [not] confidential details."
+      "type": "unscramble",
+      "questionHTML": "~~ It | is | important | that | the | documents | be | available. ~~"
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A university is revising its ethics policy. The board recommends that the director {{review | should review::Review nguyên mẫu hoặc should review đều dùng được sau recommend that.}} [xem xét] the policy. It is essential that every applicant {{be | should be::Be hoặc should be đều dùng được trong mệnh đề yêu cầu.}} [được] informed. The board insists that the document {{be approved | should be approved::Be approved hoặc should be approved đều diễn tả yêu cầu bị động.}} (approve) before release."
+      "questionHTML": "The chair recommended that the analyst {{review | should review::Review hoặc should review có thể dùng trong mệnh đề khuyến nghị.}} (review) the figures. It is essential that the evidence {{be | should be::Be hoặc should be phù hợp trong mệnh đề yêu cầu.}} (be) independently verified. The board requested that staff {{not disclose | should not disclose | shouldn't disclose | shouldn’t disclose::Phủ định có thể dùng not + nguyên mẫu hoặc should not + nguyên mẫu.}} (disclose) the draft."
     },
     {
       "tier": "apply",
       "type": "paragraph-gap-fill",
-      "questionHTML": "A research team is preparing a study. The committee requests that each researcher {{submit | should submit::Submit nguyên mẫu hoặc should submit đều có thể diễn tả yêu cầu.}} [nộp] a statement. It also requires that the team {{not disclose | should not disclose::Not disclose và should not disclose đều là cấu trúc phủ định phù hợp.}} (disclose) [not] private data. The panel recommends that the report {{be reviewed | should be reviewed::Be reviewed và should be reviewed đều diễn tả yêu cầu bị động.}} (review) by an independent expert."
-    },
-    {
-      "tier": "apply",
-      "type": "paragraph-gap-fill",
-      "questionHTML": "A museum is preparing an exhibition. The curator insists that the adviser {{be | should be::Be hoặc should be đều có thể dùng sau insist that.}} [có mặt] present. The board recommends that the director {{review | should review::Review nguyên mẫu hoặc should review đều phù hợp sau recommends that.}} [xem xét] the plan. It requires that the proposal {{be approved | should be approved::Be approved hoặc should be approved đều phù hợp ở bị động.}} (approve) before opening."
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | panel | recommends | that | the | director | review | the | proposal. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ It | is | essential | that | every | applicant | be | informed. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | committee | insists | that | the | document | be | approved | before | publication. ~~"
-    },
-    {
-      "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | policy | requires | that | researchers | not | disclose | private | data. ~~"
+      "questionHTML": "The committee proposed that the firm {{revise | should revise::Revise hoặc should revise phù hợp trong mệnh đề đề xuất.}} (revise) its policy. It is vital that each member {{have | should have::Have hoặc should have phù hợp với chủ ngữ số ít trong cấu trúc này.}} (have) access to the evidence. They acted discreetly lest the information {{leak | should leak::Lest có thể đi với nguyên mẫu hoặc should + nguyên mẫu.}} (leak)."
     }
-  ]
+  ],
+  "lessonNumber": 4
 }
