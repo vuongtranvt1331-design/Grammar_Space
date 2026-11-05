@@ -6,6 +6,8 @@
    Standard Clean Native Scrolling
    ========================================================================== */
 html, body {
+  touch-action: pan-y !important;
+  overscroll-behavior-x: none !important;
   overflow-x: hidden !important;
   overflow-y: auto !important;
   height: auto !important;
@@ -1678,4 +1680,18 @@ body {
 
 .annotation-touch-container.is-open .icon-close {
   display: block;
+}
+
+/* Extend touch targets vertically without shifting or resizing the visible controls. */
+.page-nav-bar > button {
+  position: relative;
+}
+
+.page-nav-bar > button::after {
+  content: "";
+  position: absolute;
+  top: -11px;
+  bottom: -11px;
+  left: 0;
+  right: 0;
 }

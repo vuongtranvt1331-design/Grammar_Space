@@ -22,6 +22,12 @@ let generalRequest = null;
 let lessonLoadState = null;
 let lessonLoadSequence = 0;
 
+window.addEventListener('beforeunload', function (event) {
+  if (currentView !== 'notebook' || !activeLesson || student?.hidden) return;
+  event.preventDefault();
+  event.returnValue = 'Bạn có chắc chắn muốn rời đi? Dữ liệu bài làm sẽ bị mất.';
+});
+
 function notice(message) {
   const el = byId('app-notice');
   if (el) {
