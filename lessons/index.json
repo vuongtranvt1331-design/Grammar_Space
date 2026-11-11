@@ -294,5 +294,95 @@
     "title": "48. Ôn tập: Nâng cao",
     "filename": "on-tap-nang-cao.json",
     "lessonNumber": 7
+  },
+  {
+    "id": "49",
+    "group": "Từ loại",
+    "title": "49. Enough & Too: Đủ và quá mức",
+    "filename": "bai-enough-too.json"
+  },
+  {
+    "id": "50",
+    "group": "Từ loại",
+    "title": "50. So & Such: Nhấn mạnh và kết quả",
+    "filename": "bai-so-such.json"
+  },
+  {
+    "id": "51",
+    "group": "Dạng động từ",
+    "title": "51. Used to / Be used to / Get used to",
+    "filename": "bai-used-to.json"
+  },
+  {
+    "id": "52",
+    "group": "Từ loại",
+    "title": "52. There is / There are",
+    "filename": "bai-there-is-there-are.json"
+  },
+  {
+    "id": "53",
+    "group": "Mệnh đề",
+    "title": "53. Because / Because of & Although / Despite",
+    "filename": "bai-nguyen-nhan-nhuong-bo.json"
+  },
+  {
+    "id": "54",
+    "group": "Từ loại",
+    "title": "54. It takes / Spend: Thời gian và chi phí",
+    "filename": "bai-it-takes-spend.json"
+  },
+  {
+    "id": "55",
+    "group": "Dạng động từ",
+    "title": "55. Prefer / Would rather / Had better",
+    "filename": "bai-prefer-rather-better.json"
+  },
+  {
+    "id": "56",
+    "group": "Mệnh đề",
+    "title": "56. Both / Either / Neither / Not only",
+    "filename": "bai-lien-tu-tuong-quan.json"
+  },
+  {
+    "id": "57",
+    "group": "Mệnh đề",
+    "title": "57. Cấu trúc chỉ mục đích: To / So that",
+    "filename": "bai-muc-dich.json"
+  },
+  {
+    "id": "58",
+    "group": "Dạng động từ",
+    "title": "58. Suggest / Prevent / Make / Let / Allow / Help",
+    "filename": "bai-cau-truc-dong-tu.json"
+  },
+  {
+    "id": "59",
+    "group": "Mệnh đề",
+    "title": "59. Câu hỏi đuôi (Question Tags)",
+    "filename": "bai-cau-hoi-duoi.json"
+  },
+  {
+    "id": "60",
+    "group": "Mệnh đề",
+    "title": "60. Câu hỏi gián tiếp & Mệnh đề danh từ",
+    "filename": "bai-cau-hoi-gian-tiep.json"
+  },
+  {
+    "id": "61",
+    "group": "Nâng cao",
+    "title": "61. Unless / Provided that / It is time / As if",
+    "filename": "bai-dieu-kien-gia-dinh.json"
+  },
+  {
+    "id": "62",
+    "group": "Nâng cao",
+    "title": "62. Đảo ngữ thời gian & Do nhấn mạnh",
+    "filename": "bai-dao-ngu-nhan-manh.json"
+  },
+  {
+    "id": "63",
+    "group": "Mệnh đề",
+    "title": "63. During / While / For & Liên từ – Giới từ",
+    "filename": "bai-during-while.json"
   }
 ]

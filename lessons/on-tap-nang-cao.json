@@ -6,7 +6,7 @@
     {
       "pageNumber": 1,
       "pageTitle": "Ôn tập Nâng cao C1",
-      "contentHTML": "<p>Ôn câu điều kiện, wish và if only, giả định thức, câu gián tiếp, đảo ngữ và câu chẻ qua sáu bài trong nhóm.</p><div class=\"rule-box\">100 câu cơ bản và 50 câu vận dụng.</div>"
+      "contentHTML": "<p>Ôn câu điều kiện, wish và if only, giả định thức, câu gián tiếp, đảo ngữ và câu chẻ qua sáu bài trong nhóm.</p><div class=\"rule-box\">100 câu cơ bản và 50 câu vận dụng.</div><p><strong>Phạm vi bổ sung:</strong> Ôn thêm unless / provided that, it is time / as if, đảo ngữ và do nhấn mạnh.</p>"
     }
   ],
   "exercises": [
@@ -28,7 +28,7 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The board recommended that she {{submit | should submit::Giả định thức dùng nguyên mẫu submit; should submit cũng có thể dùng.}} (submit) the report before the meeting."
+      "questionHTML": "We will go out unless it {{rains::Điều kiện có thật trong tương lai thường dùng hiện tại đơn sau unless.}} (rain)."
     },
     {
       "tier": "practice",
@@ -58,7 +58,7 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "It is essential that the analyst {{be | should be::Giả định thức dùng be cho mọi chủ ngữ; should be là biến thể có thể dùng.}} (be) present at the hearing."
+      "questionHTML": "You can play as long as you {{finish::Sau as long as trong điều kiện tương lai thông thường dùng hiện tại đơn.}} (finish) your homework."
     },
     {
       "tier": "practice",
@@ -88,7 +88,7 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The director insisted that the records {{remain | should remain::Sau insisted trong nghĩa yêu cầu, nguyên mẫu remain hoặc should remain đều phù hợp.}} (remain) confidential."
+      "questionHTML": "You may borrow it provided {{that::Provided that là cụm liên từ mang nghĩa với điều kiện là; that có thể lược.}} [rằng] you return it."
     },
     {
       "tier": "practice",
@@ -118,7 +118,7 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The committee proposed that the firm {{revise | should revise::Mệnh đề đề nghị có thể dùng nguyên mẫu revise hoặc should revise.}} (revise) its policy."
+      "questionHTML": "It is time {{to go::It is time + to V: đã đến lúc đi.}} (go) home."
     },
     {
       "tier": "practice",
@@ -153,7 +153,7 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The auditor asked, “Where are the records?” She asked where the records {{were | are::Trong câu hỏi gián tiếp dùng trật tự chủ ngữ + động từ; were là dạng lùi thì, are có thể phù hợp nếu vị trí vẫn hiện tại.}} (be)."
+      "questionHTML": "It is high time we {{left::It is high time + S + quá khứ đơn diễn tả việc nên làm ngay.}} (leave)."
     },
     {
       "tier": "practice",
@@ -183,7 +183,7 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The client asked, “Is the report ready?” He asked {{if | whether::If và whether đều có thể mở đầu câu hỏi gián tiếp yes/no.}} [liệu] the report was ready."
+      "questionHTML": "She talks as if she {{knew::Quá khứ đơn sau as if có thể diễn tả điều người nói cho là không thật.}} (know) everything, but she does not."
     },
     {
       "tier": "practice",
@@ -212,8 +212,8 @@
     },
     {
       "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The chair said to the assistant, “Please send the file.” She asked the assistant {{to send::Ask + người nghe + to-infinitive dùng để tường thuật yêu cầu.}} (send) the file."
+      "type": "mcq",
+      "questionHTML": "It is high time we ___. (( leave | **left** | will leave :: It is high time + S + quá khứ đơn diễn tả việc nên làm ngay. ))"
     },
     {
       "tier": "practice",
@@ -242,8 +242,8 @@
     },
     {
       "tier": "practice",
-      "type": "gap-fill",
-      "questionHTML": "The manager said to staff, “Do not share the password.” She told them {{not to share::Tell + người nghe + not to-infinitive tường thuật yêu cầu phủ định.}} (share) the password."
+      "type": "unscramble",
+      "questionHTML": "~~ It | is | time | to | go | home. ~~"
     },
     {
       "tier": "practice",
@@ -277,8 +277,8 @@
     },
     {
       "tier": "practice",
-      "type": "mcq",
-      "questionHTML": "Rarely ___ such a detailed account. (( **has the panel received** | the panel has received | has received the panel :: Rarely đứng đầu câu kích hoạt đảo trợ động từ và chủ ngữ. ))"
+      "type": "gap-fill",
+      "questionHTML": "No sooner {{had::Sau No sooner đầu câu, đảo had trước chủ ngữ trong cấu trúc quá khứ hoàn thành.}} (have) she arrived than the meeting began."
     },
     {
       "tier": "practice",
@@ -307,8 +307,8 @@
     },
     {
       "tier": "practice",
-      "type": "mcq",
-      "questionHTML": "Only after the hearing ___ its decision. (( **did the board announce** | the board did announce | did announce the board :: Only after đứng đầu câu dẫn tới did + chủ ngữ + nguyên mẫu. ))"
+      "type": "gap-fill",
+      "questionHTML": "Hardly had I sat down {{when::Hardly … when là cặp liên từ thời gian.}} [khi] the phone rang."
     },
     {
       "tier": "practice",
@@ -337,8 +337,8 @@
     },
     {
       "tier": "practice",
-      "type": "mcq",
-      "questionHTML": "No sooner had the meeting begun ___ the alarm sounded. (( **than** | when did | then did :: No sooner ... than là cặp liên kết thông dụng. ))"
+      "type": "gap-fill",
+      "questionHTML": "Only after the meeting {{did::Mệnh đề chính ở quá khứ đơn cần đảo did trước we, sau đó dùng decide nguyên mẫu.}} (do) we decide to act."
     },
     {
       "tier": "practice",
@@ -367,8 +367,8 @@
     },
     {
       "tier": "practice",
-      "type": "mcq",
-      "questionHTML": "Hardly had the report been released ___ criticism emerged. (( **when** | than did | then had :: Hardly ... when là cặp liên kết thông dụng. ))"
+      "type": "gap-fill",
+      "questionHTML": "Not until she checked the data {{did::Đảo did ở mệnh đề chính sau toàn bộ cụm Not until.}} (do) she notice the error."
     },
     {
       "tier": "practice",
@@ -402,8 +402,8 @@
     },
     {
       "tier": "practice",
-      "type": "unscramble",
-      "questionHTML": "~~ If | the | temperature | exceeds | the | limit, | the | alarm | sounds. ~~"
+      "type": "gap-fill",
+      "questionHTML": "I {{do::Do + nguyên mẫu understand nhấn mạnh sự thật ở hiện tại.}} (do) understand your concern."
     },
     {
       "tier": "practice",
@@ -432,8 +432,8 @@
     },
     {
       "tier": "practice",
-      "type": "unscramble",
-      "questionHTML": "~~ If | the | committee | approves | the | proposal, | the | team | will | begin. ~~"
+      "type": "gap-fill",
+      "questionHTML": "She {{did::Did + nguyên mẫu call nhấn mạnh hành động trong quá khứ.}} (do) call yesterday."
     },
     {
       "tier": "practice",
@@ -462,8 +462,8 @@
     },
     {
       "tier": "practice",
-      "type": "unscramble",
-      "questionHTML": "~~ The | licence | will | lapse | unless | it | is | renewed. ~~"
+      "type": "mcq",
+      "questionHTML": "No sooner had he arrived ___ the show began. (( when | **than** | that :: No sooner đi với than. ))"
     },
     {
       "tier": "practice",
@@ -493,7 +493,7 @@
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "~~ The | grant | remains | available | provided | that | the | terms | are | met. ~~"
+      "questionHTML": "~~ Only | after | the | meeting | did | we | decide | to | act. ~~"
     },
     {
       "tier": "practice",
@@ -523,7 +523,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "If only the deadline {{were | was::Were hoặc was có thể diễn đạt điều mong trái thực tế hiện tại; were trang trọng hơn.}} (be) less restrictive; it is currently inflexible."
+      "questionHTML": "The project will proceed unless the regulator {{objects::Sau unless dùng hiện tại đơn trong điều kiện tương lai thông thường.}} (object)."
     },
     {
       "tier": "apply",
@@ -548,7 +548,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "If she had taken the earlier train yesterday, she {{would have arrived | might have arrived | could have arrived::Các modal này đều có thể diễn tả kết quả giả định quá khứ với sắc thái khác nhau.}} (arrive) before the meeting; she missed that train."
+      "questionHTML": "The application may be approved provided that the applicant {{meets::Sau provided that dùng hiện tại đơn meets với applicant số ít.}} (meet) all requirements."
     },
     {
       "tier": "apply",
@@ -573,7 +573,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "If the device {{overheats::Mệnh đề if mô tả quy luật kỹ thuật dùng hiện tại đơn; device số ít dùng overheats.}} (overheat), it shuts down automatically."
+      "questionHTML": "It is high time the board {{addressed::It is high time + S + quá khứ đơn nói việc hiện tại nên được thực hiện.}} (address) the outstanding risks."
     },
     {
       "tier": "apply",
@@ -598,7 +598,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "On no account {{must visitors remove::On no account đứng đầu câu kích hoạt đảo modal must trước chủ ngữ.}} (remove) original documents, according to the rules."
+      "questionHTML": "The witness spoke as if he {{had seen::Had seen sau as if diễn tả một sự việc quá khứ không có thật theo ngữ cảnh.}} (see) the accident, but he had not."
     },
     {
       "tier": "apply",
@@ -622,8 +622,8 @@
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "The supervisor said, “I may revise the schedule.” The report stated that she {{might revise | may revise::Might là dạng lùi thường gặp; may cũng có thể dùng nếu khả năng vẫn liên quan hiện tại.}} (revise) the schedule."
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A team examined a report. One speaker talked as if she {{knew::Knew sau as if diễn tả điều không thật trong ngữ cảnh cô ấy không biết.}} (know) all the facts, but she did not. Another spoke as if he {{had seen::Had seen chỉ điều trái thực tế trong quá khứ.}} (see) the event, although he had not. The team will publish unless a reviewer {{finds::Unless + hiện tại đơn trong điều kiện tương lai.}} (find) a serious error."
     },
     {
       "tier": "apply",
@@ -647,8 +647,8 @@
     },
     {
       "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "The chair proposed that each member ___ the revised terms. (( **examine** | examines yesterday | examining to :: Giả định thức dùng nguyên mẫu examine. ))"
+      "type": "gap-fill",
+      "questionHTML": "No sooner {{had::No sooner đầu câu đảo had trước chủ ngữ trong cấu trúc quá khứ hoàn thành.}} (have) the report been published than questions arose."
     },
     {
       "tier": "apply",
@@ -672,8 +672,8 @@
     },
     {
       "tier": "apply",
-      "type": "mcq",
-      "questionHTML": "I wish the contractor ___ the noise; it continues throughout the day. (( **would reduce** | would reducing | will reduced :: Wish + would nêu mong muốn một hành vi thay đổi. ))"
+      "type": "gap-fill",
+      "questionHTML": "Not until the auditors examined the records {{did::Đảo did ở mệnh đề chính sau mệnh đề phụ.}} (do) they identify the discrepancy."
     },
     {
       "tier": "apply",
@@ -697,8 +697,8 @@
     },
     {
       "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ If | she | had | accepted | the | role, | she | would | be | working | here | now. ~~"
+      "type": "gap-fill",
+      "questionHTML": "Only after the evidence was reviewed {{did::Mệnh đề chính quá khứ đơn cần trợ động từ did đảo trước the panel.}} (do) the panel reach a decision."
     },
     {
       "tier": "apply",
@@ -722,8 +722,8 @@
     },
     {
       "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ The | vote | will | be | postponed | unless | the | evidence | arrives. ~~"
+      "type": "mcq",
+      "questionHTML": "Which sentence correctly emphasises the past action? (( The reviewer did checked the figures. | **The reviewer did check the figures.** | The reviewer does checked the figures. :: Did nhấn mạnh quá khứ và theo sau bằng nguyên mẫu check. ))"
     },
     {
       "tier": "apply",
@@ -747,8 +747,8 @@
     },
     {
       "tier": "apply",
-      "type": "unscramble",
-      "questionHTML": "~~ Hardly | had | the | meeting | started | when | the | power | failed. ~~"
+      "type": "paragraph-gap-fill",
+      "questionHTML": "A committee reviewed a proposal. No sooner {{had::No sooner đầu câu đảo had trước the review.}} (have) the review begun than an objection was raised. Only after the evidence was checked {{did::Sau Only after đảo did ở mệnh đề chính.}} (do) the panel reach a decision. Members {{did::Did + nguyên mẫu acknowledge nhấn mạnh hành động trong quá khứ.}} (do) acknowledge the risks."
     },
     {
       "tier": "apply",

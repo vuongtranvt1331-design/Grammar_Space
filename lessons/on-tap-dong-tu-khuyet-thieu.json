@@ -6,7 +6,7 @@
     {
       "pageNumber": 1,
       "pageTitle": "Ôn tập B2",
-      "contentHTML": "<p>Ôn khả năng, nghĩa vụ, suy đoán và cách đưa ra yêu cầu qua các câu hỏi từ năm bài trong nhóm.</p><div class=\"rule-box\">100 câu cơ bản và 50 câu vận dụng.</div>"
+      "contentHTML": "<p>Ôn khả năng, nghĩa vụ, suy đoán và cách đưa ra yêu cầu qua các câu hỏi từ năm bài trong nhóm.</p><div class=\"rule-box\">100 câu cơ bản và 50 câu vận dụng.</div><p><strong>Phạm vi bổ sung:</strong> Ôn thêm had better và phân biệt với would rather.</p>"
     }
   ],
   "exercises": [
@@ -73,7 +73,7 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "I am unsure where the assistant is; he {{might be | may be | could be::Might, may và could be đều nêu khả năng hiện tại chưa chắc chắn.}} [có thể] in the meeting room."
+      "questionHTML": "You had better {{take::Had better + động từ nguyên mẫu không to: đây là lời khuyên trong tình huống cụ thể.}} (take) an umbrella."
     },
     {
       "tier": "practice",
@@ -198,7 +198,7 @@
     {
       "tier": "practice",
       "type": "gap-fill",
-      "questionHTML": "The manager has the signed key card in her hand, so she {{must have::Must have + danh từ chỉ suy đoán mạnh về sự sở hữu hiện tại.}} [rất có thể] the card."
+      "questionHTML": "We had better {{hurry::Had better + nguyên mẫu; cần nhanh lên để tránh trễ.}} (hurry) or we will be late."
     },
     {
       "tier": "practice",
@@ -323,7 +323,7 @@
     {
       "tier": "practice",
       "type": "mcq",
-      "questionHTML": "The students have the printed timetable in their hands, so they ___ a copy. (( **must have** | must has | must having :: Must have + danh từ chỉ suy đoán về sự sở hữu hiện tại. ))"
+      "questionHTML": "It is raining. You had better ___ a coat. (( to wear | **wear** | wearing :: Had better + nguyên mẫu không to. ))"
     },
     {
       "tier": "practice",
@@ -448,7 +448,7 @@
     {
       "tier": "practice",
       "type": "unscramble",
-      "questionHTML": "~~ The | manager | must | have | the | card. ~~"
+      "questionHTML": "~~ You | had | better | take | an | umbrella. ~~"
     },
     {
       "tier": "practice",
@@ -553,7 +553,7 @@
     {
       "tier": "apply",
       "type": "gap-fill",
-      "questionHTML": "The packed bags and empty room suggest the guests {{must have departed::Must have + V3 nêu suy đoán mạnh về sự việc đã xảy ra.}} (depart) [rất có thể] already."
+      "questionHTML": "The auditors had better {{review::Had better + V nguyên mẫu chỉ lời khuyên cụ thể.}} (review) the documents before the deadline."
     },
     {
       "tier": "apply",
@@ -637,8 +637,8 @@
     },
     {
       "tier": "apply",
-      "type": "gap-fill",
-      "questionHTML": "We {{may | might | could::Cả ba modal đều diễn tả khả năng chưa chắc chắn; ngày họp chưa được xác nhận.}} need to change the meeting date; nothing is confirmed."
+      "type": "mcq",
+      "questionHTML": "The deadline is imminent; the team ___ the application now. (( would rather to send | **had better send** | had better sending :: Had better + V nguyên mẫu diễn tả lời khuyên cụ thể để tránh hệ quả xấu. ))"
     },
     {
       "tier": "apply",
@@ -718,7 +718,7 @@
     {
       "tier": "apply",
       "type": "unscramble",
-      "questionHTML": "~~ Every | student | has | to | carry | a | card. ~~"
+      "questionHTML": "~~ You | had | better | check | the | figures | before | publication. ~~"
     },
     {
       "tier": "apply",
