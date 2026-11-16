@@ -258,17 +258,17 @@ export const ProgressManager = {
   getLessonStatus(lessonId, now = Date.now()) {
     if (!lessonId) return null;
     const record = this.getRawRecord(lessonId);
-    if (!record || typeof record.originalScore !== 'number') return null;
+    if (!record) return null;
+    const originalScore = Number.isFinite(record.originalScore) ? record.originalScore : record.score;
+    if (!Number.isFinite(originalScore)) return null;
 
-    const completedTimestamp = record.lastCompletedAt ? Date.parse(record.lastCompletedAt) : now;
+    // Support both current ISO timestamps and older numeric completion dates.
+    const completedAt = record.lastCompletedAt ?? record.lastCompletedDate;
+    const completedTimestamp = typeof completedAt === 'number' ? completedAt : Date.parse(completedAt);
     const validTimestamp = Number.isFinite(completedTimestamp) ? completedTimestamp : now;
-
-    // Decay logic:
-    // For every day passed beyond 1 grace day, deduct 2% from the original score (minimum floor 0%).
     const daysPassed = Math.max(0, Math.floor((now - validTimestamp) / DAY_IN_MS));
-    const effectiveDecayDays = Math.max(0, daysPassed - 1);
-    const decayLost = effectiveDecayDays * DAILY_SCORE_DECAY;
-    const currentScore = Math.max(0, record.originalScore - decayLost);
+    const decayLost = daysPassed * DAILY_SCORE_DECAY;
+    const currentScore = Math.max(0, originalScore - decayLost);
 
     // Visual metadata:
     // Green: fresh/high (0-2 days)
@@ -285,23 +285,22 @@ export const ProgressManager = {
     }
 
     const statusText = daysPassed === 0
-      ? 'Vừa hoàn thành hôm nay · Nhớ rất tốt'
-      : daysPassed === 1
-        ? '1 ngày trước · Đang trong thời gian ân hạn (100% điểm)'
-        : `Giảm -${decayLost}% (${daysPassed} ngày trước) · Cần ôn tập`;
+      ? 'Vừa hoàn thành · Giảm 2 điểm phần trăm sau mỗi 24 giờ'
+      : `Đã giảm ${decayLost} điểm phần trăm sau ${daysPassed} ngày · Ôn tập để cập nhật điểm`;
 
-    const practiceScore = typeof record.practiceScore === 'number'
-      ? record.practiceScore
-      : Math.round(currentScore);
-    const applyScore = typeof record.applyScore === 'number'
-      ? record.applyScore
+    // Keep saved scores unchanged; calculate decayed values for each displayed tier.
+    const practiceScore = Number.isFinite(record.practiceScore)
+      ? Math.max(0, record.practiceScore - decayLost)
+      : currentScore;
+    const applyScore = Number.isFinite(record.applyScore)
+      ? Math.max(0, record.applyScore - decayLost)
       : 0;
 
     return {
       score: currentScore,
       currentScore,
       displayedScore: Math.round(currentScore),
-      originalScore: record.originalScore,
+      originalScore,
       practiceScore,
       applyScore,
       practiceTotal: record.practiceTotal || 0,
@@ -363,8 +362,7 @@ export function getLessonProgress(lesson, now = Date.now()) {
   }
   if (typeof lesson.score !== 'number' || !Number.isFinite(lesson.score) || lesson.score < 0 || lesson.score > 100 || typeof lesson.lastCompletedDate !== 'number' || !Number.isFinite(lesson.lastCompletedDate)) return null;
   const daysPassed = Math.max(0, Math.floor((now - lesson.lastCompletedDate) / DAY_IN_MS));
-  const effectiveDecayDays = Math.max(0, daysPassed - 1);
-  const decayLost = effectiveDecayDays * DAILY_SCORE_DECAY;
+  const decayLost = daysPassed * DAILY_SCORE_DECAY;
   const currentScore = Math.max(0, lesson.score - decayLost);
   return {
     originalScore: lesson.score,

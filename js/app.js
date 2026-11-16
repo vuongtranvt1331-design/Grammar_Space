@@ -540,6 +540,7 @@ function renderLessonCards(listId, entries, now = Date.now()) {
 
     const progressContainer = document.createElement('div');
     progressContainer.className = 'card-progress-container dual-progress';
+    if (status) progressContainer.title = status.statusText;
     progressContainer.setAttribute('aria-label', `Tiến độ Practice: ${practicePercent}%, Apply: ${applyPercent}%`);
 
     // Practice Row
@@ -647,6 +648,24 @@ window.addEventListener('storage', event => {
     updateLessonProgress();
   }
 });
+
+// Refresh progress when returning to the app or when a 24-hour decay boundary passes.
+let lastDecaySignature = '';
+function refreshDecayedProgress() {
+  if (document.hidden) return;
+  const entries = currentView === 'library' ? generalCatalog : (activeLesson ? [activeLesson] : []);
+  const now = Date.now();
+  const signature = entries.map(entry => {
+    const status = ProgressManager.getLessonStatus(entry.id, now);
+    return status ? `${entry.id}:${status.daysPassed}` : `${entry.id}:-`;
+  }).join('|');
+  if (signature === lastDecaySignature) return;
+  lastDecaySignature = signature;
+  if (currentView === 'library') renderLibrary();
+  else if (currentView === 'notebook') updateLessonProgress();
+}
+document.addEventListener('visibilitychange', refreshDecayedProgress);
+window.setInterval(refreshDecayedProgress, 60_000);
 
 // Initialize 3D notebook UI
 const notebook = createNotebookUI({
